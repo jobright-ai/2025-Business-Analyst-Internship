@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/66a80621986bf73c6e1b3e09?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Aug 20 |
 | ↳ | **[2025 Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/66a8242c52a12bb21c6790d3?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Aug 20 |
 | **[Truist](https://www.truist.com)** | **[2025 Technology and Innovation Internship](https://jobright.ai/jobs/info/66c546afb8ec8eecf4818097?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| ↳ | **[2025 Technology and Innovation Internship](https://jobright.ai/jobs/info/66c546efb8ec8eecf4818a20?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | ↳ | **[2025 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/66c546afb8ec8eecf4818307?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
-| ↳ | **[2025 Technology and Innovation Internship](https://jobright.ai/jobs/info/66c546afb8ec8eecf48181fa?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Business Analysis Graduate Intern - Summer 2025 (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/66c3b1d7436bc6cf77b42af5?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 19 |
 | **[ISN](http://www.isn.com)** | **[Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66c3a7ad8b016b905cff9f2c?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Aug 19 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf96?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Aug 19 |
@@ -90,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Williams](http://co.williams.com)** | **[General Business Intern](https://jobright.ai/jobs/info/66c01b7a9285b0587477bb08?utm_campaign=1067&utm_source=git)** | Tulsa, OK | On Site | Aug 16 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66bfb271d89c7aaa2f839bdb?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Aug 16 |
 | **[Cargill](http://www.cargill.com)** | **[Business Management Associate Intern Summer 2025 (Multiple US Locations)](https://jobright.ai/jobs/info/66bf8602c8d9690a29a05cc3?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Aug 16 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265082?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Aug 15 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Aug 15 |
+| ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265082?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Aug 15 |
 | ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 15 |
-| ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Aug 15 |
 | **[HNTB](http://www.hntb.com/)** | **[Business/Finance Intern - NWD (For Current/Previous HNTB Interns ONLY) - Summer 2025](https://jobright.ai/jobs/info/66bfd7e46d56dae18cde21ba?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Aug 15 |
 | **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66be53f4604e7481f2dbecb4?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Aug 15 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/66be12fb4809087af01c81ad?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Aug 15 |
