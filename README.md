@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66cf771864786e060cc4218e?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Aug 28 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/66cea3b43778a80c75c4c38c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66ce9701164f67be514c88a6?utm_campaign=1067&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 27 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Business Intern- August 2024](https://jobright.ai/jobs/info/66cd05d08444ec5f9d04f2bc?utm_campaign=1067&utm_source=git)** | El Paso, TX | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 26 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2025 - Business Analyst](https://jobright.ai/jobs/info/66cd133b26311e4d6319c713?utm_campaign=1067&utm_source=git)** | Idaho Falls, ID | On Site | Aug 26 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern- IT Business Analyst](https://jobright.ai/jobs/info/66ccda8596271ca13d9e8400?utm_campaign=1067&utm_source=git)** | Worcester, MA | On Site | Aug 26 |
 | **[TD Bank](https://www.td.com)** | **[2025 Summer Internship Program - Platforms & Technology - Business Systems Analyst](https://jobright.ai/jobs/info/66ccc142680f5f9cc2bb343b?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Aug 26 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Business Process Intern (Fall 2024)](https://jobright.ai/jobs/info/66cb0a4276d40739c100135c?utm_campaign=1067&utm_source=git)** | Ada, OK | Hybrid | Aug 25 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
@@ -92,6 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Kemper Corporation](http://kemper.com)** | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c795e66e0f35a978d94e43?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 22 |
 | ↳ | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa955?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 | **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66c7a3dfa1c2c5f9251568f0?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 22 |
-| **[Skyworks Equipment](http://skyworksllc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66c6a324075e0a789a8e2126?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 21 |
-| **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66c67e3ff66f412293768595?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
