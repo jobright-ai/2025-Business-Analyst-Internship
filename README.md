@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Intership](https://jobright.ai/jobs/info/66ce5f31c4351013f32026da?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 27 |
+| **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Intership](https://jobright.ai/jobs/info/66ce740fae6d77d046fcd3fa?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
+| **[Kuttner](https://www.kuettner.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce7d6402057b721cf7ae21?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
+| **[Medline Industries](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66ce6b703c7fafb8b4f7be04?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 27 |
 | **[Hatch Ltd](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 27 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern – Indianapolis Health](https://jobright.ai/jobs/info/66cdfdb73baa0e7d0b0d9af5?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 27 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](http://www.thekrogerco.com)** | **[Summer 2025 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/66cdfb5e48d0745265fcd1f4?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Aug 26 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Innovation Business Process Analyst](https://jobright.ai/jobs/info/66cd1d8676c974c3a18b3aa3?utm_campaign=1067&utm_source=git)** | Glen Allen, VA | On Site | Aug 26 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acc5b?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 26 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce6dcc8511fd728239c7fa?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 26 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[HQ Intern - Business Transformation](https://jobright.ai/jobs/info/66cd2f3db9ee7c8cecd5923d?utm_campaign=1067&utm_source=git)** | Diamond Bar, CA | On Site | Aug 26 |
 | **[HNTB](http://www.hntb.com/)** | **[Business Intern- August 2024](https://jobright.ai/jobs/info/66cd05d08444ec5f9d04f2bc?utm_campaign=1067&utm_source=git)** | El Paso, TX | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 26 |
