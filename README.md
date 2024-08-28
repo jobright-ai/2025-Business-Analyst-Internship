@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/66cea3b43778a80c75c4c38c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66ce9701164f67be514c88a6?utm_campaign=1067&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 27 |
-| **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Intership](https://jobright.ai/jobs/info/66ce740fae6d77d046fcd3fa?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Reporting Analyst Intern](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7734b?utm_campaign=1067&utm_source=git)** | Nottingham, MD | Hybrid | Aug 27 |
 | **[Kuttner](https://www.kuettner.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce7d6402057b721cf7ae21?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
 | **[Medline Industries](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66ce6b703c7fafb8b4f7be04?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 27 |
 | **[Hatch Ltd](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 27 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern – Indianapolis Health](https://jobright.ai/jobs/info/66cdfdb73baa0e7d0b0d9af5?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 27 |
-| **[New York SBDC](https://www.nysbdc.org/)** | **[Business Library Intern](https://jobright.ai/jobs/info/66cdda205c697aedb2300bc0?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66cd59c802196c230e1df3fc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5382?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 26 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5392?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Aug 26 |
