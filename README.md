@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Aug 28 |
-| **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[2025 Business Managment Intern San Diego](https://jobright.ai/jobs/info/66cfac6f0e713a74f075cf1c?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 28 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Aug 28 |
+| ↳ | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Aug 28 |
 | **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66cf771864786e060cc4218e?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Aug 28 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/66cea3b43778a80c75c4c38c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66ce9701164f67be514c88a6?utm_campaign=1067&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
