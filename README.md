@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altria](http://www.altria.com)** | **[Undergraduate Intern - Supply Chain](https://jobright.ai/jobs/info/66d0b2248bea9ace7addc1ab?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 29 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Aug 28 |
 | ↳ | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Aug 28 |
+| **[Medline Industries](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66d07b0175f6ff5fffb05a6b?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/66cea3b43778a80c75c4c38c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66ce9701164f67be514c88a6?utm_campaign=1067&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 27 |
@@ -88,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Kemper Corporation](http://kemper.com)** | **[IT – Business Systems Intern](https://jobright.ai/jobs/info/66c91ea07ae8990dc927b99d?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Aug 23 |
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[2025 Summer Business Management Analyst Intern Sunnyvale CA](https://jobright.ai/jobs/info/66c9076b759f703361cddf29?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Aug 23 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/66c8eee515e7212923c8cafa?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
-| **[General Motors](https://www.gm.com)** | **[2025 Summer Intern - Sustainable Workplaces - ESG Analyst Intern](https://jobright.ai/jobs/info/66c8dba9ff6bc7779c9e0386?utm_campaign=1067&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
