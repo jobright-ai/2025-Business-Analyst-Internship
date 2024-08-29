@@ -89,7 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[2025 Summer Business Management Analyst Intern Sunnyvale CA](https://jobright.ai/jobs/info/66c9076b759f703361cddf29?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Aug 23 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/66c8eee515e7212923c8cafa?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern - Sustainable Workplaces - ESG Analyst Intern](https://jobright.ai/jobs/info/66c8dba9ff6bc7779c9e0386?utm_campaign=1067&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Aug 22 |
-| **[Kemper Corporation](http://kemper.com)** | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c795e66e0f35a978d94e43?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 22 |
-| ↳ | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa955?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
-| **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66c7a3dfa1c2c5f9251568f0?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
