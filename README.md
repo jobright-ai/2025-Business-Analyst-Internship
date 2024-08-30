@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/66d1c1e8b0c4634246f746c5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Aug 30 |
 | **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66be53f4604e7481f2dbecb4?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Aug 29 |
 | **[Pittsburgh Regional Transit](http://www.ridePRT.org)** | **[Business Analyst - Operations Intern ($19 per hour)](https://jobright.ai/jobs/info/66d0e27a1337b911efaee32c?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
-| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d0e27a1337b911efaee3ac?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Aug 29 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Innovation Business Process Analyst](https://jobright.ai/jobs/info/66cd1d8676c974c3a18b3aa3?utm_campaign=1067&utm_source=git)** | Glen Allen, VA | On Site | Aug 28 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Aug 28 |
 | ↳ | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Aug 28 |
@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[lds.org](https://www.lds.org)** | **[Business Analyst Intern, Family History Department](https://jobright.ai/jobs/info/66c92e706e1259e0a39c923f?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Aug 23 |
 | **[Kemper Corporation](http://kemper.com)** | **[IT – Business Systems Intern](https://jobright.ai/jobs/info/66c91ea07ae8990dc927b99d?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Aug 23 |
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[2025 Summer Business Management Analyst Intern Sunnyvale CA](https://jobright.ai/jobs/info/66c9076b759f703361cddf29?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Aug 23 |
-| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/66c8eee515e7212923c8cafa?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
