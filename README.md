@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Altria](http://www.altria.com)** | **[Undergraduate Intern - Supply Chain](https://jobright.ai/jobs/info/66d0b2248bea9ace7addc1ab?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 29 |
+| **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66be53f4604e7481f2dbecb4?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Aug 29 |
+| **[Pittsburgh Regional Transit](http://www.ridePRT.org)** | **[Business Analyst - Operations Intern ($19 per hour)](https://jobright.ai/jobs/info/66d0e27a1337b911efaee32c?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
+| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d0e27a1337b911efaee3ac?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Aug 29 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Aug 28 |
 | ↳ | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Aug 28 |
 | **[Medline Industries](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66d07b0175f6ff5fffb05a6b?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
