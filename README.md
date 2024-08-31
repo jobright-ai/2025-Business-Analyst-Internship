@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Belk](http://www.belk.com)** | **[Summer 2025 Intern: Planning (Business Analytics)](https://jobright.ai/jobs/info/66d2ad610be4627aed56d435?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 30 |
+| **[Doctor](https://www.amazon.com/b?_encoding=UTF8&tag=deal4u005-20&linkCode=ur2&linkId=4904271cddd31e907d1674ae38b45535&camp=1789&creative=9325&node=3760901)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66d29d6e5c691c8d3ac7c7d8?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Aug 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Aug 30 |
 | **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1b122?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Aug 30 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 30 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2025)](https://jobright.ai/jobs/info/66d1f5c26b5ae8e0e7aec839?utm_campaign=1067&utm_source=git)** | Hagerstown, MD | On Site | Aug 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/66d1c1e8b0c4634246f746c5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Aug 30 |
 | **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66be53f4604e7481f2dbecb4?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Aug 29 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66d07b0175f6ff5fffb05a6b?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/66cea3b43778a80c75c4c38c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66ce9701164f67be514c88a6?utm_campaign=1067&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 27 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Reporting Analyst Intern](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7734b?utm_campaign=1067&utm_source=git)** | Nottingham, MD | Hybrid | Aug 27 |
 | **[Kuttner](https://www.kuettner.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce7d6402057b721cf7ae21?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
 | **[Hatch Ltd](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
