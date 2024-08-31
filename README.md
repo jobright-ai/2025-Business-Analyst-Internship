@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Belk](http://www.belk.com)** | **[Summer 2025 Intern: Planning (Business Analytics)](https://jobright.ai/jobs/info/66d2ad610be4627aed56d435?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 30 |
 | **[Doctor](https://www.amazon.com/b?_encoding=UTF8&tag=deal4u005-20&linkCode=ur2&linkId=4904271cddd31e907d1674ae38b45535&camp=1789&creative=9325&node=3760901)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66d29d6e5c691c8d3ac7c7d8?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Aug 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Aug 30 |
 | **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1b122?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Aug 30 |
