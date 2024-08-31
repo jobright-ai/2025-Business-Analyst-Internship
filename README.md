@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Aug 30 |
 | **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1b122?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Aug 30 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 30 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2025)](https://jobright.ai/jobs/info/66d1f5c26b5ae8e0e7aec839?utm_campaign=1067&utm_source=git)** | Hagerstown, MD | On Site | Aug 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/66d1c1e8b0c4634246f746c5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Aug 30 |
 | **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66be53f4604e7481f2dbecb4?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Aug 29 |
@@ -70,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66d07b0175f6ff5fffb05a6b?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/66cea3b43778a80c75c4c38c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66ce9701164f67be514c88a6?utm_campaign=1067&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 27 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Reporting Analyst Intern](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7734b?utm_campaign=1067&utm_source=git)** | Nottingham, MD | Hybrid | Aug 27 |
 | **[Kuttner](https://www.kuettner.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce7d6402057b721cf7ae21?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
 | **[Hatch Ltd](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
@@ -88,7 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2025 - Business Analyst](https://jobright.ai/jobs/info/66cd133b26311e4d6319c713?utm_campaign=1067&utm_source=git)** | Idaho Falls, ID | On Site | Aug 26 |
 | **[TD Bank](https://www.td.com)** | **[2025 Summer Internship Program - Platforms & Technology - Business Systems Analyst](https://jobright.ai/jobs/info/66ccc142680f5f9cc2bb343b?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Aug 26 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Business Process Intern (Fall 2024)](https://jobright.ai/jobs/info/66cb0a4276d40739c100135c?utm_campaign=1067&utm_source=git)** | Ada, OK | Hybrid | Aug 25 |
-| **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b384795814470f4d481e02?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Aug 24 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
