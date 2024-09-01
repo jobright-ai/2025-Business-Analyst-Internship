@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/66d46c51cd2cb68cd70efcd6?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| ↳ | **[2025 Internship - Information Systems - Business Systems Analyst](https://jobright.ai/jobs/info/66d4690653ebef6d2c41f376?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| ↳ | **[2025 Summer Intern - Business Analyst - Response Technologies, Coventry, RI](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c7f?utm_campaign=1067&utm_source=git)** | Coventry, RI | On Site | Sep 01 |
+| ↳ | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c36?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| ↳ | **[2025 Internship - Business Analyst, Inventory Strategy](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c2e?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| **[lds.org](https://www.lds.org)** | **[Business Analyst Intern, Family History Department](https://jobright.ai/jobs/info/66d463e7a57ddaf84ae4b48a?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
 | **[Doctor](https://www.amazon.com/b?_encoding=UTF8&tag=deal4u005-20&linkCode=ur2&linkId=4904271cddd31e907d1674ae38b45535&camp=1789&creative=9325&node=3760901)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66d29d6e5c691c8d3ac7c7d8?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Aug 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Aug 30 |
 | **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1b122?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Aug 30 |
