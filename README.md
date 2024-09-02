@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d603082fcaf875c716d440?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Sep 02 |
 | **[Momentive](https://www.momentive.com/)** | **[Business Analyst Summer Internship 2025](https://jobright.ai/jobs/info/66d574d7fb17d941d44cd90f?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Sep 01 |
 | **[Cirrus Design Corporation](http://cirrusaircraft.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/66d52e07e5bfb92529794f24?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Sep 01 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[HQ Intern - Business Transformation](https://jobright.ai/jobs/info/66d513cfb72550be0dd26266?utm_campaign=1067&utm_source=git)** | Diamond Bar, CA | On Site | Sep 01 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Intern - Business Analyst - Response Technologies, Coventry, RI](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c7f?utm_campaign=1067&utm_source=git)** | Coventry, RI | On Site | Sep 01 |
 | ↳ | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c36?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2025 Internship - Business Analyst, Inventory Strategy](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c2e?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
-| **[lds.org](https://www.lds.org)** | **[Business Analyst Intern, Family History Department](https://jobright.ai/jobs/info/66d5b38de40058589ee5a65b?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
 | **[Doctor](https://www.amazon.com/b?_encoding=UTF8&tag=deal4u005-20&linkCode=ur2&linkId=4904271cddd31e907d1674ae38b45535&camp=1789&creative=9325&node=3760901)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66d29d6e5c691c8d3ac7c7d8?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Aug 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Aug 30 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 30 |
@@ -90,9 +90,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5382?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 26 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5392?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Aug 26 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5391?utm_campaign=1067&utm_source=git)** | Charleston, SC | Hybrid | Aug 26 |
-| **[Kroger](http://www.thekrogerco.com)** | **[Summer 2025 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/66cdfb5e48d0745265fcd1f4?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Aug 26 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acc5b?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 26 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce6dcc8511fd728239c7fa?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 26 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 26 |
-| **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2025 - Business Analyst](https://jobright.ai/jobs/info/66cd133b26311e4d6319c713?utm_campaign=1067&utm_source=git)** | Idaho Falls, ID | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
