@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/66d4eca782ed39a1b9e06002?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/66d46c51cd2cb68cd70efcd6?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2025 Internship - Information Systems - Business Systems Analyst](https://jobright.ai/jobs/info/66d4690653ebef6d2c41f376?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2025 Summer Intern - Business Analyst - Response Technologies, Coventry, RI](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c7f?utm_campaign=1067&utm_source=git)** | Coventry, RI | On Site | Sep 01 |
