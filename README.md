@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HII](https://hii.com)** | **[2025 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/66d6f293b73700434a367814?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 03 |
+| **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/66d46c51cd2cb68cd70efcd6?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Global Data Governance and Analytics Intern (Global Monetization Strategy and Operations-Global Data Governance and Analytics)- 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/669f4d8c1c25a872ad61cda5?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Sep 03 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Projects & Process Improvement Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e428?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
 | ↳ | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e458?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 03 |
 | ↳ | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e51f?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
@@ -69,11 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Cirrus Design Corporation](http://cirrusaircraft.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/66d52e07e5bfb92529794f24?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Sep 01 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[HQ Intern - Business Transformation](https://jobright.ai/jobs/info/66d513cfb72550be0dd26266?utm_campaign=1067&utm_source=git)** | Diamond Bar, CA | On Site | Sep 01 |
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/66d4eca782ed39a1b9e06002?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 01 |
-| **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/66d46c51cd2cb68cd70efcd6?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
-| ↳ | **[2025 Internship - Information Systems - Business Systems Analyst](https://jobright.ai/jobs/info/66d4690653ebef6d2c41f376?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2025 Internship - Information Systems - Business Systems Analyst](https://jobright.ai/jobs/info/66d4690653ebef6d2c41f376?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2025 Summer Intern - Business Analyst - Response Technologies, Coventry, RI](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c7f?utm_campaign=1067&utm_source=git)** | Coventry, RI | On Site | Sep 01 |
 | ↳ | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c36?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2025 Internship - Business Analyst, Inventory Strategy](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c2e?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| **[Dolgencorp](https://www.dollargeneral.com/)** | **[IT Intern - Summer 2025](https://jobright.ai/jobs/info/66d70bfe0ec701e220980ff7?utm_campaign=1067&utm_source=git)** | Goodlettsville, TN | On Site | Aug 31 |
+| **[lds.org](https://www.lds.org)** | **[Business Analyst Intern, Family History Department](https://jobright.ai/jobs/info/66d6ff6dc1216cf1770dfff0?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
 | **[Doctor](https://www.amazon.com/b?_encoding=UTF8&tag=deal4u005-20&linkCode=ur2&linkId=4904271cddd31e907d1674ae38b45535&camp=1789&creative=9325&node=3760901)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66d29d6e5c691c8d3ac7c7d8?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Aug 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Aug 30 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 30 |
@@ -90,6 +94,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66ce9701164f67be514c88a6?utm_campaign=1067&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Reporting Analyst Intern](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7734b?utm_campaign=1067&utm_source=git)** | Nottingham, MD | Hybrid | Aug 27 |
 | **[Kuttner](https://www.kuettner.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce7d6402057b721cf7ae21?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
-| **[Hatch Ltd](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
-| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
