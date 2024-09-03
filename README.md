@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CrossTech Consulting Group, Inc.](http://www.crosstechcg.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d61bfa9f25b718543fcd8b?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | Hybrid | Sep 02 |
-| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d603082fcaf875c716d440?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Sep 02 |
 | **[Momentive](https://www.momentive.com/)** | **[Business Analyst Summer Internship 2025](https://jobright.ai/jobs/info/66d574d7fb17d941d44cd90f?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Sep 01 |
 | **[Cirrus Design Corporation](http://cirrusaircraft.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/66d52e07e5bfb92529794f24?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Sep 01 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[HQ Intern - Business Transformation](https://jobright.ai/jobs/info/66d513cfb72550be0dd26266?utm_campaign=1067&utm_source=git)** | Diamond Bar, CA | On Site | Sep 01 |
@@ -87,4 +86,30 @@ For a complete list, click the following sortable link below:
 | **[Hatch Ltd](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Aug 27 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 27 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern – Indianapolis Health](https://jobright.ai/jobs/info/66cdfdb73baa0e7d0b0d9af5?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 27 |
+| **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66cd59c802196c230e1df3fc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 26 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5382?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 26 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5392?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Aug 26 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5391?utm_campaign=1067&utm_source=git)** | Charleston, SC | Hybrid | Aug 26 |
+| **[Kroger](http://www.thekrogerco.com)** | **[Summer 2025 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/66cdfb5e48d0745265fcd1f4?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Aug 26 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acc5b?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 26 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce6dcc8511fd728239c7fa?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 26 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 26 |
+| **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2025 - Business Analyst](https://jobright.ai/jobs/info/66cd133b26311e4d6319c713?utm_campaign=1067&utm_source=git)** | Idaho Falls, ID | On Site | Aug 26 |
+| **[TD Bank](https://www.td.com)** | **[2025 Summer Internship Program - Platforms & Technology - Business Systems Analyst](https://jobright.ai/jobs/info/66ccc142680f5f9cc2bb343b?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Aug 26 |
+| **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Business Process Intern (Fall 2024)](https://jobright.ai/jobs/info/66cb0a4276d40739c100135c?utm_campaign=1067&utm_source=git)** | Ada, OK | Hybrid | Aug 25 |
+| **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
+| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b384795814470f4d481e02?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Aug 24 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 24 |
+| **[Kemper Corporation](http://kemper.com)** | **[IT – Business Systems Intern](https://jobright.ai/jobs/info/66c91ea07ae8990dc927b99d?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Aug 23 |
+| **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[2025 Summer Business Management Analyst Intern Sunnyvale CA](https://jobright.ai/jobs/info/66c9076b759f703361cddf29?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Aug 23 |
+| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/66c8eee515e7212923c8cafa?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
+| **[General Motors](https://www.gm.com)** | **[2025 Summer Intern - Sustainable Workplaces - ESG Analyst Intern](https://jobright.ai/jobs/info/66c8dba9ff6bc7779c9e0386?utm_campaign=1067&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Aug 22 |
+| **[Kemper Corporation](http://kemper.com)** | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c795e66e0f35a978d94e43?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 22 |
+| ↳ | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa955?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
+| **[Cargill](http://www.cargill.com)** | **[Business Management Associate Intern Summer 2025 (Multiple US Locations)](https://jobright.ai/jobs/info/66cf457d5f39b7c08b0181a8?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Aug 22 |
+| **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66c7a3dfa1c2c5f9251568f0?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 22 |
+| **[Skyworks Equipment](http://skyworksllc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66c6a324075e0a789a8e2126?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 21 |
+| **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66c67e3ff66f412293768595?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 21 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 20 |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Business Technology Intern - Summer 2025 (Hybrid - 3 Days in Office)](https://jobright.ai/jobs/info/66c5cffe0b97dadeb241f0b7?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
