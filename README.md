@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d8a7eec094b20a40c4ab61?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Sep 04 |
+| **[Cambrex](http://www.cambrex.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/66d8a5802f0c83d17ee94e2e?utm_campaign=1067&utm_source=git)** | Charles City, IA | Hybrid | Sep 04 |
+| **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0bbb?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0bb6?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
+| **[T Marzetti](http://www.tmarzetticompany.com/)** | **[Intern - Continuous Improvement Analytics](https://jobright.ai/jobs/info/66d89b6e03d0643cfc9a0f77?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 04 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing HBCU Summer 2025 Business Internship Program (Paid)](https://jobright.ai/jobs/info/66c56d4730f888847de07fef?utm_campaign=1067&utm_source=git)** | Everett, WA | On Site | Sep 04 |
+| **[Cox Automotive](http://www.coxautoinc.com)** | **[Business Strategy/Analytics Co-op - Spring 2025](https://jobright.ai/jobs/info/66d8107d589c19db0e04b7f5?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 04 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9af63?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
 | ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ea8?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 03 |
 | ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9b102?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
@@ -73,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66d76c5970d0de1df5e922fb?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Sep 03 |
 | **[Diat](diatapp.com)** | **[Business Intern](https://jobright.ai/jobs/info/66d75f1eff36ef28f6161c7a?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Sep 03 |
 | **[Belk](http://www.belk.com)** | **[Summer 2025 Intern: Planning (Business Analytics)](https://jobright.ai/jobs/info/66d762fd7d0a82100743e655?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 03 |
-| **[HII](https://hii.com)** | **[CORPORATE BUSINESS MANAGEMENT INTERN](https://jobright.ai/jobs/info/66d741cce698ea5b631589ab?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 03 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d73825d4dd0c7b02f68cfe?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Sep 03 |
 | **[HII](https://hii.com)** | **[2025 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/66d6f293b73700434a367814?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 03 |
 | **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/66d46c51cd2cb68cd70efcd6?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 03 |
@@ -97,11 +102,8 @@ For a complete list, click the following sortable link below:
 | **[lds.org](https://www.lds.org)** | **[Business Analyst Intern, Family History Department](https://jobright.ai/jobs/info/66d8568006c57bfec4d37e6a?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
 | **[Doctor](https://www.amazon.com/b?_encoding=UTF8&tag=deal4u005-20&linkCode=ur2&linkId=4904271cddd31e907d1674ae38b45535&camp=1789&creative=9325&node=3760901)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66d29d6e5c691c8d3ac7c7d8?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Aug 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Aug 30 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 30 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2025)](https://jobright.ai/jobs/info/66d1f5c26b5ae8e0e7aec839?utm_campaign=1067&utm_source=git)** | Hagerstown, MD | On Site | Aug 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/66d1c1e8b0c4634246f746c5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Aug 30 |
 | **[Pittsburgh Regional Transit](http://www.ridePRT.org)** | **[Business Analyst - Operations Intern ($19 per hour)](https://jobright.ai/jobs/info/66d0e27a1337b911efaee32c?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
-| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Innovation Business Process Analyst](https://jobright.ai/jobs/info/66cd1d8676c974c3a18b3aa3?utm_campaign=1067&utm_source=git)** | Glen Allen, VA | On Site | Aug 28 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Aug 28 |
-| **[HNTB](http://www.hntb.com/)** | **[Business Intern- August 2024](https://jobright.ai/jobs/info/66cd05d08444ec5f9d04f2bc?utm_campaign=1067&utm_source=git)** | El Paso, TX | On Site | Aug 28 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
