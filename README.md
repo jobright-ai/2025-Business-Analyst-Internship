@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/66d7a27c4318fc56c90dd56a?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
+| **[Travelers Insurance](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/66d79824e4da9bb9d33c8c29?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 03 |
+| **[Gallup](http://www.gallup.com)** | **[Business Analyst Intern — Summer 2025](https://jobright.ai/jobs/info/66d79a9d2ac7a6cd6af6de1f?utm_campaign=1067&utm_source=git)** | Omaha, NE | Hybrid | Sep 03 |
+| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d793da6819690f9d432df8?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Sep 03 |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[PGD Business Services Intern - FPL](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3056?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 03 |
+| **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66d76c5970d0de1df5e922fb?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Sep 03 |
 | **[Diat](diatapp.com)** | **[Business Intern](https://jobright.ai/jobs/info/66d75f1eff36ef28f6161c7a?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Sep 03 |
-| **[Marketeq Digital](http://www.marketeqdigital.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/66d75f1eff36ef28f6161cbe?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Belk](http://www.belk.com)** | **[Summer 2025 Intern: Planning (Business Analytics)](https://jobright.ai/jobs/info/66d762fd7d0a82100743e655?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 03 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d73825d4dd0c7b02f68cfe?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Sep 03 |
 | **[HII](https://hii.com)** | **[2025 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/66d6f293b73700434a367814?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 03 |
@@ -92,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Business Intern- August 2024](https://jobright.ai/jobs/info/66cd05d08444ec5f9d04f2bc?utm_campaign=1067&utm_source=git)** | El Paso, TX | On Site | Aug 28 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Aug 28 |
 | **[Medline Industries](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66d07b0175f6ff5fffb05a6b?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
-| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/66cea3b43778a80c75c4c38c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66ce9701164f67be514c88a6?utm_campaign=1067&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
