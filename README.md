@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9af63?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
+| ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ea8?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 03 |
+| ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9b102?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
+| ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06eb9?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Sep 03 |
+| ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ebc?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Sep 03 |
+| ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ed2?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Sep 03 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Operations Analyst)](https://jobright.ai/jobs/info/66d7c0947426d43835f06dbd?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
+| **[NextEra Energy](http://www.nexteraenergy.com)** | **[PGD Business Services Intern - FPL](https://jobright.ai/jobs/info/66d7ba3ed931d1dad82c99a5?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 03 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/66d7a27c4318fc56c90dd56a?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/66d79824e4da9bb9d33c8c29?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 03 |
-| **[Gallup](http://www.gallup.com)** | **[Business Analyst Intern — Summer 2025](https://jobright.ai/jobs/info/66d79a9d2ac7a6cd6af6de1f?utm_campaign=1067&utm_source=git)** | Omaha, NE | Hybrid | Sep 03 |
-| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst training & Internship](https://jobright.ai/jobs/info/66d793da6819690f9d432df8?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Sep 03 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[PGD Business Services Intern - FPL](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3056?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 03 |
 | **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66d76c5970d0de1df5e922fb?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Sep 03 |
 | **[Diat](diatapp.com)** | **[Business Intern](https://jobright.ai/jobs/info/66d75f1eff36ef28f6161c7a?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Sep 03 |
@@ -90,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 30 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2025)](https://jobright.ai/jobs/info/66d1f5c26b5ae8e0e7aec839?utm_campaign=1067&utm_source=git)** | Hagerstown, MD | On Site | Aug 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/66d1c1e8b0c4634246f746c5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Aug 30 |
-| **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66be53f4604e7481f2dbecb4?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Aug 29 |
 | **[Pittsburgh Regional Transit](http://www.ridePRT.org)** | **[Business Analyst - Operations Intern ($19 per hour)](https://jobright.ai/jobs/info/66d0e27a1337b911efaee32c?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Innovation Business Process Analyst](https://jobright.ai/jobs/info/66cd1d8676c974c3a18b3aa3?utm_campaign=1067&utm_source=git)** | Glen Allen, VA | On Site | Aug 28 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory - Enterprise Software – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Aug 28 |
