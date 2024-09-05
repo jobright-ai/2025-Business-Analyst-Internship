@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d9246882c09f0b2f533b0f?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN | Hybrid | Sep 04 |
 | **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66d8dc03a84153bf7c0ea7bf?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 04 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2025 Summer Intern - Business](https://jobright.ai/jobs/info/66d8d7255569bd65f2c04f11?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 04 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/66d8b8bda5f47757efe9d3d2?utm_campaign=1067&utm_source=git)** | Cayce, SC | On Site | Sep 04 |
@@ -73,8 +74,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ed2?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Sep 03 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Operations Analyst)](https://jobright.ai/jobs/info/66d7c0947426d43835f06dbd?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
 | **[NextEra Energy](http://www.nexteraenergy.com)** | **[PGD Business Services Intern - FPL](https://jobright.ai/jobs/info/66d7ba3ed931d1dad82c99a5?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 03 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d90a159c8fbd8a711afa24?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN, 56472 | On Site | Sep 03 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d8b8bda5f47757efe9d936?utm_campaign=1067&utm_source=git)** | Raleigh | On Site | Sep 03 |
-| ↳ | **[Business Analyst Internship](https://jobright.ai/jobs/info/66d7a27c4318fc56c90dd56a?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. North America Distribution Centers (NADC) Business Analytics Graduate Internship](https://jobright.ai/jobs/info/66d8fe3b9fe7d3d095e1f568?utm_campaign=1067&utm_source=git)** | Memphis, Tennessee | On Site | Sep 03 |
+| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/66d7a27c4318fc56c90dd56a?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/66d79824e4da9bb9d33c8c29?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 03 |
 | **[Gallup](http://www.gallup.com)** | **[Business Analyst Intern — Summer 2025](https://jobright.ai/jobs/info/66d86243fd1cdc8d002d21b4?utm_campaign=1067&utm_source=git)** | Omaha, NE | Hybrid | Sep 03 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[PGD Business Services Intern - FPL](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3056?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 03 |
