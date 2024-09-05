@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mclaurin Aerospace](https://mclaurin.aero)** | **[Business Intern](https://jobright.ai/jobs/info/66d9971899d29b647f6420db?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Sep 05 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. North America Distribution Centers (NADC) Business Analytics Graduate Internship](https://jobright.ai/jobs/info/66d93034fbc5131adc621d4d?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Sep 04 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d9246882c09f0b2f533b0f?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN | Hybrid | Sep 04 |
 | **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66d8dc03a84153bf7c0ea7bf?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 04 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 30 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2025)](https://jobright.ai/jobs/info/66d1f5c26b5ae8e0e7aec839?utm_campaign=1067&utm_source=git)** | Hagerstown, MD | On Site | Aug 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/66d1c1e8b0c4634246f746c5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Aug 30 |
-| **[Pittsburgh Regional Transit](http://www.ridePRT.org)** | **[Business Analyst - Operations Intern ($19 per hour)](https://jobright.ai/jobs/info/66d0e27a1337b911efaee32c?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
