@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66da89014de1e6691530ca0a?utm_campaign=1067&utm_source=git)** | Miami Gardens, FL | On Site | Sep 05 |
 | **[NextEra Energy](http://www.nexteraenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66da702f91acad53b1321a41?utm_campaign=1067&utm_source=git)** | Hialeah, FL | On Site | Sep 05 |
+| **[Terex](http://www.terex.com)** | **[Customer Experience Business Analyst Co-Op](https://jobright.ai/jobs/info/66daa1c6fab2024650907992?utm_campaign=1067&utm_source=git)** | Bothell, WA | On Site | Sep 05 |
 | **[Robert W. Baird & Co.](http://www.rwbaird.com)** | **[Internship – IT Business Analyst (Year-Round)](https://jobright.ai/jobs/info/66da494ced894b20434a4d97?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Sep 05 |
 | ↳ | **[Internship – IT Business Analyst (Year-Round)](https://jobright.ai/jobs/info/66da51ee7e02cb4029e83730?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 05 |
 | **[Terex](http://www.terex.com)** | **[Customer Experience Business Analyst Co-Op](https://jobright.ai/jobs/info/66da50c55f1a5e2a041c9c49?utm_campaign=1067&utm_source=git)** | Bothell, WA | On Site | Sep 05 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Cambrex](http://www.cambrex.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/66d8a5802f0c83d17ee94e2e?utm_campaign=1067&utm_source=git)** | Charles City, IA | Hybrid | Sep 04 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0bbb?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0bb6?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
-| **[Cox Automotive](http://www.coxautoinc.com)** | **[Business Strategy/Analytics Co-op - Spring 2025](https://jobright.ai/jobs/info/66d8107d589c19db0e04b7f5?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 04 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/66d94f16db6eb367c754eaa2?utm_campaign=1067&utm_source=git)** | Purchase, NY | On Site | Sep 04 |
 | ↳ | **[2025 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/66d94f16db6eb367c754eaf4?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Sep 04 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing HBCU Summer 2025 Business Internship Program (Paid)](https://jobright.ai/jobs/info/66c56d4730f888847de07fef?utm_campaign=1067&utm_source=git)** | Everett, WA | On Site | Sep 04 |
@@ -119,6 +120,5 @@ For a complete list, click the following sortable link below:
 | **[lds.org](https://www.lds.org)** | **[Business Analyst Intern, Family History Department](https://jobright.ai/jobs/info/66d8568006c57bfec4d37e6a?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
 | **[Doctor](https://www.amazon.com/b?_encoding=UTF8&tag=deal4u005-20&linkCode=ur2&linkId=4904271cddd31e907d1674ae38b45535&camp=1789&creative=9325&node=3760901)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66d29d6e5c691c8d3ac7c7d8?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Aug 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Aug 30 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2025)](https://jobright.ai/jobs/info/66d1f5c26b5ae8e0e7aec839?utm_campaign=1067&utm_source=git)** | Hagerstown, MD | On Site | Aug 30 |
-| **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/66d1c1e8b0c4634246f746c5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Aug 30 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/66ce82b14be66945f1d801e7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
