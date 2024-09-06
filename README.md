@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[IT Enablement Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/66db4c26d529bc90ff3a223d?utm_campaign=1067&utm_source=git)** | Malta, NY | On Site | Sep 06 |
+| **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Intership](https://jobright.ai/jobs/info/66db3ef7d33990a61730857a?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 06 |
+| **[Intel Corporation](https://www.intel.co.uk/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66db157aeec3c88f8ae4e78b?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Sep 06 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/66be12fb4809087af01c81e4?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 06 |
 | ↳ | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/66be12fb4809087af01c81ad?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Sep 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 06 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d90a159c8fbd8a711afa24?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN, 56472 | On Site | Sep 03 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d8b8bda5f47757efe9d936?utm_campaign=1067&utm_source=git)** | Raleigh | On Site | Sep 03 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. North America Distribution Centers (NADC) Business Analytics Graduate Internship](https://jobright.ai/jobs/info/66d8fe3b9fe7d3d095e1f568?utm_campaign=1067&utm_source=git)** | Memphis, Tennessee | On Site | Sep 03 |
-| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/66d7a27c4318fc56c90dd56a?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/66d79824e4da9bb9d33c8c29?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 03 |
 | **[Gallup](http://www.gallup.com)** | **[Business Analyst Intern — Summer 2025](https://jobright.ai/jobs/info/66d86243fd1cdc8d002d21b4?utm_campaign=1067&utm_source=git)** | Omaha, NE | Hybrid | Sep 03 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[PGD Business Services Intern - FPL](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3056?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 03 |
@@ -125,6 +127,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c36?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | **[Dolgencorp](https://www.dollargeneral.com/)** | **[IT Intern - Summer 2025](https://jobright.ai/jobs/info/66d9e6a4630935397e62cfe0?utm_campaign=1067&utm_source=git)** | Goodlettsville, TN | On Site | Aug 31 |
 | **[lds.org](https://www.lds.org)** | **[Business Analyst Intern, Family History Department](https://jobright.ai/jobs/info/66d8568006c57bfec4d37e6a?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
-| **[Doctor](https://www.amazon.com/b?_encoding=UTF8&tag=deal4u005-20&linkCode=ur2&linkId=4904271cddd31e907d1674ae38b45535&camp=1789&creative=9325&node=3760901)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66d29d6e5c691c8d3ac7c7d8?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Aug 30 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
