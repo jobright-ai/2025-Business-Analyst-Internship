@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Projects & Process Improvement Analyst)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08a8?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Sep 06 |
+| ↳ | **[Summer Associate Internship (Business Systems Analyst - Digital Risk Office)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08cb?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 06 |
+| ↳ | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08ba?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 06 |
+| ↳ | **[Summer Associate Internship (Savings & Membership - Projects & Process Improvement Analyst)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b0a25?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 06 |
+| **[Oatey Co.](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/66dbb8844fd26a945eb14bd4?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Hybrid | Sep 06 |
+| **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/66dbb5f28bad950f09c99567?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Sep 06 |
+| **[NextEra Energy](http://www.nexteraenergy.com)** | **[Quantitative Analyst Strategic Transformation- College Intern](https://jobright.ai/jobs/info/66dbbaca9837718d0dab5ca0?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 06 |
+| **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/66dba6c798d4d2e98e20f805?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Sep 06 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Quantitative Analyst Strategic Transformation- College Intern](https://jobright.ai/jobs/info/66db882a20fdd013c7daa311?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 06 |
 | **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Intership](https://jobright.ai/jobs/info/66db7ef734482f517983a808?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 06 |
+| **[Stellar Industries, Inc.](http://stellarindustries.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/66dbb53e81f5a73e178b2a60?utm_campaign=1067&utm_source=git)** | Garner, IA | On Site | Sep 06 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[IT Enablement Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/66db4c26d529bc90ff3a223d?utm_campaign=1067&utm_source=git)** | Malta, NY | On Site | Sep 06 |
 | **[Intel Corporation](https://www.intel.co.uk/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66db157aeec3c88f8ae4e78b?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Sep 06 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/66be12fb4809087af01c81e4?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 06 |
