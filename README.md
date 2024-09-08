@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern (3 Months +)](https://jobright.ai/jobs/info/66ddf60dbf27e14686e0719f?utm_campaign=1067&utm_source=git)** | Montvale, NJ | On Site | Sep 08 |
 | **[Amazon](https://amazon.com)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66a3d0cff78d4ddf58eb1d59?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Sep 08 |
 | **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[Business Solutions and Delivery Trainee](https://jobright.ai/jobs/info/66dc9835d669f98f2644e0dd?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Sep 07 |
 | **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Intership](https://jobright.ai/jobs/info/66dc8dbe06e8547b67024f36?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 07 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business - IDD](https://jobright.ai/jobs/info/66daef5f80f7917fb15232bc?utm_campaign=1067&utm_source=git)** | Newark, DE | On Site | Sep 05 |
 | ↳ | **[2025 Intern, Business, NAM](https://jobright.ai/jobs/info/66d9c587236256d70275e161?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Sep 05 |
 | **[T Marzetti](http://www.tmarzetticompany.com/)** | **[Intern - Continuous Improvement Analyst](https://jobright.ai/jobs/info/66d89b6e03d0643cfc9a0f77?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc. North America Distribution Centers (NADC) Business Analytics Graduate Internship](https://jobright.ai/jobs/info/66d93034fbc5131adc621d4d?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Sep 04 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d9246882c09f0b2f533b0f?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN | Hybrid | Sep 04 |
 | **[E & J Gallo Winery](http://www.ejgallo.com)** | **[MBA IT Internship 2025 / NBMBAA](https://jobright.ai/jobs/info/66da4578536c67af4dc69988?utm_campaign=1067&utm_source=git)** | Modesto, CA | On Site | Sep 04 |
 | **[Terex](http://www.terex.com)** | **[Customer Experience Business Analyst Co-Op](https://jobright.ai/jobs/info/66da0189a3efd519aa4f1afc?utm_campaign=1067&utm_source=git)** | USA, WA, Bothell | On Site | Sep 04 |
@@ -124,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[PGD Business Services Intern - FPL](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3056?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 03 |
 | **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66d76c5970d0de1df5e922fb?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Sep 03 |
 | **[Belk](http://www.belk.com)** | **[Summer 2025 Intern: Planning (Business Analytics)](https://jobright.ai/jobs/info/66d762fd7d0a82100743e655?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 03 |
-| **[HII](https://hii.com)** | **[CORPORATE BUSINESS MANAGEMENT INTERN](https://jobright.ai/jobs/info/66d741cce698ea5b631589ab?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 03 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d73825d4dd0c7b02f68cfe?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Sep 03 |
 | **[HII](https://hii.com)** | **[2025 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/66d6f293b73700434a367814?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 03 |
 | **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/66d46c51cd2cb68cd70efcd6?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 03 |
@@ -135,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[2025 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/66d69833e096b08ec112cd7c?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 02 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d7635f141d5526a0dc36c1?utm_campaign=1067&utm_source=git)** | Ohio Remote | On Site | Sep 02 |
 | **[Momentive](https://www.momentive.com/)** | **[Business Analyst Summer Internship 2025](https://jobright.ai/jobs/info/66d574d7fb17d941d44cd90f?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Sep 01 |
-| **[Cirrus Design Corporation](http://cirrusaircraft.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/66d52e07e5bfb92529794f24?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Sep 01 |
-| **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/66d4eca782ed39a1b9e06002?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
