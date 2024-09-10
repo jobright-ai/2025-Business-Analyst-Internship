@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Wildfire Mitigation Business Intern](https://jobright.ai/jobs/info/66dfad7171dd3a46cdd80444?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Sep 09 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 Business Analyst - Undergraduate Intern](https://jobright.ai/jobs/info/66df8bb9d9d8af65c955e73c?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 09 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2025)](https://jobright.ai/jobs/info/66df7c345dbc4da356eda7f4?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Sep 09 |
 | **[TD Bank](https://www.td.com)** | **[Business Management Intern / Co-op (Winter 2025)](https://jobright.ai/jobs/info/66df7c8becff4a09ee180c36?utm_campaign=1067&utm_source=git)** | St Paul, MN | On Site | Sep 09 |
 | **[Virginia Marine Resources Commission](https://www.mrc.virginia.gov/)** | **[Business Intern](https://jobright.ai/jobs/info/66df6b0b39ecc1f5e5645123?utm_campaign=1067&utm_source=git)** | Charlottesville, VA | On Site | Sep 09 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/66dba6c798d4d2e98e20f805?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Sep 06 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Quantitative Analyst Strategic Transformation- College Intern](https://jobright.ai/jobs/info/66db882a20fdd013c7daa311?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 06 |
 | **[Stellar Industries, Inc.](http://stellarindustries.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/66dbb53e81f5a73e178b2a60?utm_campaign=1067&utm_source=git)** | Garner, IA | On Site | Sep 06 |
+| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/66d8b8bda5f47757efe9d3d2?utm_campaign=1067&utm_source=git)** | Cayce, SC | On Site | Sep 06 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[IT Enablement Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/66db4c26d529bc90ff3a223d?utm_campaign=1067&utm_source=git)** | Malta, NY | Remote | Sep 06 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/66dbfb35f278f728fdd2eb33?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Sep 06 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/66be12fb4809087af01c81e4?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 06 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Terex](http://www.terex.com)** | **[Customer Experience Business Analyst Co-Op](https://jobright.ai/jobs/info/66da0189a3efd519aa4f1afc?utm_campaign=1067&utm_source=git)** | USA, WA, Bothell | On Site | Sep 04 |
 | **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66d8dc03a84153bf7c0ea7bf?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 04 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2025 Summer Intern - Business](https://jobright.ai/jobs/info/66d8d7255569bd65f2c04f11?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 04 |
-| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/66d8b8bda5f47757efe9d3d2?utm_campaign=1067&utm_source=git)** | Cayce, SC | On Site | Sep 04 |
 | **[Cambrex](http://www.cambrex.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/66d8a5802f0c83d17ee94e2e?utm_campaign=1067&utm_source=git)** | Charles City, IA | Hybrid | Sep 04 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0bbb?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0bb6?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
@@ -132,8 +134,4 @@ For a complete list, click the following sortable link below:
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[PGD Business Services Intern - FPL](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3056?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 03 |
 | **[Catalyte](https://www.catalyte.io)** | **[Business Analyst Apprentice](https://jobright.ai/jobs/info/66d76c5970d0de1df5e922fb?utm_campaign=1067&utm_source=git)** | South Chicago, IL | On Site | Sep 03 |
 | **[Belk](http://www.belk.com)** | **[Summer 2025 Intern: Planning (Business Analytics)](https://jobright.ai/jobs/info/66d762fd7d0a82100743e655?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 03 |
-| **[HII](https://hii.com)** | **[CORPORATE BUSINESS MANAGEMENT INTERN](https://jobright.ai/jobs/info/66d741cce698ea5b631589ab?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 03 |
-| ↳ | **[2025 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/66d6f293b73700434a367814?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 03 |
-| **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/66d46c51cd2cb68cd70efcd6?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Global Data Governance and Analytics Intern (Global Monetization Strategy and Operations-Global Data Governance and Analytics)- 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/669f4d8c1c25a872ad61cda5?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
