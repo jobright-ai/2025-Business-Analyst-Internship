@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Intern - Business Analyst Associate, Summer 2025](https://jobright.ai/jobs/info/66e0dbbff91d4b8015ec79c8?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 10 |
-| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship- IT Business Intelligence and Analytics](https://jobright.ai/jobs/info/66e0d3209a6fd5a9a0e201ac?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
+| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Transportation Business Analytics](https://jobright.ai/jobs/info/66e0e5b3e359fa5df4ca6074?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e0d0bf32b3811348cc8afa?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 10 |
 | **[Getmeonboard](www.getmeonbo.com)** | **[Business Solutions and Delivery Trainee](https://jobright.ai/jobs/info/66e0c15ca7af6baf3e37db51?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Remote | Sep 10 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Fall 2024 Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/66e09ee43a41b2b3f99064c0?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | Sep 10 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Wildfire Mitigation Business Intern](https://jobright.ai/jobs/info/66dfad7171dd3a46cdd80444?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Sep 09 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Fall 2024 Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/66e0942ece495c66e581fa3b?utm_campaign=1067&utm_source=git)** | US - VA, Chantilly | On Site | Sep 09 |
 | **[Comcast](http://corporate.comcast.com)** | **[Business Analytics Internship (Central Division)](https://jobright.ai/jobs/info/66e0940c50ce169aa8dad7f8?utm_campaign=1067&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 09 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 Business Analyst - Undergraduate Intern](https://jobright.ai/jobs/info/66df8bb9d9d8af65c955e73c?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 09 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2025)](https://jobright.ai/jobs/info/66df7c345dbc4da356eda7f4?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Sep 09 |
 | **[TD Bank](https://www.td.com)** | **[Business Management Intern / Co-op (Winter 2025)](https://jobright.ai/jobs/info/66df7c8becff4a09ee180c36?utm_campaign=1067&utm_source=git)** | St Paul, MN | On Site | Sep 09 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/66df68c1e7075b0a4cddf0e8?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Sep 09 |
@@ -134,8 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Cambrex](http://www.cambrex.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/66d8a5802f0c83d17ee94e2e?utm_campaign=1067&utm_source=git)** | Charles City, IA | Hybrid | Sep 04 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0bbb?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0bb6?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
-| ↳ | **[Business Analyst Internship](https://jobright.ai/jobs/info/66dc328b642759745132a95b?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/66d94f16db6eb367c754eaa2?utm_campaign=1067&utm_source=git)** | Purchase, NY | On Site | Sep 04 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Boeing HBCU Summer 2025 Business Internship Program (Paid)](https://jobright.ai/jobs/info/66c56d4730f888847de07fef?utm_campaign=1067&utm_source=git)** | Everett, WA | On Site | Sep 04 |
-| **[Cox Automotive](http://www.coxautoinc.com)** | **[Business Strategy/Analytics Co-op - Spring 2025](https://jobright.ai/jobs/info/66d8107d589c19db0e04b7f5?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
