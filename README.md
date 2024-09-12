@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JBS](http://www.jbs.com.br/)** | **[Business Analytics Apprenticeship](https://jobright.ai/jobs/info/66e2a9edde21fa941ebee851?utm_campaign=1067&utm_source=git)** | Greeley, CO | On Site | Sep 12 |
+| **[Niagara Bottling](http://www.NiagaraWater.com)** | **[HQ Intern - Business Transformation](https://jobright.ai/jobs/info/66e29391dc0eeb1abf2b9f74?utm_campaign=1067&utm_source=git)** | Diamond Bar, CA | On Site | Sep 11 |
 | **[ISN](http://www.isn.com)** | **[Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e22f9dd30b927e12e8da21?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 11 |
 | **[Rekor Systems](https://www.rekor.ai/)** | **[Business Analyst Fall Intern](https://jobright.ai/jobs/info/66e222017b08cec689a4dd7b?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | Sep 11 |
 | **[3M](https://www.3m.com)** | **[Undergraduate Business Analytics Intern](https://jobright.ai/jobs/info/66e22f9dd30b927e12e8db74?utm_campaign=1067&utm_source=git)** | Minnesota, United States | On Site | Sep 11 |
@@ -65,11 +67,11 @@ For a complete list, click the following sortable link below:
 | **[Savage](http://www.savageservices.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e2233d7fda0d43e8ca9c24?utm_campaign=1067&utm_source=git)** | Midvale, UT | On Site | Sep 11 |
 | **[CIBC Bank](https://us.cibc.com/en/home.html)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/66e1f5ff7ddf2abc7589ce05?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
 | ↳ | **[CRE Business Analytics - 2025 Summer Intern](https://jobright.ai/jobs/info/66e1f5ff7ddf2abc7589cdf3?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
-| **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Bootcamp & Internship](https://jobright.ai/jobs/info/66e1f232104bf3ac3cb4b90c?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 11 |
 | **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d83e?utm_campaign=1067&utm_source=git)** | Apopka, FL | On Site | Sep 11 |
 | **[Allison Transmission Holdings](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d89c?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 11 |
 | **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d8c8?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 11 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 11 |
+| **[Evernorth](https://www.evernorth.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e2b145ae829b627d512deb?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 11 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2025)](https://jobright.ai/jobs/info/66e16e9696c4586584a3c723?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Sep 11 |
 | **[JBS](http://www.jbs.com.br/)** | **[Business Analytics Apprenticeship](https://jobright.ai/jobs/info/66e1585e136ce9886da1f6fc?utm_campaign=1067&utm_source=git)** | Greeley, CO | On Site | Sep 11 |
 | **[Emerson](http://www.emerson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66df73ec8644aa6879238f67?utm_campaign=1067&utm_source=git)** | Shakopee, MN | On Site | Sep 10 |
@@ -94,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2025 Internship - General Business](https://jobright.ai/jobs/info/66e04a448a2af4fc9584d0e0?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[Sentry](https://www.sentry.com/)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66e01f6360d5a622b39c9f1b?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 10 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66e0230ccc87074f85d0c006?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
-| ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225c040?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
 | ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf9f?utm_campaign=1067&utm_source=git)** | Irvine, CA | Hybrid | Sep 10 |
+| ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225c040?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
 | ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225c042?utm_campaign=1067&utm_source=git)** | Arlington, VA | Hybrid | Sep 10 |
 | ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225c03f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | ↳ | **[Multifamily Business Analysis Graduate Intern](https://jobright.ai/jobs/info/66c3b1d7436bc6cf77b42af5?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
@@ -138,7 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Terex](http://www.terex.com)** | **[Customer Experience Business Analyst Co-Op](https://jobright.ai/jobs/info/66daa1c6fab2024650907992?utm_campaign=1067&utm_source=git)** | Bothell, WA | On Site | Sep 05 |
 | **[Robert W. Baird & Co.](http://www.rwbaird.com)** | **[Internship – IT Business Analyst](https://jobright.ai/jobs/info/66da494ced894b20434a4d97?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Sep 05 |
 | ↳ | **[Internship – IT Business Analyst](https://jobright.ai/jobs/info/66da51ee7e02cb4029e83730?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 05 |
-| **[Kemin Industries](http://www.kemin.com)** | **[Business Intern](https://jobright.ai/jobs/info/66d9cef9c2343b56a62a403b?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 05 |
-| **[Air Liquide](http://www.airliquide.com)** | **[Intern, Business - IDD](https://jobright.ai/jobs/info/66daef5f80f7917fb15232bc?utm_campaign=1067&utm_source=git)** | Newark, DE | On Site | Sep 05 |
-| ↳ | **[Intern, Business](https://jobright.ai/jobs/info/66d9c587236256d70275e161?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
