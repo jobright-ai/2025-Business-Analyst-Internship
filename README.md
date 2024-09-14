@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daimler Trucks North America](http://www.daimler-trucksnorthamerica.com/)** | **[Business Functions Internships](https://jobright.ai/jobs/info/66e4cc7d96a7b4e49ec148ef?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Sep 13 |
 | **[AbbVie](http://www.abbvie.com)** | **[Business Technology Solutions Externship](https://jobright.ai/jobs/info/66e492ef5f763808a1504ac3?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Sep 13 |
+| **[Wayfair](https://www.wayfair.com)** | **[Analyst, Business Trends & Insights](https://jobright.ai/jobs/info/66e495ece44fe7310e8ccf7b?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 13 |
 | **[Pyramid Systems, Inc.](http://pyramidsystems.com)** | **[Business/Technical Internship](https://jobright.ai/jobs/info/66e4865f4b2f8c72ed667637?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Sep 13 |
 | **[Getmeonboard](www.getmeonbo.com)** | **[Business Solutions & Delivery Intern](https://jobright.ai/jobs/info/66e45ed7ce9411e97b289ed4?utm_campaign=1067&utm_source=git)** | Ohio, United States | Remote | Sep 13 |
 | **[Santander Bank](https://www.santanderbank.com)** | **[Consumer and Business Banking Graduate Intern](https://jobright.ai/jobs/info/66e4368a3e184a39d31c2983?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Kemper Corporation](http://kemper.com)** | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c795e66e0f35a978d94e43?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Sep 13 |
 | ↳ | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa955?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op](https://jobright.ai/jobs/info/66c7a3dfa1c2c5f9251568f0?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 13 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 12 |
-| ↳ | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 12 |
+| **[Spectrum](https://www.spectrum.com)** | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 12 |
+| ↳ | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 12 |
 | **[Truist](https://www.truist.com)** | **[Technology and Innovation Internship](https://jobright.ai/jobs/info/66e3d4fcc20dad4688be3218?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 12 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f3?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Sep 12 |
 | ↳ | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 12 |
@@ -143,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Cargill](http://www.cargill.com)** | **[Business Management Associate Intern](https://jobright.ai/jobs/info/66cf457d5f39b7c08b0181a8?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Sep 07 |
 | **[Williams](http://co.williams.com)** | **[General Business Intern](https://jobright.ai/jobs/info/66c01b7a9285b0587477bb08?utm_campaign=1067&utm_source=git)** | Tulsa, OK | Hybrid | Sep 07 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship - Projects & Process Improvement Analyst](https://jobright.ai/jobs/info/66deb714f994f536673fd75c?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 07 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66dbfb35f278f728fdd2e626?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
