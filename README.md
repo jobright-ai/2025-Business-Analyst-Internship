@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/66e09ee43a41b2b3f99064c0?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | Sep 14 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b384795814470f4d481e02?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66c8eee515e7212923c8cafa?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 14 |
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[Business Management Analyst Intern](https://jobright.ai/jobs/info/66c9076b759f703361cddf29?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Sep 14 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Bristol-Myers Squibb](http://www.bms.com)** | **[Worldwide Patient Safety Internship](https://jobright.ai/jobs/info/66e54cc289241566162465ae?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Sep 14 |
 | ↳ | **[Worldwide Patient Safety Internship](https://jobright.ai/jobs/info/66e54cc2892415661624661b?utm_campaign=1067&utm_source=git)** | Madison, NJ | Hybrid | Sep 14 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2025 Intern - Business Systems Analyst](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f7cb?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Sep 13 |
-| **[Pearson](https://www.pearson.com/)** | **[Data Analyst/Business Analyst](https://jobright.ai/jobs/info/66e529b126e17054f0f51033?utm_campaign=1067&utm_source=git)** | Durham, NC | On Site | Sep 13 |
 | **[American AgCredit](http://www.agloan.com/)** | **[Intern-Business Analyst](https://jobright.ai/jobs/info/66e52ff020743921dbbda9c5?utm_campaign=1067&utm_source=git)** | United States | On Site | Sep 13 |
+| **[Pearson](https://www.pearson.com/)** | **[Data Analyst/Business Analyst](https://jobright.ai/jobs/info/66e4fc74ff4bff1a233d15e4?utm_campaign=1067&utm_source=git)** | Durham, NC | On Site | Sep 13 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Business Operations Intern - Business Insurance](https://jobright.ai/jobs/info/66e4dd5733a88141338b78c9?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 13 |
 | **[The Growth Company: Education & Skills](http://www.gceducationandskills.ac.uk)** | **[Business Administration Apprenticeship](https://jobright.ai/jobs/info/66e4e52e7006e43e7c2211b1?utm_campaign=1067&utm_source=git)** | Trafford, PA | On Site | Sep 13 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[Intern - IT Business Intelligence and Analytics](https://jobright.ai/jobs/info/66e17ab09c52e95399ac7f2d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 13 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Wayfair](https://www.wayfair.com)** | **[Analyst, Business Trends & Insights](https://jobright.ai/jobs/info/66e495ece44fe7310e8ccf7b?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 13 |
 | **[Pyramid Systems, Inc.](http://pyramidsystems.com)** | **[Business/Technical Internship](https://jobright.ai/jobs/info/66e4865f4b2f8c72ed667637?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Sep 13 |
 | **[Getmeonboard](www.getmeonbo.com)** | **[Business Solutions & Delivery Intern](https://jobright.ai/jobs/info/66e45ed7ce9411e97b289ed4?utm_campaign=1067&utm_source=git)** | Ohio, United States | Remote | Sep 13 |
-| **[Russell Rowland, Inc.](http://www.russrow.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e57bd877c72ea674ec78b5?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Sep 13 |
 | **[Santander Bank](https://www.santanderbank.com)** | **[Consumer and Business Banking Graduate Intern](https://jobright.ai/jobs/info/66e4368a3e184a39d31c2983?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Kemper Corporation](http://kemper.com)** | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c795e66e0f35a978d94e43?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Sep 13 |
 | ↳ | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa955?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[ISN](http://www.isn.com)** | **[Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e552f1ea2f7b6204de2fa1?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 12 |
 | ↳ | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 12 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f3?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Sep 12 |
-| ↳ | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 12 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 12 |
+| ↳ | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f3?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Sep 12 |
 | ↳ | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3b5817f0344bd76dfac12?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Sep 12 |
 | **[TransUnion](http://www.transunion.com)** | **[Business Operations Internship Summer 2025](https://jobright.ai/jobs/info/66e3a1f34ef8504f81978805?utm_campaign=1067&utm_source=git)** | Crum Lynne, PA | Hybrid | Sep 12 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3aca81d716ba1d015569e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 12 |
@@ -126,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[Transportation Business Analyst Intern](https://jobright.ai/jobs/info/66e0e5b3e359fa5df4ca6074?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e0d0bf32b3811348cc8afa?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 10 |
 | **[Meritage Homes Corporation](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66e0d7bb23cd9cd07e777759?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Sep 10 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/66e09ee43a41b2b3f99064c0?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | Sep 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Supply Chain – Clinical Supply](https://jobright.ai/jobs/info/66e09621a93b1358b835d2cd?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Sep 10 |
 | **[Comcast](http://corporate.comcast.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/66e09b2c21f4fbe4017669c7?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Sep 10 |
 | **[Mission Support and Test Services, LLC](https://www.nnss.gov/)** | **[Undergraduate Business Internship](https://jobright.ai/jobs/info/66e096c84cc15610a32b0fa3?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | On Site | Sep 10 |
@@ -137,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2025 Internship - General Business](https://jobright.ai/jobs/info/66e04a448a2af4fc9584d0e0?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[Sentry](https://www.sentry.com/)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66e01f6360d5a622b39c9f1b?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 10 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66e0230ccc87074f85d0c006?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
-| ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf9f?utm_campaign=1067&utm_source=git)** | Irvine, CA | Hybrid | Sep 10 |
 | ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225c040?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
+| ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf9f?utm_campaign=1067&utm_source=git)** | Irvine, CA | Hybrid | Sep 10 |
 | ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225c042?utm_campaign=1067&utm_source=git)** | Arlington, VA | Hybrid | Sep 10 |
 | ↳ | **[Multifamily Business Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225c03f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | ↳ | **[Multifamily Business Analysis Graduate Intern](https://jobright.ai/jobs/info/66c3b1d7436bc6cf77b42af5?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
