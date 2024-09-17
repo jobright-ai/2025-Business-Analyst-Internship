@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Sep 17 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5391?utm_campaign=1067&utm_source=git)** | Charleston, SC | Hybrid | Sep 17 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5392?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Sep 17 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5382?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Sep 17 |
+| **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op - Winter/Spring](https://jobright.ai/jobs/info/66cd59c802196c230e1df3fc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 17 |
 | **[Merchants Bank of Indiana](http://merchantsbankofindiana.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e8939330fb64a0d8961db1?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 16 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66e87b8365c1c00b5e8a3c74?utm_campaign=1067&utm_source=git)** | Englewood Cliffs, NJ | On Site | Sep 16 |
-| ↳ | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66e87b8365c1c00b5e8a3c7a?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Sep 16 |
 | ↳ | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66e87b8365c1c00b5e8a3c85?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 16 |
+| ↳ | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66e87b8365c1c00b5e8a3c7a?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Sep 16 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[Intern - IT Business Intelligence and Analytics](https://jobright.ai/jobs/info/66e17ab09c52e95399ac7f2d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 16 |
 | **[CRST International](https://www.crst.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e83d2cefa6ff9b8df4a4b0?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 16 |
 | **[ASM Global](https://asmglobal.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e8458ad2deef4fce05b6ba?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Sep 16 |
@@ -88,12 +93,13 @@ For a complete list, click the following sortable link below:
 | **[Getmeonboard](www.getmeonbo.com)** | **[Business Solutions & Delivery Intern](https://jobright.ai/jobs/info/66e45ed7ce9411e97b289ed4?utm_campaign=1067&utm_source=git)** | Ohio, United States | Remote | Sep 13 |
 | **[EMORY REHABILITATION HOSPITAL/ SELECT MEDICAL](https://www.linkedin.com/company/61095265)** | **[Information Technology Business Analyst Internship](https://jobright.ai/jobs/info/66e6e7f8b9625010ca3bd84b?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | On Site | Sep 13 |
 | **[Santander Bank](https://www.santanderbank.com)** | **[Consumer and Business Banking Graduate Intern](https://jobright.ai/jobs/info/66e4368a3e184a39d31c2983?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 13 |
+| **[Russell Rowland, Inc.](http://www.russrow.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e971aa129bd23d45c65c67?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Sep 13 |
 | **[Kemper Corporation](http://kemper.com)** | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c795e66e0f35a978d94e43?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Sep 13 |
 | ↳ | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa955?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op](https://jobright.ai/jobs/info/66c7a3dfa1c2c5f9251568f0?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 13 |
 | **[ISN](http://www.isn.com)** | **[Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e552f1ea2f7b6204de2fa1?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 13 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 12 |
-| ↳ | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 12 |
+| **[Spectrum](https://www.spectrum.com)** | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 12 |
+| ↳ | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 12 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f3?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Sep 12 |
 | ↳ | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 12 |
 | ↳ | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3b5817f0344bd76dfac12?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Sep 12 |
@@ -124,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d83e?utm_campaign=1067&utm_source=git)** | Apopka, FL | On Site | Sep 11 |
 | **[Allison Transmission Holdings](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d89c?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 11 |
 | **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d8c8?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 11 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Intern - Research & Development Center](https://jobright.ai/jobs/info/66e08a4662f5bb8c3eb0cb73?utm_campaign=1067&utm_source=git)** | Champaign, IL | Hybrid | Sep 11 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 11 |
 | **[Evernorth](https://www.evernorth.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e2b145ae829b627d512deb?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 11 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2025)](https://jobright.ai/jobs/info/66e16e9696c4586584a3c723?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Sep 11 |
@@ -137,8 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[Transportation Business Analyst Intern](https://jobright.ai/jobs/info/66e0e5b3e359fa5df4ca6074?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e0d0bf32b3811348cc8afa?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 10 |
 | **[Meritage Homes Corporation](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66e0d7bb23cd9cd07e777759?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Sep 10 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Supply Chain – Clinical Supply](https://jobright.ai/jobs/info/66e09621a93b1358b835d2cd?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Sep 10 |
-| **[Comcast](http://corporate.comcast.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/66e09b2c21f4fbe4017669c7?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Sep 10 |
-| **[Mission Support and Test Services, LLC](https://www.nnss.gov/)** | **[Undergraduate Business Internship](https://jobright.ai/jobs/info/66e096c84cc15610a32b0fa3?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | On Site | Sep 10 |
-| **[Qorvo](https://www.qorvo.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66e082df53d2c8580086a38c?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
