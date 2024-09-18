@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training and Internship](https://jobright.ai/jobs/info/66ea7a6dc05cb0abf7dae028?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/66ea32ec8fa81086f2ddb7e5?utm_campaign=1067&utm_source=git)** | Round Rock, TX | Hybrid | Sep 17 |
 | **[HERE Technologies Chicago](https://www.here.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ea2832a0234467f690f033?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 17 |
 | **[Corcentric](https://www.corcentric.com)** | **[Intern, Business Process Analyst, Managed Services](https://jobright.ai/jobs/info/66ea140e478d1ce392d96389?utm_campaign=1067&utm_source=git)** | Cherry Hill, NJ | On Site | Sep 17 |
@@ -74,16 +75,16 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op - Winter/Spring](https://jobright.ai/jobs/info/66cd59c802196c230e1df3fc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 17 |
 | **[Merchants Bank of Indiana](http://merchantsbankofindiana.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e8939330fb64a0d8961db1?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 16 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66e87b8365c1c00b5e8a3c74?utm_campaign=1067&utm_source=git)** | Englewood Cliffs, NJ | On Site | Sep 16 |
-| ↳ | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66e87b8365c1c00b5e8a3c85?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | ↳ | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66e87b8365c1c00b5e8a3c7a?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Sep 16 |
+| ↳ | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66e87b8365c1c00b5e8a3c85?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[Intern - IT Business Intelligence and Analytics](https://jobright.ai/jobs/info/66e17ab09c52e95399ac7f2d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 16 |
 | **[CRST International](https://www.crst.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e83d2cefa6ff9b8df4a4b0?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 16 |
 | **[ASM Global](https://asmglobal.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e8458ad2deef4fce05b6ba?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Sep 16 |
 | ↳ | **[Business Analytics Assistant](https://jobright.ai/jobs/info/66e8458ad2deef4fce05b6c8?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Sep 16 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Business Process Intern](https://jobright.ai/jobs/info/66cb0a4276d40739c100135c?utm_campaign=1067&utm_source=git)** | Ada, OK | Hybrid | Sep 16 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[IT Business Analysis Co-ops](https://jobright.ai/jobs/info/66e7e0a6e3e0469418f498ea?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Sep 16 |
-| **[ASM Global](https://asmglobal.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e83d92d1e1af38768f78a8?utm_campaign=1067&utm_source=git)** | Wake Forest University - Winston-Salem, NC | On Site | Sep 15 |
-| ↳ | **[Business Analytics Assistant](https://jobright.ai/jobs/info/66e83d92d1e1af38768f78af?utm_campaign=1067&utm_source=git)** | Wake Forest University - Winston-Salem, NC | On Site | Sep 15 |
+| **[ASM Global](https://asmglobal.com/)** | **[Business Analytics Assistant](https://jobright.ai/jobs/info/66e83d92d1e1af38768f78af?utm_campaign=1067&utm_source=git)** | Wake Forest University - Winston-Salem, NC | On Site | Sep 15 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e83d92d1e1af38768f78a8?utm_campaign=1067&utm_source=git)** | Wake Forest University - Winston-Salem, NC | On Site | Sep 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Sep 15 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Sep 15 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/66e09ee43a41b2b3f99064c0?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | Sep 14 |
@@ -105,10 +106,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Systems Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa955?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op](https://jobright.ai/jobs/info/66c7a3dfa1c2c5f9251568f0?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 13 |
 | **[ISN](http://www.isn.com)** | **[Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e552f1ea2f7b6204de2fa1?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 13 |
-| **[Spectrum](https://www.spectrum.com)** | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 12 |
-| ↳ | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 12 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f3?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Sep 12 |
-| ↳ | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 12 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 12 |
+| ↳ | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 12 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 12 |
+| ↳ | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f3?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Sep 12 |
 | ↳ | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3b5817f0344bd76dfac12?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Sep 12 |
 | **[TransUnion](http://www.transunion.com)** | **[Business Operations Internship Summer 2025](https://jobright.ai/jobs/info/66e3a1f34ef8504f81978805?utm_campaign=1067&utm_source=git)** | Crum Lynne, PA | Hybrid | Sep 12 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/66e3aca81d716ba1d015569e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 12 |
@@ -125,15 +126,10 @@ For a complete list, click the following sortable link below:
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_campaign=1067&utm_source=git)** | Omaha, NE | On Site | Sep 12 |
 | **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op](https://jobright.ai/jobs/info/66c67e3ff66f412293768595?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 12 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - Business Analyst Associate](https://jobright.ai/jobs/info/66e3f58664b25a816e0f8ff4?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 12 |
-| **[JBS](http://www.jbs.com.br/)** | **[Business Analytics Apprenticeship](https://jobright.ai/jobs/info/66e2a9edde21fa941ebee851?utm_campaign=1067&utm_source=git)** | Greeley, CO | On Site | Sep 12 |
 | **[TransUnion](http://www.transunion.com)** | **[Business Operations Internship Summer 2025](https://jobright.ai/jobs/info/66e38a7bda981593f74ea741?utm_campaign=1067&utm_source=git)** | Crum Lynne, Pennsylvania | Hybrid | Sep 11 |
 | **[Rekor Systems](https://www.rekor.ai/)** | **[Business Analyst Fall Intern](https://jobright.ai/jobs/info/66e222017b08cec689a4dd7b?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | Sep 11 |
 | **[3M](https://www.3m.com)** | **[Undergraduate Business Analytics Intern](https://jobright.ai/jobs/info/66e22f9dd30b927e12e8db74?utm_campaign=1067&utm_source=git)** | Minnesota, United States | On Site | Sep 11 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Business Analyst Intern](https://jobright.ai/jobs/info/66e21a088336e19ded73b8ad?utm_campaign=1067&utm_source=git)** | Johnston, IA | On Site | Sep 11 |
 | **[Savage](http://www.savageservices.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e2233d7fda0d43e8ca9c24?utm_campaign=1067&utm_source=git)** | Midvale, UT | On Site | Sep 11 |
 | **[CIBC Bank](https://us.cibc.com/en/home.html)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/66e1f5ff7ddf2abc7589ce05?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
-| **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d83e?utm_campaign=1067&utm_source=git)** | Apopka, FL | On Site | Sep 11 |
-| **[Allison Transmission Holdings](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d89c?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 11 |
-| **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d8c8?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 11 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Intern - Research & Development Center](https://jobright.ai/jobs/info/66e08a4662f5bb8c3eb0cb73?utm_campaign=1067&utm_source=git)** | Champaign, IL | Hybrid | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
