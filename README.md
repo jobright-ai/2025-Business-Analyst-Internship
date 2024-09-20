@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/66ed6f52d28252fe44b0676a?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
 | **[Wellabe](https://www.wellabe.com)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/66ecc6b376120c2fcbcf9477?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 19 |
 | **[Lexington Medical, Inc.](https://www.lexington-med.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ecf01f9f03950e4e360bee?utm_campaign=1067&utm_source=git)** | Bedford, MA | On Site | Sep 19 |
 | **[Mastercard](http://www.mastercard.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ecc2a06a387b9ba2e8ac38?utm_campaign=1067&utm_source=git)** | Purchase, NY | Hybrid | Sep 19 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/66eb08747146a6bf8e679ae7?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Sep 18 |
 | **[NorthStar Clean Energy](https://www.northstarcleanenergy.com)** | **[Intern/Co-Op-Business Majors](https://jobright.ai/jobs/info/66ead5c61dcd0e6c1b2b70c1?utm_campaign=1067&utm_source=git)** | Ann Arbor, MI | On Site | Sep 18 |
 | **[EMPower](https://www.empower.com)** | **[Summer 2025 Intern – Business Systems Analyst](https://jobright.ai/jobs/info/66eac73e5639ab30cc61fcef?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 18 |
+| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Analyst Intern - Spring 2025](https://jobright.ai/jobs/info/66e9c3940e7748d669b6ec52?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 18 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern](https://jobright.ai/jobs/info/66cdfdb73baa0e7d0b0d9af5?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 18 |
 | **[Hatch Ltd](https://www.hatch.com)** | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Sep 18 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/66cea3b43778a80c75c4c38c?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 18 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Lexington Medical, Inc.](https://www.lexington-med.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ec6fafe73dcd671d3f8690?utm_campaign=1067&utm_source=git)** | Bedford, MA | On Site | Sep 17 |
 | **[Dish Network](https://www.dish.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66e9f8882de33ed2ccaee53e?utm_campaign=1067&utm_source=git)** | Littleton, CO | On Site | Sep 17 |
 | **[MGS Mfg. Group](https://www.mgsmfg.com/)** | **[IT Intern, Business System Analyst](https://jobright.ai/jobs/info/66e9d96b83c2e7d86a7b1011?utm_campaign=1067&utm_source=git)** | Germantown, WI | On Site | Sep 17 |
-| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Analytics Intern - Spring 2025](https://jobright.ai/jobs/info/66e9c3940e7748d669b6ec52?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 17 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern Consumer Components Business Analyst](https://jobright.ai/jobs/info/66e9c16f7e3ce4a1c5e9a767?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 17 |
 | ↳ | **[Intern Consumer Components Business Analyst](https://jobright.ai/jobs/info/66e9b7c93fab8e4c18dd53a2?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Sep 17 |
 | **[Aura Intelligence, Inc.](http://www.getaura.ai)** | **[MBA Business Analyst Intern](https://jobright.ai/jobs/info/66e9916ec1d3dbc57aa60030?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 17 |
