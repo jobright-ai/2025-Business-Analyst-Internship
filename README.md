@@ -73,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Wellabe](https://www.wellabe.com)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/66ecc6b376120c2fcbcf9477?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 19 |
 | **[Lexington Medical, Inc.](https://www.lexington-med.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ecf01f9f03950e4e360bee?utm_campaign=1067&utm_source=git)** | Bedford, MA | On Site | Sep 19 |
 | **[Mastercard](http://www.mastercard.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ecc2a06a387b9ba2e8ac38?utm_campaign=1067&utm_source=git)** | Purchase, NY | Hybrid | Sep 19 |
-| **[The Home Depot](https://corporate.homedepot.com)** | **[Business Management/Business Administration Internship](https://jobright.ai/jobs/info/66ee17215139d01a181550db?utm_campaign=1067&utm_source=git)** | GEORGIA - VIRTUAL - GA01 | Remote | Sep 19 |
-| ↳ | **[Business Management/Business Administration Internship](https://jobright.ai/jobs/info/66ee17215139d01a18155069?utm_campaign=1067&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 19 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Business Support Intern](https://jobright.ai/jobs/info/66ee17215139d01a181550b5?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 19 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ee17215139d01a181550b1?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 19 |
+| **[The Home Depot](https://corporate.homedepot.com)** | **[Business Management/Business Administration Internship](https://jobright.ai/jobs/info/66ee17215139d01a18155069?utm_campaign=1067&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 19 |
+| ↳ | **[Business Management/Business Administration Internship](https://jobright.ai/jobs/info/66ee17215139d01a181550db?utm_campaign=1067&utm_source=git)** | GEORGIA - VIRTUAL - GA01 | Remote | Sep 19 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ee17215139d01a181550b1?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 19 |
+| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/66ee17215139d01a181550b5?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 19 |
 | **[Athene](https://www.athene.com/)** | **[Business Systems Analyst Intern-Summer 2025](https://jobright.ai/jobs/info/66edc43b6c54539bc0937964?utm_campaign=1067&utm_source=git)** | West Des Moines, Iowa | On Site | Sep 19 |
 | **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66d8dc03a84153bf7c0ea7bf?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 19 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ece59b01cb973ea0d6de42?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 19 |
@@ -127,8 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Assistant](https://jobright.ai/jobs/info/66e8458ad2deef4fce05b6c8?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Sep 16 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Business Process Intern](https://jobright.ai/jobs/info/66cb0a4276d40739c100135c?utm_campaign=1067&utm_source=git)** | Ada, OK | Hybrid | Sep 16 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[IT Business Analysis Co-ops](https://jobright.ai/jobs/info/66e7e0a6e3e0469418f498ea?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Sep 16 |
-| **[ASM Global](https://asmglobal.com/)** | **[Business Analytics Assistant](https://jobright.ai/jobs/info/66e83d92d1e1af38768f78af?utm_campaign=1067&utm_source=git)** | Wake Forest University - Winston-Salem, NC | On Site | Sep 15 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e83d92d1e1af38768f78a8?utm_campaign=1067&utm_source=git)** | Wake Forest University - Winston-Salem, NC | On Site | Sep 15 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Sep 15 |
-| **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Sep 15 |
+| **[ASM Global](https://asmglobal.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/66e83d92d1e1af38768f78a8?utm_campaign=1067&utm_source=git)** | Wake Forest University - Winston-Salem, NC | On Site | Sep 15 |
+| ↳ | **[Business Analytics Assistant](https://jobright.ai/jobs/info/66e83d92d1e1af38768f78af?utm_campaign=1067&utm_source=git)** | Wake Forest University - Winston-Salem, NC | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
