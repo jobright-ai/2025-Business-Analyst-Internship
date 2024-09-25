@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cox Automotive](http://www.coxautoinc.com)** | **[Business Strategy/Analytics Co-op](https://jobright.ai/jobs/info/66d8107d589c19db0e04b7f5?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Sep 25 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Business Systems Analyst Intern - Integration Management Office](https://jobright.ai/jobs/info/66f359db1b5fe4efc53a19d2?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Undergraduate Student Intern - Business Operations](https://jobright.ai/jobs/info/66f3580826986ccf5c6b359a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 24 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Business and Operations Analyst Intern](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaacc5?utm_campaign=1067&utm_source=git)** | Appleton, WI | On Site | Sep 24 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](http://www.abbvie.com)** | **[Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/66f2b98f1c883d71c521e014?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Sep 23 |
 | ↳ | **[Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1cb?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Sep 23 |
 | ↳ | **[Business Technology Solutions Externship](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1d3?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Sep 23 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/66f200d776085f25fa846942?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
-| ↳ | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/66f200d776085f25fa846941?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Sep 23 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/66f200d776085f25fa846941?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Sep 23 |
+| ↳ | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/66f200d776085f25fa846942?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66f22f426d0f5e1328e9a415?utm_campaign=1067&utm_source=git)** | Universal City, CA | On Site | Sep 23 |
 | ↳ | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66f1d27f2eabe5699abca293?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Sep 23 |
 | ↳ | **[Business Solutions/Technical Operations Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66f234c17d08deca48798e9f?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 23 |
@@ -101,10 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Wellabe](https://www.wellabe.com)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/66ecc6b376120c2fcbcf9477?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 19 |
 | **[Lexington Medical, Inc.](https://www.lexington-med.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ecf01f9f03950e4e360bee?utm_campaign=1067&utm_source=git)** | Bedford, MA | On Site | Sep 19 |
 | **[Mastercard](http://www.mastercard.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ecc2a06a387b9ba2e8ac38?utm_campaign=1067&utm_source=git)** | Purchase, NY | Hybrid | Sep 19 |
-| **[The Home Depot](https://corporate.homedepot.com)** | **[Business Management/Business Administration Internship](https://jobright.ai/jobs/info/66ee17215139d01a18155069?utm_campaign=1067&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 19 |
-| ↳ | **[Business Management/Business Administration Internship](https://jobright.ai/jobs/info/66ee17215139d01a181550db?utm_campaign=1067&utm_source=git)** | GEORGIA - VIRTUAL - GA01 | Remote | Sep 19 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Business Support Intern](https://jobright.ai/jobs/info/66ee17215139d01a181550b5?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 19 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ee17215139d01a181550b1?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 19 |
+| **[The Home Depot](https://corporate.homedepot.com)** | **[Business Management/Business Administration Internship](https://jobright.ai/jobs/info/66ee17215139d01a181550db?utm_campaign=1067&utm_source=git)** | GEORGIA - VIRTUAL - GA01 | Remote | Sep 19 |
+| ↳ | **[Business Management/Business Administration Internship](https://jobright.ai/jobs/info/66ee17215139d01a18155069?utm_campaign=1067&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 19 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ee17215139d01a181550b1?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 19 |
+| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/66ee17215139d01a181550b5?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 19 |
 | **[Athene](https://www.athene.com/)** | **[Business Systems Analyst Intern-Summer 2025](https://jobright.ai/jobs/info/66edc43b6c54539bc0937964?utm_campaign=1067&utm_source=git)** | West Des Moines, Iowa | On Site | Sep 19 |
 | **[Qorvo](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66d8dc03a84153bf7c0ea7bf?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 19 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66ece59b01cb973ea0d6de42?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 19 |
@@ -121,8 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66eb605f35089205bcb0eec2?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Sep 18 |
 | **[Virginia Marine Resources Commission](https://www.mrc.virginia.gov/)** | **[Business Intern](https://jobright.ai/jobs/info/66eb321c7b823ed6130ef261?utm_campaign=1067&utm_source=git)** | Charlottesville, VA | On Site | Sep 18 |
 | **[IntelliBridge](https://www.intellibridge.us/)** | **[Business Process Improvement Intern](https://jobright.ai/jobs/info/66eb233c952e12d7ffd38e7c?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 18 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/66eb08747146a6bf8e679ae7?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Sep 18 |
-| **[NorthStar Clean Energy](https://www.northstarcleanenergy.com)** | **[Intern/Co-Op-Business Majors](https://jobright.ai/jobs/info/66ead5c61dcd0e6c1b2b70c1?utm_campaign=1067&utm_source=git)** | Ann Arbor, MI | On Site | Sep 18 |
-| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Analyst Intern - Spring 2025](https://jobright.ai/jobs/info/66e9c3940e7748d669b6ec52?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 18 |
-| **[EMPower](https://www.empower.com)** | **[Summer 2025 Intern – Business Systems Analyst](https://jobright.ai/jobs/info/66eac73e5639ab30cc61fcef?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
