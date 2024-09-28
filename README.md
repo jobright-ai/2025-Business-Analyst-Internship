@@ -58,10 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BMO Harris Bank](http://www.bmoharris.com/us)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/66f71a500281fc729f69609b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
-| **[RiVidium](https://www.rividium.com)** | **[Business Operations Specialist Intern](https://jobright.ai/jobs/info/66f6e97c0644adac68bdd892?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
+| **[RiVidium](https://www.rividium.com)** | **[Enterprise Business Operations Intern](https://jobright.ai/jobs/info/66f6e97c0644adac68bdd892?utm_campaign=1067&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | **[Raven Industries](http://ravenind.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66f6b57af8b84960c325423a?utm_campaign=1067&utm_source=git)** | Racine, WI | Hybrid | Sep 27 |
 | **[Getmeonboard](www.getmeonbo.com)** | **[Business Undergraduate Intern](https://jobright.ai/jobs/info/66f6a3a7127fee14e22f4df9?utm_campaign=1067&utm_source=git)** | California, United States | Remote | Sep 27 |
 | **[Robert W. Baird & Co.](http://www.rwbaird.com)** | **[Internship – IT Business Analyst (Year-Round)](https://jobright.ai/jobs/info/66da51ee7e02cb4029e83730?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 27 |
+| **[Kemin Industries](http://www.kemin.com)** | **[Business Intern](https://jobright.ai/jobs/info/66d9cef9c2343b56a62a403b?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Sep 27 |
 | **[Robert W. Baird & Co.](http://www.rwbaird.com)** | **[Internship – IT Business Analyst (Year-Round)](https://jobright.ai/jobs/info/66da494ced894b20434a4d97?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265082?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Analyst for AI](https://jobright.ai/jobs/info/66f600dfd0003dacf50b5027?utm_campaign=1067&utm_source=git)** | Folsom, CA | On Site | Sep 25 |
 | **[ICF Next](https://www.icf.com/next)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/66f5af3066a79ce8f4b5714d?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Sep 25 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66f49cb446b7f4347c0a00b2?utm_campaign=1067&utm_source=git)** | Monroe, MI | On Site | Sep 25 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66f4965a4f2115295d38b207?utm_campaign=1067&utm_source=git)** | Nottingham, MD | On Site | Sep 25 |
 | **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/66f46565cab4ecdddff9ef4b?utm_campaign=1067&utm_source=git)** | Tulsa, OK | On Site | Sep 25 |
 | **[Altec Capital Services](https://www.altec.com/altec-capital/)** | **[Intern - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Sep 25 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/66f44f928a53efb98d7218e2?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Chick-fil-A](http://www.chick-fil-a.com/)** | **[Business Analyst Summer 2025 Intern](https://jobright.ai/jobs/info/66f2b923f28e75ea094e455b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 25 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/66e1785fdb987d1570ce87a1?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Sep 25 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/66d79824e4da9bb9d33c8c29?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 25 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[PGD Business Services Intern](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3056?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 25 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/66dc328b642759745132a95b?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 25 |
+| **[HII](https://hii.com)** | **[Corporate Business Management Intern](https://jobright.ai/jobs/info/66d741cce698ea5b631589ab?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 25 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Operations Analyst)](https://jobright.ai/jobs/info/66d7c0947426d43835f06dbd?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 25 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ed2?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Sep 25 |
 | ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ea8?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 25 |
@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/66d4eca782ed39a1b9e06002?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 23 |
 | **[Royal Bank of Canada](https://www.rbc.com)** | **[Summer Analyst, T&O Business Analyst](https://jobright.ai/jobs/info/66f226076ce14e79451a18e8?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Sep 22 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2025 Intern - Business Systems Analyst](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f7cb?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
