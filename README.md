@@ -62,8 +62,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Business Systems Analyst - Digital Risk Office)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08cb?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 28 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/66db882a20fdd013c7daa311?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 28 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Sep 28 |
-| ↳ | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66dbfb35f278f728fdd2e626?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 28 |
 | ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 28 |
+| ↳ | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66dbfb35f278f728fdd2e626?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 28 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/66dba6c798d4d2e98e20f805?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Sep 28 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst Intern](https://jobright.ai/jobs/info/66dbb5f28bad950f09c99567?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Sep 28 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/66f7ac5c0ea40f940f6d35a5?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 27 |
@@ -132,11 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Nelnet](https://nelnetinc.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/66f225bcb5901b1a986c83fc?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Sep 23 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/66f232fb3b4dcacedf6974cf?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Sep 23 |
 | **[Unum Group](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55ce?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Sep 23 |
-| **[Sensia Global](https://www.sensiaglobal.com/)** | **[Intern, Analyst](https://jobright.ai/jobs/info/66f7c9dc8a79f02a1a943efb?utm_campaign=1067&utm_source=git)** | United States of America Texas (remote) | Hybrid | Sep 23 |
-| ↳ | **[Intern, Analyst](https://jobright.ai/jobs/info/66f7c9dc8a79f02a1a943efa?utm_campaign=1067&utm_source=git)** | United States of America (remote) | Hybrid | Sep 23 |
+| **[Sensia Global](https://www.sensiaglobal.com/)** | **[Intern, Analyst](https://jobright.ai/jobs/info/66f7c9dc8a79f02a1a943efa?utm_campaign=1067&utm_source=git)** | United States of America (remote) | Hybrid | Sep 23 |
+| ↳ | **[Intern, Analyst](https://jobright.ai/jobs/info/66f7c9dc8a79f02a1a943efb?utm_campaign=1067&utm_source=git)** | United States of America Texas (remote) | Hybrid | Sep 23 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Analyst - Kalypso](https://jobright.ai/jobs/info/66f35d07b662614e7798e272?utm_campaign=1067&utm_source=git)** | United States of America (remote) | Hybrid | Sep 23 |
-| **[CRC Group](http://www.crcgroupins.com)** | **[Technology and Innovation Internship](https://jobright.ai/jobs/info/66f7d82450f6ec0490115a36?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 23 |
-| ↳ | **[Technology and Innovation Internship](https://jobright.ai/jobs/info/66f7ca508a79f02a1a94424b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 23 |
 | **[AstraZeneca](http://www.astrazeneca.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66f308a4825d32bce5b211b0?utm_campaign=1067&utm_source=git)** | US - Gaithersburg - MD | On Site | Sep 23 |
 | **[AbbVie](http://www.abbvie.com)** | **[Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/66f2b98f1c883d71c521e014?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Sep 23 |
 | ↳ | **[Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1cb?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Sep 23 |
