@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66fc328cb8dd8cf0f3a0dc5f?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Oct 01 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Business Analysis Graduate Intern](https://jobright.ai/jobs/info/66c3b1d7436bc6cf77b42af5?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Oct 01 |
 | ↳ | **[Business Technology Intern](https://jobright.ai/jobs/info/66c5cffe0b97dadeb241f0b7?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Oct 01 |
 | **[ABB](https://global.abb/group/en)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66fb7d17cd39b4d3b6f58169?utm_campaign=1067&utm_source=git)** | New Berlin, WI | On Site | Sep 30 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Summer Analyst, T&O Business Analyst, RBC Amplify - 2025](https://jobright.ai/jobs/info/66f9a9ff93cfbc5e35a72544?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship - Projects & Process Improvement Analyst](https://jobright.ai/jobs/info/66deb714f994f536673fd75c?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 28 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst - Digital Risk Office)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08cb?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 28 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/66db882a20fdd013c7daa311?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 28 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Sep 28 |
 | ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 28 |
 | ↳ | **[Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66dbfb35f278f728fdd2e626?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Sep 28 |
@@ -101,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Tenneco](https://www.tenneco.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66f49cb446b7f4347c0a00b2?utm_campaign=1067&utm_source=git)** | Monroe, MI | On Site | Sep 25 |
 | **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/66f46565cab4ecdddff9ef4b?utm_campaign=1067&utm_source=git)** | Tulsa, OK | On Site | Sep 25 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Intern - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Sep 25 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/66f44f928a53efb98d7217e7?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/66f44f928a53efb98d7218e2?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
 | **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66f44c44dc408dbea28c24d9?utm_campaign=1067&utm_source=git)** | Lakeville, MN | On Site | Sep 25 |
 | **[Chick-fil-A Corporate Support Center](http://www.chick-fil-a.com/)** | **[Business Analyst Summer 2025 Intern](https://jobright.ai/jobs/info/66f2b923f28e75ea094e455b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 25 |
 | **[Gallup](http://www.gallup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66d86243fd1cdc8d002d21b4?utm_campaign=1067&utm_source=git)** | Omaha, NE | Hybrid | Sep 25 |
@@ -114,7 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06eb9?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Sep 25 |
 | ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9af63?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 25 |
 | ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9b102?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Business Systems Analyst Intern - Integration Management Office](https://jobright.ai/jobs/info/66f359db1b5fe4efc53a19d2?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Undergraduate Student Intern - Business Operations](https://jobright.ai/jobs/info/66f3580826986ccf5c6b359a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 24 |
-| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Business and Operations Analyst Intern](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaacc5?utm_campaign=1067&utm_source=git)** | Appleton, WI | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
