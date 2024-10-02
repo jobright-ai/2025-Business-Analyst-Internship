@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e0d0bf32b3811348cc8afa?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 02 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2025 Spring Intern - Enterprise Research at UIUC](https://jobright.ai/jobs/info/66e08a4662f5bb8c3eb0cb73?utm_campaign=1067&utm_source=git)** | Champaign, IL | Hybrid | Oct 02 |
+| **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business, NAM](https://jobright.ai/jobs/info/66fd30ef068971d80000a5f0?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Oct 02 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern – Enterprise Innovation - Commercialization Analyst](https://jobright.ai/jobs/info/66fcc1a2f687de186b1c5d7c?utm_campaign=1067&utm_source=git)** | Warren, MI | Hybrid | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b9c5?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
 | ↳ | **[2025 Summer Intern: Business Analysis](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b98f?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 01 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Winter 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/66fa013dfe02d4341e4e388f?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | Hybrid | Sep 26 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/66f5e8dd6d59fcfcf15b8bf0?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Sep 26 |
 | ↳ | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/66f5d917bcff44e76d36dd66?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66f4965a4f2115295d38b207?utm_campaign=1067&utm_source=git)** | Nottingham, MD | Hybrid | Sep 26 |
 | **[BOMBARDIER](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66f5898e1a51e7bea5bf357a?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 26 |
 | **[HNTB](http://www.hntb.com/)** | **[Business Intern - Summer 2025](https://jobright.ai/jobs/info/66f579602ed7159f9da66d7a?utm_campaign=1067&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 26 |
 | ↳ | **[Business Intern - Summer 2025](https://jobright.ai/jobs/info/66f579602ed7159f9da6706c?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Sep 26 |
@@ -109,8 +111,4 @@ For a complete list, click the following sortable link below:
 | **[TSC](https://www.tsc.com/)** | **[SkillBridge Business Operations Analyst Intern](https://jobright.ai/jobs/info/66f5af3066a79ce8f4b570d8?utm_campaign=1067&utm_source=git)** | Arlington, VA | Hybrid | Sep 25 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Analyst for AI (Central Sales Ops)](https://jobright.ai/jobs/info/66f600dfd0003dacf50b5027?utm_campaign=1067&utm_source=git)** | Folsom, CA | On Site | Sep 25 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66f49cb446b7f4347c0a00b2?utm_campaign=1067&utm_source=git)** | Monroe, MI | On Site | Sep 25 |
-| **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/66f46565cab4ecdddff9ef4b?utm_campaign=1067&utm_source=git)** | Tulsa, OK | On Site | Sep 25 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Sep 25 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/66f44f928a53efb98d7217e7?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
-| **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Business Systems Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/66f44c44dc408dbea28c24d9?utm_campaign=1067&utm_source=git)** | Lakeville, MN | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
