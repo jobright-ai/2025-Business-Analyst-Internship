@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CARFAX](https://www.carfax.com/)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66fdcd8f16435ae68e0b8dcf?utm_campaign=1067&utm_source=git)** | Columbia, MO | On Site | Oct 02 |
+| ↳ | **[Business Analyst Intern - Winter 2025](https://jobright.ai/jobs/info/66fdcd8f16435ae68e0b8dbe?utm_campaign=1067&utm_source=git)** | Columbia, MO | On Site | Oct 02 |
+| **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[Business Intern](https://jobright.ai/jobs/info/66fdb96e9c9575cc5f62f472?utm_campaign=1067&utm_source=git)** | Saline, MI | On Site | Oct 02 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076345?utm_campaign=1067&utm_source=git)** | Buffalo, NY | On Site | Oct 02 |
 | ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076609?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e0d0bf32b3811348cc8afa?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 02 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Spring Intern - Enterprise Research at UIUC](https://jobright.ai/jobs/info/66e08a4662f5bb8c3eb0cb73?utm_campaign=1067&utm_source=git)** | Champaign, IL | Hybrid | Oct 02 |
-| **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business, NAM](https://jobright.ai/jobs/info/66fd846b76f52a81d83b7919?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Oct 02 |
+| **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business, NAM](https://jobright.ai/jobs/info/66fdde3215c6f44614ef0bdd?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Oct 02 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern – Enterprise Innovation - Commercialization Analyst](https://jobright.ai/jobs/info/66fcc1a2f687de186b1c5d7c?utm_campaign=1067&utm_source=git)** | Warren, MI | Hybrid | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b9c5?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
 | ↳ | **[2025 Summer Intern: Business Analysis](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b98f?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 01 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546836b9?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Hybrid | Oct 01 |
 | ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546834fd?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 01 |
+| **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66fdc72894795ebfa595d685?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Oct 01 |
 | **[Fabric Cryptography](https://www.fabriccryptography.com/)** | **[Business Analytics - Co-op](https://jobright.ai/jobs/info/66fc8db55a7e0433c1a36c2e?utm_campaign=1067&utm_source=git)** | North Kingstown, RI | On Site | Oct 01 |
 | **[REGENT](https://www.regentcraft.com)** | **[Business Analytics - Co-op](https://jobright.ai/jobs/info/66fc60ddc21a4507eda98a6a?utm_campaign=1067&utm_source=git)** | North Kingstown, RI | On Site | Oct 01 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst Intern, Summer 2025](https://jobright.ai/jobs/info/66fc328cb8dd8cf0f3a0dc5f?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Oct 01 |
