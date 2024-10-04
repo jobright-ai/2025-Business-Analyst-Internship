@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business - IDD](https://jobright.ai/jobs/info/66ffe9c073339a198562dea4?utm_campaign=1067&utm_source=git)** | Newark, DE | On Site | Oct 04 |
+| **[Dental Depot](http://dentaldepot.net)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/6700298ef85b2cd0bdc82188?utm_campaign=1067&utm_source=git)** | OKC Metro Area | On Site | Oct 04 |
+| **[L3Harris Technologies](https://www.l3harris.com/)** | **[Business Analyst Intern (Salt Lake City, UT)](https://jobright.ai/jobs/info/670025b82692dfa0442ccfca?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Oct 04 |
+| **[Lockton](https://global.lockton.com)** | **[Global Business Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8ae?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/66e393e08a4c06d8166a8f7c?utm_campaign=1067&utm_source=git)** | Sheboygan, WI | On Site | Oct 04 |
 | ↳ | **[Business Systems Intern](https://jobright.ai/jobs/info/66e393e08a4c06d8166a8d09?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 04 |
+| **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business - IDD](https://jobright.ai/jobs/info/670040f8ee9da6034cb1a943?utm_campaign=1067&utm_source=git)** | Newark, DE | On Site | Oct 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Oct 04 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Data Business Operations Analyst](https://jobright.ai/jobs/info/66e37f699cae8f22ffbc141b?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Oct 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d050836358?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
 | **[HNTB](http://www.hntb.com/)** | **[Business and Finance Intern - Summer 2025](https://jobright.ai/jobs/info/66ff5262646299eebce33aef?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Oct 03 |
-| **[TD](https://www.td.com)** | **[TD Bank CUNY Apprentice Program - Business Systems Analyst](https://jobright.ai/jobs/info/66ffed4dd6650c4640885aa4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 03 |
+| **[TD](https://www.td.com)** | **[TD Bank CUNY Apprentice Program - Business Systems Analyst](https://jobright.ai/jobs/info/67003f9596ff582cca4bd7ac?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
+| **[Rolls-Royce](http://www.rolls-royce.com)** | **[Business & Enterprise Intern](https://jobright.ai/jobs/info/670007c2722462e14583fcef?utm_campaign=1067&utm_source=git)** | Indianapolis | Hybrid | Oct 03 |
 | **[Lumen Technologies](https://news.lumen.com/home)** | **[Intern - Systems Business Analyst - Summer 2025](https://jobright.ai/jobs/info/66ff51f860c17554759040ab?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Rolling Meadows IL](https://jobright.ai/jobs/info/66ff1657d5525e2c94286016?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 03 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Connected Business](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f1f0?utm_campaign=1067&utm_source=git)** | Camden, NJ | On Site | Oct 03 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2025 - Business Analyst](https://jobright.ai/jobs/info/66fec80352c17028ef64ee62?utm_campaign=1067&utm_source=git)** | Idaho Falls, ID | On Site | Oct 03 |
 | **[Intuit](http://www.intuit.com)** | **[Senior Business Data Analyst Intern, Credit Strategy](https://jobright.ai/jobs/info/66feb1ec7aa8f075f26c8d1b?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Oct 03 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/66feab9d4a03eeb86d5dcbc8?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 03 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[Technology: Business Architecture - 2025 Summer Intern](https://jobright.ai/jobs/info/66ffa7683d353db056f333b9?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 03 |
 | **[TD](https://www.td.com)** | **[TD Bank CUNY Apprentice Program - Business Systems Analyst](https://jobright.ai/jobs/info/66ff3d6c369e12b636c11a1c?utm_campaign=1067&utm_source=git)** | New York, New York | Hybrid | Oct 02 |
 | **[CARFAX](https://www.carfax.com/)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66fdcd8f16435ae68e0b8dcf?utm_campaign=1067&utm_source=git)** | Columbia, MO | On Site | Oct 02 |
@@ -112,6 +115,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 28 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/66dba6c798d4d2e98e20f805?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Sep 28 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/66dbb5f28bad950f09c99567?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Sep 28 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/66f7ac5c0ea40f940f6d35a5?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 27 |
-| ↳ | **[Business Analyst Intern - Customer Experience Group](https://jobright.ai/jobs/info/66f7ac5c0ea40f940f6d3595?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
