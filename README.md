@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tekplant Infotech](https://www.tekplant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67035e93c59fb5e42c87fde6?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Oct 06 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/6702a6badc943a6d54b46211?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 06 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b384795814470f4d481e02?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 06 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Business Analysis Assoc. Intern](https://jobright.ai/jobs/info/67032f314ee4a2ffca5edde9?utm_campaign=1067&utm_source=git)** | USA VA Springfield | On Site | Oct 05 |
@@ -109,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Business Integration Intern](https://jobright.ai/jobs/info/66fb4c8720d692942772a0b8?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Sep 30 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern – Enterprise Innovation - Commercialization Analyst](https://jobright.ai/jobs/info/66fc944a85ac05036296f6fd?utm_campaign=1067&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Sep 30 |
 | **[Acumed](http://www.acumed.net)** | **[IT Business Solutions Intern](https://jobright.ai/jobs/info/66fc95faa8c1cf0a72761a05?utm_campaign=1067&utm_source=git)** | Wagoner, OK | On Site | Sep 30 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern - Business Process Improvement](https://jobright.ai/jobs/info/66fae8b37f35036b78e21c76?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
