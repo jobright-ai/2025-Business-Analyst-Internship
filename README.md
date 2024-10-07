@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern – Enterprise Innovation - Commercialization Analyst](https://jobright.ai/jobs/info/66fcc1a2f687de186b1c5d7c?utm_campaign=1067&utm_source=git)** | Warren, MI | Hybrid | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b9c5?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
 | ↳ | **[2025 Summer Intern: Business Analysis](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b98f?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 01 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546836b9?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Hybrid | Oct 01 |
-| ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546834fd?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 01 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546834fd?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 01 |
+| ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546836b9?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Hybrid | Oct 01 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66fdc72894795ebfa595d685?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Oct 01 |
 | **[Fabric Cryptography](https://www.fabriccryptography.com/)** | **[Business Analytics - Co-op](https://jobright.ai/jobs/info/66fc8db55a7e0433c1a36c2e?utm_campaign=1067&utm_source=git)** | North Kingstown, RI | On Site | Oct 01 |
 | **[REGENT](https://www.regentcraft.com)** | **[Business Analytics - Co-op](https://jobright.ai/jobs/info/66fc60ddc21a4507eda98a6a?utm_campaign=1067&utm_source=git)** | North Kingstown, RI | On Site | Oct 01 |
@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern - Business Process Improvement](https://jobright.ai/jobs/info/66fae8b37f35036b78e21c76?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 30 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern (3 Months +) (Hybrid)](https://jobright.ai/jobs/info/66ddf60dbf27e14686e0719f?utm_campaign=1067&utm_source=git)** | Montvale, NJ | Hybrid | Sep 30 |
 | **[Volvo Cars](http://www.volvocars.com/)** | **[Business Intern](https://jobright.ai/jobs/info/66de8f61e6b1d04c6a271456?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Sep 30 |
-| **[ADT](http://www.adt.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/66fceaaeba547193ad774345?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
