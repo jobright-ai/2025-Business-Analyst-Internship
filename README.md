@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corpay](https://payments.corpay.com)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6703fcf058b9fef342fcdf85?utm_campaign=1067&utm_source=git)** | Meriden, CT | On Site | Oct 07 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
 | **[Tekplant Infotech](https://www.tekplant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67035e93c59fb5e42c87fde6?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Oct 06 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/6702a6badc943a6d54b46211?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 06 |
@@ -108,7 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Business Analysis Graduate Intern - Summer 2025 (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/66c3b1d7436bc6cf77b42af5?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Oct 01 |
 | ↳ | **[Business Technology Intern - Summer 2025 (Hybrid - 3 Days in Office)](https://jobright.ai/jobs/info/66c5cffe0b97dadeb241f0b7?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Oct 01 |
 | **[ABB](https://global.abb/group/en)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66fb7d17cd39b4d3b6f58169?utm_campaign=1067&utm_source=git)** | New Berlin, WI | On Site | Sep 30 |
-| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Business Integration Intern](https://jobright.ai/jobs/info/66fb4c8720d692942772a0b8?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Sep 30 |
-| **[General Motors](https://www.gm.com)** | **[2025 Summer Intern – Enterprise Innovation - Commercialization Analyst](https://jobright.ai/jobs/info/66fc944a85ac05036296f6fd?utm_campaign=1067&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Sep 30 |
-| **[Acumed](http://www.acumed.net)** | **[IT Business Solutions Intern](https://jobright.ai/jobs/info/66fc95faa8c1cf0a72761a05?utm_campaign=1067&utm_source=git)** | Wagoner, OK | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
