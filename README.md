@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[College Co-op: BTS Provider Solutions Analyst](https://jobright.ai/jobs/info/6704f158a020bfa1339c394a?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Oct 08 |
+| **[Ampcus Inc](http://www.ampcus.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6704fbf90088746d52a1acb0?utm_campaign=1067&utm_source=git)** | Greenville, NC | On Site | Oct 07 |
 | **[NextEra Energy, Inc.](http://www.nexteraenergy.com)** | **[Quantitative Analyst Strategic Transformation- College Intern](https://jobright.ai/jobs/info/6704a152c723f9dd046b7e7b?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Oct 07 |
 | **[Mortenson](https://www.mortenson.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67047dc0facfa3a95f67fe8f?utm_campaign=1067&utm_source=git)** | Minnesota, United States | On Site | Oct 07 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Quantitative Analyst Strategic Transformation- College Intern](https://jobright.ai/jobs/info/670496df9a96b1eaba91a3df?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Oct 07 |
@@ -83,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Oct 04 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Data Business Operations Analyst](https://jobright.ai/jobs/info/66e37f699cae8f22ffbc141b?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Oct 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 04 |
-| **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d05083636b?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
+| **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d050836358?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
 | **[HNTB](http://www.hntb.com/)** | **[Business and Finance Intern - Summer 2025](https://jobright.ai/jobs/info/66ff5262646299eebce33aef?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Oct 03 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Business & Enterprise Intern](https://jobright.ai/jobs/info/670007c2722462e14583fcef?utm_campaign=1067&utm_source=git)** | Indianapolis | Hybrid | Oct 03 |
 | **[Lumen Technologies](https://news.lumen.com/home)** | **[Intern - Systems Business Analyst - Summer 2025](https://jobright.ai/jobs/info/66ff51f860c17554759040ab?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 03 |
@@ -110,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66fdc72894795ebfa595d685?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Oct 01 |
 | **[Fabric Cryptography](https://www.fabriccryptography.com/)** | **[Business Analytics - Co-op](https://jobright.ai/jobs/info/66fc8db55a7e0433c1a36c2e?utm_campaign=1067&utm_source=git)** | North Kingstown, RI | On Site | Oct 01 |
 | **[REGENT](https://www.regentcraft.com)** | **[Business Analytics - Co-op](https://jobright.ai/jobs/info/66fc60ddc21a4507eda98a6a?utm_campaign=1067&utm_source=git)** | North Kingstown, RI | On Site | Oct 01 |
-| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst Intern, Summer 2025](https://jobright.ai/jobs/info/66fc328cb8dd8cf0f3a0dc5f?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
