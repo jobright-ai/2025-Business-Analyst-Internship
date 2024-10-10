@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/67073f0f3efa6a071a294f3e?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Oct 09 |
 | **[ITW](http://www.itw.com/)** | **[IT Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/6706dbff4377d7a6de4f9c35?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Oct 09 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2025- CIPHER](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd425d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/6706b2518a8a206538ac79b3?utm_campaign=1067&utm_source=git)** | Bedford, MA | On Site | Oct 09 |
@@ -118,8 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Oct 04 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Data Business Operations Analyst](https://jobright.ai/jobs/info/66e37f699cae8f22ffbc141b?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Oct 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 04 |
-| **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d050836358?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
+| **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d05083636b?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
 | **[TD](https://www.td.com)** | **[TD Bank CUNY Apprentice Program - Business Systems Analyst](https://jobright.ai/jobs/info/66ff3d6c369e12b636c11a1c?utm_campaign=1067&utm_source=git)** | New York, New York | Hybrid | Oct 03 |
+| **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d89c?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Oct 03 |
 | **[Lumen Technologies](https://news.lumen.com/home)** | **[Intern - Systems Business Analyst - Summer 2025](https://jobright.ai/jobs/info/66ff51f860c17554759040ab?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Kering](https://www.kering-ventures.com)** | **[KERING Intern - Technology/BRM](https://jobright.ai/jobs/info/66fed82ec186e76d733cbd97?utm_campaign=1067&utm_source=git)** | Wayne, NJ | On Site | Oct 03 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d01?utm_campaign=1067&utm_source=git)** | Blauvelt, NY | On Site | Oct 03 |
@@ -128,6 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2025 - Business Analyst](https://jobright.ai/jobs/info/66fec80352c17028ef64ee62?utm_campaign=1067&utm_source=git)** | Idaho Falls, ID | On Site | Oct 03 |
 | **[Intuit](http://www.intuit.com)** | **[Senior Business Data Analyst Intern, Credit Strategy](https://jobright.ai/jobs/info/66feb1ec7aa8f075f26c8d1b?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Oct 03 |
 | **[ADT](http://www.adt.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/66fceaaeba547193ad774345?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Oct 03 |
-| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d8c7?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 03 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
