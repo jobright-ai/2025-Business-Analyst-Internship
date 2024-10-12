@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Development Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/6709b44c59e748032c199d78?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Oct 11 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/67097184558f05db5cb36969?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Oct 11 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Oct 11 |
+| **[Wellabe](https://www.wellabe.com)** | **[Summer 2025 Business Solutions Intern- Onsite Des Moines, Iowa](https://jobright.ai/jobs/info/66ecc6b376120c2fcbcf9477?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Oct 11 |
 | **[Veterinary Emergency Group](https://veterinaryemergencygroup.com)** | **[Rotational Business Analyst](https://jobright.ai/jobs/info/67088c7df5e2d6121348eb0a?utm_campaign=1067&utm_source=git)** | White Plains, NY | On Site | Oct 10 |
 | **[Vista Equity Partners](https://www.vistaequitypartners.com)** | **[2025 Business Analyst Intern](https://jobright.ai/jobs/info/67087143399d74812052fd10?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Oct 10 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Operations Business Analyst - R8087](https://jobright.ai/jobs/info/6708526ecd556e7017cc4dba?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Oct 10 |
@@ -66,14 +68,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/6708582326352e5e93bae879?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Oct 10 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[CXEC Analyst SummerCustomer Experience & Engagement Center (CXEC) Analyst - Summer Intern Intern](https://jobright.ai/jobs/info/67083d8624b018e0ff79475d?utm_campaign=1067&utm_source=git)** | Overland Park, KS | Hybrid | Oct 10 |
 | **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda63420dc?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Oct 10 |
+| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342306?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342305?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342308?utm_campaign=1067&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342307?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
-| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342306?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342309?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Oct 10 |
-| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230a?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230b?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 10 |
+| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230a?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230c?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 10 |
+| **[ECS](https://www.ecstech.com)** | **[Business Analyst (Int)](https://jobright.ai/jobs/info/67057fab54d45438f23402ac?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 10 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/67081435e8c79c21c79a0207?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
 | **[Hatch](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Oct 10 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/66eb6fb17b8112708d860e25?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Oct 10 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship – Business Analyst](https://jobright.ai/jobs/info/66eb5d6c1f7ffad39143d296?utm_campaign=1067&utm_source=git)** | Bentonville, AR | On Site | Oct 10 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/66eb08747146a6bf8e679ae7?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Oct 10 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Oct 09 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/67073f0f3efa6a071a294f3e?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Oct 09 |
 | **[ITW](http://www.itw.com/)** | **[IT Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/6706dbff4377d7a6de4f9c35?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Oct 09 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2025- CIPHER](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd425d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
@@ -98,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[LSEG (London Stock Exchange Group)](http://www.lseg.com)** | **[Business Summer Internship 2025](https://jobright.ai/jobs/info/6705a7a05ef3cc11d748d4d6?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Oct 08 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Performance Analytics](https://jobright.ai/jobs/info/6705f4363dcf83f89c63c5fa?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 08 |
 | ↳ | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/6705f4363dcf83f89c63c615?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 08 |
-| **[ECS](https://www.ecstech.com)** | **[Business Analyst (Int)](https://jobright.ai/jobs/info/67057fab54d45438f23402ac?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 08 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Business Analyst, Supply Distribution Center](https://jobright.ai/jobs/info/67056f6784b4f42c74148c74?utm_campaign=1067&utm_source=git)** | Bloomington, IL | On Site | Oct 08 |
 | **[LSEG (London Stock Exchange Group)](http://www.lseg.com)** | **[Business Summer Internship 2025](https://jobright.ai/jobs/info/67055229a32f750ce447b656?utm_campaign=1067&utm_source=git)** | USA-New York-28 Liberty Street | Hybrid | Oct 08 |
 | **[RadNet](https://www.radnet.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6705394613b53cc8c10b322e?utm_campaign=1067&utm_source=git)** | Fairport, NY | On Site | Oct 08 |
@@ -126,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Lumen Technologies](https://news.lumen.com/home)** | **[Intern - Business Process Analyst - Summer 2025](https://jobright.ai/jobs/info/6701d0de1b423b55bf5e96a2?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 05 |
 | **[American AgCredit](http://www.agloan.com/)** | **[Intern-Business Analyst](https://jobright.ai/jobs/info/66fcb7c22c4fcea471cf5c58?utm_campaign=1067&utm_source=git)** | United States | On Site | Oct 05 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Connected Business](https://jobright.ai/jobs/info/670134b1c26f1993a4019626?utm_campaign=1067&utm_source=git)** | Camden, NJ | On Site | Oct 05 |
-| **[InEight](https://ineight.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67011d98f53d9834faf1cd48?utm_campaign=1067&utm_source=git)** | Omaha, NE | Remote | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
