@@ -77,10 +77,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/6708582326352e5e93bae879?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Oct 10 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[CXEC Analyst SummerCustomer Experience & Engagement Center (CXEC) Analyst - Summer Intern Intern](https://jobright.ai/jobs/info/67083d8624b018e0ff79475d?utm_campaign=1067&utm_source=git)** | Overland Park, KS | Hybrid | Oct 10 |
 | **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda63420dc?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Oct 10 |
-| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342307?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342305?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342308?utm_campaign=1067&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342306?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 10 |
+| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342307?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342309?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230b?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230a?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst (Int)](https://jobright.ai/jobs/info/67057fab54d45438f23402ac?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 10 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/67081435e8c79c21c79a0207?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
 | **[Sarah Cannon Research Institute](https://www.scri.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709d7a516be1ec974288c1f?utm_campaign=1067&utm_source=git)** | USA, OH, Columbus | On Site | Oct 10 |
+| ↳ | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709d70516be1ec974287f31?utm_campaign=1067&utm_source=git)** | USA, OH, Remote | On Site | Oct 10 |
 | **[Airbus](https://us.airbus.com)** | **[Internship as Business Performance Improver (d/f/m)](https://jobright.ai/jobs/info/6709d70516be1ec974287f55?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Oct 10 |
-| **[Sarah Cannon Research Institute](https://www.scri.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709d7a516be1ec974288c37?utm_campaign=1067&utm_source=git)** | USA, OH, Remote | On Site | Oct 10 |
 | **[Norton Lilly International](https://nortonlilly.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/670a5683ffd555e8136481fe?utm_campaign=1067&utm_source=git)** | Mobile, AL | On Site | Oct 10 |
 | **[Hatch](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Oct 10 |
