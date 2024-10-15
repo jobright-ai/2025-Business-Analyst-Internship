@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AbbVie](http://www.abbvie.com)** | **[2025 Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1cb?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 15 |
+| **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Associate Business Analyst (Bachelors; Remote)](https://jobright.ai/jobs/info/670eb9a7d26881606f9ca50d?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Oct 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Global Data Governance and Analytics Intern (Global Monetization Strategy and Operations-Global Data Governance and Analytics)- 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812bed5b?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Oct 15 |
+| **[AbbVie](http://www.abbvie.com)** | **[2025 Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/66f2b98f1c883d71c521e014?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 15 |
+| ↳ | **[2025 Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1cb?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 15 |
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55ce?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Oct 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e458?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Oct 15 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/670dbfcfda9ee83248416a21?utm_campaign=1067&utm_source=git)** | Ohio, United States | Remote | Oct 14 |
@@ -95,9 +98,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230c?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 10 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst (Int)](https://jobright.ai/jobs/info/67057fab54d45438f23402ac?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 10 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/67081435e8c79c21c79a0207?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
-| **[Sarah Cannon Research Institute](https://www.scri.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709d70516be1ec974287f31?utm_campaign=1067&utm_source=git)** | USA, OH, Remote | On Site | Oct 10 |
-| ↳ | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709d7a516be1ec974288c1f?utm_campaign=1067&utm_source=git)** | USA, OH, Columbus | On Site | Oct 10 |
 | **[Airbus](https://us.airbus.com)** | **[Internship as Business Performance Improver (d/f/m)](https://jobright.ai/jobs/info/6709d70516be1ec974287f55?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Oct 10 |
+| **[Sarah Cannon Research Institute](https://www.scri.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709d7a516be1ec974288c37?utm_campaign=1067&utm_source=git)** | USA, OH, Remote | On Site | Oct 10 |
+| ↳ | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709d7a516be1ec974288c36?utm_campaign=1067&utm_source=git)** | USA, OH, Columbus | On Site | Oct 10 |
 | **[Norton Lilly International](https://nortonlilly.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/670a5683ffd555e8136481fe?utm_campaign=1067&utm_source=git)** | Mobile, AL | On Site | Oct 10 |
 | **[Hatch](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Oct 10 |
@@ -114,7 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Consumer Components Business Analyst](https://jobright.ai/jobs/info/66e9c16f7e3ce4a1c5e9a767?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Oct 09 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/66cea3b43778a80c75c4c38c?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 09 |
 | **[DISH Network](https://www.dish.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/67064cf6754d0a0629b825a0?utm_campaign=1067&utm_source=git)** | Littleton, CO | On Site | Oct 09 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/6705e52ed3078e00188d087e?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 08 |
-| **[CHAS Health](https://chas.org/)** | **[College Intern (Business Intelligence)](https://jobright.ai/jobs/info/670701ef2176f49f9cd98f20?utm_campaign=1067&utm_source=git)** | Spokane, WA | On Site | Oct 08 |
-| **[Lennox](http://www.lennox.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6705f0015880982216018a92?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
