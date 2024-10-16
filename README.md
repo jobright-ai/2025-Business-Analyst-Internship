@@ -57,10 +57,62 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25678?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2567c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2567b?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2567a?utm_campaign=1067&utm_source=git)** | Irvine, CA | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25679?utm_campaign=1067&utm_source=git)** | Novi, MI | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2567d?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670fe972ab2d726a765db0e5?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2567e?utm_campaign=1067&utm_source=git)** | Nevada, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2567f?utm_campaign=1067&utm_source=git)** | Florida, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25680?utm_campaign=1067&utm_source=git)** | North Dakota, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670fe972ab2d726a765db0e6?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670fe6d55445045f8d6ab17d?utm_campaign=1067&utm_source=git)** | New Hampshire, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25681?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25684?utm_campaign=1067&utm_source=git)** | Oregon, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25683?utm_campaign=1067&utm_source=git)** | Missouri, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25682?utm_campaign=1067&utm_source=git)** | Alabama, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25685?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25686?utm_campaign=1067&utm_source=git)** | Hawaii, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25687?utm_campaign=1067&utm_source=git)** | Arizona, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25688?utm_campaign=1067&utm_source=git)** | Tennessee, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25689?utm_campaign=1067&utm_source=git)** | Idaho, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2568a?utm_campaign=1067&utm_source=git)** | Delaware, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2568b?utm_campaign=1067&utm_source=git)** | Illinois, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2568d?utm_campaign=1067&utm_source=git)** | New Mexico, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2568e?utm_campaign=1067&utm_source=git)** | South Dakota, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2568f?utm_campaign=1067&utm_source=git)** | Oklahoma, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2568c?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25690?utm_campaign=1067&utm_source=git)** | Utah, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25691?utm_campaign=1067&utm_source=git)** | Connecticut, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25694?utm_campaign=1067&utm_source=git)** | Indiana, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25693?utm_campaign=1067&utm_source=git)** | Ohio, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25692?utm_campaign=1067&utm_source=git)** | Georgia, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25695?utm_campaign=1067&utm_source=git)** | Louisiana, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25697?utm_campaign=1067&utm_source=git)** | Alaska, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2569b?utm_campaign=1067&utm_source=git)** | Montana, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25699?utm_campaign=1067&utm_source=git)** | Arkansas, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25696?utm_campaign=1067&utm_source=git)** | California, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2569a?utm_campaign=1067&utm_source=git)** | Rhode Island, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e25698?utm_campaign=1067&utm_source=git)** | Mississippi, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2569f?utm_campaign=1067&utm_source=git)** | Kentucky, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2569d?utm_campaign=1067&utm_source=git)** | Maryland, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2569e?utm_campaign=1067&utm_source=git)** | Nebraska, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e256a0?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e2569c?utm_campaign=1067&utm_source=git)** | Kansas, United States | Remote | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e256a1?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e256a2?utm_campaign=1067&utm_source=git)** | Boulder, CO | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e256a3?utm_campaign=1067&utm_source=git)** | Orem, UT | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e256a4?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 16 |
+| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/670ff2d3de9b5f40e8e256a5?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Oct 16 |
+| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Undergraduate - Business and Corporate Functions Intern](https://jobright.ai/jobs/info/670fcfbcba558f7e8a56b53f?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Business Systems Analyst Intern - Integration Management Office](https://jobright.ai/jobs/info/66f359db1b5fe4efc53a19d2?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 16 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/66dc328b642759745132a95b?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 16 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Projects & Process Improvement Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e428?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Oct 16 |
+| ↳ | **[Summer Associate Internship (Business Operations Analyst)](https://jobright.ai/jobs/info/66d7c0947426d43835f06dbd?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Oct 16 |
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Associate Business Analyst (Bachelors; Remote)](https://jobright.ai/jobs/info/670f4b8da6eef1eefb30a094?utm_campaign=1067&utm_source=git)** | Reston, VA | Remote | Oct 15 |
-| **[Skookum](https://www.skookum.org/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/670f958a28bf47f7e530cdfd?utm_campaign=1067&utm_source=git)** | Bremerton, WA | On Site | Oct 15 |
+| **[Skookum](https://www.skookum.org/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/670feeff41f9f2dfa2ed8b92?utm_campaign=1067&utm_source=git)** | Bremerton, WA | Hybrid | Oct 15 |
 | **[REGENT](https://www.regentcraft.com)** | **[Business Analytics - Co-op](https://jobright.ai/jobs/info/670eea02fa6df6931eb18f53?utm_campaign=1067&utm_source=git)** | North Kingstown, RI | On Site | Oct 15 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship (Spring 2025)](https://jobright.ai/jobs/info/670edb83468f998f8d657ec1?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | Hybrid | Oct 15 |
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Associate Business Analyst (Bachelors; Remote)](https://jobright.ai/jobs/info/670eb9a7d26881606f9ca50d?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Oct 15 |
@@ -96,25 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/6708582326352e5e93bae879?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Oct 10 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[CXEC Analyst SummerCustomer Experience & Engagement Center (CXEC) Analyst - Summer Intern Intern](https://jobright.ai/jobs/info/67083d8624b018e0ff79475d?utm_campaign=1067&utm_source=git)** | Overland Park, KS | Hybrid | Oct 10 |
 | **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda63420dc?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Oct 10 |
+| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342307?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342306?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342305?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342308?utm_campaign=1067&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 10 |
-| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342307?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342309?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Oct 10 |
-| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230a?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230b?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 10 |
+| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230a?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230c?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 10 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst (Int)](https://jobright.ai/jobs/info/67057fab54d45438f23402ac?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 10 |
-| **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/67081435e8c79c21c79a0207?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
-| **[Sarah Cannon Research Institute](https://www.scri.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709d70516be1ec974287f31?utm_campaign=1067&utm_source=git)** | USA, OH, Remote | On Site | Oct 10 |
-| ↳ | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709d7a516be1ec974288c1f?utm_campaign=1067&utm_source=git)** | USA, OH, Columbus | On Site | Oct 10 |
-| **[Airbus](https://us.airbus.com)** | **[Internship as Business Performance Improver (d/f/m)](https://jobright.ai/jobs/info/6709d70516be1ec974287f55?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Oct 10 |
-| **[Norton Lilly International](https://nortonlilly.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/670a5683ffd555e8136481fe?utm_campaign=1067&utm_source=git)** | Mobile, AL | On Site | Oct 10 |
-| **[Hatch](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/66ce2fe8e8674f09369acb76?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 10 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfc4baebafd8c7b8586695?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Oct 10 |
-| ↳ | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 10 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship – Business Analyst](https://jobright.ai/jobs/info/66eb5d6c1f7ffad39143d296?utm_campaign=1067&utm_source=git)** | Bentonville, AR | On Site | Oct 10 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/66eb08747146a6bf8e679ae7?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Oct 10 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Oct 09 |
-| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/67073f0f3efa6a071a294f3e?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
