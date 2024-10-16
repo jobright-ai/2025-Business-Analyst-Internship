@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[REGENT](https://www.regentcraft.com)** | **[Business Analytics - Co-op](https://jobright.ai/jobs/info/670eea02fa6df6931eb18f53?utm_campaign=1067&utm_source=git)** | North Kingstown, RI | On Site | Oct 15 |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship (Spring 2025)](https://jobright.ai/jobs/info/670edb83468f998f8d657ec1?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | Hybrid | Oct 15 |
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Associate Business Analyst (Bachelors; Remote)](https://jobright.ai/jobs/info/670eb9a7d26881606f9ca50d?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Oct 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Data Governance and Analytics Intern (Global Monetization Strategy and Operations-Global Data Governance and Analytics)- 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812bed5b?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Oct 15 |
+| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[MBA Associate Intern, Data Strategy & Solutions (Summer 2025)](https://jobright.ai/jobs/info/66d698581e4052569f429d19?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | **[AbbVie](http://www.abbvie.com)** | **[2025 Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/66f2b98f1c883d71c521e014?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 15 |
 | ↳ | **[2025 Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1cb?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 15 |
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55ce?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Oct 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e458?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Oct 15 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66f1af7abb8de7edc047c63b?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Oct 15 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/670dbfcfda9ee83248416a21?utm_campaign=1067&utm_source=git)** | Ohio, United States | Remote | Oct 14 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/670d814365ab3248772d2d3c?utm_campaign=1067&utm_source=git)** | Ohio Remote | On Site | Oct 14 |
 | **[BeaconFire Inc.](https://beaconfireinc.com)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/670d2978ded15544660c0851?utm_campaign=1067&utm_source=git)** | East Windsor, NJ | Hybrid | Oct 14 |
@@ -88,13 +92,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/6708582326352e5e93bae879?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Oct 10 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[CXEC Analyst SummerCustomer Experience & Engagement Center (CXEC) Analyst - Summer Intern Intern](https://jobright.ai/jobs/info/67083d8624b018e0ff79475d?utm_campaign=1067&utm_source=git)** | Overland Park, KS | Hybrid | Oct 10 |
 | **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda63420dc?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Oct 10 |
-| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342306?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342305?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342308?utm_campaign=1067&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342307?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
+| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342306?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda6342309?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Oct 10 |
-| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230a?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230b?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 10 |
+| ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230a?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
 | ↳ | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/67084f71c05731eda634230c?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 10 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst (Int)](https://jobright.ai/jobs/info/67057fab54d45438f23402ac?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 10 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/67081435e8c79c21c79a0207?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 10 |
