@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/671947e928ed0323617c4712?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Oct 23 |
+| **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/671927dc672a6b1ce5581f61?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Business Operations Intern - Business Insurance](https://jobright.ai/jobs/info/67193cc5dce2675476a7e903?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/671907525d724e1a7c8ffae5?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Oct 23 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western)](https://jobright.ai/jobs/info/6718f2397d7e91e76c8d1050?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 23 |
-| **[TD](https://www.td.com)** | **[TD Bank CUNY Apprentice Program - Business Systems Analyst](https://jobright.ai/jobs/info/6718d00b4aff602ce985bade?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analysis](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b98f?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 22 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Commercial Business Associate - Summer Internship 2025](https://jobright.ai/jobs/info/67185ea528c51945e6bfe860?utm_campaign=1067&utm_source=git)** | Little Chute, WI | On Site | Oct 22 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67184ca39e8854e61cd00cef?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Oct 22 |
