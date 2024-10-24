@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546834fd?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 24 |
+| ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546836b9?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Hybrid | Oct 24 |
+| **[CARFAX](https://www.carfax.com/)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66fdcd8f16435ae68e0b8dcf?utm_campaign=1067&utm_source=git)** | Centreville, VA | On Site | Oct 24 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076345?utm_campaign=1067&utm_source=git)** | Buffalo, NY | On Site | Oct 24 |
+| ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076609?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 24 |
+| **[Comcast](http://corporate.comcast.com)** | **[Business Analytics Internship (Central Division)](https://jobright.ai/jobs/info/66e09b2c21f4fbe4017669c7?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 24 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6719eb443862562efc547e35?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Oct 23 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/671a0f49e05672774759a313?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Systems Analyst](https://jobright.ai/jobs/info/6719a538aaa12845f52292f4?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Oct 23 |
@@ -78,10 +84,10 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2025)](https://jobright.ai/jobs/info/6719ded0e576a54cc2105dc7?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Oct 21 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/67171e119917af8e0e78ae51?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 21 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western)](https://jobright.ai/jobs/info/67170dd166f4c4e7b6a85eaf?utm_campaign=1067&utm_source=git)** | Glendale, CO | On Site | Oct 21 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d8c8?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst Intern - Summer 2025, ATL](https://jobright.ai/jobs/info/671686d3c4a94bf39490cefd?utm_campaign=1067&utm_source=git)** | US-GA Atlanta | On Site | Oct 21 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/6716850dd9c5c81425623dff?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 21 |
-| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d8c7?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
-| ↳ | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/67105d063b8354fb07fbce43?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/67105d063b8354fb07fbce43?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
 | ↳ | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d83e?utm_campaign=1067&utm_source=git)** | Apopka, FL | On Site | Oct 21 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66e082df53d2c8580086a38c?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Investment Research Business Analyst Intern](https://jobright.ai/jobs/info/67161a87694caddee2dca587?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 21 |
@@ -119,8 +125,4 @@ For a complete list, click the following sortable link below:
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/66e1785fdb987d1570ce87a1?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Oct 17 |
 | **[GAF](http://www.gaf.com/)** | **[IT SAP Intern](https://jobright.ai/jobs/info/6711c4e587737d7665cdfd14?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Oct 17 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/671196c8aefca2156f578a9d?utm_campaign=1067&utm_source=git)** | Washington, DC | Remote | Oct 17 |
-| **[GAF](http://www.gaf.com/)** | **[IT SAP Intern](https://jobright.ai/jobs/info/67117c88c71323c15298ccb0?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Oct 17 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Oct 17 |
-| **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/671166d10f93d95c0bc2302d?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 17 |
-| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9af63?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
