@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Systems Planning & Analysis](http://www.spa.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6719eb443862562efc547e35?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Oct 23 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/671a0f49e05672774759a313?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Systems Analyst](https://jobright.ai/jobs/info/6719a538aaa12845f52292f4?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Oct 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/67199f302d7069863968d31d?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| **[CIBC](https://www.cibc.com)** | **[Technology: Business Architecture - 2025 Summer Intern](https://jobright.ai/jobs/info/67196ab82074321a9770faa2?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
+| **[CIBC](https://www.cibc.com)** | **[Technology: Business Architecture - 2025 Summer Intern](https://jobright.ai/jobs/info/67196ab82074321a9770faa1?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/671947e928ed0323617c4712?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Oct 23 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/671927dc672a6b1ce5581f61?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Business Operations Intern - Business Insurance](https://jobright.ai/jobs/info/67193cc5dce2675476a7e903?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
@@ -67,11 +69,13 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western)](https://jobright.ai/jobs/info/6718f2397d7e91e76c8d1050?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 23 |
 | **[T. Marzetti Company](http://www.tmarzetticompany.com/)** | **[Intern - Continuous Improvement Analyst](https://jobright.ai/jobs/info/66e19c10fcb89a9c50622970?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analysis](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b98f?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 23 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship – Business Analyst](https://jobright.ai/jobs/info/67080911e449f9e736a52af6?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Oct 22 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 22 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Commercial Business Associate - Summer Internship 2025](https://jobright.ai/jobs/info/67185ea528c51945e6bfe860?utm_campaign=1067&utm_source=git)** | Little Chute, WI | On Site | Oct 22 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67184ca39e8854e61cd00cef?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Oct 22 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Systems Analyst](https://jobright.ai/jobs/info/67181b7cda01aed52e631e2f?utm_campaign=1067&utm_source=git)** | CT Hartford | On Site | Oct 22 |
 | **[ABB](https://global.abb/group/en)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66fb7d17cd39b4d3b6f58169?utm_campaign=1067&utm_source=git)** | New Berlin, WI | On Site | Oct 22 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2025)](https://jobright.ai/jobs/info/6719ded0e576a54cc2105dc7?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Oct 21 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/67171e119917af8e0e78ae51?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 21 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western)](https://jobright.ai/jobs/info/67170dd166f4c4e7b6a85eaf?utm_campaign=1067&utm_source=git)** | Glendale, CO | On Site | Oct 21 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst Intern - Summer 2025, ATL](https://jobright.ai/jobs/info/671686d3c4a94bf39490cefd?utm_campaign=1067&utm_source=git)** | US-GA Atlanta | On Site | Oct 21 |
@@ -104,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Business Analytics Intern - Spring 2025](https://jobright.ai/jobs/info/6712c313e949a0e2403be9bc?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
 | **[Kemin Industries](http://www.kemin.com)** | **[Business Intern](https://jobright.ai/jobs/info/66d9cef9c2343b56a62a403b?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Oct 18 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Business Analyst, IT Corporate Applications Intern](https://jobright.ai/jobs/info/6712904a396afea5b6c14686?utm_campaign=1067&utm_source=git)** | Byron Center, MI | Hybrid | Oct 18 |
-| **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Business Operations](https://jobright.ai/jobs/info/67123d6e8ebf4c27c0eb2606?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 18 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/671783352bb5ca247176628c?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Oct 18 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/66d94f16db6eb367c754eaa2?utm_campaign=1067&utm_source=git)** | Purchase, NY | On Site | Oct 18 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Analyst for AI (Central Sales Ops)](https://jobright.ai/jobs/info/66f63a893178e22faf1e6fb6?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Oct 18 |
@@ -120,9 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Oct 17 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/671166d10f93d95c0bc2302d?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 17 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9af63?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
-| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/67073f0f3efa6a071a294f3e?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Oct 17 |
-| **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/66f46565cab4ecdddff9ef4b?utm_campaign=1067&utm_source=git)** | Tulsa, OK | On Site | Oct 17 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/67102edb6c6764ddb1b2e959?utm_campaign=1067&utm_source=git)** | Iowa, United States | Remote | Oct 17 |
-| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/67102edb6c6764ddb1b2e95b?utm_campaign=1067&utm_source=git)** | District of Columbia, United States | Remote | Oct 17 |
-| ↳ | **[Intern, Business Resiliency](https://jobright.ai/jobs/info/67102edb6c6764ddb1b2e95a?utm_campaign=1067&utm_source=git)** | Minnesota, United States | Remote | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
