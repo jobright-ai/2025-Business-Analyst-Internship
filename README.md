@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c24?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Oct 27 |
 | **[Novelis](http://novelis.com)** | **[R & D Business Analyst Intern](https://jobright.ai/jobs/info/671d57602fd46857a2f0215f?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Oct 26 |
 | **[AbbVie](http://www.abbvie.com)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/67005e25a22eeb4d579eed61?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Oct 26 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern, Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d02?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Oct 25 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 24 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/671ada6c9c7f7f1582691a0e?utm_campaign=1067&utm_source=git)** | Bloomington, IL | Hybrid | Oct 24 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671adeeb2cd987a02c671c65?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
-| ↳ | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671addc92cd987a02c6713c1?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 24 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671addc92cd987a02c6713c1?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 24 |
+| ↳ | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671adeeb2cd987a02c671c65?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
 | **[Zoox](https://www.zoox.com/)** | **[Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ad5e26d4be00b8705702a?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Oct 24 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Operational Analytics Intern](https://jobright.ai/jobs/info/671ac0c32a9985095ec0c222?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Oct 24 |
 | **[Zoox](https://www.zoox.com/)** | **[Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ab3d39f85820efe14be97?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Oct 24 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[CIBC](https://www.cibc.com)** | **[CRE Business Analytics - 2025 Summer Intern](https://jobright.ai/jobs/info/671a56afdb55a822281cfb47?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/671a56afdb55a822281cfb50?utm_campaign=1067&utm_source=git)** | US WI MKE 4900 | On Site | Oct 24 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/671a5cc4a849479c4521df0b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Oct 24 |
+| **[ASML](https://www.asml.com)** | **[Internship - MBA Contract Data Analyst](https://jobright.ai/jobs/info/66fe08613cda913c735a3f02?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546834fd?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 24 |
 | ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546836b9?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Hybrid | Oct 24 |
 | **[CARFAX](https://www.carfax.com/)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66fdcd8f16435ae68e0b8dcf?utm_campaign=1067&utm_source=git)** | Centreville, VA | On Site | Oct 24 |
@@ -95,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Comcast](http://corporate.comcast.com)** | **[Business Analytics Internship (Central Division)](https://jobright.ai/jobs/info/66e09b2c21f4fbe4017669c7?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 24 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6719eb443862562efc547e35?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Oct 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/67199f302d7069863968d31d?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| **[CIBC](https://www.cibc.com)** | **[Technology: Business Architecture - 2025 Summer Intern](https://jobright.ai/jobs/info/67196ab82074321a9770faa2?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
+| **[CIBC](https://www.cibc.com)** | **[Technology: Business Architecture - 2025 Summer Intern](https://jobright.ai/jobs/info/67196ab82074321a9770faa1?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/671927dc672a6b1ce5581f61?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Business Operations Intern - Business Insurance](https://jobright.ai/jobs/info/67193cc5dce2675476a7e903?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western)](https://jobright.ai/jobs/info/6718f2397d7e91e76c8d1050?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 23 |
@@ -116,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst - Digital Risk Office)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08cb?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Oct 20 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/66dbb8844fd26a945eb14bd4?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Hybrid | Oct 20 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08ba?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Oct 20 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
