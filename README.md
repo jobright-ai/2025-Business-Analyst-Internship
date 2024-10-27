@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novelis](http://novelis.com)** | **[R & D Business Analyst Intern](https://jobright.ai/jobs/info/671d57602fd46857a2f0215f?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Oct 26 |
 | **[AbbVie](http://www.abbvie.com)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/67005e25a22eeb4d579eed61?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 26 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Oct 26 |
 | **[Novelis](http://novelis.com)** | **[R & D Business Analyst Intern](https://jobright.ai/jobs/info/671d3c0729bca739389ce3f6?utm_campaign=1067&utm_source=git)** | 1950 Vaughn Road, Kennesaw, GA, US | On Site | Oct 25 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Business Systems Intern, Summer 2025 (Remote)](https://jobright.ai/jobs/info/671c77bd110804783ab433ce?utm_campaign=1067&utm_source=git)** | Springfield, IL | Hybrid | Oct 25 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2025 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/671c5bfc201df9d831be2ae3?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 25 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d050836358?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 25 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern, Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d02?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Oct 25 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 24 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[Technology: Business Architecture - 2025 Summer Intern](https://jobright.ai/jobs/info/671c5f66190eaab208dfaff1?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/671ada6c9c7f7f1582691a0e?utm_campaign=1067&utm_source=git)** | Bloomington, IL | Hybrid | Oct 24 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671addc92cd987a02c6713c1?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 24 |
 | ↳ | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671adeeb2cd987a02c671c65?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
@@ -106,10 +107,10 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67184ca39e8854e61cd00cef?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Oct 22 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Business Integration Intern](https://jobright.ai/jobs/info/66fb4c8720d692942772a0b8?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Oct 22 |
 | **[ABB](https://global.abb/group/en)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66fb7d17cd39b4d3b6f58169?utm_campaign=1067&utm_source=git)** | New Berlin, WI | On Site | Oct 22 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d8c8?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst Intern - Summer 2025, ATL](https://jobright.ai/jobs/info/671686d3c4a94bf39490cefd?utm_campaign=1067&utm_source=git)** | US-GA Atlanta | On Site | Oct 21 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/6716850dd9c5c81425623dff?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 21 |
-| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d8c7?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
-| ↳ | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/67105d063b8354fb07fbce43?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/67105d063b8354fb07fbce43?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
 | ↳ | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d83e?utm_campaign=1067&utm_source=git)** | Apopka, FL | On Site | Oct 21 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66e082df53d2c8580086a38c?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Oct 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst - Digital Risk Office)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08cb?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Oct 20 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66dbfb35f278f728fdd2e626?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 20 |
 | ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Oct 20 |
 | **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Summer 2025 Business Process Innovation Intern](https://jobright.ai/jobs/info/6714d1b3e298f4f37b9de561?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Oct 20 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/6714c588de9ad75abad27586?utm_campaign=1067&utm_source=git)** | US - California - Thousand Oaks | On Site | Oct 20 |
-| ↳ | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/6714c588de9ad75abad27433?utm_campaign=1067&utm_source=git)** | United States - Remote | Remote | Oct 20 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Projects & Process Improvement Analyst)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08a8?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Oct 20 |
+| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/6714c588de9ad75abad27433?utm_campaign=1067&utm_source=git)** | United States - Remote | Remote | Oct 20 |
+| ↳ | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/6714c588de9ad75abad27586?utm_campaign=1067&utm_source=git)** | US - California - Thousand Oaks | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
