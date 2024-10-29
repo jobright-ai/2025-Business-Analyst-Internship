@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Information Systems Business Operations Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/672015a3f806b1549aad7020?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Oct 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/671e764688676f87b9befa8a?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | ↳ | **[2025 Business Technology Solutions Externship](https://jobright.ai/jobs/info/671e6e9bbf8481148822ee57?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | ↳ | **[2025 Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/671e61bf39aa408fa5181765?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
@@ -82,10 +83,9 @@ For a complete list, click the following sortable link below:
 | **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d05083636b?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 25 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern, Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d02?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Oct 25 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 24 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/671f00bd48b3e60b9bf03ecb?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 24 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/671ada6c9c7f7f1582691a0e?utm_campaign=1067&utm_source=git)** | Bloomington, IL | Hybrid | Oct 24 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671addc92cd987a02c6713c1?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 24 |
-| ↳ | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671adeeb2cd987a02c671c65?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671adeeb2cd987a02c671c65?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
+| ↳ | **[Intern - Business Analyst, Insurance Insights](https://jobright.ai/jobs/info/671addc92cd987a02c6713c1?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Zoox](https://www.zoox.com/)** | **[Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ad5e26d4be00b8705702a?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Oct 24 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Operational Analytics Intern](https://jobright.ai/jobs/info/671ac0c32a9985095ec0c222?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Oct 24 |
 | **[Zoox](https://www.zoox.com/)** | **[Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ab3d39f85820efe14be97?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Oct 24 |
