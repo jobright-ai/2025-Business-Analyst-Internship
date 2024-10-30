@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASML](https://www.asml.com)** | **[Internship - MBA Contract Data Analyst](https://jobright.ai/jobs/info/672169287987123849ebec17?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/672172160e3360cd69f9c7e9?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Oct 29 |
+| **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67215c23c05151c8dca16acf?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Oct 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight ( Digital Business Services)](https://jobright.ai/jobs/info/672132f3f9bb3fd7fb4d6922?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 29 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Spring 2025)](https://jobright.ai/jobs/info/6721072541f1a6f32670f021?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Oct 29 |
-| **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Associate Business Analyst (Bachelors; Remote)](https://jobright.ai/jobs/info/6720f02c6501876ba4b1b312?utm_campaign=1067&utm_source=git)** | Reston, VA | Remote | Oct 29 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Digital Finance & Innovation - Beachwood, OH](https://jobright.ai/jobs/info/6720de193e3cf99dd4a56017?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Oct 29 |
+| **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6721444e465e3ae47c096f3a?utm_campaign=1067&utm_source=git)** | 433 S Main Street, West Hartford, CT, US | On Site | Oct 28 |
 | **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/67205d9f46af766862df1922?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Oct 28 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Business Process Excellence Intern - Summer 2025](https://jobright.ai/jobs/info/67204a085e6dd985aff623ce?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Oct 28 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern-Business Analyst](https://jobright.ai/jobs/info/67202b453f85a4ff6a023e4a?utm_campaign=1067&utm_source=git)** | Rochester, NY | On Site | Oct 28 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66c67e3ff66f412293768595?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Oct 25 |
 | **[Intuit](http://www.intuit.com)** | **[Senior Business Data Analyst Intern, Credit Strategy](https://jobright.ai/jobs/info/66feb1ec7aa8f075f26c8d1b?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Oct 25 |
 | **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business - IDD](https://jobright.ai/jobs/info/671b80c1cc4311ad8a1069e1?utm_campaign=1067&utm_source=git)** | Newark, DE | On Site | Oct 25 |
-| **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d050836358?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 25 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern, Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d02?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Oct 25 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 24 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/671ada6c9c7f7f1582691a0e?utm_campaign=1067&utm_source=git)** | Bloomington, IL | Hybrid | Oct 24 |
@@ -114,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western)](https://jobright.ai/jobs/info/6718f2397d7e91e76c8d1050?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 23 |
 | **[T. Marzetti Company](http://www.tmarzetticompany.com/)** | **[Intern - Continuous Improvement Analyst](https://jobright.ai/jobs/info/66e19c10fcb89a9c50622970?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analysis](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b98f?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 23 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2025)](https://jobright.ai/jobs/info/671ddd9ec8a677b5bcf38ab6?utm_campaign=1067&utm_source=git)** | Hayward, California | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
