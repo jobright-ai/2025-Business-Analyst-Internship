@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Business Analyst Intern - Order Management Optimization](https://jobright.ai/jobs/info/67219159b09f2135d7872428?utm_campaign=1067&utm_source=git)** | Madison, AL | Hybrid | Oct 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Networks Business Analysis Intern, IT - Spring 2025](https://jobright.ai/jobs/info/67218b20f4511d82324906b2?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Oct 29 |
 | **[ASML](https://www.asml.com)** | **[Internship - MBA Contract Data Analyst](https://jobright.ai/jobs/info/672169287987123849ebec17?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/672172160e3360cd69f9c7e9?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Oct 29 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67215c23c05151c8dca16acf?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Oct 29 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Business Systems Intern, Summer 2025 (Remote)](https://jobright.ai/jobs/info/671c77bd110804783ab433ce?utm_campaign=1067&utm_source=git)** | Springfield, IL | Hybrid | Oct 25 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2025 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/671c5bfc201df9d831be2ae3?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 25 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d89c?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Oct 25 |
+| **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d01?utm_campaign=1067&utm_source=git)** | Blauvelt, NY | On Site | Oct 25 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Business Analysis CO-OP](https://jobright.ai/jobs/info/671c248cb05a9d2b6031eef2?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/671c109bd7dfa9520c48da3e?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Business Insights & Solutions](https://jobright.ai/jobs/info/671bf95f902ebd034a3c6994?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Oct 25 |
@@ -114,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/671927dc672a6b1ce5581f61?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Business Operations Intern - Business Insurance](https://jobright.ai/jobs/info/67193cc5dce2675476a7e903?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western)](https://jobright.ai/jobs/info/6718f2397d7e91e76c8d1050?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 23 |
-| **[T. Marzetti Company](http://www.tmarzetticompany.com/)** | **[Intern - Continuous Improvement Analyst](https://jobright.ai/jobs/info/66e19c10fcb89a9c50622970?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analysis](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b98f?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
