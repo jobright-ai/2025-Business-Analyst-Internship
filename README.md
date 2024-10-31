@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sensata Technologies](http://www.sensata.com)** | **[IT Business Analyst (Engineering) Summer 2025 Intern](https://jobright.ai/jobs/info/67229d96cdb81b7362a2d02d?utm_campaign=1067&utm_source=git)** | Attleboro, MA | On Site | Oct 30 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, DCS IT - Spring 2025](https://jobright.ai/jobs/info/6722b7483cef4b313e18a773?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 30 |
+| ↳ | **[Networks Business Analysis Intern, IT - Spring 2025](https://jobright.ai/jobs/info/6722a07c28cebcc2d0af1141?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 30 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5382?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Oct 30 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Oct 30 |
 | **[Lennox](http://www.lennox.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6705f0015880982216018a92?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Oct 30 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Digital Finance & Innovation - Beachwood, OH](https://jobright.ai/jobs/info/6720de193e3cf99dd4a56017?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Oct 29 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6721444e465e3ae47c096f3a?utm_campaign=1067&utm_source=git)** | 433 S Main Street, West Hartford, CT, US | On Site | Oct 28 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Business Process Excellence Intern - Summer 2025](https://jobright.ai/jobs/info/67204a085e6dd985aff623ce?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Oct 28 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern-Business Analyst](https://jobright.ai/jobs/info/67202b453f85a4ff6a023e4a?utm_campaign=1067&utm_source=git)** | Rochester, NY | On Site | Oct 28 |
 | **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Information Systems Business Operations Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/672015a3f806b1549aad7020?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Oct 28 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2025 IT Business Analysis Co-ops](https://jobright.ai/jobs/info/66e7e0a6e3e0469418f498ea?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 28 |
@@ -118,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076345?utm_campaign=1067&utm_source=git)** | Buffalo, NY | On Site | Oct 24 |
 | ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076609?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 24 |
 | **[Comcast](http://corporate.comcast.com)** | **[Business Analytics Internship (Central Division)](https://jobright.ai/jobs/info/66e09b2c21f4fbe4017669c7?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 24 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6719eb443862562efc547e35?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
