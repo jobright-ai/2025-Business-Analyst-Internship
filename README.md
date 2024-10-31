@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Analysts Intern - Elkton MD](https://jobright.ai/jobs/info/6723d8de3f6d64360c120d96?utm_campaign=1067&utm_source=git)** | Elkton, MD | On Site | Oct 31 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6723c9230ff749a8b1f74b29?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Oct 31 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6723c0eb6c782ffd8f838636?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 31 |
+| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2025- CIPHER](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd425d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business and Strategy Analyst Co-op Spring 2025](https://jobright.ai/jobs/info/6723476dcb143d47ffbe3d16?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6722f2a85b16d8304967cd34?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 30 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Summer 2025 Business Management Analyst Intern Cincinnati Ohio](https://jobright.ai/jobs/info/6722ee6c32e4c625e90d91cc?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Oct 30 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[IT Business Analyst (Engineering) Summer 2025 Intern](https://jobright.ai/jobs/info/67229d96cdb81b7362a2d02d?utm_campaign=1067&utm_source=git)** | Attleboro, MA | On Site | Oct 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, DCS IT - Spring 2025](https://jobright.ai/jobs/info/6722b7483cef4b313e18a773?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 30 |
 | ↳ | **[Networks Business Analysis Intern, IT - Spring 2025](https://jobright.ai/jobs/info/6722a07c28cebcc2d0af1141?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 30 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Performance Analytics](https://jobright.ai/jobs/info/6705f4363dcf83f89c63c5fa?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 30 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5382?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Oct 30 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Oct 30 |
 | **[Lennox](http://www.lennox.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6705f0015880982216018a92?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Oct 30 |
@@ -104,12 +109,11 @@ For a complete list, click the following sortable link below:
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Business Insights & Solutions](https://jobright.ai/jobs/info/671bf95f902ebd034a3c6994?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Oct 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Business Majors - ex. Business Administration , Finance](https://jobright.ai/jobs/info/671bd8bf39b25581e202677b?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3aca81d716ba1d015569e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 25 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c3554a2?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 25 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66c67e3ff66f412293768595?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Oct 25 |
 | **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business - IDD](https://jobright.ai/jobs/info/671b80c1cc4311ad8a1069e1?utm_campaign=1067&utm_source=git)** | Newark, DE | On Site | Oct 25 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 25 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern, Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d02?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Oct 25 |
 | **[CARFAX](https://www.carfax.com/)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/6721c8125e2bf5619926f933?utm_campaign=1067&utm_source=git)** | Centreville, VA | On Site | Oct 24 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 24 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/671ada6c9c7f7f1582691a0e?utm_campaign=1067&utm_source=git)** | Bloomington, IL | Hybrid | Oct 24 |
-| **[Zoox](https://www.zoox.com/)** | **[Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ad5e26d4be00b8705702a?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
