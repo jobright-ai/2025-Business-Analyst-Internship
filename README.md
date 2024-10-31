@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6722f2a85b16d8304967cd34?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 30 |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Summer 2025 Business Management Analyst Intern Cincinnati Ohio](https://jobright.ai/jobs/info/6722ee6c32e4c625e90d91cc?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Oct 30 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[IT Business Analyst (Engineering) Summer 2025 Intern](https://jobright.ai/jobs/info/67229d96cdb81b7362a2d02d?utm_campaign=1067&utm_source=git)** | Attleboro, MA | On Site | Oct 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, DCS IT - Spring 2025](https://jobright.ai/jobs/info/6722b7483cef4b313e18a773?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 30 |
 | ↳ | **[Networks Business Analysis Intern, IT - Spring 2025](https://jobright.ai/jobs/info/6722a07c28cebcc2d0af1141?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 30 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Business Systems Intern, Summer 2025 (Remote)](https://jobright.ai/jobs/info/671c77bd110804783ab433ce?utm_campaign=1067&utm_source=git)** | Springfield, IL | Hybrid | Oct 25 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2025 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/671c5bfc201df9d831be2ae3?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 25 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e1cfef28896e519274d89c?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Oct 25 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f3?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Oct 25 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d01?utm_campaign=1067&utm_source=git)** | Blauvelt, NY | On Site | Oct 25 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Business Analysis CO-OP](https://jobright.ai/jobs/info/671c248cb05a9d2b6031eef2?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/671c109bd7dfa9520c48da3e?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
@@ -105,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern, Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d02?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Oct 25 |
 | **[CARFAX](https://www.carfax.com/)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/6721c8125e2bf5619926f933?utm_campaign=1067&utm_source=git)** | Centreville, VA | On Site | Oct 24 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 24 |
+| **[CIBC US](https://us.cibc.com/en/home.html)** | **[Technology: Business Architecture - 2025 Summer Intern](https://jobright.ai/jobs/info/6722f37218182ee904c37226?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/671ada6c9c7f7f1582691a0e?utm_campaign=1067&utm_source=git)** | Bloomington, IL | Hybrid | Oct 24 |
 | **[Zoox](https://www.zoox.com/)** | **[Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ad5e26d4be00b8705702a?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Oct 24 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Operational Analytics Intern](https://jobright.ai/jobs/info/671ac0c32a9985095ec0c222?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Oct 24 |
@@ -114,10 +118,4 @@ For a complete list, click the following sortable link below:
 | **[CIBC](https://www.cibc.com)** | **[CRE Business Analytics - 2025 Summer Intern](https://jobright.ai/jobs/info/671a56afdb55a822281cfb47?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/671a56afdb55a822281cfb50?utm_campaign=1067&utm_source=git)** | US WI MKE 4900 | On Site | Oct 24 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/671a5cc4a849479c4521df0b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Oct 24 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546834fd?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Oct 24 |
-| ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd65d92bc49419546836b9?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Hybrid | Oct 24 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Enterprise Research at UIUC](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812bed0b?utm_campaign=1067&utm_source=git)** | Champaign, IL | Hybrid | Oct 24 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076345?utm_campaign=1067&utm_source=git)** | Buffalo, NY | On Site | Oct 24 |
-| ↳ | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076609?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 24 |
-| **[Comcast](http://corporate.comcast.com)** | **[Business Analytics Internship (Central Division)](https://jobright.ai/jobs/info/66e09b2c21f4fbe4017669c7?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
