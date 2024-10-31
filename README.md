@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business and Strategy Analyst Co-op Spring 2025](https://jobright.ai/jobs/info/6723476dcb143d47ffbe3d16?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6722f2a85b16d8304967cd34?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 30 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Summer 2025 Business Management Analyst Intern Cincinnati Ohio](https://jobright.ai/jobs/info/6722ee6c32e4c625e90d91cc?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Oct 30 |
@@ -111,7 +112,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 24 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/671ada6c9c7f7f1582691a0e?utm_campaign=1067&utm_source=git)** | Bloomington, IL | Hybrid | Oct 24 |
 | **[Zoox](https://www.zoox.com/)** | **[Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ad5e26d4be00b8705702a?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Oct 24 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Operational Analytics Intern](https://jobright.ai/jobs/info/671ac0c32a9985095ec0c222?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Oct 24 |
-| **[Zoox](https://www.zoox.com/)** | **[Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ab3d39f85820efe14be97?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Oct 24 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/671aac842e0a3ed4376e5380?utm_campaign=1067&utm_source=git)** | Brown Deer, WI | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
