@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/672403b84806026b585bd41f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 31 |
+| ↳ | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/6723e4c08b8c9afde7356f17?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 31 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Analysts Intern - Elkton MD](https://jobright.ai/jobs/info/6723d8de3f6d64360c120d96?utm_campaign=1067&utm_source=git)** | Elkton, MD | On Site | Oct 31 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6723c9230ff749a8b1f74b29?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Oct 31 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6723c0eb6c782ffd8f838636?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
@@ -114,6 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business - IDD](https://jobright.ai/jobs/info/671b80c1cc4311ad8a1069e1?utm_campaign=1067&utm_source=git)** | Newark, DE | On Site | Oct 25 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 25 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern, Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d02?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Oct 25 |
-| **[CARFAX](https://www.carfax.com/)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/6721c8125e2bf5619926f933?utm_campaign=1067&utm_source=git)** | Centreville, VA | On Site | Oct 24 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Business Analysis, IT Business Operations Internship](https://jobright.ai/jobs/info/671863fa93729e5b128e9206?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
