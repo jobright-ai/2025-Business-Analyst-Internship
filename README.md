@@ -113,6 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d01?utm_campaign=1067&utm_source=git)** | Blauvelt, NY | On Site | Oct 25 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Business Analysis CO-OP](https://jobright.ai/jobs/info/671c248cb05a9d2b6031eef2?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/671c109bd7dfa9520c48da3e?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
-| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Business Insights & Solutions](https://jobright.ai/jobs/info/671bf95f902ebd034a3c6994?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Oct 25 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Business Majors - ex. Business Administration , Finance](https://jobright.ai/jobs/info/671bd8bf39b25581e202677b?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
