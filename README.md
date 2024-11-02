@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67258581e1f7029e9c23cc28?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Nov 01 |
+| **[TMC, a division of C.H. Robinson](http://mytmc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6725bd05e44114335355ee86?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6725a9d47b085a4036af7166?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b07?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b32?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 01 |
 | ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b33?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
@@ -108,5 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/671e61bf39aa408fa5181765?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c24?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Oct 27 |
 | **[Novelis](http://novelis.com)** | **[R & D Business Analyst Intern](https://jobright.ai/jobs/info/671d57602fd46857a2f0215f?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Oct 26 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3aca81d716ba1d0155707?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
