@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b07?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
+| ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b32?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 01 |
+| ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b33?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
+| **[Visa](https://www.visa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/672554fc9efdcdaf35e79dd6?utm_campaign=1067&utm_source=git)** | Foster City, CA | Hybrid | Nov 01 |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Business Insights & Solutions](https://jobright.ai/jobs/info/671bf95f902ebd034a3c6994?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Nov 01 |
 | **[TD](https://www.td.com)** | **[TD Bank CUNY Apprentice Program - Business Systems Analyst](https://jobright.ai/jobs/info/6724f937916ae83994774ba8?utm_campaign=1067&utm_source=git)** | New York, New York | Hybrid | Nov 01 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Oct 31 |
 | **[Mastercard](http://www.mastercard.com)** | **[Business Analytics Intern, Summer 2025 - Purchase, NY-R-227569](https://jobright.ai/jobs/info/67242ced2c38255b5011b43a?utm_campaign=1067&utm_source=git)** | Purchase, NY | Hybrid | Oct 31 |
@@ -105,6 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3aca81d716ba1d0155707?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 26 |
 | **[AbbVie](http://www.abbvie.com)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/67005e25a22eeb4d579eed61?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Oct 26 |
-| **[Novelis](http://novelis.com)** | **[R & D Business Analyst Intern](https://jobright.ai/jobs/info/671d3c0729bca739389ce3f6?utm_campaign=1067&utm_source=git)** | 1950 Vaughn Road, Kennesaw, GA, US | On Site | Oct 25 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
