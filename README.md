@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67258581e1f7029e9c23cc28?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Nov 01 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b07?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b32?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 01 |
 | ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b33?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
@@ -66,10 +67,10 @@ For a complete list, click the following sortable link below:
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Oct 31 |
 | **[Mastercard](http://www.mastercard.com)** | **[Business Analytics Intern, Summer 2025 - Purchase, NY-R-227569](https://jobright.ai/jobs/info/67242ced2c38255b5011b43a?utm_campaign=1067&utm_source=git)** | Purchase, NY | Hybrid | Oct 31 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67242ae0a1b4ff46767395d3?utm_campaign=1067&utm_source=git)** | Franklin, MA | On Site | Oct 31 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/672418b775b11925f7ef34f4?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Oct 31 |
 | **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/672403b84806026b585bd41f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 31 |
 | ↳ | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/6723e4c08b8c9afde7356f17?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 31 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Analysts Intern - Elkton MD](https://jobright.ai/jobs/info/6723d8de3f6d64360c120d96?utm_campaign=1067&utm_source=git)** | Elkton, MD | On Site | Oct 31 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6723c9230ff749a8b1f74b29?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Oct 31 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6723c0eb6c782ffd8f838636?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2025- CIPHER](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd425d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
@@ -108,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c24?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Oct 27 |
 | **[Novelis](http://novelis.com)** | **[R & D Business Analyst Intern](https://jobright.ai/jobs/info/671d57602fd46857a2f0215f?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Oct 26 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3aca81d716ba1d0155707?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 26 |
-| **[AbbVie](http://www.abbvie.com)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/67005e25a22eeb4d579eed61?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 26 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35549f?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
