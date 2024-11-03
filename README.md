@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/671e764688676f87b9befa8a?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | ↳ | **[2025 Business Technology Solutions Externship](https://jobright.ai/jobs/info/671e6e9bbf8481148822ee57?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | ↳ | **[2025 Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/671e61bf39aa408fa5181765?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c24?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
