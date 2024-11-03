@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/672403b84806026b585bd41f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 31 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/66eb08747146a6bf8e679ae7?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Oct 31 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/6723e4c08b8c9afde7356f17?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 31 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Analysts Intern - Elkton MD](https://jobright.ai/jobs/info/6723d8de3f6d64360c120d96?utm_campaign=1067&utm_source=git)** | Elkton, MD | On Site | Oct 31 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6723c9230ff749a8b1f74b29?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Oct 31 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6723c0eb6c782ffd8f838636?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 31 |
@@ -108,7 +107,4 @@ For a complete list, click the following sortable link below:
 | **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Information Systems Business Operations Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/672015a3f806b1549aad7020?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Oct 28 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b384795814470f4d481e02?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 27 |
-| **[BioSpace](http://www.biospace.com/)** | **[2025 Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/671e764688676f87b9befa8a?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
-| ↳ | **[2025 Business Technology Solutions Externship](https://jobright.ai/jobs/info/671e6e9bbf8481148822ee57?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
-| ↳ | **[2025 Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/671e61bf39aa408fa5181765?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
