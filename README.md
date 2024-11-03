@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Business Research Intern](https://jobright.ai/jobs/info/6726b0ec0261acf6728e3de5?utm_campaign=1067&utm_source=git)** | Norman, OK | On Site | Nov 02 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6722f2a85b16d8304967cd34?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Nov 02 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Nov 02 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Nov 02 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Development Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/6709b44c59e748032c199d78?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Nov 02 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2025- CIPHER](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd425d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business and Strategy Analyst Co-op Spring 2025](https://jobright.ai/jobs/info/6723476dcb143d47ffbe3d16?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6722f2a85b16d8304967cd34?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Oct 30 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Summer 2025 Business Management Analyst Intern Cincinnati Ohio](https://jobright.ai/jobs/info/6722ee6c32e4c625e90d91cc?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Oct 30 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/6705e52ed3078e00188d087e?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 30 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[IT Business Analyst (Engineering) Summer 2025 Intern](https://jobright.ai/jobs/info/67229d96cdb81b7362a2d02d?utm_campaign=1067&utm_source=git)** | Attleboro, MA | On Site | Oct 30 |
