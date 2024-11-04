@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Connected Business](https://jobright.ai/jobs/info/6729017e6c735290cc5ca143?utm_campaign=1067&utm_source=git)** | Camden, NJ | On Site | Nov 04 |
+| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Communications Operations Internship](https://jobright.ai/jobs/info/6728e58df1483c54941d9cfa?utm_campaign=1067&utm_source=git)** | Memphis, TN | Hybrid | Nov 04 |
+| ↳ | **[Communications Operations Internship](https://jobright.ai/jobs/info/6728dcbcefc5a3d656c3cf70?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 04 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Summer 2025 - Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6728daf1680d9c366cac3448?utm_campaign=1067&utm_source=git)** | Allentown, PA | Hybrid | Nov 04 |
 | **[Indium Corporation](http://www.indium.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67289c94700e7566c107346c?utm_campaign=1067&utm_source=git)** | New Hartford, NY | On Site | Nov 04 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Business Research Intern](https://jobright.ai/jobs/info/6726b0ec0261acf6728e3de5?utm_campaign=1067&utm_source=git)** | Norman, OK | On Site | Nov 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6722f2a85b16d8304967cd34?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Nov 02 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2025- CIPHER](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd425d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business and Strategy Analyst Co-op Spring 2025](https://jobright.ai/jobs/info/6723476dcb143d47ffbe3d16?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Summer 2025 Business Management Analyst Intern Cincinnati Ohio](https://jobright.ai/jobs/info/6722ee6c32e4c625e90d91cc?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Oct 30 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/6705e52ed3078e00188d087e?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 30 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[IT Business Analyst (Engineering) Summer 2025 Intern](https://jobright.ai/jobs/info/67229d96cdb81b7362a2d02d?utm_campaign=1067&utm_source=git)** | Attleboro, MA | On Site | Oct 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, DCS IT - Spring 2025](https://jobright.ai/jobs/info/6722b7483cef4b313e18a773?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 30 |
@@ -103,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Digital Finance & Innovation - Beachwood, OH](https://jobright.ai/jobs/info/6720de193e3cf99dd4a56017?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Oct 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 28 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6721444e465e3ae47c096f3a?utm_campaign=1067&utm_source=git)** | 433 S Main Street, West Hartford, CT, US | On Site | Oct 28 |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Business Process Excellence Intern - Summer 2025](https://jobright.ai/jobs/info/67204a085e6dd985aff623ce?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Oct 28 |
-| **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Information Systems Business Operations Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/672015a3f806b1549aad7020?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
