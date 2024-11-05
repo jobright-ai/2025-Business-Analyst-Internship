@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Winter 2025 (Internship) - 4 Months (Part-Time)](https://jobright.ai/jobs/info/67295246deebc7b54eef80a1?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Nov 04 |
+| **[NBCUniversal](http://www.nbcuniversal.com)** | **[Music Business Internships - Summer 2025](https://jobright.ai/jobs/info/672952e14296de8fe60072e7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 04 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/672932da995d8bc5a7857554?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Nov 04 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Connected Business](https://jobright.ai/jobs/info/6729017e6c735290cc5ca143?utm_campaign=1067&utm_source=git)** | Camden, NJ | On Site | Nov 04 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Communications Operations Internship](https://jobright.ai/jobs/info/6728e58df1483c54941d9cfa?utm_campaign=1067&utm_source=git)** | Memphis, TN | Hybrid | Nov 04 |
 | ↳ | **[Communications Operations Internship](https://jobright.ai/jobs/info/6728dcbcefc5a3d656c3cf70?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 04 |
@@ -104,6 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Mortenson](https://www.mortenson.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67047dc0facfa3a95f67fe8f?utm_campaign=1067&utm_source=git)** | Minnesota, United States | On Site | Oct 29 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/6704a152c723f9dd046b7ec4?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Oct 29 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Digital Finance & Innovation - Beachwood, OH](https://jobright.ai/jobs/info/6720de193e3cf99dd4a56017?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Oct 29 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 28 |
-| **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6721444e465e3ae47c096f3a?utm_campaign=1067&utm_source=git)** | 433 S Main Street, West Hartford, CT, US | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
