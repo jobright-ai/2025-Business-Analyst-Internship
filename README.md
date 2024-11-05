@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672a5c9702842bbeb4a23916?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[IT Business Solutions Intern](https://jobright.ai/jobs/info/672a56fc4b39d5bb91ec9345?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Nov 05 |
+| **[AbbVie](http://www.abbvie.com)** | **[2025 Business Technology Solutions Externship](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1d3?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Nov 05 |
+| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55ce?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Nov 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66f1af7abb8de7edc047c63b?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Nov 05 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[MBA Associate Intern, Data Strategy & Solutions (Summer 2025)](https://jobright.ai/jobs/info/66d698581e4052569f429d19?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | **[Oracle](https://www.oracle.com)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Nov 04 |
+| **[Jacobs](http://www.jacobs.com)** | **[IT Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/672a722e5235e25145982653?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 04 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Winter 2025 (Internship) - 4 Months (Part-Time)](https://jobright.ai/jobs/info/67295246deebc7b54eef80a1?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Nov 04 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Music Business Internships - Summer 2025](https://jobright.ai/jobs/info/672952e14296de8fe60072e7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/672932da995d8bc5a7857554?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Nov 04 |
@@ -72,8 +77,6 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Nov 02 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Nov 02 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Development Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/6709b44c59e748032c199d78?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Nov 02 |
-| **[TMC, a division of C.H. Robinson](http://mytmc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6725bd05e44114335355ee86?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6725a9d47b085a4036af7166?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 01 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b07?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b32?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 01 |
 | ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b33?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
@@ -84,9 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Oct 31 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 31 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67242ae0a1b4ff46767395d3?utm_campaign=1067&utm_source=git)** | Franklin, MA | On Site | Oct 31 |
-| **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/672403b84806026b585bd41f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 31 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/66eb08747146a6bf8e679ae7?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Oct 31 |
-| **[Textron](http://textron.com)** | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/6723e4c08b8c9afde7356f17?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 31 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6723c9230ff749a8b1f74b29?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Oct 31 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6723c0eb6c782ffd8f838636?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 31 |
@@ -101,8 +102,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Oct 30 |
 | **[Lennox](http://www.lennox.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6705f0015880982216018a92?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Oct 30 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5392?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Oct 30 |
-| **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Business Analyst Intern - Order Management Optimization](https://jobright.ai/jobs/info/67219159b09f2135d7872428?utm_campaign=1067&utm_source=git)** | Madison, AL | Hybrid | Oct 29 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Networks Business Analysis Intern, IT - Spring 2025](https://jobright.ai/jobs/info/67218b20f4511d82324906b2?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Oct 29 |
-| **[ASML](https://www.asml.com)** | **[Internship - MBA Contract Data Analyst](https://jobright.ai/jobs/info/672169287987123849ebec17?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
-| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/672172160e3360cd69f9c7e9?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
