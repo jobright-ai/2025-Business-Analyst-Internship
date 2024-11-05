@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66f1af7abb8de7edc047c63b?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Nov 05 |
+| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[MBA Associate Intern, Data Strategy & Solutions (Summer 2025)](https://jobright.ai/jobs/info/66d698581e4052569f429d19?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | **[Oracle](https://www.oracle.com)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Nov 04 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Winter 2025 (Internship) - 4 Months (Part-Time)](https://jobright.ai/jobs/info/67295246deebc7b54eef80a1?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Nov 04 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Music Business Internships - Summer 2025](https://jobright.ai/jobs/info/672952e14296de8fe60072e7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 04 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Summer 2025 - Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6728daf1680d9c366cac3448?utm_campaign=1067&utm_source=git)** | Allentown, PA | Hybrid | Nov 04 |
 | **[Indium Corporation](http://www.indium.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67289c94700e7566c107346c?utm_campaign=1067&utm_source=git)** | New Hartford, NY | On Site | Nov 04 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Business Research Intern](https://jobright.ai/jobs/info/6726b0ec0261acf6728e3de5?utm_campaign=1067&utm_source=git)** | Norman, OK | On Site | Nov 02 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6722f2a85b16d8304967cd34?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Nov 02 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Nov 02 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Nov 02 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Development Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/6709b44c59e748032c199d78?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Nov 02 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Sensata Technologies](http://www.sensata.com)** | **[IT Business Analyst (Engineering) Summer 2025 Intern](https://jobright.ai/jobs/info/67229d96cdb81b7362a2d02d?utm_campaign=1067&utm_source=git)** | Attleboro, MA | On Site | Oct 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, DCS IT - Spring 2025](https://jobright.ai/jobs/info/6722b7483cef4b313e18a773?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 30 |
 | ↳ | **[Networks Business Analysis Intern, IT - Spring 2025](https://jobright.ai/jobs/info/6722a07c28cebcc2d0af1141?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 30 |
+| **[LSEG (London Stock Exchange Group)](http://www.lseg.com)** | **[Business Summer Internship 2025](https://jobright.ai/jobs/info/6705a7a05ef3cc11d748d4d6?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Oct 30 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd476d3db7a33ab71e5382?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Oct 30 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66cd1444faa688b7230435e0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Oct 30 |
 | **[Lennox](http://www.lennox.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6705f0015880982216018a92?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Oct 30 |
@@ -103,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Networks Business Analysis Intern, IT - Spring 2025](https://jobright.ai/jobs/info/67218b20f4511d82324906b2?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Oct 29 |
 | **[ASML](https://www.asml.com)** | **[Internship - MBA Contract Data Analyst](https://jobright.ai/jobs/info/672169287987123849ebec17?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/672172160e3360cd69f9c7e9?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Oct 29 |
-| **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67215c23c05151c8dca16acf?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Oct 29 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight ( Digital Business Services)](https://jobright.ai/jobs/info/672132f3f9bb3fd7fb4d6922?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
