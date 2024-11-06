@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672a5c9702842bbeb4a23916?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
+| **[Jacobs](http://www.jacobs.com)** | **[IT Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/672aa8de1574b548cf395106?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
+| **[Centier Bank](https://centier.com)** | **[Business Banking Intern](https://jobright.ai/jobs/info/672aa2cb3bc24e73f890ea44?utm_campaign=1067&utm_source=git)** | Valparaiso, IN | On Site | Nov 05 |
+| **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/672a87e4405591d3f04c2888?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Nov 05 |
+| **[Oracle](https://www.oracle.com)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/672a9cc51747920f1d6e61ac?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 05 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238ba?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[IT Business Solutions Intern](https://jobright.ai/jobs/info/672a56fc4b39d5bb91ec9345?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Nov 05 |
 | **[AbbVie](http://www.abbvie.com)** | **[2025 Business Technology Solutions Externship](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1d3?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Nov 05 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[2025 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/66d69833e096b08ec112cd7c?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Nov 05 |
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55ce?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Nov 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66f1af7abb8de7edc047c63b?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Nov 05 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[MBA Associate Intern, Data Strategy & Solutions (Summer 2025)](https://jobright.ai/jobs/info/66d698581e4052569f429d19?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | **[Oracle](https://www.oracle.com)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Nov 04 |
+| **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/672aa2cb3bc24e73f890eadc?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Nov 04 |
 | **[Jacobs](http://www.jacobs.com)** | **[IT Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/672a722e5235e25145982653?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 04 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Winter 2025 (Internship) - 4 Months (Part-Time)](https://jobright.ai/jobs/info/67295246deebc7b54eef80a1?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Nov 04 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Music Business Internships - Summer 2025](https://jobright.ai/jobs/info/672952e14296de8fe60072e7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 04 |
@@ -74,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Summer 2025 - Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6728daf1680d9c366cac3448?utm_campaign=1067&utm_source=git)** | Allentown, PA | Hybrid | Nov 04 |
 | **[Indium Corporation](http://www.indium.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67289c94700e7566c107346c?utm_campaign=1067&utm_source=git)** | New Hartford, NY | On Site | Nov 04 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Business Research Intern](https://jobright.ai/jobs/info/6726b0ec0261acf6728e3de5?utm_campaign=1067&utm_source=git)** | Norman, OK | On Site | Nov 02 |
+| **[Wellabe](https://www.wellabe.com)** | **[Summer 2025 Business Solutions Intern- Onsite Des Moines, Iowa](https://jobright.ai/jobs/info/66ecc6b376120c2fcbcf9477?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Nov 02 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Nov 02 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Nov 02 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Development Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/6709b44c59e748032c199d78?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Nov 02 |
