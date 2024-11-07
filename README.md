@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Operations & Finance Intern, Global T&E, Spring 2025](https://jobright.ai/jobs/info/672d04cc253bcf1cc496c64f?utm_campaign=1067&utm_source=git)** | Celebration, FL | Hybrid | Nov 07 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2025 Summer Intern - Business](https://jobright.ai/jobs/info/66d8d7255569bd65f2c04f11?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/672be6aff162b4bd9191a3d9?utm_campaign=1067&utm_source=git)** | Pendleton, SC | On Site | Nov 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Operations & Finance Intern, Global T&E, Spring 2025](https://jobright.ai/jobs/info/672bce873597fcd0d5931c52?utm_campaign=1067&utm_source=git)** | Celebration, FL, USA | On Site | Nov 06 |
 | **[AXA XL](https://axaxl.com)** | **[Intern - Innovation, Data & Analytics](https://jobright.ai/jobs/info/672bacadc1bf63ddcc24fe72?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
@@ -76,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/672a87e4405591d3f04c2888?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Nov 05 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/672a9cc51747920f1d6e61ac?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e458?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 05 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238ba?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672a5c9702842bbeb4a23916?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[IT Business Solutions Intern](https://jobright.ai/jobs/info/672a56fc4b39d5bb91ec9345?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Nov 05 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/66f2b98f1c883d71c521e014?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Nov 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Data Governance and Analytics Intern (Global Monetization Strategy and Operations-Global Data Governance and Analytics)- 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812bed5b?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 05 |
@@ -109,6 +111,4 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[TD Bank CUNY Apprentice Program - Business Systems Analyst](https://jobright.ai/jobs/info/6724f937916ae83994774ba8?utm_campaign=1067&utm_source=git)** | New York, New York | Hybrid | Nov 01 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[CXEC Analyst SummerCustomer Experience & Engagement Center (CXEC) Analyst - Summer Intern Intern](https://jobright.ai/jobs/info/67083d8624b018e0ff79475d?utm_campaign=1067&utm_source=git)** | Overland Park, KS | Hybrid | Nov 01 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Oct 31 |
-| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 31 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67242ae0a1b4ff46767395d3?utm_campaign=1067&utm_source=git)** | Franklin, MA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
