@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arthrex](https://www.arthrex.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/672be6aff162b4bd9191a3d9?utm_campaign=1067&utm_source=git)** | Pendleton, SC | On Site | Nov 06 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Operations & Finance Intern, Global T&E, Spring 2025](https://jobright.ai/jobs/info/672bce873597fcd0d5931c52?utm_campaign=1067&utm_source=git)** | Celebration, FL, USA | On Site | Nov 06 |
 | **[AXA XL](https://axaxl.com)** | **[Intern - Innovation, Data & Analytics](https://jobright.ai/jobs/info/672bacadc1bf63ddcc24fe72?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/672ba44320f8599ba217d2a5?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Nov 06 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/672b91e3ffb287a10b5902f8?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Nov 06 |
@@ -67,12 +69,12 @@ For a complete list, click the following sortable link below:
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672b42718c8eb3ef0a009c99?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/672b178bb05da92951fd1dbb?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Nov 05 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/672b04c1163156bf9209603f?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 05 |
-| **[Astera Labs](https://www.asteralabs.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/672aec976101bf676f931800?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Nov 05 |
 | **[Jacobs](http://www.jacobs.com)** | **[IT Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/672aa8de1574b548cf395106?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Centier Bank](https://centier.com)** | **[Business Banking Intern](https://jobright.ai/jobs/info/672aa2cb3bc24e73f890ea44?utm_campaign=1067&utm_source=git)** | Valparaiso, IN | On Site | Nov 05 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/672a87e4405591d3f04c2888?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Nov 05 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/672a9cc51747920f1d6e61ac?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 05 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672a5c9702842bbeb4a23916?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e458?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 05 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238ba?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[IT Business Solutions Intern](https://jobright.ai/jobs/info/672a56fc4b39d5bb91ec9345?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Nov 05 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Business Technology Solutions Intern - Business Systems Analyst](https://jobright.ai/jobs/info/66f2b98f1c883d71c521e014?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Nov 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Data Governance and Analytics Intern (Global Monetization Strategy and Operations-Global Data Governance and Analytics)- 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812bed5b?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 05 |
@@ -112,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6723c9230ff749a8b1f74b29?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Oct 31 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2025- CIPHER](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd425d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business and Strategy Analyst Co-op Spring 2025](https://jobright.ai/jobs/info/6723476dcb143d47ffbe3d16?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
