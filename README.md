@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Projects & Process Improvement Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e428?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 06 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst - Digital Risk Office)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e477?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 06 |
 | ↳ | **[Summer Associate Internship (Business Operations Analyst)](https://jobright.ai/jobs/info/66d7c0947426d43835f06dbd?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 06 |
+| **[AbbVie](https://www.abbvie.com)** | **[2025 Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1cb?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Nov 06 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Summer 2025](https://jobright.ai/jobs/info/672b4a63abe149880bd2d7e2?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 06 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672b42718c8eb3ef0a009c99?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/672b178bb05da92951fd1dbb?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Nov 05 |
@@ -110,6 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Oct 31 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 31 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67242ae0a1b4ff46767395d3?utm_campaign=1067&utm_source=git)** | Franklin, MA | On Site | Oct 31 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/66eb08747146a6bf8e679ae7?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Oct 31 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6723c9230ff749a8b1f74b29?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
