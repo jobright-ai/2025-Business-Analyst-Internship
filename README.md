@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/671783352bb5ca247176628c?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Nov 08 |
+| **[Skookum](https://www.skookum.org/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/672ddfaf7d4b09890d8f5d5c?utm_campaign=1067&utm_source=git)** | Bremerton, WA | Hybrid | Nov 08 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/672da5932bd81205269bdbfc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Nov 07 |
 | **[Zoox](https://www.zoox.com/)** | **[(January 2025 Start) Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ab3d39f85820efe14be97?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Nov 07 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/672d43fc880efda237b562f1?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Nov 07 |
@@ -110,5 +112,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b32?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 01 |
 | ↳ | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b33?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[Visa](https://www.visa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/672554fc9efdcdaf35e79dd6?utm_campaign=1067&utm_source=git)** | Foster City, CA | Hybrid | Nov 01 |
-| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Business Insights & Solutions](https://jobright.ai/jobs/info/671bf95f902ebd034a3c6994?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
