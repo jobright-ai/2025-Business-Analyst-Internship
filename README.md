@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jooble](https://jooble.org/)** | **[Business Research & Planning Intern - Ditch Witch](https://jobright.ai/jobs/info/672ef7332f0f1a46a9bee0b6?utm_campaign=1067&utm_source=git)** | Perry, OK | On Site | Nov 08 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, NYSE Listings Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40ea?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4107?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Global Supply Chain Management, Capex](https://jobright.ai/jobs/info/672e8ee7dddbbb46f3c5708e?utm_campaign=1067&utm_source=git)** | Palo Alto, CA | On Site | Nov 08 |
