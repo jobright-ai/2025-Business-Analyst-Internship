@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Jooble](https://jooble.org/)** | **[Business Research & Planning Intern - Ditch Witch](https://jobright.ai/jobs/info/672ef7332f0f1a46a9bee0b6?utm_campaign=1067&utm_source=git)** | Perry, OK | On Site | Nov 08 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, NYSE Listings Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40ea?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| ↳ | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4107?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| ↳ | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40f8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Global Supply Chain Management, Capex](https://jobright.ai/jobs/info/672e8ee7dddbbb46f3c5708e?utm_campaign=1067&utm_source=git)** | Palo Alto, CA | On Site | Nov 08 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[IT Business Analyst Intern - SAP Sales & Distribution, Environmental Health & Safety](https://jobright.ai/jobs/info/672e8382dd5d0e21448a822b?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 08 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Stable Value Analyst](https://jobright.ai/jobs/info/672e6676f66960fa3a894c21?utm_campaign=1067&utm_source=git)** | CO Greenwood Village | Hybrid | Nov 08 |
@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Summer 2025 - Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6728daf1680d9c366cac3448?utm_campaign=1067&utm_source=git)** | Allentown, PA | Hybrid | Nov 04 |
 | **[Indium Corporation](http://www.indium.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67289c94700e7566c107346c?utm_campaign=1067&utm_source=git)** | New Hartford, NY | On Site | Nov 04 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Business Research Intern](https://jobright.ai/jobs/info/6726b0ec0261acf6728e3de5?utm_campaign=1067&utm_source=git)** | Norman, OK | On Site | Nov 02 |
-| **[Wellabe](https://www.wellabe.com)** | **[Summer 2025 Business Solutions Intern- Onsite Des Moines, Iowa](https://jobright.ai/jobs/info/66ecc6b376120c2fcbcf9477?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
