@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Technology Partnerships Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/67324bf1c6ecba68c14a663d?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 11 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/66dbfb35f278f728fdd2e626?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Nov 10 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst - Digital Risk Office)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08cb?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 10 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 10 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern Summer 2025 (Multiple US Locations)](https://jobright.ai/jobs/info/66cf457d5f39b7c08b0181a8?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Nov 10 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265082?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f8ef?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Nov 09 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Analyst for AI (Central Sales Ops)](https://jobright.ai/jobs/info/66f65069e7ada2344590b6f3?utm_campaign=1067&utm_source=git)** | Folsom, CA | On Site | Nov 08 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/66d94f16db6eb367c754eaa2?utm_campaign=1067&utm_source=git)** | Purchase, NY | On Site | Nov 08 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, NYSE Listings Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40ea?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40f8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[IT Business Analyst Intern - SAP Sales & Distribution, Environmental Health & Safety](https://jobright.ai/jobs/info/672e8382dd5d0e21448a822b?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 08 |
@@ -78,11 +79,11 @@ For a complete list, click the following sortable link below:
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/672da5932bd81205269bdbfc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Nov 07 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9b102?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
 | **[Zoox](https://www.zoox.com/)** | **[(January 2025 Start) Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ab3d39f85820efe14be97?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Nov 07 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/66f44f928a53efb98d7217e7?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/672d43fc880efda237b562f1?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Nov 07 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9af63?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 07 |
 | **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/66f46565cab4ecdddff9ef4b?utm_campaign=1067&utm_source=git)** | Tulsa, OK | On Site | Nov 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Operations & Finance Intern, Global T&E, Spring 2025](https://jobright.ai/jobs/info/672d04cc253bcf1cc496c64f?utm_campaign=1067&utm_source=git)** | Celebration, FL | Hybrid | Nov 07 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/66e1785fdb987d1570ce87a1?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Nov 07 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06eb9?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Nov 07 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2025 Summer Intern - Business](https://jobright.ai/jobs/info/66d8d7255569bd65f2c04f11?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/672be6aff162b4bd9191a3d9?utm_campaign=1067&utm_source=git)** | Pendleton, SC | On Site | Nov 06 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Business Operations Analyst)](https://jobright.ai/jobs/info/66d7c0947426d43835f06dbd?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 06 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Business Technology Solutions Intern - Technical](https://jobright.ai/jobs/info/66f28e9b217fb1910546a1cb?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Nov 06 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Summer 2025](https://jobright.ai/jobs/info/672b4a63abe149880bd2d7e2?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 06 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/672b42718c8eb3ef0a009c99?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/672b04c1163156bf9209603f?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 05 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst- Internship](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabe1?utm_campaign=1067&utm_source=git)** | Southlake, TX | On Site | Nov 05 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67242ae0a1b4ff46767395d3?utm_campaign=1067&utm_source=git)** | Franklin, MA | On Site | Nov 05 |
@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55ce?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Nov 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/66f1af7abb8de7edc047c63b?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Nov 05 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[MBA Associate Intern, Data Strategy & Solutions (Summer 2025)](https://jobright.ai/jobs/info/66d698581e4052569f429d19?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 05 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
