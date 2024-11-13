@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6735005272ddf44d4e75c1f8?utm_campaign=1067&utm_source=git)** | Salem | ODOT | Transportation Building | Hybrid | Nov 13 |
+| **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business, NAM](https://jobright.ai/jobs/info/6734b04be174e284c60f84af?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 13 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Nov 13 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Part-time Business Analyst](https://jobright.ai/jobs/info/6734137b6a4231099fd2d4a3?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 12 |
@@ -79,13 +81,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4107?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[IT Business Analyst Intern - SAP Sales & Distribution, Environmental Health & Safety](https://jobright.ai/jobs/info/672e8382dd5d0e21448a822b?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 08 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Stable Value Analyst](https://jobright.ai/jobs/info/672e6676f66960fa3a894c21?utm_campaign=1067&utm_source=git)** | CO Greenwood Village | Hybrid | Nov 08 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Development Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/6709b44c59e748032c199d78?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Nov 08 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/671783352bb5ca247176628c?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Nov 08 |
 | **[Skookum](https://www.skookum.org/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/672ddfaf7d4b09890d8f5d5c?utm_campaign=1067&utm_source=git)** | Bremerton, WA | Hybrid | Nov 08 |
-| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06ed2?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Nov 07 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/672da5932bd81205269bdbfc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Nov 07 |
 | **[Zoox](https://www.zoox.com/)** | **[(January 2025 Start) Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ab3d39f85820efe14be97?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Nov 07 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/66f44f928a53efb98d7217e7?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/672d43fc880efda237b562f1?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Nov 07 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/66f44f928a53efb98d7218e2?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
-| ↳ | **[2025 Summer Intern - Business](https://jobright.ai/jobs/info/66d8d7255569bd65f2c04f11?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2025 Summer Intern - Business](https://jobright.ai/jobs/info/66d8d7255569bd65f2c04f11?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
