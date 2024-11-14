@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Analyst - Linthicum MD](https://jobright.ai/jobs/info/67351581fdc96d324c72ec82?utm_campaign=1067&utm_source=git)** | Linthicum, MD | On Site | Nov 13 |
+| **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/673549e84f2931bd6e84906c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 13 |
 | **[Oregon Department of Transportation](http://www.oregon.gov/odot)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/673517931d7acaa5ed4c4034?utm_campaign=1067&utm_source=git)** | Salem, OR | Hybrid | Nov 13 |
 | **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6735005272ddf44d4e75c1f8?utm_campaign=1067&utm_source=git)** | Salem | ODOT | Transportation Building | Hybrid | Nov 13 |
 | **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business, NAM](https://jobright.ai/jobs/info/6734b04be174e284c60f84af?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 13 |
@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[(January 2025 Start) Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ab3d39f85820efe14be97?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Nov 07 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/66f44f928a53efb98d7217e7?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/672d43fc880efda237b562f1?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Nov 07 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2025 Summer Intern - Business](https://jobright.ai/jobs/info/66d8d7255569bd65f2c04f11?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
