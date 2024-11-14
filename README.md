@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Analyst - Linthicum MD](https://jobright.ai/jobs/info/67351581fdc96d324c72ec82?utm_campaign=1067&utm_source=git)** | Linthicum, MD | On Site | Nov 13 |
+| **[Oregon Department of Transportation](http://www.oregon.gov/odot)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/673517931d7acaa5ed4c4034?utm_campaign=1067&utm_source=git)** | Salem, OR | Hybrid | Nov 13 |
 | **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6735005272ddf44d4e75c1f8?utm_campaign=1067&utm_source=git)** | Salem | ODOT | Transportation Building | Hybrid | Nov 13 |
 | **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business, NAM](https://jobright.ai/jobs/info/6734b04be174e284c60f84af?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 13 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Nov 13 |
