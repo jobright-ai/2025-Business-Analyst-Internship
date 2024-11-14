@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneAmerica Financial](http://oneamerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67364d76e3a065b19ad225eb?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 14 |
+| **[Kemper](http://kemper.com)** | **[IT – Business Systems Intern - Spring 2025](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8c1c?utm_campaign=1067&utm_source=git)** | Jacksonville, Florida | Hybrid | Nov 14 |
+| **[Alfa Insurance](https://www.alfainsurance.com)** | **[Business Analyst, Quality Assurance and Project Management Intern](https://jobright.ai/jobs/info/67362d7141d461e84896862e?utm_campaign=1067&utm_source=git)** | Montgomery, AL | On Site | Nov 14 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Systems Analyst](https://jobright.ai/jobs/info/6735da54a9263af60811c177?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Nov 14 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67184ca39e8854e61cd00cef?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Nov 14 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[Technology: Business Architecture - 2025 Summer Intern](https://jobright.ai/jobs/info/6735da54a9263af60811c336?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Melbourne FL - R10175178](https://jobright.ai/jobs/info/6735afe50a580f67c34e7ff4?utm_campaign=1067&utm_source=git)** | Melbourne, FL | On Site | Nov 13 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/673549e84f2931bd6e84906c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 13 |
 | **[Oregon Department of Transportation](http://www.oregon.gov/odot)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/673517931d7acaa5ed4c4034?utm_campaign=1067&utm_source=git)** | Salem, OR | Hybrid | Nov 13 |
 | **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6735005272ddf44d4e75c1f8?utm_campaign=1067&utm_source=git)** | Salem | ODOT | Transportation Building | Hybrid | Nov 13 |
@@ -90,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/671783352bb5ca247176628c?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Nov 08 |
 | **[Skookum](https://www.skookum.org/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/672ddfaf7d4b09890d8f5d5c?utm_campaign=1067&utm_source=git)** | Bremerton, WA | Hybrid | Nov 08 |
 | **[FM Global](https://www.fmglobal.com)** | **[Scheduling Services Business Analyst (Jurisdictional) Intern](https://jobright.ai/jobs/info/672da5932bd81205269bdbfc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Nov 07 |
-| **[Zoox](https://www.zoox.com/)** | **[(January 2025 Start) Business Process Analyst Internship/Co-op](https://jobright.ai/jobs/info/671ab3d39f85820efe14be97?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
