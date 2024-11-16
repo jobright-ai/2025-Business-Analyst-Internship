@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cox Communications](http://www.cox.com)** | **[Enterprise Pricing Business Analytics Co-op - Spring 2025](https://jobright.ai/jobs/info/67381425fa84ca9317059daf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Nov 15 |
+| ↳ | **[Enterprise Pricing Business Analytics Co-op - Spring 2025](https://jobright.ai/jobs/info/6737ee5df7eefca392209e36?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Trainee, Business Analyst, Distribution – Spring 2025](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7ae8?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Nov 15 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship (Spring 2025)](https://jobright.ai/jobs/info/67377b5f3832779406092acb?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | On Site | Nov 15 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern, Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d02?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Nov 15 |
@@ -69,8 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d01?utm_campaign=1067&utm_source=git)** | Blauvelt, NY | On Site | Nov 15 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/6736e2901522b7758cc1fbfd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736e0e6104a03f301274955?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076609?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Nov 14 |
 | **[Kemper](http://kemper.com)** | **[IT – Business Systems Intern - Spring 2025](https://jobright.ai/jobs/info/6736660f52a29c4462709b37?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Nov 14 |
-| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c790?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Nov 14 |
+| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a3a6?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Nov 14 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c53e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Nov 14 |
 | **[Moderna](http://www.modernatx.com)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/673660cf05d2facfd55a09cf?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Trainee, Business Analyst, Distribution – Spring 2025](https://jobright.ai/jobs/info/673656d68205de84532734d5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 14 |
@@ -102,7 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Projects & Process Improvement Analyst)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08a8?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Nov 09 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Stable Value Analyst](https://jobright.ai/jobs/info/672fc33ce0f0e6610a1a49d5?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Nov 09 |
 | ↳ | **[Summer 2025 Intern – Stable Value Analyst](https://jobright.ai/jobs/info/672fc33ce0f0e6610a1a49d0?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Nov 09 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 09 |
-| ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265082?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Nov 09 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f8ef?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
