@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
+| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/673b2984789f8bc0635c8867?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 18 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Business Analyst - Global Procurement Intern](https://jobright.ai/jobs/info/673a7185a73bf37649d62e27?utm_campaign=1067&utm_source=git)** | Hanover Park, IL | Hybrid | Nov 17 |
+| **[AMP Aero Services](https://www.amp-aero.com)** | **[Cross-Functional Business Intern](https://jobright.ai/jobs/info/673a4f933b1a8847870f269f?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Nov 17 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b384795814470f4d481e02?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c24?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Nov 17 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Administrative Intern - Redondo Beach CA - R10176065](https://jobright.ai/jobs/info/6727c35ecbfb5b15b5ab420c?utm_campaign=1067&utm_source=git)** | Redondo Beach, CA | On Site | Nov 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/6738c97c20c2049c53920b02?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Nov 16 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/67387d4497ab278063245fbd?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 16 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3b5817f0344bd76dfac12?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Nov 16 |
@@ -82,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736e0e6104a03f301274955?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076609?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Nov 14 |
 | **[Kemper](http://kemper.com)** | **[IT – Business Systems Intern - Spring 2025](https://jobright.ai/jobs/info/6736660f52a29c4462709b37?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Nov 14 |
-| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c790?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Nov 14 |
+| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a3a6?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Nov 14 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c53e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Nov 14 |
 | **[Moderna](http://www.modernatx.com)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/673660cf05d2facfd55a09cf?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Trainee, Business Analyst, Distribution – Spring 2025](https://jobright.ai/jobs/info/673656d68205de8453273ac1?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 14 |
