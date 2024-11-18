@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Business Analyst - Global Procurement Intern](https://jobright.ai/jobs/info/673a7185a73bf37649d62e27?utm_campaign=1067&utm_source=git)** | Hanover Park, IL | Hybrid | Nov 17 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b384795814470f4d481e02?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c24?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Nov 17 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/6738c97c20c2049c53920b02?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Nov 16 |
