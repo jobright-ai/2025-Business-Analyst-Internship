@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetLife](http://www.metlife.com)** | **[INROADS Intern - Business Analyst](https://jobright.ai/jobs/info/673bc40b48da35f4cc8625bc?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 18 |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Administrative Intern - Redondo Beach CA - R10176065](https://jobright.ai/jobs/info/6727c35ecbfb5b15b5ab420c?utm_campaign=1067&utm_source=git)** | Redondo Beach, CA | On Site | Nov 18 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/673b2984789f8bc0635c8867?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 18 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Business Analyst - Global Procurement Intern](https://jobright.ai/jobs/info/673a7185a73bf37649d62e27?utm_campaign=1067&utm_source=git)** | Hanover Park, IL | Hybrid | Nov 17 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://global.lockton.com)** | **[Global Business Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8ae?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3aca81d716ba1d0155707?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 16 |
 | **[Cox Communications](http://www.cox.com)** | **[Enterprise Pricing Business Analytics Co-op - Spring 2025](https://jobright.ai/jobs/info/67381425fa84ca9317059daf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Nov 15 |
-| ↳ | **[Enterprise Pricing Business Analytics Co-op - Spring 2025](https://jobright.ai/jobs/info/6737ee5df7eefca392209e36?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Trainee, Business Analyst, Distribution – Spring 2025](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7ae8?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Nov 15 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship (Spring 2025)](https://jobright.ai/jobs/info/67377b5f3832779406092acb?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | On Site | Nov 15 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern, Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d02?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Nov 15 |
@@ -88,9 +89,8 @@ For a complete list, click the following sortable link below:
 | **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a3a6?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Nov 14 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c53e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Nov 14 |
 | **[Moderna](http://www.modernatx.com)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/673660cf05d2facfd55a09cf?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Trainee, Business Analyst, Distribution – Spring 2025](https://jobright.ai/jobs/info/673656d68205de84532734d5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Trainee, Business Analyst, Distribution – Spring 2025](https://jobright.ai/jobs/info/673656d68205de8453273ac1?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 14 |
 | **[Whatcom Community College](http://www.whatcom.edu)** | **[Part-time Business Process Assistant (BC students only)](https://jobright.ai/jobs/info/67365648409da6f793d7f898?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Nov 14 |
-| **[OneAmerica Financial](http://oneamerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67364d76e3a065b19ad225eb?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 14 |
 | **[Kemper](http://kemper.com)** | **[IT – Business Systems Intern - Spring 2025](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8c1c?utm_campaign=1067&utm_source=git)** | Jacksonville, Florida | Hybrid | Nov 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076345?utm_campaign=1067&utm_source=git)** | Buffalo, NY | On Site | Nov 14 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Systems Analyst](https://jobright.ai/jobs/info/6735da54a9263af60811c177?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Nov 14 |
