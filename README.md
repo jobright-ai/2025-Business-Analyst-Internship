@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CJ Logistics America](https://cjlogisticsamerica.com/)** | **[Carrier Performance Analyst Intern](https://jobright.ai/jobs/info/673d0833c475c1de9078924d?utm_campaign=1067&utm_source=git)** | Des Plaines, IL | On Site | Nov 19 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/673ca9632ce9f8775d07a82e?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Nov 19 |
 | **[MetLife](http://www.metlife.com)** | **[INROADS Intern - Business Analyst](https://jobright.ai/jobs/info/673bc40b48da35f4cc8625bc?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/66b3a78723af7c9350fc0eb1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6719eb443862562efc547e35?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Nov 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076609?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Nov 14 |
 | **[Kemper](http://kemper.com)** | **[IT – Business Systems Intern - Spring 2025](https://jobright.ai/jobs/info/6736660f52a29c4462709b37?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Nov 14 |
-| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c53e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Nov 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c790?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Nov 14 |
+| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c790?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Nov 14 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c53e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Nov 14 |
 | **[Moderna](http://www.modernatx.com)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/673660cf05d2facfd55a09cf?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Trainee, Business Analyst, Distribution – Spring 2025](https://jobright.ai/jobs/info/673656d68205de8453273ac1?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 14 |
 | **[Whatcom Community College](http://www.whatcom.edu)** | **[Part-time Business Process Assistant (BC students only)](https://jobright.ai/jobs/info/67365648409da6f793d7f898?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Nov 14 |
