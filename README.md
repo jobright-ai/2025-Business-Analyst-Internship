@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern Summer 2025 - IT Services](https://jobright.ai/jobs/info/673f6eb0a147e9da1558cf9b?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA) | On Site | Nov 21 |
+| **[Cox Communications](http://www.cox.com)** | **[Enterprise Pricing Business Analytics Co-op - Spring 2025](https://jobright.ai/jobs/info/673f39809c52befb31572388?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Nov 21 |
 | **[REGENT](https://www.regentcraft.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/670eea02fa6df6931eb18f53?utm_campaign=1067&utm_source=git)** | North Kingstown, RI | On Site | Nov 20 |
 | **[SBS CORP](https://mysbscorp.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673eb46f579d286ce015fd2e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 20 |
 | **[Equus Software](http://equusoft.com)** | **[Internship - Global Mobility Business Analyst](https://jobright.ai/jobs/info/673e85a7678e074e4d0442c8?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Nov 20 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/673e57e5e3f88670eeb10198?utm_campaign=1067&utm_source=git)** | Any Location / Remote | On Site | Nov 20 |
 | **[Wisk](https://wisk.aero)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/673e6fbe2d481a1195dbd24b?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Nov 20 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 20 |
+| **[Lennox](http://www.lennox.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6705f0015880982216018a92?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Nov 20 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/673e007f6d47984580397a66?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Nov 20 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dfe0e16235023ac14f608?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 20 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Business Continuity & Resiliency (Memphis, TN or Remote)](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a207?utm_campaign=1067&utm_source=git)** | Memphis, TN | Remote | Nov 20 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[CJ Logistics America](https://cjlogisticsamerica.com/)** | **[Carrier Performance Analyst Intern](https://jobright.ai/jobs/info/673d0833c475c1de9078924d?utm_campaign=1067&utm_source=git)** | Des Plaines, IL | On Site | Nov 19 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/673ca9632ce9f8775d07a82e?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Nov 19 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 19 |
-| **[MetLife](http://www.metlife.com)** | **[INROADS Intern - Business Analyst](https://jobright.ai/jobs/info/673bc40b48da35f4cc8625bc?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Administrative Intern - Redondo Beach CA - R10176065](https://jobright.ai/jobs/info/6727c35ecbfb5b15b5ab420c?utm_campaign=1067&utm_source=git)** | Redondo Beach, CA | On Site | Nov 18 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/673f2b2e115978675bed1a67?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 18 |
 | **[AMP Aero Services](https://www.amp-aero.com)** | **[Cross-Functional Business Intern](https://jobright.ai/jobs/info/673a4f933b1a8847870f269f?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Nov 18 |
@@ -99,7 +101,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 15 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d01?utm_campaign=1067&utm_source=git)** | Blauvelt, NY | On Site | Nov 15 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/6736e2901522b7758cc1fbfd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
-| **[Hajoca Corporation](https://www.hajoca.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6736e0e6104a03f301274955?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6719eb443862562efc547e35?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Nov 14 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[IT Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/66fd8f5a1a91ba9bad076609?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
