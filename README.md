@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6705f0015880982216018a92?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Nov 20 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/673e007f6d47984580397a66?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Nov 20 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dfe0e16235023ac14f608?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 20 |
-| ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48b?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 20 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48a?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Nov 20 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48b?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 20 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 20 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14aac?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 20 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Spring 2025)](https://jobright.ai/jobs/info/6721072541f1a6f32670f021?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Nov 20 |
@@ -101,9 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/67387d4497ab278063245fbd?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 16 |
 | **[Lockton](https://global.lockton.com)** | **[Global Business Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8ae?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis, Distribution Trainee – Spring 2025](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7ae8?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Nov 15 |
+| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/673ff9215e97c1da7da15783?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Nov 15 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship (Spring 2025)](https://jobright.ai/jobs/info/67377b5f3832779406092acb?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | On Site | Nov 15 |
-| **[Zoox](https://www.zoox.com/)** | **[Business Process Analyst Intern (January 2025 Start)](https://jobright.ai/jobs/info/671ad5e26d4be00b8705702a?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Nov 15 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3aca81d716ba1d015569e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 15 |
-| ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66e3bcd3dc9bc0299da374f5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 15 |
-| **[Watts Water Technologies](https://www.watts.com)** | **[Business Process Intern Summer 2025](https://jobright.ai/jobs/info/66fed1939d8a4aed80733d01?utm_campaign=1067&utm_source=git)** | Blauvelt, NY | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
