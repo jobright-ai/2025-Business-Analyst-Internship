@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Information Systems Business Operations Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6742b127fbdd7124b103f086?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 23 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship - Summer 2025](https://jobright.ai/jobs/info/67425bba802afaeed11df5f6?utm_campaign=1067&utm_source=git)** | Montpelier, VT | On Site | Nov 23 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western)](https://jobright.ai/jobs/info/6741cd139c0573ccb683d9a5?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Nov 23 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Nov 23 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western)](https://jobright.ai/jobs/info/674096cfd0d81170d3c228a1?utm_campaign=1067&utm_source=git)** | Glendale, CO | On Site | Nov 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Nov 22 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Nov 22 |
+| **[Sensata Technologies](http://www.sensata.com)** | **[IT Business Analyst (Engineering) Summer 2025 Intern](https://jobright.ai/jobs/info/67229d96cdb81b7362a2d02d?utm_campaign=1067&utm_source=git)** | Attleboro, MA | On Site | Nov 21 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/673fc445f2e511c6ad43cd37?utm_campaign=1067&utm_source=git)** | Manassas, VA | On Site | Nov 21 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern Summer 2025 - IT Services](https://jobright.ai/jobs/info/673fbdd851d7b6b5d26680f7?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Nov 21 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 21 |
@@ -98,10 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Oxy](https://www.oxy.com)** | **[Energy Services Intern (Oil & Gas Business)](https://jobright.ai/jobs/info/673db550ab70d12bd6df016f?utm_campaign=1067&utm_source=git)** | Greater Houston | On Site | Nov 19 |
 | **[Centier Bank](https://centier.com)** | **[Business Resiliency Intern (Summer 2025)](https://jobright.ai/jobs/info/673d720bce5ccf1453d252e5?utm_campaign=1067&utm_source=git)** | Merrillville, IN | On Site | Nov 19 |
 | **[CJ Logistics America](https://cjlogisticsamerica.com/)** | **[Carrier Performance Analyst Intern](https://jobright.ai/jobs/info/673d0833c475c1de9078924d?utm_campaign=1067&utm_source=git)** | Des Plaines, IL | On Site | Nov 19 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/673ca9632ce9f8775d07a82e?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Nov 19 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/673ca9632ce9f8775d07a823?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Nov 19 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 19 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Administrative Intern - Redondo Beach CA - R10176065](https://jobright.ai/jobs/info/6727c35ecbfb5b15b5ab420c?utm_campaign=1067&utm_source=git)** | Redondo Beach, CA | On Site | Nov 18 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/674228b483b23f23964b677a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 18 |
-| **[AMP Aero Services](https://www.amp-aero.com)** | **[Cross-Functional Business Intern](https://jobright.ai/jobs/info/673a4f933b1a8847870f269f?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Nov 18 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Business Analyst - Global Procurement Intern](https://jobright.ai/jobs/info/673a7185a73bf37649d62e27?utm_campaign=1067&utm_source=git)** | Hanover Park, IL | Hybrid | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
