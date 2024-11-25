@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Business Analyst Intern (Summer 2025) - Aiken, SC](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Nov 25 |
+| **[ARA](https://www.ara.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6744d084e53dca23576cdf49?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Nov 25 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/6744c1521b3b30fe143cdbf8?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Nov 25 |
+| **[BOMBARDIER](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67449aa6fee8a3e872a4755b?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Nov 25 |
+| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67449aa6fee8a3e872a4760a?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Nov 25 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business and Strategy Analyst Co-op Spring 2025](https://jobright.ai/jobs/info/6743a73013a63081396fcd11?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Nov 24 |
 | **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Information Systems Business Operations Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6742b127fbdd7124b103f086?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 23 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship - Summer 2025](https://jobright.ai/jobs/info/67425bba802afaeed11df5f6?utm_campaign=1067&utm_source=git)** | Montpelier, VT | On Site | Nov 23 |
@@ -84,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Equus Software](http://equusoft.com)** | **[Internship - Global Mobility Business Analyst](https://jobright.ai/jobs/info/673e85a7678e074e4d0442c8?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Nov 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/6705f4363dcf83f89c63c615?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Nov 20 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/673e57e5e3f88670eeb10198?utm_campaign=1067&utm_source=git)** | Any Location / Remote | On Site | Nov 20 |
+| **[Wisk](https://wisk.aero)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/673e6fbe2d481a1195dbd24b?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Nov 20 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 20 |
-| **[Wisk](https://wisk.aero)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/673e453e689e641cc3424679?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Nov 20 |
 | **[Lennox](http://www.lennox.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6705f0015880982216018a92?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Nov 20 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/673e007f6d47984580397a66?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Nov 20 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dfe0e16235023ac14f608?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 20 |
