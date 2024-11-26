@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc4c?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Nov 26 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/672932da995d8bc5a7857554?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Nov 26 |
+| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Communications Operations Internship](https://jobright.ai/jobs/info/6745b87f8d2a2288b20ac635?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
 | **[Environmental Solutions Group](http://doveresg.com)** | **[Business Process Analyst Intern, Chattanooga c172](https://jobright.ai/jobs/info/674547fa6e522ffbd865e438?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | On Site | Nov 25 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analysis/Decision Science Internship](https://jobright.ai/jobs/info/67454e51aa667125c95b225c?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Nov 25 |
 | **[Centric Brands](https://centricbrands.com)** | **[Business Operations Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/674528c6918491d68dc15d82?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Hybrid | Nov 25 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/67451562769924ea02800da4?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 25 |
-| ↳ | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd4919?utm_campaign=1067&utm_source=git)** | Illinois, US Offsite | Remote | Nov 25 |
-| ↳ | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd49d3?utm_campaign=1067&utm_source=git)** | Brentwood, TN | Remote | Nov 25 |
-| ↳ | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd49d1?utm_campaign=1067&utm_source=git)** | Kansas Remote Work | Remote | Nov 25 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd49d1?utm_campaign=1067&utm_source=git)** | Kansas Remote Work | Remote | Nov 25 |
 | ↳ | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd49d2?utm_campaign=1067&utm_source=git)** | North Carolina Remote Work | Remote | Nov 25 |
+| ↳ | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd49d0?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 25 |
+| ↳ | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd4919?utm_campaign=1067&utm_source=git)** | Illinois, US Offsite | Remote | Nov 25 |
 | ↳ | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd49cf?utm_campaign=1067&utm_source=git)** | Georgia Remote Work | Remote | Nov 25 |
+| ↳ | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd49d3?utm_campaign=1067&utm_source=git)** | Brentwood, TN | Remote | Nov 25 |
 | ↳ | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/6744f9e99d2ada35f2fd49d4?utm_campaign=1067&utm_source=git)** | Tennessee Remote Work | Remote | Nov 25 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Business Analyst Intern (Summer 2025) - Aiken, SC](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Nov 25 |
 | **[ARA](https://www.ara.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6744d084e53dca23576cdf49?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Nov 25 |
@@ -113,5 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/673d7f815126aa81620bb96b?utm_campaign=1067&utm_source=git)** | Lehi, Utah, United States of America | On Site | Nov 19 |
 | **[Oxy](https://www.oxy.com)** | **[Energy Services Intern (Oil & Gas Business)](https://jobright.ai/jobs/info/673db550ab70d12bd6df016f?utm_campaign=1067&utm_source=git)** | Greater Houston | On Site | Nov 19 |
 | **[Centier Bank](https://centier.com)** | **[Business Resiliency Intern (Summer 2025)](https://jobright.ai/jobs/info/673d720bce5ccf1453d252e5?utm_campaign=1067&utm_source=git)** | Merrillville, IN | On Site | Nov 19 |
-| **[CJ Logistics America](https://cjlogisticsamerica.com/)** | **[Carrier Performance Analyst Intern](https://jobright.ai/jobs/info/673d0833c475c1de9078924d?utm_campaign=1067&utm_source=git)** | Des Plaines, IL | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
