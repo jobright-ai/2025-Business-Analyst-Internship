@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Contour Software](https://contour-software.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f40c312905f1cbf9716cb?utm_campaign=1067&utm_source=git)** | Remote - CAN | Remote | Dec 03 |
+| **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Dec 03 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[Global Business Services (GBS) - Summer Internship](https://jobright.ai/jobs/info/6732b7d7af6db890fa3a1a66?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Dec 03 |
 | **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/674eed32f89ace15875f56be?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/674ee25315265c573835a9d5?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/674e9b920d824c745919c490?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
@@ -90,12 +93,11 @@ For a complete list, click the following sortable link below:
 | **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1b55?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | Nov 27 |
 | **[Lids](https://www.lids.com)** | **[2025 Summer Internship - Business Analytics](https://jobright.ai/jobs/info/67477d5a90a69427e41b4e9d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 27 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst- Internship](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabe1?utm_campaign=1067&utm_source=git)** | Southlake, TX | On Site | Nov 27 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Nov 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e458?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 27 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66f34380fa13e621ce51d15e?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | On Site | Nov 27 |
 | ↳ | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66f34380fa13e621ce51d12c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Nov 27 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[IT Business Solutions Intern](https://jobright.ai/jobs/info/672a56fc4b39d5bb91ec9345?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Nov 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ec3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 | ↳ | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ece?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Nov 27 |
-| **[Zoetis](https://www.zoetis.com)** | **[Business Architect – Intern](https://jobright.ai/jobs/info/67464b10d1ad5fdc85e63f89?utm_campaign=1067&utm_source=git)** | US Remote | On Site | Nov 26 |
-| ↳ | **[Business Architect – Intern](https://jobright.ai/jobs/info/67464b10d1ad5fdc85e63f84?utm_campaign=1067&utm_source=git)** | US Remote | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
