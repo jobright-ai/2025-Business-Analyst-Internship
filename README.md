@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Business Analytics: MBA Internship Opportunity](https://jobright.ai/jobs/info/674e720345db2ac11025a122?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern-Business Analyst (Rochester, NY)](https://jobright.ai/jobs/info/674e48fcf8ccef6a280c43fa?utm_campaign=1067&utm_source=git)** | Rochester, NY | On Site | Dec 02 |
 | **[AXA XL](https://axaxl.com)** | **[E&S Intern](https://jobright.ai/jobs/info/674e48fcf8ccef6a280c440c?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 02 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2025)](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e62cc?utm_campaign=1067&utm_source=git)** | New Jersey, United States | On Site | Dec 02 |
@@ -66,11 +67,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer 2025)](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e62d0?utm_campaign=1067&utm_source=git)** | Maryland, United States | On Site | Dec 02 |
 | **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Associate Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e63ce?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Dec 02 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Associate Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e63d2?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
+| ↳ | **[Spectrum, 2025 Summer Intern: Associate Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674e7da3025c2d7b574c625b?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Dec 02 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Associate Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674e1ea367b3754b21c067d9?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 02 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Business Analyst - ERP Management - Application via WayUp](https://jobright.ai/jobs/info/674e1ea367b3754b21c067f9?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08ba?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Dec 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 02 |
+| **[Susquehanna International Group, LLP (SIG)](sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Spring/Summer A Round](https://jobright.ai/jobs/info/674e715dcd5f0b3c2705e8c9?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | On Site | Dec 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Dec 01 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f8ef?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4107?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Nov 30 |
 | **[TMC, a division of C.H. Robinson](http://mytmc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320acca?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
@@ -96,7 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Flexsteel Industries Inc.](http://www.flexsteel.com/)** | **[IT Intern (Business Analyst)](https://jobright.ai/jobs/info/67464e1a20466600cbbb8b89?utm_campaign=1067&utm_source=git)** | Dubuque, IA | On Site | Nov 26 |
 | **[Forterra](https://www.forterra.com)** | **[2025 Intern - Business Systems](https://jobright.ai/jobs/info/67464d29307203721e6d9737?utm_campaign=1067&utm_source=git)** | Clarksburg, MD | On Site | Nov 26 |
 | **[BOMBARDIER](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern (Year-round 2025)](https://jobright.ai/jobs/info/67449aa6fee8a3e872a4755b?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Nov 26 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc4c?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Nov 26 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/672932da995d8bc5a7857554?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Nov 26 |
-| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Communications Operations Internship](https://jobright.ai/jobs/info/6745b87f8d2a2288b20ac635?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
