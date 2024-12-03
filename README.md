@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/674eed32f89ace15875f56be?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 03 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/674ee25315265c573835a9d5?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/674e9b920d824c745919c490?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/674e8caeea50b53aedbdf44f?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics: MBA Internship Opportunity](https://jobright.ai/jobs/info/674e720345db2ac11025a122?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Analyst for AI (Central Sales Ops)](https://jobright.ai/jobs/info/66f63a893178e22faf1e6fb6?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Nov 29 |
 | ↳ | **[Intern - Business Analyst for AI (Central Sales Ops)](https://jobright.ai/jobs/info/66f65069e7ada2344590b6f3?utm_campaign=1067&utm_source=git)** | Folsom, CA | On Site | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Operations Analyst)](https://jobright.ai/jobs/info/66d7c0947426d43835f06dbd?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 28 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/66f3580826986ccf5c6b359a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 28 |
 | **[AXA XL](https://axaxl.com)** | **[Intern - Innovation, Data & Analytics](https://jobright.ai/jobs/info/672bacadc1bf63ddcc24fe72?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6747f73918e954fff74f2766?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/672a9cc51747920f1d6e61ac?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 27 |
@@ -95,6 +98,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ece?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Nov 27 |
 | **[Zoetis](https://www.zoetis.com)** | **[Business Architect – Intern](https://jobright.ai/jobs/info/67464b10d1ad5fdc85e63f89?utm_campaign=1067&utm_source=git)** | US Remote | On Site | Nov 26 |
 | ↳ | **[Business Architect – Intern](https://jobright.ai/jobs/info/67464b10d1ad5fdc85e63f84?utm_campaign=1067&utm_source=git)** | US Remote | On Site | Nov 26 |
-| **[Flexsteel Industries Inc.](http://www.flexsteel.com/)** | **[IT Intern (Business Analyst)](https://jobright.ai/jobs/info/67464e1a20466600cbbb8b89?utm_campaign=1067&utm_source=git)** | Dubuque, IA | On Site | Nov 26 |
-| **[Forterra](https://www.forterra.com)** | **[2025 Intern - Business Systems](https://jobright.ai/jobs/info/67464d29307203721e6d9737?utm_campaign=1067&utm_source=git)** | Clarksburg, MD | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
