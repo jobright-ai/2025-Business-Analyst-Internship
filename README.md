@@ -58,11 +58,15 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/674f9b5abc19ed49eab82fc2?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Dec 03 |
+| **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Business Intelligence Intern - Franke Systems](https://jobright.ai/jobs/info/674fa439f517a65b58b63801?utm_campaign=1067&utm_source=git)** | Smyrna, TN | On Site | Dec 03 |
+| **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/674fb1dce5a451fed62c065f?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
 | **[PTC](http://www.ptc.com)** | **[Sustainability Business Analyst Intern](https://jobright.ai/jobs/info/674f94c75fde03a6c3f313c9?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 03 |
+| **[Leidos](https://www.leidos.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674fa33dee1b75a8ffe87f0b?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Dec 03 |
 | **[Staples](http://www.staples.com)** | **[Business Resiliency Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/674f8507903995599c3302e8?utm_campaign=1067&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 03 |
 | **[Norwegian Cruise Line Holdings Ltd.](http://www.ncl.com)** | **[Intern](https://jobright.ai/jobs/info/674f8497baee3cf1fc67f9fc?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Dec 03 |
 | **[PTC](http://www.ptc.com)** | **[Sustainability Business Analyst Intern](https://jobright.ai/jobs/info/674f6bbc246a8a24302dd39e?utm_campaign=1067&utm_source=git)** | Boston, MA, USA | On Site | Dec 03 |
-| **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33ff1?utm_campaign=1067&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
+| **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674fb1dce5a451fed62c07c7?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 03 |
+| ↳ | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33ff1?utm_campaign=1067&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
 | **[Contour Software](https://contour-software.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f40c312905f1cbf9716cb?utm_campaign=1067&utm_source=git)** | Remote - CAN | Remote | Dec 03 |
 | **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Dec 03 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Global Business Services (GBS) - Summer Internship](https://jobright.ai/jobs/info/6732b7d7af6db890fa3a1a66?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Dec 03 |
@@ -101,9 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst- Internship](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabe1?utm_campaign=1067&utm_source=git)** | Southlake, TX | On Site | Nov 27 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Nov 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e458?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 27 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66f34380fa13e621ce51d15e?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | On Site | Nov 27 |
-| ↳ | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66f34380fa13e621ce51d12c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Nov 27 |
-| **[LP Building Solutions](http://www.lpcorp.com)** | **[IT Business Solutions Intern](https://jobright.ai/jobs/info/672a56fc4b39d5bb91ec9345?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Nov 27 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ec3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
-| ↳ | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ece?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
