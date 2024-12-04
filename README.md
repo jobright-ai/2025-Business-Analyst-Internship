@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Veritiv Corporation](http://www.veritivcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6750425e3de239e75ae2ac00?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
+| **[Staples](http://www.staples.com)** | **[Business Resiliency Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/67508cd592f694aabdfbf19e?utm_campaign=1067&utm_source=git)** | Framingham, MA | Hybrid | Dec 04 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, Fixed Income Data Services Intern](https://jobright.ai/jobs/info/6733a62cd07bf1b90574d2bf?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6750359dc9d0eb71a1e46d6a?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Dec 03 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6750359dc9d0eb71a1e46d73?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Dec 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/674f9b5abc19ed49eab82fc2?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Dec 03 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674fb1dce5a451fed62c07c7?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 03 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33ff1?utm_campaign=1067&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
 | **[Contour Software](https://contour-software.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f40c312905f1cbf9716cb?utm_campaign=1067&utm_source=git)** | Remote - CAN | Remote | Dec 03 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA](https://jobright.ai/jobs/info/67504d34764ed639dbcce4a6?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Dec 03 |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA](https://jobright.ai/jobs/info/67504fc8764ed639dbccf5f1?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Dec 03 |
 | **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Dec 03 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Global Business Services (GBS) - Summer Internship](https://jobright.ai/jobs/info/6732b7d7af6db890fa3a1a66?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Dec 03 |
 | **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/674eed32f89ace15875f56be?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 03 |
@@ -103,9 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/66f3580826986ccf5c6b359a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 28 |
 | **[AXA XL](https://axaxl.com)** | **[Intern - Innovation, Data & Analytics](https://jobright.ai/jobs/info/672bacadc1bf63ddcc24fe72?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 28 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/67503733c9d0eb71a1e474ce?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Nov 27 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6747f73918e954fff74f2766?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/672a9cc51747920f1d6e61ac?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 27 |
-| **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Year-Round Intern](https://jobright.ai/jobs/info/6747bf179384bb6360945d59?utm_campaign=1067&utm_source=git)** | Hebron, KY | On Site | Nov 27 |
-| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/66f208f9465c3c35a03a55ce?utm_campaign=1067&utm_source=git)** | Columbia, SC | Hybrid | Nov 27 |
-| **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1b55?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
