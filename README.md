@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/674f9b5abc19ed49eab82fc2?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Dec 03 |
+| **[PTC](http://www.ptc.com)** | **[Sustainability Business Analyst Intern](https://jobright.ai/jobs/info/674f94c75fde03a6c3f313c9?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 03 |
+| **[Staples](http://www.staples.com)** | **[Business Resiliency Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/674f8507903995599c3302e8?utm_campaign=1067&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 03 |
+| **[Norwegian Cruise Line Holdings Ltd.](http://www.ncl.com)** | **[Intern](https://jobright.ai/jobs/info/674f8497baee3cf1fc67f9fc?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Dec 03 |
+| **[PTC](http://www.ptc.com)** | **[Sustainability Business Analyst Intern](https://jobright.ai/jobs/info/674f6bbc246a8a24302dd39e?utm_campaign=1067&utm_source=git)** | Boston, MA, USA | On Site | Dec 03 |
+| **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33ff1?utm_campaign=1067&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
 | **[Contour Software](https://contour-software.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f40c312905f1cbf9716cb?utm_campaign=1067&utm_source=git)** | Remote - CAN | Remote | Dec 03 |
 | **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Dec 03 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Global Business Services (GBS) - Summer Internship](https://jobright.ai/jobs/info/6732b7d7af6db890fa3a1a66?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Dec 03 |
 | **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/674eed32f89ace15875f56be?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/674ee25315265c573835a9d5?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/674e9b920d824c745919c490?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/674f71eb6dd71df12263c743?utm_campaign=1067&utm_source=git)** | 6450 Poe Ave, Dayton, OH, US | On Site | Dec 02 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/674e8caeea50b53aedbdf44f?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics: MBA Internship Opportunity](https://jobright.ai/jobs/info/674e720345db2ac11025a122?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern-Business Analyst (Rochester, NY)](https://jobright.ai/jobs/info/674e48fcf8ccef6a280c43fa?utm_campaign=1067&utm_source=git)** | Rochester, NY | On Site | Dec 02 |
@@ -78,8 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f8ef?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4107?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Nov 30 |
-| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/674eb81f66b6df58102ca5ff?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Nov 29 |
-| ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/674eb676dc3bd30e3165e52d?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Nov 29 |
+| **[GAF](http://www.gaf.com/)** | **[IT SAP Intern](https://jobright.ai/jobs/info/6711c4e587737d7665cdfd14?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Nov 29 |
 | **[TMC, a division of C.H. Robinson](http://mytmc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320acca?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Analyst for AI (Central Sales Ops)](https://jobright.ai/jobs/info/66f63a893178e22faf1e6fb6?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Nov 29 |
 | ↳ | **[Intern - Business Analyst for AI (Central Sales Ops)](https://jobright.ai/jobs/info/66f65069e7ada2344590b6f3?utm_campaign=1067&utm_source=git)** | Folsom, CA | On Site | Nov 29 |
