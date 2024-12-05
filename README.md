@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2025 Intern / Business Analyst (OH)](https://jobright.ai/jobs/info/6719672d36dbe39876d068ac?utm_campaign=1067&utm_source=git)** | Kirkland, WA | On Site | Dec 05 |
+| **[SAIC](http://www.saic.com)** | **[Business Process Analyst Internship](https://jobright.ai/jobs/info/6751861ba691e2b579c054c9?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[2025 Intern - CIO Finance Business/Data Analyst](https://jobright.ai/jobs/info/6750e79f72412a83e9de30fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Dec 04 |
 | **[Staples](http://www.staples.com)** | **[Business Resiliency Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/67508cd592f694aabdfbf19e?utm_campaign=1067&utm_source=git)** | Framingham, MA | Hybrid | Dec 04 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 04 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Nov 30 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fb8c8?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Nov 29 |
 | **[GAF](http://www.gaf.com/)** | **[IT SAP Intern](https://jobright.ai/jobs/info/6711c4e587737d7665cdfd14?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Nov 29 |
+| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67518f2d86d035508caa1839?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Nov 29 |
 | **[TMC, a division of C.H. Robinson](http://mytmc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320acca?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Analyst for AI (Central Sales Ops)](https://jobright.ai/jobs/info/66f63a893178e22faf1e6fb6?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Nov 29 |
 | ↳ | **[Intern - Business Analyst for AI (Central Sales Ops)](https://jobright.ai/jobs/info/66f65069e7ada2344590b6f3?utm_campaign=1067&utm_source=git)** | Folsom, CA | On Site | Nov 29 |
