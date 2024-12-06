@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675213af60073640da5294cf?utm_campaign=1067&utm_source=git)** | United States | On Site | Dec 05 |
+| **[AF - Group](http://www.afgroup.com)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675232e0d7ba7d85d39e1376?utm_campaign=1067&utm_source=git)** |  , Lansing, MI, 48901, US | On Site | Dec 05 |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA - R10179200](https://jobright.ai/jobs/info/67520e6a4de8f62d0f42ea7a?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
+| ↳ | **[2025 Business Management Intern - Rocket Center WV - R10179080](https://jobright.ai/jobs/info/67520e6a4de8f62d0f42ea8c?utm_campaign=1067&utm_source=git)** | Rocket Center, WV | On Site | Dec 05 |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/6752235f164052be430b18db?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Dec 05 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2025 Intern / Business Analyst (OH)](https://jobright.ai/jobs/info/6719672d36dbe39876d068ac?utm_campaign=1067&utm_source=git)** | Kirkland, WA | On Site | Dec 05 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Analyst Internship](https://jobright.ai/jobs/info/6751861ba691e2b579c054c9?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[2025 Intern - CIO Finance Business/Data Analyst](https://jobright.ai/jobs/info/6750e79f72412a83e9de30fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Dec 04 |
@@ -76,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674fb1dce5a451fed62c07c7?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 03 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33ff1?utm_campaign=1067&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
 | **[Contour Software](https://contour-software.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f40c312905f1cbf9716cb?utm_campaign=1067&utm_source=git)** | Remote - CAN | Remote | Dec 03 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA](https://jobright.ai/jobs/info/67504d34764ed639dbcce4a6?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Dec 03 |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA](https://jobright.ai/jobs/info/67504fc8764ed639dbccf5f1?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Dec 03 |
 | **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Dec 03 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Global Business Services (GBS) - Summer Internship](https://jobright.ai/jobs/info/6732b7d7af6db890fa3a1a66?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Dec 03 |
 | **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/674eed32f89ace15875f56be?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 03 |
