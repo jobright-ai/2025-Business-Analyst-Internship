@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - IT Business Analyst (Memphis, TN)](https://jobright.ai/jobs/info/6753380749954079e0d6cd59?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Business Analyst Internship](https://jobright.ai/jobs/info/6752bea7412617fc01e58dab?utm_campaign=1067&utm_source=git)** | Rogers, AR | On Site | Dec 05 |
-| **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Dec 05 |
+| **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7f?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d81?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7f?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675213af60073640da5294cf?utm_campaign=1067&utm_source=git)** | United States | On Site | Dec 05 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675232e0d7ba7d85d39e1376?utm_campaign=1067&utm_source=git)** |  , Lansing, MI, 48901, US | On Site | Dec 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA - R10179200](https://jobright.ai/jobs/info/67520e6a4de8f62d0f42ea7a?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Veritiv Corporation](http://www.veritivcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1e8d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | **[Stellantis](https://www.stellantis.com)** | **[Mopar Business Intern - Summer 2025](https://jobright.ai/jobs/info/67529ae3a6ccc89810573c0b?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Dec 04 |
 | **[IBM](http://www.ibm.com)** | **[2025 Intern - CIO Finance Business/Data Analyst](https://jobright.ai/jobs/info/6750e79f72412a83e9de30fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Dec 04 |
-| **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Business Intelligence Intern - Franke Systems](https://jobright.ai/jobs/info/674fa439f517a65b58b63801?utm_campaign=1067&utm_source=git)** | Smyrna, TN | On Site | Dec 04 |
+| **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Business Intelligence Intern - Franke FoodService Systems](https://jobright.ai/jobs/info/674fa439f517a65b58b63801?utm_campaign=1067&utm_source=git)** | Smyrna, TN | On Site | Dec 04 |
 | **[Staples](http://www.staples.com)** | **[Business Resiliency Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/67508cd592f694aabdfbf19e?utm_campaign=1067&utm_source=git)** | Framingham, MA | Hybrid | Dec 04 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 04 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, Fixed Income Data Services Intern](https://jobright.ai/jobs/info/6733a62cd07bf1b90574d2bf?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 04 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://www.ptc.com)** | **[Sustainability Business Analyst Intern](https://jobright.ai/jobs/info/674f6bbc246a8a24302dd39e?utm_campaign=1067&utm_source=git)** | Boston, MA, USA | On Site | Dec 03 |
 | **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674fb1dce5a451fed62c07c7?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 03 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Business Analyst - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33ff1?utm_campaign=1067&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Technology Partnerships Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/67324bf1c6ecba68c14a663d?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 03 |
 | **[Contour Software](https://contour-software.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f40c312905f1cbf9716cb?utm_campaign=1067&utm_source=git)** | Remote - CAN | Remote | Dec 03 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA](https://jobright.ai/jobs/info/67504fc8764ed639dbccf5f1?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Dec 03 |
 | **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Dec 03 |
@@ -117,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Nov 30 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/6752c2ab992cf9f97e953cd6?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 30 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fb8c8?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Nov 29 |
-| **[GAF](http://www.gaf.com/)** | **[IT SAP Intern](https://jobright.ai/jobs/info/6711c4e587737d7665cdfd14?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
