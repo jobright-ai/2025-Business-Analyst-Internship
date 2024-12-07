@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2025 Internship: Group Operation Excellence - Business Analyst Intern](https://jobright.ai/jobs/info/6753726a05d6f23c7ab2013f?utm_campaign=1067&utm_source=git)** | Princeton, NJ | On Site | Dec 06 |
+| **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67538a3351f145f506057845?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Dec 06 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - IT Business Analyst (Memphis, TN)](https://jobright.ai/jobs/info/6753380749954079e0d6cd59?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Business Analyst Internship](https://jobright.ai/jobs/info/6752bea7412617fc01e58dab?utm_campaign=1067&utm_source=git)** | Rogers, AR | On Site | Dec 05 |
-| **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7f?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
+| **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7f?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d81?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675213af60073640da5294cf?utm_campaign=1067&utm_source=git)** | United States | On Site | Dec 05 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675232e0d7ba7d85d39e1376?utm_campaign=1067&utm_source=git)** |  , Lansing, MI, 48901, US | On Site | Dec 05 |
@@ -72,8 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2025 Intern / Business Analyst (OH)](https://jobright.ai/jobs/info/6719672d36dbe39876d068ac?utm_campaign=1067&utm_source=git)** | Kirkland, WA | On Site | Dec 05 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Business Integration Intern](https://jobright.ai/jobs/info/66fb4c8720d692942772a0b8?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Dec 05 |
 | **[Veritiv Corporation](http://www.veritivcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1e8d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
-| **[Stellantis](https://www.stellantis.com)** | **[Mopar Business Intern - Summer 2025](https://jobright.ai/jobs/info/67529ae3a6ccc89810573c0b?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Dec 04 |
 | **[IBM](http://www.ibm.com)** | **[2025 Intern - CIO Finance Business/Data Analyst](https://jobright.ai/jobs/info/6750e79f72412a83e9de30fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Dec 04 |
+| **[Organon](https://www.organon.com)** | **[Intern - Business Technology Procurement](https://jobright.ai/jobs/info/675376a792af7540a7f0f8a8?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 04 |
+| ↳ | **[Intern - Business Technology Procurement](https://jobright.ai/jobs/info/675376a792af7540a7f0f98d?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Dec 04 |
 | **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Business Intelligence Intern - Franke FoodService Systems](https://jobright.ai/jobs/info/674fa439f517a65b58b63801?utm_campaign=1067&utm_source=git)** | Smyrna, TN | On Site | Dec 04 |
 | **[Staples](http://www.staples.com)** | **[Business Resiliency Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/67508cd592f694aabdfbf19e?utm_campaign=1067&utm_source=git)** | Framingham, MA | Hybrid | Dec 04 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 04 |
@@ -117,6 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66dbcfba8ce82a657237f8ef?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4107?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Nov 30 |
-| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/6752c2ab992cf9f97e953cd6?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 30 |
-| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fb8c8?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
