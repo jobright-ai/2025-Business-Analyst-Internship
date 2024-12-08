@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business and Strategy Analyst Co-op Spring 2025](https://jobright.ai/jobs/info/6755e6b170fcdf2b2b47f817?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Dec 08 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis, Distribution Trainee – Spring 2025](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7ae8?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Dec 07 |
 | **[Moderna](http://www.modernatx.com)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/675411aae6e0c42c37da4176?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Dec 07 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2025 Internship: Group Operation Excellence - Business Analyst Intern](https://jobright.ai/jobs/info/6753726a05d6f23c7ab2013f?utm_campaign=1067&utm_source=git)** | Princeton, NJ | On Site | Dec 06 |
@@ -64,15 +65,14 @@ For a complete list, click the following sortable link below:
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - IT Business Analyst (Memphis, TN)](https://jobright.ai/jobs/info/6753380749954079e0d6cd59?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 06 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Business Analyst Internship](https://jobright.ai/jobs/info/6752bea7412617fc01e58dab?utm_campaign=1067&utm_source=git)** | Rogers, AR | On Site | Dec 05 |
-| **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7f?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d81?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Dec 05 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675213af60073640da5294cf?utm_campaign=1067&utm_source=git)** | United States | On Site | Dec 05 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675232e0d7ba7d85d39e1376?utm_campaign=1067&utm_source=git)** |  , Lansing, MI, 48901, US | On Site | Dec 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA - R10179200](https://jobright.ai/jobs/info/67520e6a4de8f62d0f42ea7a?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
-| ↳ | **[2025 Business Management Intern - Rocket Center WV - R10179080](https://jobright.ai/jobs/info/67520e6a4de8f62d0f42ea8c?utm_campaign=1067&utm_source=git)** | Rocket Center, WV | On Site | Dec 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/6752235f164052be430b18db?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Dec 05 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2025 Intern / Business Analyst (OH)](https://jobright.ai/jobs/info/6719672d36dbe39876d068ac?utm_campaign=1067&utm_source=git)** | Kirkland, WA | On Site | Dec 05 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Business Integration Intern](https://jobright.ai/jobs/info/66fb4c8720d692942772a0b8?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Dec 05 |
@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spectrum, 2025 Summer Intern: Business Analyst - ERP Management - Application via WayUp](https://jobright.ai/jobs/info/674e1ea367b3754b21c067f9?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Business Systems Analyst)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b08ba?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Dec 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 02 |
-| **[Susquehanna International Group, LLP (SIG)](sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Spring/Summer A Round](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec94e?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
