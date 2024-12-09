@@ -67,11 +67,11 @@ For a complete list, click the following sortable link below:
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - IT Business Analyst (Memphis, TN)](https://jobright.ai/jobs/info/6753380749954079e0d6cd59?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 06 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Business Analyst Internship](https://jobright.ai/jobs/info/6752bea7412617fc01e58dab?utm_campaign=1067&utm_source=git)** | Rogers, AR | On Site | Dec 05 |
-| **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d81?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7f?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d81?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Dec 05 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675213af60073640da5294cf?utm_campaign=1067&utm_source=git)** | United States | On Site | Dec 05 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675232e0d7ba7d85d39e1376?utm_campaign=1067&utm_source=git)** |  , Lansing, MI, 48901, US | On Site | Dec 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA - R10179200](https://jobright.ai/jobs/info/67520e6a4de8f62d0f42ea7a?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
@@ -107,8 +107,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6750359dc9d0eb71a1e46f84?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Dec 02 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/674e9b920d824c745919c490?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/674f71eb6dd71df12263c743?utm_campaign=1067&utm_source=git)** | 6450 Poe Ave, Dayton, OH, US | On Site | Dec 02 |
-| **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/674e8caeea50b53aedbdf44f?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 02 |
-| **[Microsoft](https://www.microsoft.com)** | **[Business Analytics: MBA Internship Opportunity](https://jobright.ai/jobs/info/674e720345db2ac11025a122?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern-Business Analyst (Rochester, NY)](https://jobright.ai/jobs/info/674e48fcf8ccef6a280c43fa?utm_campaign=1067&utm_source=git)** | Rochester, NY | On Site | Dec 02 |
-| **[AXA XL](https://axaxl.com)** | **[E&S Intern](https://jobright.ai/jobs/info/674e48fcf8ccef6a280c440c?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
