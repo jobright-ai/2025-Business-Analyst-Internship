@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/6757566224a26970b553ee9f?utm_campaign=1067&utm_source=git)** | Centennial, Colorado, United States | On Site | Dec 09 |
+| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/6757a3914028994b103b924d?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Dec 09 |
+| ↳ | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/6757566224a26970b553ee9f?utm_campaign=1067&utm_source=git)** | Centennial, Colorado, United States | On Site | Dec 09 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67575990031ba1a6f0c60b44?utm_campaign=1067&utm_source=git)** | Charleston, WV | On Site | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Met Scholar - Asset Management Business Analyst Intern](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d01a?utm_campaign=1067&utm_source=git)** | Metro Plant - 2400 Childs Rd. St. Paul MN 55106, MN | Hybrid | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Met Scholar - Business Analyst Intern](https://jobright.ai/jobs/info/675695a0b11ee87e89a82da2?utm_campaign=1067&utm_source=git)** | MN 55101, MN | Hybrid | Dec 08 |
@@ -71,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 06 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Business Analyst Internship](https://jobright.ai/jobs/info/6752bea7412617fc01e58dab?utm_campaign=1067&utm_source=git)** | Rogers, AR | On Site | Dec 05 |
 | **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7f?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7f?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d81?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675213af60073640da5294cf?utm_campaign=1067&utm_source=git)** | United States | On Site | Dec 05 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675232e0d7ba7d85d39e1376?utm_campaign=1067&utm_source=git)** |  , Lansing, MI, 48901, US | On Site | Dec 05 |
@@ -104,7 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Contour Software](https://contour-software.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f40c312905f1cbf9716cb?utm_campaign=1067&utm_source=git)** | Remote - CAN | Remote | Dec 03 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern Woodland Hills CA](https://jobright.ai/jobs/info/67504fc8764ed639dbccf5f1?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Dec 03 |
 | **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Dec 03 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[Global Business Services (GBS) - Summer Internship](https://jobright.ai/jobs/info/6732b7d7af6db890fa3a1a66?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Dec 03 |
-| **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/674eed32f89ace15875f56be?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 03 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/674ee25315265c573835a9d5?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
