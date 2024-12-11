@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/67419687d52a35807f954630?utm_campaign=1067&utm_source=git)** | Lehi, UT | On Site | Dec 11 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6758dedd40f87b5544c50163?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 10 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/6758e70a1a89b0ad63d253b3?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | Dec 10 |
 | **[Hatch](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/6758b961bc0dbde88a1b28a4?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Dec 10 |
-| **[Zoetis](https://www.zoetis.com)** | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d88c?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
-| ↳ | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d883?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
+| **[Zoetis](https://www.zoetis.com)** | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d883?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
+| ↳ | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d88c?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c24?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Dec 10 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/6757a3914028994b103b924d?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Dec 09 |
 | ↳ | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/6757566224a26970b553ee9f?utm_campaign=1067&utm_source=git)** | Centennial, Colorado, United States | On Site | Dec 09 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67575990031ba1a6f0c60b44?utm_campaign=1067&utm_source=git)** | Charleston, WV | On Site | Dec 09 |
@@ -78,10 +80,10 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 06 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Business Analyst Internship](https://jobright.ai/jobs/info/6752bea7412617fc01e58dab?utm_campaign=1067&utm_source=git)** | Rogers, AR | On Site | Dec 05 |
 | **[We Insure](https://weinsuregroup.com/)** | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d81?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
-| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d82?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Dec 05 |
 | ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d7f?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Dec 05 |
+| ↳ | **[2025 AFS Business Internship Program](https://jobright.ai/jobs/info/6752b659d0fa91d738152d80?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675213af60073640da5294cf?utm_campaign=1067&utm_source=git)** | United States | On Site | Dec 05 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675232e0d7ba7d85d39e1376?utm_campaign=1067&utm_source=git)** |  , Lansing, MI, 48901, US | On Site | Dec 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Business Development Quality Intern](https://jobright.ai/jobs/info/6752235f164052be430b18db?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Dec 05 |
@@ -89,6 +91,4 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Business Integration Intern](https://jobright.ai/jobs/info/66fb4c8720d692942772a0b8?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Dec 05 |
 | **[Veritiv Corporation](http://www.veritivcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1e8d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | **[IBM](http://www.ibm.com)** | **[2025 Intern - CIO Finance Business/Data Analyst](https://jobright.ai/jobs/info/6750e79f72412a83e9de30fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Dec 04 |
-| **[Organon](https://www.organon.com)** | **[Intern - Business Technology Procurement](https://jobright.ai/jobs/info/675376a792af7540a7f0f8a8?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 04 |
-| ↳ | **[Intern - Business Technology Procurement](https://jobright.ai/jobs/info/675376a792af7540a7f0f98d?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
