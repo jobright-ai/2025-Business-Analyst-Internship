@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Business Systems Operations CAPS Internship](https://jobright.ai/jobs/info/675b870678fcd07ec14aee1c?utm_campaign=1067&utm_source=git)** | Shakopee, MN | On Site | Dec 12 |
 | **[PADNOS](http://padnos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/675b622580ddca27c1bfa6a5?utm_campaign=1067&utm_source=git)** | Grandville, MI | On Site | Dec 12 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Process Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675b5e780acd51807c6e9b3b?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Dec 12 |
 | **[Taylor Corporation](https://taylor.taylor.com)** | **[Process Associate Intern](https://jobright.ai/jobs/info/675b3d0de962c0292efffe91?utm_campaign=1067&utm_source=git)** | NC-Remote | On Site | Dec 12 |
