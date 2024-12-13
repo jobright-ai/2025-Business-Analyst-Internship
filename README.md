@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Technical Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675be4fd1e413f6cbb214260?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Dec 12 |
+| ↳ | **[Business Technical Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675bbe718bfaff8814a652e4?utm_campaign=1067&utm_source=git)** | Georgia, United States | On Site | Dec 12 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Business Systems Operations CAPS Internship](https://jobright.ai/jobs/info/675b870678fcd07ec14aee1c?utm_campaign=1067&utm_source=git)** | Shakopee, MN | On Site | Dec 12 |
 | **[PADNOS](http://padnos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/675b622580ddca27c1bfa6a5?utm_campaign=1067&utm_source=git)** | Grandville, MI | On Site | Dec 12 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Process Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675b5e780acd51807c6e9b3b?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Dec 12 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Wisk](https://wisk.aero)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/673e6fbe2d481a1195dbd24b?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Dec 12 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48a?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Dec 12 |
 | **[Endeavor](http://www.endeavor.org)** | **[Business Analyst Intern (Undergraduate, Summer 2025)](https://jobright.ai/jobs/info/675ab70c932bae67ed5abdca?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Dec 12 |
+| **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1b55?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | Dec 11 |
 | **[Docusign](http://www.docusign.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/675a69c77d57a5bcd39494a2?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Dec 11 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[Business Analyst, Intern (Check Imaging Group) – Summer 2025](https://jobright.ai/jobs/info/675aa03e71a43c041726bc71?utm_campaign=1067&utm_source=git)** | Springfield, MO | Remote | Dec 11 |
 | **[Bellevue College](http://www.bellevuecollege.edu)** | **[Part-time Business Process Assistant (BC students only)](https://jobright.ai/jobs/info/675a2f21714abda67bf65f4f?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Dec 11 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6758dedd40f87b5544c50163?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 10 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/6758e70a1a89b0ad63d253b3?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | Dec 10 |
 | **[Hatch](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/6758b961bc0dbde88a1b28a4?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Dec 10 |
-| **[Zoetis](https://www.zoetis.com)** | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d88c?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
-| ↳ | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d883?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
+| **[Zoetis](https://www.zoetis.com)** | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d883?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
+| ↳ | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d88c?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c24?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Dec 10 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/6757a3914028994b103b924d?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Dec 09 |
 | ↳ | **[2025 Business Quantitative Analyst Internship](https://jobright.ai/jobs/info/6757566224a26970b553ee9f?utm_campaign=1067&utm_source=git)** | Centennial, Colorado, United States | On Site | Dec 09 |
@@ -92,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67184ca39e8854e61cd00cef?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 06 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6719eb443862562efc547e35?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Dec 06 |
 | **[Kemper](http://kemper.com)** | **[IT – Business Systems Intern - Spring 2025](https://jobright.ai/jobs/info/6736660f52a29c4462709b37?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Dec 06 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - IT Business Analyst (Memphis, TN)](https://jobright.ai/jobs/info/6753380749954079e0d6cd59?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
