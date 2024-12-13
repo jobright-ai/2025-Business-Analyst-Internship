@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[CXEC Analyst SummerCustomer Experience & Engagement Center (CXEC) Analyst - Summer Intern Intern](https://jobright.ai/jobs/info/67083d8624b018e0ff79475d?utm_campaign=1067&utm_source=git)** | Overland Park, KS | Hybrid | Dec 13 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Technical Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675be4fd1e413f6cbb214260?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Dec 12 |
 | ↳ | **[Business Technical Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675bbe718bfaff8814a652e4?utm_campaign=1067&utm_source=git)** | Georgia, United States | On Site | Dec 12 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Business Systems Operations CAPS Internship](https://jobright.ai/jobs/info/675b870678fcd07ec14aee1c?utm_campaign=1067&utm_source=git)** | Shakopee, MN | On Site | Dec 12 |
@@ -94,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Moderna](http://www.modernatx.com)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/675411aae6e0c42c37da4176?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Dec 07 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67184ca39e8854e61cd00cef?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 06 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/6719eb443862562efc547e35?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Dec 06 |
-| **[Kemper](http://kemper.com)** | **[IT – Business Systems Intern - Spring 2025](https://jobright.ai/jobs/info/6736660f52a29c4462709b37?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
