@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320acca?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
+| **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Intern- Business Technology Operations](https://jobright.ai/jobs/info/67609c2de46a28e709140b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6760593fd02949fd18e63f38?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Dec 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/676008af7a5530766cf6d376?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Dec 16 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67410a86e6cd3fe13a69d042?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | Dec 15 |
@@ -69,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fdd0?utm_campaign=1067&utm_source=git)** | Weslaco, TX | On Site | Dec 13 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Business Systems Analyst Summer Intern](https://jobright.ai/jobs/info/675cb6f4c64893f98e2330c2?utm_campaign=1067&utm_source=git)** | Triangle Area | On Site | Dec 13 |
 | **[Schneider Electric](https://www.se.com)** | **[Business & Data Analyst Intern or Co-Op](https://jobright.ai/jobs/info/675cc31a309ba3181dbdb9c2?utm_campaign=1067&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Dec 13 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675c901e11dc997f80e70565?utm_campaign=1067&utm_source=git)** | Greater McAllen Area | Hybrid | Dec 13 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675c901e11dc997f80e70568?utm_campaign=1067&utm_source=git)** | Greater McAllen Area | Hybrid | Dec 13 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - TCU BEST Program, Remote](https://jobright.ai/jobs/info/675c88c521f7258a73350f1c?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 13 |
 | ↳ | **[Intern, Business Undergraduate Summer - Technology and Economic Development, Hybrid](https://jobright.ai/jobs/info/675c7c32e20cf51627868106?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 13 |
