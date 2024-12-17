@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6760eb2d136e02433cb1ee12?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Dec 16 |
+| ↳ | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6760eb2d136e02433cb1ee77?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Dec 16 |
+| **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Systems Analyst](https://jobright.ai/jobs/info/6760c6885b70b97e593bda91?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Dec 16 |
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Intern- Business Technology Operations](https://jobright.ai/jobs/info/67609c2de46a28e709140b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6760593fd02949fd18e63f38?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Dec 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/676008af7a5530766cf6d376?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Dec 16 |
@@ -69,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fdd0?utm_campaign=1067&utm_source=git)** | Weslaco, TX | On Site | Dec 13 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Business Systems Analyst Summer Intern](https://jobright.ai/jobs/info/675cb6f4c64893f98e2330c2?utm_campaign=1067&utm_source=git)** | Triangle Area | On Site | Dec 13 |
 | **[Schneider Electric](https://www.se.com)** | **[Business & Data Analyst Intern or Co-Op](https://jobright.ai/jobs/info/675cc31a309ba3181dbdb9c2?utm_campaign=1067&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Dec 13 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675c901e11dc997f80e70568?utm_campaign=1067&utm_source=git)** | Greater McAllen Area | Hybrid | Dec 13 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675c901e11dc997f80e70566?utm_campaign=1067&utm_source=git)** | Greater McAllen Area | Hybrid | Dec 13 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - TCU BEST Program, Remote](https://jobright.ai/jobs/info/675c88c521f7258a73350f1c?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 13 |
 | ↳ | **[Intern, Business Undergraduate Summer - Technology and Economic Development, Hybrid](https://jobright.ai/jobs/info/675c7c32e20cf51627868106?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 13 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Jack Henry](http://www.jackhenry.com)** | **[Business Analyst, Intern (Check Imaging Group) – Summer 2025](https://jobright.ai/jobs/info/675aa03e71a43c041726bc71?utm_campaign=1067&utm_source=git)** | Springfield, MO | Remote | Dec 11 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675c7ffd495fc5f4a86d9a0c?utm_campaign=1067&utm_source=git)** | WESLACO, TEXAS, United States | On Site | Dec 11 |
 | **[Bellevue College](http://www.bellevuecollege.edu)** | **[Part-time Business Process Assistant (BC students only)](https://jobright.ai/jobs/info/675a2f21714abda67bf65f4f?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Dec 11 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Business Management Intern - R10179806](https://jobright.ai/jobs/info/6759ff71102f8726c6898f2d?utm_campaign=1067&utm_source=git)** | Clearfield, UT | On Site | Dec 11 |
 | **[Cincinnati Reds](https://reds.mlb.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/675b2f01f451860f98e12e28?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Dec 11 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/6741774bf49cab413d6003f7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | ↳ | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/67419687d52a35807f954630?utm_campaign=1067&utm_source=git)** | Lehi, UT | On Site | Dec 11 |
@@ -106,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/6758b961bc0dbde88a1b28a4?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Dec 10 |
 | **[Zoetis](https://www.zoetis.com)** | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d88c?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
 | ↳ | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d883?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c24?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
