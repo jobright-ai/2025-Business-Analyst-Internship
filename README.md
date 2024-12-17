@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6761400221d25f20ba84441c?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Dec 17 |
+| **[Wawa, Inc.](https://www.wawa.com)** | **[Retail Fuels Business Analyst Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadbef?utm_campaign=1067&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6760eb2d136e02433cb1ee12?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Dec 16 |
 | ↳ | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6760eb2d136e02433cb1ee77?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Dec 16 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Systems Analyst](https://jobright.ai/jobs/info/6760c6885b70b97e593bda91?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Dec 16 |
@@ -65,14 +67,16 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/676008af7a5530766cf6d376?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Dec 16 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67410a86e6cd3fe13a69d042?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | Dec 15 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Dec 15 |
+| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Dec 14 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Dec 14 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Dec 14 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Dec 13 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae4772?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Dec 13 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Analyst](https://jobright.ai/jobs/info/675d15852ccde1c9801fdd6b?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Dec 13 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fdd0?utm_campaign=1067&utm_source=git)** | Weslaco, TX | On Site | Dec 13 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Business Systems Analyst Summer Intern](https://jobright.ai/jobs/info/675cb6f4c64893f98e2330c2?utm_campaign=1067&utm_source=git)** | Triangle Area | On Site | Dec 13 |
 | **[Schneider Electric](https://www.se.com)** | **[Business & Data Analyst Intern or Co-Op](https://jobright.ai/jobs/info/675cc31a309ba3181dbdb9c2?utm_campaign=1067&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Dec 13 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675c901e11dc997f80e70566?utm_campaign=1067&utm_source=git)** | Greater McAllen Area | Hybrid | Dec 13 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675c901e11dc997f80e703f5?utm_campaign=1067&utm_source=git)** | Greater McAllen Area | Hybrid | Dec 13 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - TCU BEST Program, Remote](https://jobright.ai/jobs/info/675c88c521f7258a73350f1c?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 13 |
 | ↳ | **[Intern, Business Undergraduate Summer - Technology and Economic Development, Hybrid](https://jobright.ai/jobs/info/675c7c32e20cf51627868106?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 13 |
@@ -103,9 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Cincinnati Reds](https://reds.mlb.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/675b2f01f451860f98e12e28?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Dec 11 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/6741774bf49cab413d6003f7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | ↳ | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/67419687d52a35807f954630?utm_campaign=1067&utm_source=git)** | Lehi, UT | On Site | Dec 11 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 10 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6758dedd40f87b5544c50163?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 10 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/6758e70a1a89b0ad63d253b3?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | Dec 10 |
 | **[Hatch](https://www.hatch.com)** | **[Student - Transit Business Analyst Intern](https://jobright.ai/jobs/info/6758b961bc0dbde88a1b28a4?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Dec 10 |
-| **[Zoetis](https://www.zoetis.com)** | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d88c?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
-| ↳ | **[Commercial Delivery Business Analyst Intern](https://jobright.ai/jobs/info/675840f5c13453aab073d883?utm_campaign=1067&utm_source=git)** | Parsippany | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
