@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Intergrated Business Planning Analyst](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4f96?utm_campaign=1067&utm_source=git)** | Home, KS | Remote | Dec 17 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6761da9fd49e35cf562d3973?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Dec 17 |
+| ↳ | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/67620d9c4f366ef38fccbab8?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Dec 17 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/67619f233349c7cd2cd25250?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Dec 17 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6761400221d25f20ba84441c?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Dec 17 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Retail Fuels Business Analyst Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadbef?utm_campaign=1067&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
@@ -77,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fdd0?utm_campaign=1067&utm_source=git)** | Weslaco, TX | On Site | Dec 13 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Business Systems Analyst Summer Intern](https://jobright.ai/jobs/info/675cb6f4c64893f98e2330c2?utm_campaign=1067&utm_source=git)** | Triangle Area | On Site | Dec 13 |
 | **[Schneider Electric](https://www.se.com)** | **[Business & Data Analyst Intern or Co-Op](https://jobright.ai/jobs/info/675cc31a309ba3181dbdb9c2?utm_campaign=1067&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Dec 13 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675c901e11dc997f80e70564?utm_campaign=1067&utm_source=git)** | Greater McAllen Area | Hybrid | Dec 13 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675c901e11dc997f80e70566?utm_campaign=1067&utm_source=git)** | Greater McAllen Area | Hybrid | Dec 13 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - TCU BEST Program, Remote](https://jobright.ai/jobs/info/675c88c521f7258a73350f1c?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 13 |
 | ↳ | **[Intern, Business Undergraduate Summer - Technology and Economic Development, Hybrid](https://jobright.ai/jobs/info/675c7c32e20cf51627868106?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 13 |
@@ -93,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Imagine](https://www.theimaginegroup.com)** | **[Business Systems Operations CAPS Internship](https://jobright.ai/jobs/info/675b870678fcd07ec14aee1c?utm_campaign=1067&utm_source=git)** | Shakopee, MN | On Site | Dec 12 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Business Continuity & Resiliency (Memphis, TN or Remote)](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a207?utm_campaign=1067&utm_source=git)** | Memphis, TN | Remote | Dec 12 |
 | **[PADNOS](http://padnos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/675b622580ddca27c1bfa6a5?utm_campaign=1067&utm_source=git)** | Grandville, MI | On Site | Dec 12 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14aac?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 12 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Process Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675b5e780acd51807c6e9b3b?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Dec 12 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dfe0e16235023ac14f608?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Dec 12 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Dec 12 |
@@ -109,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Cincinnati Reds](https://reds.mlb.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/675b2f01f451860f98e12e28?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Dec 11 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/6741774bf49cab413d6003f7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | ↳ | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/67419687d52a35807f954630?utm_campaign=1067&utm_source=git)** | Lehi, UT | On Site | Dec 11 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
