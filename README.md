@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneAmerica Financial](http://oneamerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6763751e3e8727ebe53042c1?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 18 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst- Internship](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabe1?utm_campaign=1067&utm_source=git)** | Southlake, TX | On Site | Dec 18 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67634a1def5d5386efb7b54a?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Dec 18 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/676334e904cb4cf9b218a74d?utm_campaign=1067&utm_source=git)** | 550 Polaris Pkwy, Westerville, OH, 43082, US | On Site | Dec 18 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/673549e84f2931bd6e84906c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Intern- Business Technology Operations](https://jobright.ai/jobs/info/67609c2de46a28e709140b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6760593fd02949fd18e63f38?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Dec 16 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67638a20271176ba32495572?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Dec 15 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67410a86e6cd3fe13a69d042?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | Dec 15 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Dec 15 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Dec 14 |
@@ -112,6 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Dec 12 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Dec 12 |
 | **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business, NAM](https://jobright.ai/jobs/info/6734b04be174e284c60f84af?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Dec 12 |
-| **[Wisk](https://wisk.aero)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/673e6fbe2d481a1195dbd24b?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Dec 12 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48a?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
