@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[OneAmerica Financial](http://oneamerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6763751e3e8727ebe53042c1?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 18 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/672932da995d8bc5a7857554?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Dec 18 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66f34380fa13e621ce51d12c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Dec 18 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst- Internship](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabe1?utm_campaign=1067&utm_source=git)** | Southlake, TX | On Site | Dec 18 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67634a1def5d5386efb7b54a?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Dec 18 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/676334e904cb4cf9b218a74d?utm_campaign=1067&utm_source=git)** | 550 Polaris Pkwy, Westerville, OH, 43082, US | On Site | Dec 18 |
@@ -66,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7f61?utm_campaign=1067&utm_source=git)** | Westerville, OH | Hybrid | Dec 18 |
 | **[CSC](http://www.cscglobal.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6763314595bc35c0e48bf70c?utm_campaign=1067&utm_source=git)** | 4250 Lancaster Pike, Wilmington, DE, 19805, US | On Site | Dec 18 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108ff2c?utm_campaign=1067&utm_source=git)** | Niles, OH | On Site | Dec 18 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/676312c09e596014ff83708a?utm_campaign=1067&utm_source=git)** | Columbus, IN | On Site | Dec 18 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/6763d96c66244d67ec6b9cd1?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 18 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Technical Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675bbe718bfaff8814a652e4?utm_campaign=1067&utm_source=git)** | Georgia, United States | On Site | Dec 17 |
 | ↳ | **[Business Technical Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675be4fd1e413f6cbb214260?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Dec 17 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Business Analyst Intern (Summer 2025) - Aiken, SC](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Dec 17 |
@@ -113,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dfe0e16235023ac14f608?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Dec 12 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Dec 12 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Dec 12 |
-| **[Air Liquide](http://www.airliquide.com)** | **[2025 Intern, Business, NAM](https://jobright.ai/jobs/info/6734b04be174e284c60f84af?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
