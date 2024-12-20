@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CBIZ](http://www.cbiz.com)** | **[Business Enterprise Services Intern / Summer 2025](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d8c3?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 20 |
+| **[Munich Re](https://www.munichre.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6765b3340ac06f974169968c?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
+| **[PAM Transport](https://www.pamtransport.com/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6765ab5734a1d06478c73c74?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Dec 20 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6765895f5b60c14f185f05d5?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Dec 20 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/672a9cc51747920f1d6e61ac?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 19 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/6764f4085b3e00f43ab92b41?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Dec 19 |
 | **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6765107e5372a2ec50c4b827?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Dec 19 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6764aef3b120d3617b65080e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 19 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Dec 19 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/67647e57ec1fcc51a6b7c767?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6765748e052bbfde6398b4f1?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Dec 19 |
 | **[OneAmerica Financial](http://oneamerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6763751e3e8727ebe53042c1?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 18 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/672932da995d8bc5a7857554?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Dec 18 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66f34380fa13e621ce51d12c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Dec 18 |
@@ -77,12 +83,10 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108ff2c?utm_campaign=1067&utm_source=git)** | Niles, OH | On Site | Dec 18 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/67655fcc0821a6db9f50bcb3?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Dec 18 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/6763d96c66244d67ec6b9cd1?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 18 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Technical Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675bbe718bfaff8814a652e4?utm_campaign=1067&utm_source=git)** | Georgia, United States | On Site | Dec 17 |
-| ↳ | **[Business Technical Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/675be4fd1e413f6cbb214260?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Dec 17 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Business Analyst Intern (Summer 2025) - Aiken, SC](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Dec 17 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/67622e0ea1ce95f57c08ba84?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 17 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Intergrated Business Planning Analyst](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4f96?utm_campaign=1067&utm_source=git)** | Home, KS | Remote | Dec 17 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6761da9fd49e35cf562d3ae9?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Dec 17 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6761da9fd49e35cf562d3973?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Dec 17 |
 | ↳ | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/67620d9c4f366ef38fccbab8?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Dec 17 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Co-Op, Business Analyst Support](https://jobright.ai/jobs/info/67619f233349c7cd2cd25250?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Dec 17 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Retail Fuels Business Analyst Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadbef?utm_campaign=1067&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
@@ -99,7 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/67451562769924ea02800da4?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Dec 14 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Dec 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Dec 13 |
-| **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae4772?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Dec 13 |
-| **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Analyst](https://jobright.ai/jobs/info/675d15852ccde1c9801fdd6b?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Dec 13 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fdd0?utm_campaign=1067&utm_source=git)** | Weslaco, TX | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
