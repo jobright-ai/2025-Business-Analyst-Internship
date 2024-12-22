@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/673549e84f2931bd6e84906c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Intern- Business Technology Operations](https://jobright.ai/jobs/info/67609c2de46a28e709140b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6760593fd02949fd18e63f38?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Dec 16 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67638a20271176ba32495572?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
