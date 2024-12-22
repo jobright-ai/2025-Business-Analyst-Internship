@@ -100,6 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Intern- Business Technology Operations](https://jobright.ai/jobs/info/67609c2de46a28e709140b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6760593fd02949fd18e63f38?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Dec 16 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67638a20271176ba32495572?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Dec 15 |
-| **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67410a86e6cd3fe13a69d042?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | Dec 15 |
-| **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
