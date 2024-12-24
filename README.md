@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a82059b?utm_campaign=1067&utm_source=git)** | 8 Richard's Rd, Plymouth, MA, 02360, US | On Site | Dec 20 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Enterprise Services Intern / Summer 2025](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d8c3?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Munich Re](https://www.munichre.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6765b3340ac06f974169968c?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Analyst, Performance Analytics Internship](https://jobright.ai/jobs/info/6765895f5b60c14f185f05d5?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Dec 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 19 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/6764f4085b3e00f43ab92b41?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Dec 19 |
 | **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6765107e5372a2ec50c4b827?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Dec 19 |
@@ -94,6 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/6763d96c66244d67ec6b9cd1?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 18 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Business Analyst Intern (Summer 2025) - Aiken, SC](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Dec 17 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/67622e0ea1ce95f57c08ba84?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 17 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6761da9fd49e35cf562d3973?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Dec 17 |
-| ↳ | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/67620d9c4f366ef38fccbab8?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
