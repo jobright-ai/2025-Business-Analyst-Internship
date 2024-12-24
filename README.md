@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iCapital](https://icapital.com)** | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ad03?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 23 |
+| **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Business Analyst Intern (Market Transparency)](https://jobright.ai/jobs/info/6769f988b58e9412cc69d932?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 23 |
+| **[iCapital](https://icapital.com)** | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769c4fcce959d15cde3f31d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Dec 23 |
 | **[Accolade, Inc.](http://www.accolade.com)** | **[Business Operations & Analytics Intern](https://jobright.ai/jobs/info/6769ad1fecdebbf806ba52e3?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 23 |
 | **[PlushCare](http://www.plushcare.com)** | **[Business Operations & Analytics Intern](https://jobright.ai/jobs/info/6769b8ff4666ff750e8ace98?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 23 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Dec 21 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Supply Chain – Clinical Supply](https://jobright.ai/jobs/info/67664dbd71a7cd3fb177216c?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67665bea70ec0416b10b84b4?utm_campaign=1067&utm_source=git)** | Plymouth, MA | On Site | Dec 20 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae4772?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Dec 20 |
 | **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Business Analyst Intern (Regulatory Support)](https://jobright.ai/jobs/info/6766012f4c33903e4fdb515c?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 20 |
