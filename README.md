@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Dec 24 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Business Analyst](https://jobright.ai/jobs/info/676a1dcb458629385ae097ab?utm_campaign=1067&utm_source=git)** | Gainesville, FL | Remote | Dec 23 |
 | **[iCapital](https://icapital.com)** | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ad03?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Business Analyst Intern (Market Transparency)](https://jobright.ai/jobs/info/6769f988b58e9412cc69d932?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 23 |
-| **[iCapital](https://icapital.com)** | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769c4fcce959d15cde3f31d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Dec 23 |
+| ↳ | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769c4fcce959d15cde3f31d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Dec 23 |
 | **[Accolade, Inc.](http://www.accolade.com)** | **[Business Operations & Analytics Intern](https://jobright.ai/jobs/info/6769ad1fecdebbf806ba52e3?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 23 |
 | **[PlushCare](http://www.plushcare.com)** | **[Business Operations & Analytics Intern](https://jobright.ai/jobs/info/6769b8ff4666ff750e8ace98?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 23 |
 | **[Congruex](http://congruex.com)** | **[: Intern, Junior Business Analyst](https://jobright.ai/jobs/info/676a1ca975c73be8bf6523ef?utm_campaign=1067&utm_source=git)** | Boulder, CO | On Site | Dec 21 |
@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7f61?utm_campaign=1067&utm_source=git)** | Westerville, OH | Hybrid | Dec 18 |
 | **[CSC](http://www.cscglobal.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6763314595bc35c0e48bf70c?utm_campaign=1067&utm_source=git)** | 4250 Lancaster Pike, Wilmington, DE, 19805, US | On Site | Dec 18 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108ff2c?utm_campaign=1067&utm_source=git)** | Niles, OH | On Site | Dec 18 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/6763d96c66244d67ec6b9cd1?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
