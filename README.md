@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Congruex](http://congruex.com)** | **[: Intern, Junior Business Analyst](https://jobright.ai/jobs/info/676a1ca975c73be8bf6523ef?utm_campaign=1067&utm_source=git)** | Boulder, CO | On Site | Dec 21 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Dec 21 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Supply Chain – Clinical Supply](https://jobright.ai/jobs/info/676a669e3bfd5af992aeddac?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Dec 20 |
+| **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Business Analyst Intern (Regulatory Support)](https://jobright.ai/jobs/info/676b92fa3f8f98679347ecf8?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67665bea70ec0416b10b84b4?utm_campaign=1067&utm_source=git)** | Plymouth, MA | On Site | Dec 20 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/676b797acb691ab7991cf215?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae4772?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Dec 20 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Dec 19 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/67647e57ec1fcc51a6b7c767?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6765748e052bbfde6398b4f1?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Dec 19 |
+| **[OneAmerica Financial](http://oneamerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/676b9f59925cf777ecbed8b0?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 18 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/672932da995d8bc5a7857554?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Dec 18 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66f34380fa13e621ce51d12c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Dec 18 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst- Internship](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabe1?utm_campaign=1067&utm_source=git)** | Southlake, TX | On Site | Dec 18 |
@@ -89,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/6744c1521b3b30fe143cdbf8?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Dec 18 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7f61?utm_campaign=1067&utm_source=git)** | Westerville, OH | Hybrid | Dec 18 |
 | **[CSC](http://www.cscglobal.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6763314595bc35c0e48bf70c?utm_campaign=1067&utm_source=git)** | 4250 Lancaster Pike, Wilmington, DE, 19805, US | On Site | Dec 18 |
-| **[Howmet Aerospace](https://www.howmet.com/)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108ff2c?utm_campaign=1067&utm_source=git)** | Niles, OH | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
