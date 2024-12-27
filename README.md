@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Enterprise Relationship Management - Undergrad Intern](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5007?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Dec 26 |
 | **[BWE](https://www.bwe.com/)** | **[Co-Op, Data Management](https://jobright.ai/jobs/info/676d965aa314e27b0b3aeaaf?utm_campaign=1067&utm_source=git)** | OH - Cleveland | On Site | Dec 26 |
+| **[USG](https://www.usg.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/676dbef820d33e0573a49011?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Business Analyst Intern Job Description](https://jobright.ai/jobs/info/676c444dc689d6278bcd9ccc?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Dec 24 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Business Analyst](https://jobright.ai/jobs/info/676a1dcb458629385ae097ab?utm_campaign=1067&utm_source=git)** | Gainesville, FL | Remote | Dec 23 |
@@ -126,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/66eb08747146a6bf8e679ae7?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Dec 13 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Dec 13 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[IT Business Analyst (Engineering) Summer 2025 Intern](https://jobright.ai/jobs/info/67229d96cdb81b7362a2d02d?utm_campaign=1067&utm_source=git)** | Attleboro, MA | On Site | Dec 13 |
-| **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf89555340aa4bfaa42ae?utm_campaign=1067&utm_source=git)** | 34 Maple Street, Milford, MA, US | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
