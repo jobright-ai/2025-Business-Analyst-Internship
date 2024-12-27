@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Operational Risk and Control: Business Analyst Co-op](https://jobright.ai/jobs/info/676ec6b698d9c08cde0cb3d1?utm_campaign=1067&utm_source=git)** | Boston | On Site | Dec 27 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Enterprise Relationship Management - Undergrad Intern](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5007?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Dec 26 |
 | **[BWE](https://www.bwe.com/)** | **[Co-Op, Data Management](https://jobright.ai/jobs/info/676d965aa314e27b0b3aeaaf?utm_campaign=1067&utm_source=git)** | OH - Cleveland | On Site | Dec 26 |
 | **[USG](https://www.usg.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/676dbef820d33e0573a49011?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst- Internship](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabe1?utm_campaign=1067&utm_source=git)** | Southlake, TX | On Site | Dec 18 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67634a1def5d5386efb7b54a?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Dec 18 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/676334e904cb4cf9b218a74d?utm_campaign=1067&utm_source=git)** | 550 Polaris Pkwy, Westerville, OH, 43082, US | On Site | Dec 18 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern (Year-round 2025)](https://jobright.ai/jobs/info/67449aa6fee8a3e872a4755b?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Dec 18 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/6744c1521b3b30fe143cdbf8?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Dec 18 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7f61?utm_campaign=1067&utm_source=git)** | Westerville, OH | Hybrid | Dec 18 |
 | **[CSC](http://www.cscglobal.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6763314595bc35c0e48bf70c?utm_campaign=1067&utm_source=git)** | 4250 Lancaster Pike, Wilmington, DE, 19805, US | On Site | Dec 18 |
@@ -98,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/6763d96c66244d67ec6b9cd1?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 18 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Business Analyst Intern (Summer 2025) - Aiken, SC](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Dec 17 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/67622e0ea1ce95f57c08ba84?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 17 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6761da9fd49e35cf562d3973?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Dec 17 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6761da9fd49e35cf562d398f?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Dec 17 |
 | ↳ | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/67620d9c4f366ef38fccbab8?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Dec 17 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Retail Fuels Business Analyst Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadbef?utm_campaign=1067&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6760eb2d136e02433cb1ee12?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Dec 16 |
@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/67451562769924ea02800da4?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Dec 14 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Dec 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Dec 13 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Special Programs Business Intern (Immediate Opening)](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fdd0?utm_campaign=1067&utm_source=git)** | Weslaco, TX | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
