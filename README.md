@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veritiv Corporation](http://www.veritivcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1e8d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675213af60073640da5294cf?utm_campaign=1067&utm_source=git)** | United States | On Site | Dec 27 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Operational Risk and Control: Business Analyst Co-op](https://jobright.ai/jobs/info/676ec6b698d9c08cde0cb3d1?utm_campaign=1067&utm_source=git)** | Boston | On Site | Dec 27 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Enterprise Relationship Management - Undergrad Intern](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5007?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Dec 26 |
 | **[BWE](https://www.bwe.com/)** | **[Co-Op, Data Management](https://jobright.ai/jobs/info/676d965aa314e27b0b3aeaaf?utm_campaign=1067&utm_source=git)** | OH - Cleveland | On Site | Dec 26 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Supply Chain – Clinical Supply](https://jobright.ai/jobs/info/676a669e3bfd5af992aeddac?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67665bea70ec0416b10b84b4?utm_campaign=1067&utm_source=git)** | Plymouth, MA | On Site | Dec 20 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/676b797acb691ab7991cf215?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern (Year-round 2025)](https://jobright.ai/jobs/info/676f687c4f3a87b529df0a43?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Dec 20 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae4772?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a82059b?utm_campaign=1067&utm_source=git)** | 8 Richard's Rd, Plymouth, MA, 02360, US | On Site | Dec 20 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Enterprise Services Intern / Summer 2025](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d8c3?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 20 |
@@ -111,7 +114,4 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Dec 15 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Dec 14 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Dec 14 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Operations Intern - 2025 Internship (US REMOTE)](https://jobright.ai/jobs/info/67451562769924ea02800da4?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Dec 14 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Dec 14 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
