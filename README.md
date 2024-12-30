@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/67419687d52a35807f954630?utm_campaign=1067&utm_source=git)** | Lehi, UT | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/6741774bf49cab413d6003f7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Communications Operations Internship](https://jobright.ai/jobs/info/6745b87f8d2a2288b20ac635?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Dec 28 |
 | **[Veritiv Corporation](http://www.veritivcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1e8d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Technology Process Improvement Business Analyst](https://jobright.ai/jobs/info/675213af60073640da5294cf?utm_campaign=1067&utm_source=git)** | United States | On Site | Dec 27 |
@@ -71,8 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Emerging Tech](https://emergingtech.co)** | **[Business Analyst](https://jobright.ai/jobs/info/676a1dcb458629385ae097ab?utm_campaign=1067&utm_source=git)** | Gainesville, FL | Remote | Dec 23 |
 | **[iCapital](https://icapital.com)** | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ad03?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769c4fcce959d15cde3f31d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Dec 23 |
-| **[Accolade, Inc.](http://www.accolade.com)** | **[Business Operations & Analytics Intern](https://jobright.ai/jobs/info/6769ad1fecdebbf806ba52e3?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 23 |
-| **[PlushCare](http://www.plushcare.com)** | **[Business Operations & Analytics Intern](https://jobright.ai/jobs/info/6769b8ff4666ff750e8ace98?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern (Year-round 2025)](https://jobright.ai/jobs/info/677113d91191d920860e19f1?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Dec 22 |
 | **[Congruex](http://congruex.com)** | **[Intern, Junior Business Analyst](https://jobright.ai/jobs/info/676a1ca975c73be8bf6523ef?utm_campaign=1067&utm_source=git)** | Boulder, CO | On Site | Dec 22 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Dec 21 |
@@ -106,8 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/67622e0ea1ce95f57c08ba84?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 17 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6761da9fd49e35cf562d3973?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Dec 17 |
 | ↳ | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/67620d9c4f366ef38fccbab8?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Dec 17 |
-| **[Wawa, Inc.](https://www.wawa.com)** | **[Retail Fuels Business Analyst Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadbef?utm_campaign=1067&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6760eb2d136e02433cb1ee12?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Dec 16 |
-| ↳ | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6760eb2d136e02433cb1ee77?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Dec 16 |
-| **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/673549e84f2931bd6e84906c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
