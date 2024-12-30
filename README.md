@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[PlushCare](http://www.plushcare.com)** | **[Business Operations & Analytics Intern](https://jobright.ai/jobs/info/6769b8ff4666ff750e8ace98?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern (Year-round 2025)](https://jobright.ai/jobs/info/677113d91191d920860e19f1?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Dec 22 |
 | **[Congruex](http://congruex.com)** | **[Intern, Junior Business Analyst](https://jobright.ai/jobs/info/676a1ca975c73be8bf6523ef?utm_campaign=1067&utm_source=git)** | Boulder, CO | On Site | Dec 22 |
-| **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Business Analyst Intern (Regulatory Support)](https://jobright.ai/jobs/info/6770eea8cf93fdb00841f773?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 21 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Dec 21 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Supply Chain – Clinical Supply](https://jobright.ai/jobs/info/676a669e3bfd5af992aeddac?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67665bea70ec0416b10b84b4?utm_campaign=1067&utm_source=git)** | Plymouth, MA | On Site | Dec 20 |
@@ -112,5 +111,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6760eb2d136e02433cb1ee77?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Dec 16 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/673549e84f2931bd6e84906c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Intern- Business Technology Operations](https://jobright.ai/jobs/info/67609c2de46a28e709140b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
-| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6760593fd02949fd18e63f38?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
