@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern-Undergraduate(business)](https://jobright.ai/jobs/info/6773e23150e05832a34e1aad?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Dec 31 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/67419687d52a35807f954630?utm_campaign=1067&utm_source=git)** | Lehi, UT | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/6741774bf49cab413d6003f7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[USG](https://www.usg.com/)** | **[Finance Transformation Intern](https://jobright.ai/jobs/info/677325aba5c7f83e81073169?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 29 |
@@ -106,6 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/6763d96c66244d67ec6b9cd1?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 18 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Business Analyst Intern (Summer 2025) - Aiken, SC](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Dec 17 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/67622e0ea1ce95f57c08ba84?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 17 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6761da9fd49e35cf562d398f?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Dec 17 |
-| ↳ | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/67620d9c4f366ef38fccbab8?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
