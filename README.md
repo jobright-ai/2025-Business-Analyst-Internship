@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7f61?utm_campaign=1067&utm_source=git)** | Westerville, OH | Hybrid | Dec 18 |
 | **[CSC](http://www.cscglobal.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6763314595bc35c0e48bf70c?utm_campaign=1067&utm_source=git)** | 4250 Lancaster Pike, Wilmington, DE, 19805, US | On Site | Dec 18 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108ff2c?utm_campaign=1067&utm_source=git)** | Niles, OH | On Site | Dec 18 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/6763d96c66244d67ec6b9cd1?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
