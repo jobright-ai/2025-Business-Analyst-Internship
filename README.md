@@ -98,6 +98,4 @@ For a complete list, click the following sortable link below:
 | **[RaceTrac](http://www.racetrac.com/)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/67647e57ec1fcc51a6b7c767?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/676d0410ec00f82ba5700e5a?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Dec 18 |
 | **[OneAmerica Financial](http://oneamerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/676b9f59925cf777ecbed8b0?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 18 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/672932da995d8bc5a7857554?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Dec 18 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66f34380fa13e621ce51d12c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
