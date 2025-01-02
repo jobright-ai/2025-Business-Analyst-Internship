@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/675015352807ae583548058b?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 02 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67763d2bf582ad27744dea24?utm_campaign=1067&utm_source=git)** | Remote - North Carolina | On Site | Jan 01 |
 | ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/677635486eaf0574f0fd54d4?utm_campaign=1067&utm_source=git)** | United States | On Site | Jan 01 |
 | ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67765fa30896db9c823dbaa0?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Hybrid | Jan 01 |
@@ -91,10 +92,5 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/676b797acb691ab7991cf215?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae4772?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a82059b?utm_campaign=1067&utm_source=git)** | 8 Richard's Rd, Plymouth, MA, 02360, US | On Site | Dec 20 |
-| **[CBIZ](http://www.cbiz.com)** | **[Business Enterprise Services Intern / Summer 2025](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d8c3?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 19 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/6764f4085b3e00f43ab92b41?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Dec 19 |
-| **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6764aef3b120d3617b65080e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 19 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Intergrated Business Planning Analyst](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4f96?utm_campaign=1067&utm_source=git)** | Home, KS | Remote | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
