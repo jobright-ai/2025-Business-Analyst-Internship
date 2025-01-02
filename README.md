@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67763d2bf582ad27744dea24?utm_campaign=1067&utm_source=git)** | Remote - North Carolina | On Site | Jan 01 |
+| ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/677635486eaf0574f0fd54d4?utm_campaign=1067&utm_source=git)** | United States | On Site | Jan 01 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Transportation Business Analytics](https://jobright.ai/jobs/info/67750052a5b519cef8e6b3f2?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 | ↳ | **[2025 Summer Internship - IT Business Intelligence and Analytics](https://jobright.ai/jobs/info/6774c3804a2b747bd700c302?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Supply Chain  Clinical Supply](https://jobright.ai/jobs/info/677415523d4528582a9f26fb?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Dec 31 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2025 Intern / Business Analyst (OH)](https://jobright.ai/jobs/info/6719672d36dbe39876d068ac?utm_campaign=1067&utm_source=git)** | Kirkland, WA | On Site | Dec 27 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Enterprise Relationship Management - Undergrad Intern](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5007?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Dec 26 |
 | **[BWE](https://www.bwe.com/)** | **[Co-Op, Data Management](https://jobright.ai/jobs/info/676d965aa314e27b0b3aeaaf?utm_campaign=1067&utm_source=git)** | OH - Cleveland | On Site | Dec 26 |
+| **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Business Analyst Intern (Regulatory Support)](https://jobright.ai/jobs/info/67764742edae6df9feb0c757?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 25 |
 | **[USG](https://www.usg.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/676dbef820d33e0573a49011?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Business Analyst Intern Job Description](https://jobright.ai/jobs/info/676c444dc689d6278bcd9ccc?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Dec 24 |
