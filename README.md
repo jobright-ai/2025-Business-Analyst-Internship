@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae4772?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a82059b?utm_campaign=1067&utm_source=git)** | 8 Richard's Rd, Plymouth, MA, 02360, US | On Site | Dec 20 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Enterprise Services Intern / Summer 2025](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d8c3?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[Munich Re](https://www.munichre.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6765b3340ac06f974169968c?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 19 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/6764f4085b3e00f43ab92b41?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Dec 19 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 19 |
@@ -96,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Intergrated Business Planning Analyst](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4f96?utm_campaign=1067&utm_source=git)** | Home, KS | Remote | Dec 19 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Winter/Spring](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Dec 19 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Business Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/67647e57ec1fcc51a6b7c767?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/676d0410ec00f82ba5700e5a?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Dec 18 |
-| **[OneAmerica Financial](http://oneamerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/676b9f59925cf777ecbed8b0?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
