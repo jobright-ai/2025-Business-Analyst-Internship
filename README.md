@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/6777d0eb12406e99a377b582?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
+| **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6777f5c8f97156891bf3e1fa?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 03 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jan 03 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jan 03 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/67777b2da65dea43eabad690?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 | ↳ | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/6776fa16ba22897e1cc8cb19?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Jan 02 |
 | ↳ | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/677769450ec4965bda97271f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jan 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Supply Chain  Clinical Supply](https://jobright.ai/jobs/info/677415523d4528582a9f26fb?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Jan 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/675015352807ae583548058b?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 01 |
@@ -91,8 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Congruex](http://congruex.com)** | **[Intern, Junior Business Analyst](https://jobright.ai/jobs/info/676a1ca975c73be8bf6523ef?utm_campaign=1067&utm_source=git)** | Boulder, CO | On Site | Dec 22 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Dec 21 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Supply Chain – Clinical Supply](https://jobright.ai/jobs/info/676a669e3bfd5af992aeddac?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Dec 20 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67665bea70ec0416b10b84b4?utm_campaign=1067&utm_source=git)** | Plymouth, MA | On Site | Dec 20 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/676b797acb691ab7991cf215?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 20 |
-| **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae4772?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Dec 20 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a82059b?utm_campaign=1067&utm_source=git)** | 8 Richard's Rd, Plymouth, MA, 02360, US | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
