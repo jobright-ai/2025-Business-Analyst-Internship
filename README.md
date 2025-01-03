@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/6777d0eb12406e99a377b582?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jan 03 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/67777b2da65dea43eabad690?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 | ↳ | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/6776fa16ba22897e1cc8cb19?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Jan 02 |
 | ↳ | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/677769450ec4965bda97271f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
