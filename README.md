@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/6776fa16ba22897e1cc8cb19?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Jan 02 |
+| **[Textron](http://textron.com)** | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/67777b2da65dea43eabad690?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
+| ↳ | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/6776fa16ba22897e1cc8cb19?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Jan 02 |
+| ↳ | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/677769450ec4965bda97271f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Supply Chain  Clinical Supply](https://jobright.ai/jobs/info/677415523d4528582a9f26fb?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Jan 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/675015352807ae583548058b?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 01 |
