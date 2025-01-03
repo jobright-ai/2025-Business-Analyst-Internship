@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/6776fa16ba22897e1cc8cb19?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Jan 02 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Supply Chain  Clinical Supply](https://jobright.ai/jobs/info/677415523d4528582a9f26fb?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Jan 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/675015352807ae583548058b?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 02 |
-| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67763d2bf582ad27744dea24?utm_campaign=1067&utm_source=git)** | Remote - North Carolina | On Site | Jan 01 |
-| ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/677635486eaf0574f0fd54d4?utm_campaign=1067&utm_source=git)** | United States | On Site | Jan 01 |
-| ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67765fa30896db9c823dbaa0?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Hybrid | Jan 01 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 01 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Transportation Business Analytics](https://jobright.ai/jobs/info/67750052a5b519cef8e6b3f2?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 | ↳ | **[2025 Summer Internship - IT Business Intelligence and Analytics](https://jobright.ai/jobs/info/6774c3804a2b747bd700c302?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Supply Chain  Clinical Supply](https://jobright.ai/jobs/info/677415523d4528582a9f26fb?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Dec 31 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern-Undergraduate(business)](https://jobright.ai/jobs/info/6773e23150e05832a34e1aad?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Dec 31 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/67419687d52a35807f954630?utm_campaign=1067&utm_source=git)** | Lehi, UT | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/6741774bf49cab413d6003f7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 30 |
@@ -92,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/676b797acb691ab7991cf215?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Supply Chain and Manufacturing Finance Business Partnering](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae4772?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a82059b?utm_campaign=1067&utm_source=git)** | 8 Richard's Rd, Plymouth, MA, 02360, US | On Site | Dec 20 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
