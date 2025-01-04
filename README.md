@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Analyst](https://jobright.ai/jobs/info/67787f2ff890158c9c1267bd?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 03 |
+| **[Henkel](http://www.henkel.com)** | **[IT Performance & Analytics Intern- Summer 2025](https://jobright.ai/jobs/info/6778139c6cb7e5f826e61129?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Jan 03 |
 | **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6777f5c8f97156891bf3e1fa?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 03 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/674f9b5abc19ed49eab82fc2?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jan 03 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jan 03 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc4c?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jan 03 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jan 03 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jan 03 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/67777b2da65dea43eabad690?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
@@ -92,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern (Year-round 2025)](https://jobright.ai/jobs/info/677113d91191d920860e19f1?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Dec 22 |
 | **[Congruex](http://congruex.com)** | **[Intern, Junior Business Analyst](https://jobright.ai/jobs/info/676a1ca975c73be8bf6523ef?utm_campaign=1067&utm_source=git)** | Boulder, CO | On Site | Dec 22 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d2d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Dec 21 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Supply Chain – Clinical Supply](https://jobright.ai/jobs/info/676a669e3bfd5af992aeddac?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
