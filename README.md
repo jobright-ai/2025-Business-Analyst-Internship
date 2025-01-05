@@ -97,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Emerging Tech](https://emergingtech.co)** | **[Business Analyst](https://jobright.ai/jobs/info/676a1dcb458629385ae097ab?utm_campaign=1067&utm_source=git)** | Gainesville, FL | Remote | Dec 23 |
 | **[iCapital](https://icapital.com)** | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ad03?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769c4fcce959d15cde3f31d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Dec 23 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern (Year-round 2025)](https://jobright.ai/jobs/info/677113d91191d920860e19f1?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Dec 22 |
-| **[Congruex](http://congruex.com)** | **[Intern, Junior Business Analyst](https://jobright.ai/jobs/info/676a1ca975c73be8bf6523ef?utm_campaign=1067&utm_source=git)** | Boulder, CO | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
