@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Operations Business Analyst - R8087](https://jobright.ai/jobs/info/6708526ecd556e7017cc4dba?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Jan 06 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/6759c0dee718f506b55ea951?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 04 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 04 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Jan 04 |
+| **[Henkel](http://www.henkel.com)** | **[IT Performance & Analytics Intern- Summer 2025](https://jobright.ai/jobs/info/6778139c6cb7e5f826e61129?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Jan 04 |
 | **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/674eed32f89ace15875f56be?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Jan 03 |
-| **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Analyst](https://jobright.ai/jobs/info/67787f2ff890158c9c1267bd?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 03 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - IT Business Solutions Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f6191?utm_campaign=1067&utm_source=git)** | Wagoner, OK | On Site | Jan 03 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14aac?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 03 |
 | **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6777fc5c84f9c48f03349a4a?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 03 |
@@ -95,8 +96,6 @@ For a complete list, click the following sortable link below:
 | **[USG](https://www.usg.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/676dbef820d33e0573a49011?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Business Analyst Intern Job Description](https://jobright.ai/jobs/info/676c444dc689d6278bcd9ccc?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Dec 24 |
-| **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Business Analyst Intern (Market Transparency)](https://jobright.ai/jobs/info/677107401a42a2fb87b7b041?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 23 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Business Analyst](https://jobright.ai/jobs/info/676a1dcb458629385ae097ab?utm_campaign=1067&utm_source=git)** | Gainesville, FL | Remote | Dec 23 |
 | **[iCapital](https://icapital.com)** | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ad03?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| ↳ | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769c4fcce959d15cde3f31d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
