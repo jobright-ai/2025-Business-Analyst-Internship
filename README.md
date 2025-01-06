@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/677bf9df39decce729d99681?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 06 |
+| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677bfb1d5f326814e9e238ac?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Jan 06 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Process Analyst, Summer 2025 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/677be606f002256bd41f883b?utm_campaign=1067&utm_source=git)** | Virtual, IL, USA | On Site | Jan 06 |
+| **[Digital.ai](https://digital.ai)** | **[Business Analyst Intern (May 2025 - August 2025)](https://jobright.ai/jobs/info/677beb47c559064c923eb4ff?utm_campaign=1067&utm_source=git)** | LaFayette, GA | On Site | Jan 06 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Operations Business Analyst - R8087](https://jobright.ai/jobs/info/6708526ecd556e7017cc4dba?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Jan 06 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/6759c0dee718f506b55ea951?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 04 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 04 |
@@ -96,6 +100,4 @@ For a complete list, click the following sortable link below:
 | **[USG](https://www.usg.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/676dbef820d33e0573a49011?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Business Analyst Intern Job Description](https://jobright.ai/jobs/info/676c444dc689d6278bcd9ccc?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Dec 24 |
-| **[Emerging Tech](https://emergingtech.co)** | **[Business Analyst](https://jobright.ai/jobs/info/676a1dcb458629385ae097ab?utm_campaign=1067&utm_source=git)** | Gainesville, FL | Remote | Dec 23 |
-| **[iCapital](https://icapital.com)** | **[Business Process Management- Intern](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ad03?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
