@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Jan 07 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Undergraduate Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/677d05f950126a7856ff3016?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 07 |
 | **[Discover Financial Services](https://www.discover.com)** | **[2025 Business Technology Internship Program - Riverwoods](https://jobright.ai/jobs/info/677ca477e6c832c86dd70990?utm_campaign=1067&utm_source=git)** | Riverwoods, IL | On Site | Jan 06 |
 | ↳ | **[2025 Business Technology Internship Program - Houston](https://jobright.ai/jobs/info/677c941e38776008520ea699?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 | **[HTC inc. (Horry Telephone Cooperative)](http://www.htcinc.net/)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/677c8318e2270efbe19ae29a?utm_campaign=1067&utm_source=git)** | Conway, SC | On Site | Jan 06 |
@@ -74,11 +76,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/6759c0dee718f506b55ea951?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 04 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 04 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Jan 04 |
+| **[Henkel](http://www.henkel.com)** | **[IT Performance & Analytics Intern- Summer 2025](https://jobright.ai/jobs/info/6778139c6cb7e5f826e61129?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Jan 04 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Process Analyst, Summer 2025 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/677ca477e6c832c86dd70a1f?utm_campaign=1067&utm_source=git)** | Illinois, United States | On Site | Jan 03 |
 | **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/674eed32f89ace15875f56be?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Jan 03 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - IT Business Solutions Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f6191?utm_campaign=1067&utm_source=git)** | Wagoner, OK | On Site | Jan 03 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14aac?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 03 |
-| **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6777f5c8f97156891bf3e1fa?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 03 |
+| **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6777fc5c84f9c48f03349a4a?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/674f9b5abc19ed49eab82fc2?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jan 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jan 03 |
 | ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
