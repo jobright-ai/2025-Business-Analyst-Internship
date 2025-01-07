@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Discover Financial Services](https://www.discover.com)** | **[2025 Business Technology Internship Program - Houston](https://jobright.ai/jobs/info/677c941e38776008520ea699?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 06 |
+| **[HTC inc. (Horry Telephone Cooperative)](http://www.htcinc.net/)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/677c8318e2270efbe19ae29a?utm_campaign=1067&utm_source=git)** | Conway, SC | On Site | Jan 06 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Real Estate Sustainability Summer Analyst](https://jobright.ai/jobs/info/677c57393cb3db4e34cbcacc?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2025 Investment Banking Seasonal Analyst Business Development Technology & Services](https://jobright.ai/jobs/info/677c4abaf4db3405722bc5e3?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Jan 06 |
 | ↳ | **[2025 Investment Banking Seasonal Analyst Business Development Technology & Services](https://jobright.ai/jobs/info/677c412a0c12d19b0bc971ae?utm_campaign=1067&utm_source=git)** | US-MA-Boston-Boston | On Site | Jan 06 |
@@ -73,11 +75,11 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[IT Performance & Analytics Intern- Summer 2025](https://jobright.ai/jobs/info/6778139c6cb7e5f826e61129?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Jan 04 |
 | **[Q2](https://www.q2.com)** | **[Functional Delivery/Business Analyst Internship](https://jobright.ai/jobs/info/674eed32f89ace15875f56be?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Jan 03 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - IT Business Solutions Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f6191?utm_campaign=1067&utm_source=git)** | Wagoner, OK | On Site | Jan 03 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14aac?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 03 |
-| **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6777f5c8f97156891bf3e1fa?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 03 |
+| **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6777fc5c84f9c48f03349a4a?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/674f9b5abc19ed49eab82fc2?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jan 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jan 03 |
-| ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc4c?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jan 03 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jan 03 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jan 03 |
@@ -90,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 01 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Transportation Business Analytics](https://jobright.ai/jobs/info/67750052a5b519cef8e6b3f2?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 | ↳ | **[2025 Summer Internship - IT Business Intelligence and Analytics](https://jobright.ai/jobs/info/6774c3804a2b747bd700c302?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
-| **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern-Undergraduate(business)](https://jobright.ai/jobs/info/6773e23150e05832a34e1aad?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
