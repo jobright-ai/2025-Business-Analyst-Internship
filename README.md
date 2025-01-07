@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/677d6e410372eaff2ac617b9?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 07 |
+| **[CHS Inc.](http://www.chsinc.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/677d5d7e97832eb1cdfd435d?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Jan 07 |
+| **[Abt Global](http://www.abtassociates.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/677d3abce1edfbd01d67eebd?utm_campaign=1067&utm_source=git)** | Rockville, MD, United States | On Site | Jan 07 |
+| **[Siemens](https://www.siemens.com/)** | **[Business Analytics Specialist - Fall Internship](https://jobright.ai/jobs/info/677d3b364e5e85969cdc4759?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA | Hybrid | Jan 07 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Business Systems Analyst Summer Intern](https://jobright.ai/jobs/info/675cb6f4c64893f98e2330c2?utm_campaign=1067&utm_source=git)** | Triangle Area | On Site | Jan 07 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4107?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Jan 07 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Undergraduate Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/677d05f950126a7856ff3016?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 07 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/677ca7d20592fd3016c668ce?utm_campaign=1067&utm_source=git)** | Johnston, IA | On Site | Jan 06 |
 | **[Discover Financial Services](https://www.discover.com)** | **[2025 Business Technology Internship Program - Riverwoods](https://jobright.ai/jobs/info/677ca477e6c832c86dd70990?utm_campaign=1067&utm_source=git)** | Riverwoods, IL | On Site | Jan 06 |
 | ↳ | **[2025 Business Technology Internship Program - Houston](https://jobright.ai/jobs/info/677c941e38776008520ea699?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 | **[HTC inc. (Horry Telephone Cooperative)](http://www.htcinc.net/)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/677c8318e2270efbe19ae29a?utm_campaign=1067&utm_source=git)** | Conway, SC | On Site | Jan 06 |
@@ -86,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jan 03 |
 | ↳ | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc4c?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jan 03 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Statistician Intern - OVIP](https://jobright.ai/jobs/info/6729b1d29573e9c03e00d20f?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jan 03 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jan 03 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/67777b2da65dea43eabad690?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 | ↳ | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/6776fa16ba22897e1cc8cb19?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Jan 02 |
@@ -95,6 +101,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Supply Chain  Clinical Supply](https://jobright.ai/jobs/info/677415523d4528582a9f26fb?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Jan 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/675015352807ae583548058b?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - BCI and DAV-C, Onsite](https://jobright.ai/jobs/info/6733a3acd95f884eb39f8a98?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 01 |
-| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Transportation Business Analytics](https://jobright.ai/jobs/info/67750052a5b519cef8e6b3f2?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
-| ↳ | **[2025 Summer Internship - IT Business Intelligence and Analytics](https://jobright.ai/jobs/info/6774c3804a2b747bd700c302?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
