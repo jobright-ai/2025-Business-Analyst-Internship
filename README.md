@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waters Corporation](http://www.waters.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/677deb825d7a23a24c7a592b?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 07 |
+| **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Spring/Summer B Round](https://jobright.ai/jobs/info/677deb825d7a23a24c7a595e?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Hybrid | Jan 07 |
+| **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/677de55db7437f4de60ed5a0?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Jan 07 |
+| **[University of Utah](http://utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/677deb825d7a23a24c7a5da4?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 07 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Artificial Intelligence Business Analysis](https://jobright.ai/jobs/info/677dbd8ff3efbd68212f7831?utm_campaign=1067&utm_source=git)** | Plainsboro, NJ | On Site | Jan 07 |
 | **[RBC](https://www.rbc.com)** | **[Summer Analyst, T&O Business Analyst, RBC Amplify - 2025](https://jobright.ai/jobs/info/677d8b86fdb5ce13253dd385?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Jan 07 |
 | **[Abt Global](http://www.abtassociates.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/677d9eb4a8992d20875aabee?utm_campaign=1067&utm_source=git)** | Rockville, MD | Remote | Jan 07 |
@@ -82,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Undergraduate Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/677c3b07b41fbf232adfc33a?utm_campaign=1067&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | On Site | Jan 06 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/677bf9df39decce729d99681?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Technical Business Analyst Internship - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677bfb1d5f326814e9e238ac?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Jan 06 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Process Analyst, Summer 2025 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/677be606f002256bd41f87e4?utm_campaign=1067&utm_source=git)** | Virtual, IL, USA | On Site | Jan 06 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Process Analyst, Summer 2025 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/677be606f002256bd41f883b?utm_campaign=1067&utm_source=git)** | Virtual, IL, USA | On Site | Jan 06 |
 | **[Digital.ai](https://digital.ai)** | **[Business Analyst Intern (May 2025 - August 2025)](https://jobright.ai/jobs/info/677beb47c559064c923eb4ff?utm_campaign=1067&utm_source=git)** | LaFayette, GA | On Site | Jan 06 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 06 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Operations Business Analyst - R8087](https://jobright.ai/jobs/info/6708526ecd556e7017cc4dba?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Jan 06 |
