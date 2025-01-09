@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Analog Devices](http://www.analog.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/677ffa50ad6ada5137fef256?utm_campaign=1067&utm_source=git)** | Wilmington, MA | On Site | Jan 09 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/676d0410ec00f82ba5700e5a?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Jan 09 |
 | **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/677f13021a2f9222759a74bf?utm_campaign=1067&utm_source=git)** | Bedford, MA | On Site | Jan 08 |
 | **[HEICO](http://www.heico.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/677f1cdf01f3754e61adc7f3?utm_campaign=1067&utm_source=git)** | Princeton, FL | On Site | Jan 08 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship Sales Business Analyst](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dc5e?utm_campaign=1067&utm_source=git)** | Norcross, GA | On Site | Jan 08 |
 | **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship Sales Business Analyst](https://jobright.ai/jobs/info/677f062af193d5179de95918?utm_campaign=1067&utm_source=git)** | Norcross, GA | On Site | Jan 08 |
 | **[Oracle](https://www.oracle.com/)** | **[Global Business Operations Intern](https://jobright.ai/jobs/info/677ea708363b1f97c3e28828?utm_campaign=1067&utm_source=git)** | Redwood City, CA, United States | On Site | Jan 08 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2025 Analytics Internship](https://jobright.ai/jobs/info/677ebc82d3b92f341686a846?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 08 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst IT Co-Op (8 months)](https://jobright.ai/jobs/info/67622e0ea1ce95f57c08ba84?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Jan 08 |
 | **[Lids](https://www.lids.com)** | **[2025 Summer Internship - Business Analytics](https://jobright.ai/jobs/info/67477d5a90a69427e41b4e9d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 08 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Enterprise Performance and Insights Intern - Remote](https://jobright.ai/jobs/info/677e7b87de2f39d68abd3c6f?utm_campaign=1067&utm_source=git)** | Plymouth, MN | Hybrid | Jan 08 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48a?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Jan 08 |
@@ -81,9 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/677d6e410372eaff2ac617b9?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 07 |
 | **[Abt Global](http://www.abtassociates.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/677d3abce1edfbd01d67eebd?utm_campaign=1067&utm_source=git)** | Rockville, MD, United States | On Site | Jan 07 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/674e8caeea50b53aedbdf44f?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 07 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Business Systems Analyst Summer Intern](https://jobright.ai/jobs/info/675cb6f4c64893f98e2330c2?utm_campaign=1067&utm_source=git)** | Triangle Area | On Site | Jan 07 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4107?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 07 |
-| **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Jan 07 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Undergraduate Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/677d05f950126a7856ff3016?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 07 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/677ca7d20592fd3016c668ce?utm_campaign=1067&utm_source=git)** | Johnston, IA | On Site | Jan 07 |
 | **[Discover Financial Services](https://www.discover.com)** | **[2025 Business Technology Internship Program - Riverwoods](https://jobright.ai/jobs/info/677ca477e6c832c86dd70990?utm_campaign=1067&utm_source=git)** | Riverwoods, IL | On Site | Jan 06 |
@@ -110,10 +111,9 @@ For a complete list, click the following sortable link below:
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - IT Business Solutions Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f6191?utm_campaign=1067&utm_source=git)** | Wagoner, OK | On Site | Jan 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14aac?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 03 |
-| **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6777fc5c84f9c48f03349a4a?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 03 |
+| **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6777f5c8f97156891bf3e1fa?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/674f9b5abc19ed49eab82fc2?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jan 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jan 03 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc4c?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jan 03 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Business Analyst](https://jobright.ai/jobs/info/673e66e961b2c2d395555ec7?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jan 03 |
-| **[Textron](http://textron.com)** | **[2025 Internship - Business Analyst](https://jobright.ai/jobs/info/67777b2da65dea43eabad690?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
