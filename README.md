@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/677f13021a2f9222759a74bf?utm_campaign=1067&utm_source=git)** | Bedford, MA | On Site | Jan 08 |
+| **[HEICO](http://www.heico.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/677f1cdf01f3754e61adc7f3?utm_campaign=1067&utm_source=git)** | Princeton, FL | On Site | Jan 08 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship Sales Business Analyst](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dc5e?utm_campaign=1067&utm_source=git)** | Norcross, GA | On Site | Jan 08 |
 | **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship Sales Business Analyst](https://jobright.ai/jobs/info/677f062af193d5179de95918?utm_campaign=1067&utm_source=git)** | Norcross, GA | On Site | Jan 08 |
 | **[Oracle](https://www.oracle.com/)** | **[Global Business Operations Intern](https://jobright.ai/jobs/info/677ea708363b1f97c3e28828?utm_campaign=1067&utm_source=git)** | Redwood City, CA, United States | On Site | Jan 08 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Spring/Summer B Round](https://jobright.ai/jobs/info/677deb825d7a23a24c7a595e?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Hybrid | Jan 07 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/677de55db7437f4de60ed5a0?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Jan 07 |
 | **[University of Utah](http://utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/677deb825d7a23a24c7a5da4?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 07 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/674fca90112f57bdb3537bfb?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Jan 07 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Artificial Intelligence Business Analysis](https://jobright.ai/jobs/info/677dbd8ff3efbd68212f7831?utm_campaign=1067&utm_source=git)** | Plainsboro, NJ | On Site | Jan 07 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, NYSE Listings Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40ea?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[RBC](https://www.rbc.com)** | **[Summer Analyst, T&O Business Analyst, RBC Amplify - 2025](https://jobright.ai/jobs/info/677d8b86fdb5ce13253dd385?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Jan 07 |
@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/677d6e410372eaff2ac617b9?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 07 |
 | **[Abt Global](http://www.abtassociates.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/677d3abce1edfbd01d67eebd?utm_campaign=1067&utm_source=git)** | Rockville, MD, United States | On Site | Jan 07 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2025) – Indianapolis Health](https://jobright.ai/jobs/info/674e8caeea50b53aedbdf44f?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 07 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/674fca90112f57bdb3537be6?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Jan 07 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Business Systems Analyst Summer Intern](https://jobright.ai/jobs/info/675cb6f4c64893f98e2330c2?utm_campaign=1067&utm_source=git)** | Triangle Area | On Site | Jan 07 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4107?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/6709492e31528d037836e311?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Jan 07 |
@@ -118,5 +119,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Internship -  Business Analyst](https://jobright.ai/jobs/info/677769450ec4965bda97271f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jan 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Supply Chain  Clinical Supply](https://jobright.ai/jobs/info/677415523d4528582a9f26fb?utm_campaign=1067&utm_source=git)** | Foster City, CA | On Site | Jan 02 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/675015352807ae583548058b?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
