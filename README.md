@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6781c78f6295bf7ede77f503?utm_campaign=1067&utm_source=git)** | US - Boston - MA | On Site | Jan 10 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - TCU BEST Program, Remote](https://jobright.ai/jobs/info/675c88c521f7258a73350f1c?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Artificial Intelligence Business Analysis](https://jobright.ai/jobs/info/67815d8f13d73abd035609d6?utm_campaign=1067&utm_source=git)** | Plainsboro, NJ | On Site | Jan 10 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108ff2c?utm_campaign=1067&utm_source=git)** | Niles, OH | On Site | Jan 10 |
+| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67590512770d433f6988bd81?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 10 |
 | **[CSC](http://www.cscglobal.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6781056cecbe6d6778190c2b?utm_campaign=1067&utm_source=git)** | Wilmington, DE | On Site | Jan 10 |
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/6780b91fecd0decd765ca72e?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analysis Associate (Intern)](https://jobright.ai/jobs/info/678092a8f409a5eb03eae2dc?utm_campaign=1067&utm_source=git)** | USA VA Chantilly | On Site | Jan 09 |
-| ↳ | **[Business Analysis Associate (Intern)](https://jobright.ai/jobs/info/678092a8f409a5eb03eae19b?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | On Site | Jan 09 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analysis Associate (Intern)](https://jobright.ai/jobs/info/678092a8f409a5eb03eae19b?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | On Site | Jan 09 |
+| ↳ | **[Business Analysis Associate (Intern)](https://jobright.ai/jobs/info/678092a8f409a5eb03eae2dc?utm_campaign=1067&utm_source=git)** | USA VA Chantilly | On Site | Jan 09 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6780927f66ae6f1b2e663b7d?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 09 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Intern Undergraduate Business](https://jobright.ai/jobs/info/678038ca349f83eb46c9c21c?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Jan 09 |
 | **[Allstate](http://www.allstate.com)** | **[Summer Co-op: Business Insights Analyst- Sales & Marketing](https://jobright.ai/jobs/info/6780318b97c848b022755190?utm_campaign=1067&utm_source=git)** | CAN - ON GTA (Remote) | Remote | Jan 09 |
@@ -103,11 +106,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Investment Banking Seasonal Analyst Business Development Technology & Services](https://jobright.ai/jobs/info/677c412a0c12d19b0bc971ae?utm_campaign=1067&utm_source=git)** | US-MA-Boston-Boston | On Site | Jan 06 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Undergraduate Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/677c3b07b41fbf232adfc33a?utm_campaign=1067&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | On Site | Jan 06 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/677bf9df39decce729d99681?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| ↳ | **[Process Analyst, Summer 2025 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/677be606f002256bd41f883b?utm_campaign=1067&utm_source=git)** | Virtual, IL, USA | On Site | Jan 06 |
+| ↳ | **[Process Analyst, Summer 2025 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/677be606f002256bd41f87e4?utm_campaign=1067&utm_source=git)** | Virtual, IL, USA | On Site | Jan 06 |
 | **[Digital.ai](https://digital.ai)** | **[Business Analyst Intern (May 2025 - August 2025)](https://jobright.ai/jobs/info/677beb47c559064c923eb4ff?utm_campaign=1067&utm_source=git)** | LaFayette, GA | On Site | Jan 06 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 06 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Operations Business Analyst - R8087](https://jobright.ai/jobs/info/6708526ecd556e7017cc4dba?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Jan 06 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - TCU BEST Program, Remote](https://jobright.ai/jobs/info/675c88c521f7258a73350f1c?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 04 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/675161343cd8c3c2383fb8c8?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Jan 04 |
 | ↳ | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/6759c0dee718f506b55ea951?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 04 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Business Internship](https://jobright.ai/jobs/info/66ce2afef68d654146849a7c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 04 |
