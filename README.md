@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/6785e67304c3ba50f082ebdd?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Jan 13 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6785ccad8b1dd3572d98f4b3?utm_campaign=1067&utm_source=git)** | Maryville, TN | On Site | Jan 13 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6785a40e46593b8c85d7553c?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Jan 13 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, Fixed Income Data Services Intern](https://jobright.ai/jobs/info/6785a7ee1a62fe05398a75c4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 13 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678543ce8dca791d7b48496f?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/678543ce8dca791d7b484a5c?utm_campaign=1067&utm_source=git)** | Lincolnshire, IL | On Site | Jan 13 |
 | **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[General Business Intern](https://jobright.ai/jobs/info/67853bdb5ba702771fb7fb49?utm_campaign=1067&utm_source=git)** | Shelby Township, MI | On Site | Jan 13 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40f8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[OneAmerica Financial](http://oneamerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/677f872ca3399aa0a4079bab?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 13 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67410a86e6cd3fe13a69d042?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | Jan 13 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67634a1def5d5386efb7b54a?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Jan 13 |
@@ -74,13 +76,14 @@ For a complete list, click the following sortable link below:
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/66dbb8844fd26a945eb14bd4?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Hybrid | Jan 10 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678221d4fbfb9886b60105cc?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Jan 10 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6781c78f6295bf7ede77f503?utm_campaign=1067&utm_source=git)** | US - Boston - MA | On Site | Jan 10 |
+| **[MEMIC](https://www.memic.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/678134468bb69b49cc5ddb51?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 10 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/6759c0dee718f506b55ea895?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jan 10 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108ff2c?utm_campaign=1067&utm_source=git)** | Niles, OH | On Site | Jan 10 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67590512770d433f6988bd81?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 10 |
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/6780b91fecd0decd765ca72e?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analysis Associate (Intern)](https://jobright.ai/jobs/info/678092a8f409a5eb03eae19b?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | On Site | Jan 09 |
-| ↳ | **[Business Analysis Associate (Intern)](https://jobright.ai/jobs/info/678092a8f409a5eb03eae2dc?utm_campaign=1067&utm_source=git)** | USA VA Chantilly | On Site | Jan 09 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analysis Associate (Intern)](https://jobright.ai/jobs/info/678092a8f409a5eb03eae2dc?utm_campaign=1067&utm_source=git)** | USA VA Chantilly | On Site | Jan 09 |
+| ↳ | **[Business Analysis Associate (Intern)](https://jobright.ai/jobs/info/678092a8f409a5eb03eae19b?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | On Site | Jan 09 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6780927f66ae6f1b2e663b7d?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 09 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Intern Undergraduate Business](https://jobright.ai/jobs/info/678038ca349f83eb46c9c21c?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Jan 09 |
 | **[Allstate](http://www.allstate.com)** | **[Summer Co-op: Business Insights Analyst- Sales & Marketing](https://jobright.ai/jobs/info/6780318b97c848b022755190?utm_campaign=1067&utm_source=git)** | CAN - ON GTA (Remote) | Remote | Jan 09 |
@@ -106,6 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/677d9eb4a8992d20875aabf8?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Remote | Jan 07 |
 | ↳ | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/677d8506540d011f9f82c656?utm_campaign=1067&utm_source=git)** | Cambridge, MA | Remote | Jan 07 |
 | ↳ | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/677d8506540d011f9f82c776?utm_campaign=1067&utm_source=git)** | Durham, NC | Remote | Jan 07 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/677d6e410372eaff2ac617b9?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 07 |
-| **[Abt Global](http://www.abtassociates.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/677d3abce1edfbd01d67eebd?utm_campaign=1067&utm_source=git)** | Rockville, MD, United States | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
