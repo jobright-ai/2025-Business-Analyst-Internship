@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/678846f1500892e2f81a45c3?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Jan 15 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/67886096b94adef2d6b0971d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 15 |
+| ↳ | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/678846f1500892e2f81a45c3?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Jan 15 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982cb6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
-| ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919ba?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
+| **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/67885ab635eda3721cc90613?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919ba?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919e1?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[IT Business Systems Intern (Summer 2025)](https://jobright.ai/jobs/info/67882c9732f192eebe7bb534?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Jan 15 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6787c615eeabb259410fe59a?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Jan 15 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Florida Power & Light](https://www.fpl.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6785a40e46593b8c85d7553c?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Jan 13 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, Fixed Income Data Services Intern](https://jobright.ai/jobs/info/6785a7ee1a62fe05398a75c4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/6785640914e0ec4e492979f4?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Jan 13 |
-| **[Camping World](http://www.campingworld.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678543ce8dca791d7b48496f?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/678543ce8dca791d7b484a5c?utm_campaign=1067&utm_source=git)** | Lincolnshire, IL | On Site | Jan 13 |
+| **[Camping World](http://www.campingworld.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678543ce8dca791d7b484a5c?utm_campaign=1067&utm_source=git)** | Lincolnshire, IL | On Site | Jan 13 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/678543ce8dca791d7b48496f?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[General Business Intern](https://jobright.ai/jobs/info/67853bdb5ba702771fb7fb49?utm_campaign=1067&utm_source=git)** | Shelby Township, MI | On Site | Jan 13 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, ICE Bonds Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40f8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67410a86e6cd3fe13a69d042?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | Jan 13 |
@@ -99,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/6724599652eba94871e38eed?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Jan 09 |
 | **[Analog Devices](http://www.analog.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/677ffa50ad6ada5137fef256?utm_campaign=1067&utm_source=git)** | Wilmington, MA | On Site | Jan 09 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship Sales Business Analyst BI-LINGUAL](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dc5e?utm_campaign=1067&utm_source=git)** | Norcross, GA | On Site | Jan 09 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/676d0410ec00f82ba5700e5a?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
