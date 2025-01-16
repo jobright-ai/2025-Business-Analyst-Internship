@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/678846f1500892e2f81a45c3?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Jan 15 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982cb6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
+| ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919ba?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
+| ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919e1?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[IT Business Systems Intern (Summer 2025)](https://jobright.ai/jobs/info/67882c9732f192eebe7bb534?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Jan 15 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6787c615eeabb259410fe59a?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Jan 15 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6787b403a9e01bb767156d33?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Jan 15 |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/6787b9dfdf1de9a8e2f29a40?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Jan 15 |
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/6787aa2f547cc419145a93f4?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 15 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Jan 15 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6786edad79068295210e4898?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Jan 14 |
 | **[Dev Technology Group, Inc.](http://devtechnology.com)** | **[Summer Business Analyst/Tester Intern](https://jobright.ai/jobs/info/6786ab7ea986388da5796f4e?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Jan 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/678680e05cf07eacb35116f3?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jan 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/67865ccc27b8aef31175272d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 14 |
@@ -96,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Analog Devices](http://www.analog.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/677ffa50ad6ada5137fef256?utm_campaign=1067&utm_source=git)** | Wilmington, MA | On Site | Jan 09 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship Sales Business Analyst BI-LINGUAL](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dc5e?utm_campaign=1067&utm_source=git)** | Norcross, GA | On Site | Jan 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/676d0410ec00f82ba5700e5a?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Jan 09 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Intern (Undergraduate - Summer 2025)](https://jobright.ai/jobs/info/6780ae27c3681a41721e66d2?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
