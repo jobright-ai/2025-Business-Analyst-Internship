@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Intern Business Process Analyst - R10183149](https://jobright.ai/jobs/info/678c5ac45bdc641f67957e76?utm_campaign=1067&utm_source=git)** | Palmdale, CA | On Site | Jan 18 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Business Architecture - Internship](https://jobright.ai/jobs/info/678c29d1471325ad439b7e06?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678b7d11ba24c406149bd1fc?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Jan 18 |
 | **[Endeavor](http://www.endeavor.org)** | **[Strategic Business Content Management, Summer 2025 Internship](https://jobright.ai/jobs/info/678b7d11ba24c406149bd286?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 18 |
@@ -79,7 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/67886096b94adef2d6b0971d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 15 |
 | **[Bayer](https://www.bayer.com)** | **[Digital Farming Intern: Business Analyst](https://jobright.ai/jobs/info/67887fe1e6c651382b76945b?utm_campaign=1067&utm_source=git)** | Brookfield, MO | On Site | Jan 15 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/678846f1500892e2f81a45c3?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Jan 15 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982cb6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982ca2?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
+| ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982cb6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/67885ab635eda3721cc90613?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919ba?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919e1?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
