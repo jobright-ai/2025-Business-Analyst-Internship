@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Internship - 2025](https://jobright.ai/jobs/info/678e94cff5e3a95e8a712adb?utm_campaign=1067&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Jan 20 |
+| **[Skyworks LLC](http://skyworksllc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/678e6987f1d08d78ff5a6d8b?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678e20f199d4e25fce6ef696?utm_campaign=1067&utm_source=git)** | Raleigh, NC | Hybrid | Jan 20 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Business Architecture - Internship](https://jobright.ai/jobs/info/678c29d1471325ad439b7e06?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678b7d11ba24c406149bd1fc?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Jan 18 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/67896d5df01beae7d55356d1?utm_campaign=1067&utm_source=git)** | USA - Philadelphia - Pennsylvania | On Site | Jan 16 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Business Analyst Intern Job Description](https://jobright.ai/jobs/info/676c444dc689d6278bcd9ccc?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Jan 16 |
-| ↳ | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Jan 16 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/6744c1521b3b30fe143cdbf8?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Jan 16 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Jan 16 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Jan 16 |
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/6788b92029307a7b96375282?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 15 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6788b755a3b8acd38376af45?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/67889838eb8635aee60412e3?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jan 15 |
@@ -101,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/678680e05cf07eacb35116f3?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jan 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/67865ccc27b8aef31175272d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 14 |
 | **[Camping World](http://www.campingworld.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678657b47e6f69b0bb8f9b05?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jan 14 |
-| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/6785e67304c3ba50f082ebdd?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Jan 13 |
-| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, Fixed Income Data Services Intern](https://jobright.ai/jobs/info/6785a7ee1a62fe05398a75c4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
