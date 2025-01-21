@@ -88,10 +88,10 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/67886096b94adef2d6b0971d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 15 |
 | **[Bayer](https://www.bayer.com)** | **[Digital Farming Intern: Business Analyst](https://jobright.ai/jobs/info/67887fe1e6c651382b76945b?utm_campaign=1067&utm_source=git)** | Brookfield, MO | On Site | Jan 15 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/678846f1500892e2f81a45c3?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Jan 15 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982ca2?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
-| ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982cb6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982cb6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/67885ab635eda3721cc90613?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919ba?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
+| ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919eb?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919e1?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[IT Business Systems Intern (Summer 2025)](https://jobright.ai/jobs/info/67882c9732f192eebe7bb534?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Jan 15 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Jan 15 |
@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/6787aa2f547cc419145a93f4?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 15 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Jan 15 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6780927f66ae6f1b2e663b7d?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 15 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6764aef3b120d3617b65080e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
