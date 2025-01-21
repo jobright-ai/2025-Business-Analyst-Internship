@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/678fe17189d5aa858a9208ee?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Summer Intern-IT Business Analyst Intern](https://jobright.ai/jobs/info/678f5061903394e15b8cce46?utm_campaign=1067&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Undergraduate Business Analyst Internship- Summer 2025](https://jobright.ai/jobs/info/678f1cbb6e537cac62aa4b26?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 20 |
 | **[CRH](http://crh.com)** | **[IT Business Solutions Summer Intern - Atlanta, GA](https://jobright.ai/jobs/info/678ec473abf694536e925954?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/67896d5df01beae7d55356d1?utm_campaign=1067&utm_source=git)** | USA - Philadelphia - Pennsylvania | On Site | Jan 16 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Business Analyst Intern Job Description](https://jobright.ai/jobs/info/676c444dc689d6278bcd9ccc?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Jan 16 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Jan 16 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Jan 16 |
+| ↳ | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Jan 16 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/6744c1521b3b30fe143cdbf8?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Jan 16 |
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/6788b92029307a7b96375282?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 15 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6788b755a3b8acd38376af45?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/67889838eb8635aee60412e3?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jan 15 |
@@ -88,7 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/67886096b94adef2d6b0971d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 15 |
 | **[Bayer](https://www.bayer.com)** | **[Digital Farming Intern: Business Analyst](https://jobright.ai/jobs/info/67887fe1e6c651382b76945b?utm_campaign=1067&utm_source=git)** | Brookfield, MO | On Site | Jan 15 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/678846f1500892e2f81a45c3?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Jan 15 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982cb6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982ca2?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
+| ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982cb6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/67885ab635eda3721cc90613?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919ba?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919eb?utm_campaign=1067&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
