@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Jan 16 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Jan 16 |
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/6788b92029307a7b96375282?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 15 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6788b755a3b8acd38376af45?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/67889838eb8635aee60412e3?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jan 15 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/677deb825d7a23a24c7a592b?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 15 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/67886096b94adef2d6b0971d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 15 |
@@ -104,8 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Jan 15 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6787c615eeabb259410fe59a?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Jan 15 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6787b403a9e01bb767156d33?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Jan 15 |
-| **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/6787b9dfdf1de9a8e2f29a40?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Jan 15 |
-| **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/6787aa2f547cc419145a93f4?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 15 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Jan 15 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6780927f66ae6f1b2e663b7d?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
