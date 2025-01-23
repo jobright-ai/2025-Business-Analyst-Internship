@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be9b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Jan 22 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Houston – Business – Internship](https://jobright.ai/jobs/info/67919a81b3314c9f9ffe807b?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | ↳ | **[Houston – Business – Internship](https://jobright.ai/jobs/info/67918db9f224e2ee905ceed8?utm_campaign=1067&utm_source=git)** | Texas | On Site | Jan 22 |
+| **[InComm Payments](https://www.incomm.com/)** | **[Business Intern (2026 Grad)](https://jobright.ai/jobs/info/6792284b27fa636b772eb19f?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Hybrid Cloud Business Planning Intern](https://jobright.ai/jobs/info/6791d328846d85503f91b452?utm_campaign=1067&utm_source=git)** | Spring, TX | Hybrid | Jan 22 |
 | ↳ | **[Hybrid Cloud Business Planning Intern](https://jobright.ai/jobs/info/6791684d22883e51130f2f33?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Jan 22 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Business Analyst Intern - Summer 2025 (Indianapolis, IN)](https://jobright.ai/jobs/info/6791ddeff83d5fecda5d1535?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
@@ -91,6 +92,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Management Internship](https://jobright.ai/jobs/info/678dc3873bb64c62fd847c5e?utm_campaign=1067&utm_source=git)** | Altavista, VA | On Site | Jan 16 |
 | ↳ | **[Business Management/CI Internship](https://jobright.ai/jobs/info/678dc29f3bb64c62fd8472e2?utm_campaign=1067&utm_source=git)** | Altavista, VA | On Site | Jan 16 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6789888f35859d50815ae87c?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 16 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/678983016da11ebd2fba6249?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 16 |
-| **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/67896d5df01beae7d55356d1?utm_campaign=1067&utm_source=git)** | USA - Philadelphia - Pennsylvania | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
