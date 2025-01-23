@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be9b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Jan 22 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Houston – Business – Internship](https://jobright.ai/jobs/info/67919a81b3314c9f9ffe807b?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 22 |
+| ↳ | **[Houston – Business – Internship](https://jobright.ai/jobs/info/67918db9f224e2ee905ceed8?utm_campaign=1067&utm_source=git)** | Texas | On Site | Jan 22 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Hybrid Cloud Business Planning Intern](https://jobright.ai/jobs/info/6791684d22883e51130f2f33?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Jan 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analytics Master's Intern](https://jobright.ai/jobs/info/6791364ed8fb9f9a481a2e2f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Jan 22 |
@@ -88,8 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6789888f35859d50815ae87c?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 16 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/678983016da11ebd2fba6249?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 16 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/67896d5df01beae7d55356d1?utm_campaign=1067&utm_source=git)** | USA - Philadelphia - Pennsylvania | On Site | Jan 16 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Business Analyst Intern Job Description](https://jobright.ai/jobs/info/676c444dc689d6278bcd9ccc?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Jan 16 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Jan 16 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
