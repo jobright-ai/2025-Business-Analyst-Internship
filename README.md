@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6793021e7fb519549a513aa5?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Jan 23 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6793021e7fb519549a513aac?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
+| **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6792edafa625bd2a411646d0?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Jan 23 |
 | **[MetLife](http://www.metlife.com)** | **[MTU 2025 Summer Internship - Analytics Track](https://jobright.ai/jobs/info/6792daa8adcd992e29fab490?utm_campaign=1067&utm_source=git)** | Cary, NC | Hybrid | Jan 23 |
+| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Blood Glucose Monitoring International Business Team](https://jobright.ai/jobs/info/6792ed0809f584cb9dd839c8?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Jabil](https://www.jabil.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67928be17398e6f5e77470fd?utm_campaign=1067&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 23 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67928636593b0b5cce6a4084?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL | On Site | Jan 23 |
 | **[Verizon](https://www.verizon.com)** | **[Thrive Apprentice - Data Analytics - Business Analyst](https://jobright.ai/jobs/info/67928037151c36a6a6347a94?utm_campaign=1067&utm_source=git)** | Temple Terrace, FL | Hybrid | Jan 23 |
@@ -88,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Endeavor](http://www.endeavor.org)** | **[Strategic Business Content Management, Summer 2025 Internship](https://jobright.ai/jobs/info/678b7d11ba24c406149bd286?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 18 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Graduate](https://jobright.ai/jobs/info/678ade853cf4853b1f582962?utm_campaign=1067&utm_source=git)** | Lakewood, CO | On Site | Jan 17 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Intergrated Business Planning Analyst](https://jobright.ai/jobs/info/678a8b4fdabbe487d336b658?utm_campaign=1067&utm_source=git)** | Home, KS | Remote | Jan 17 |
-| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7f61?utm_campaign=1067&utm_source=git)** | Westerville, OH | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
