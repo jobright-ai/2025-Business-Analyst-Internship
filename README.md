@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67928636593b0b5cce6a4084?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL | On Site | Jan 23 |
 | **[Verizon](https://www.verizon.com)** | **[Thrive Apprentice - Data Analytics - Business Analyst](https://jobright.ai/jobs/info/67928037151c36a6a6347a94?utm_campaign=1067&utm_source=git)** | Temple Terrace, FL | Hybrid | Jan 23 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Blood Glucose Monitoring International Business Team](https://jobright.ai/jobs/info/67925ca01c2d7b040d0c9420?utm_campaign=1067&utm_source=git)** | Indianapolis | On Site | Jan 23 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48b?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be9b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Jan 22 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Houston – Business – Internship](https://jobright.ai/jobs/info/67919a81b3314c9f9ffe807b?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/67929a81e2296f992fff8788?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Jan 22 |
@@ -91,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Business Architecture - Internship](https://jobright.ai/jobs/info/678c29d1471325ad439b7e06?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
 | **[Endeavor](http://www.endeavor.org)** | **[Strategic Business Content Management, Summer 2025 Internship](https://jobright.ai/jobs/info/678b7d11ba24c406149bd286?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 18 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Graduate](https://jobright.ai/jobs/info/678ade853cf4853b1f582962?utm_campaign=1067&utm_source=git)** | Lakewood, CO | On Site | Jan 17 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Intergrated Business Planning Analyst](https://jobright.ai/jobs/info/678a8b4fdabbe487d336b658?utm_campaign=1067&utm_source=git)** | Home, KS | Remote | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
