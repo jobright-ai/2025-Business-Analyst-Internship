@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetLife](http://www.metlife.com)** | **[MTU 2025 Summer Internship - Analytics Track](https://jobright.ai/jobs/info/6792daa8adcd992e29fab490?utm_campaign=1067&utm_source=git)** | Cary, NC | Hybrid | Jan 23 |
 | **[Jabil](https://www.jabil.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67928be17398e6f5e77470fd?utm_campaign=1067&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 23 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67928636593b0b5cce6a4084?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL | On Site | Jan 23 |
 | **[Verizon](https://www.verizon.com)** | **[Thrive Apprentice - Data Analytics - Business Analyst](https://jobright.ai/jobs/info/67928037151c36a6a6347a94?utm_campaign=1067&utm_source=git)** | Temple Terrace, FL | Hybrid | Jan 23 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analytics Master's Intern](https://jobright.ai/jobs/info/6791364ed8fb9f9a481a2e2f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Jan 22 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 22 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Customer Value Business Analyst](https://jobright.ai/jobs/info/67419687d52a35807f954630?utm_campaign=1067&utm_source=git)** | Lehi, UT | On Site | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/67909f5a3ab3f5f02847f8e8?utm_campaign=1067&utm_source=git)** | Remote Kentucky | On Site | Jan 21 |
 | **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1b55?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | Jan 21 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678b7d11ba24c406149bd1fc?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Jan 21 |
@@ -89,6 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Graduate](https://jobright.ai/jobs/info/678ade853cf4853b1f582962?utm_campaign=1067&utm_source=git)** | Lakewood, CO | On Site | Jan 17 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Intergrated Business Planning Analyst](https://jobright.ai/jobs/info/678a8b4fdabbe487d336b658?utm_campaign=1067&utm_source=git)** | Home, KS | Remote | Jan 17 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Underwriting Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7f61?utm_campaign=1067&utm_source=git)** | Westerville, OH | Hybrid | Jan 17 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/676a73478c069691d13b967d?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 16 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
