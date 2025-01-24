@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) in the area of Business Improvement, Performance Measurement and Operational Business Support](https://jobright.ai/jobs/info/679387a8ac835f6a2dd737a7?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Jan 24 |
+| **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/679361404693ba42d17488bc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6793021e7fb519549a513aa5?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Jan 23 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6793021e7fb519549a513aac?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6792edafa625bd2a411646d0?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Jan 23 |
@@ -91,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678e20f199d4e25fce6ef696?utm_campaign=1067&utm_source=git)** | Raleigh, NC | Hybrid | Jan 20 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Business Architecture - Internship](https://jobright.ai/jobs/info/678c29d1471325ad439b7e06?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
 | **[Endeavor](http://www.endeavor.org)** | **[Strategic Business Content Management, Summer 2025 Internship](https://jobright.ai/jobs/info/678b7d11ba24c406149bd286?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 18 |
-| **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Graduate](https://jobright.ai/jobs/info/678ade853cf4853b1f582962?utm_campaign=1067&utm_source=git)** | Lakewood, CO | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
