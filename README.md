@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/6793d763aaaa679f6e825a3d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) in the area of Business Improvement, Performance Measurement and Operational Business Support](https://jobright.ai/jobs/info/679387a8ac835f6a2dd737a7?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Jan 24 |
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/679361404693ba42d17488bc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6793021e7fb519549a513aa5?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Jan 23 |
