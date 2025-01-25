@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinidad Benham](https://www.trinidadbenham.com/)** | **[IT Business Analyst Intern (Remote)](https://jobright.ai/jobs/info/6794376c3960e09a52aaddef?utm_campaign=1067&utm_source=git)** | Denver, CO | Remote | Jan 24 |
 | **[Intrado](https://www.intrado.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/6794270af43679dbcd7f535f?utm_campaign=1067&utm_source=git)** | Longmont, CO | On Site | Jan 24 |
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/6793d763aaaa679f6e825a3d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) in the area of Business Improvement, Performance Measurement and Operational Business Support](https://jobright.ai/jobs/info/679387a8ac835f6a2dd737a7?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Jan 24 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Blood Glucose Monitoring International Business Team](https://jobright.ai/jobs/info/67925ca01c2d7b040d0c9420?utm_campaign=1067&utm_source=git)** | Indianapolis | On Site | Jan 23 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48b?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be9b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Jan 22 |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Houston – Business – Internship](https://jobright.ai/jobs/info/67919a81b3314c9f9ffe807b?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 22 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Houston – Business – Internship](https://jobright.ai/jobs/info/67943dec650ba36fe33c2b5a?utm_campaign=1067&utm_source=git)** | Texas | On Site | Jan 22 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/67929a81e2296f992fff8788?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Jan 22 |
 | **[InComm Payments](https://www.incomm.com/)** | **[Business Intern (2026 Grad)](https://jobright.ai/jobs/info/6792284b27fa636b772eb19f?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Hybrid Cloud Business Planning Intern](https://jobright.ai/jobs/info/6791d328846d85503f91b452?utm_campaign=1067&utm_source=git)** | Spring, TX | Hybrid | Jan 22 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1b55?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | Jan 21 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678b7d11ba24c406149bd1fc?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Jan 21 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6790356acddbb83e7939834e?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Business [Summer]](https://jobright.ai/jobs/info/67902e0417663e3eca2463e1?utm_campaign=1067&utm_source=git)** | Richland, WA | Hybrid | Jan 21 |
 | **[The University of New Mexico](http://unm.edu)** | **[Student Business Analyst](https://jobright.ai/jobs/info/67901ccc52e143626865f3bd?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst (Logistics) Intern, Summer 2025](https://jobright.ai/jobs/info/6790007262fc49dfed83d871?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Jan 21 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/678fe17189d5aa858a9208ee?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
