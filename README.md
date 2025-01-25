@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intrado](https://www.intrado.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/6794270af43679dbcd7f535f?utm_campaign=1067&utm_source=git)** | Longmont, CO | On Site | Jan 24 |
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/6793d763aaaa679f6e825a3d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) in the area of Business Improvement, Performance Measurement and Operational Business Support](https://jobright.ai/jobs/info/679387a8ac835f6a2dd737a7?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Jan 24 |
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/679361404693ba42d17488bc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 24 |
@@ -75,7 +76,8 @@ For a complete list, click the following sortable link below:
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/67929a81e2296f992fff8788?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Jan 22 |
 | **[InComm Payments](https://www.incomm.com/)** | **[Business Intern (2026 Grad)](https://jobright.ai/jobs/info/6792284b27fa636b772eb19f?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Hybrid Cloud Business Planning Intern](https://jobright.ai/jobs/info/6791d328846d85503f91b452?utm_campaign=1067&utm_source=git)** | Spring, TX | Hybrid | Jan 22 |
-| ↳ | **[Hybrid Cloud Business Planning Intern](https://jobright.ai/jobs/info/6791684d22883e51130f2f33?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Jan 22 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ea0ffc059efe5bbfb8aadd?utm_campaign=1067&utm_source=git)** | Morrisville, NC | On Site | Jan 22 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Hybrid Cloud Business Planning Intern](https://jobright.ai/jobs/info/6791684d22883e51130f2f33?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Jan 22 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Business Analyst Intern - Summer 2025 (Indianapolis, IN)](https://jobright.ai/jobs/info/6791ddeff83d5fecda5d1535?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analytics Master's Intern](https://jobright.ai/jobs/info/6791364ed8fb9f9a481a2e2f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Jan 22 |
@@ -93,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/678e6987f1d08d78ff5a6d8b?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678e20f199d4e25fce6ef696?utm_campaign=1067&utm_source=git)** | Raleigh, NC | Hybrid | Jan 20 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Business Architecture - Internship](https://jobright.ai/jobs/info/678c29d1471325ad439b7e06?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
-| **[Endeavor](http://www.endeavor.org)** | **[Strategic Business Content Management, Summer 2025 Internship](https://jobright.ai/jobs/info/678b7d11ba24c406149bd286?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
