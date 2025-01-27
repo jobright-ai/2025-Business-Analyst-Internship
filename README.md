@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dfe0e16235023ac14f608?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Jan 27 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Houston – Business – Internship](https://jobright.ai/jobs/info/6795b71d0cdadbd0a064cb4e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 26 |
 | **[RADcube ](http://www.radcube.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67955b1c8204a80d6a5e4d1f?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Jan 25 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Business Analyst](https://jobright.ai/jobs/info/67951710d3f9102099da319d?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | Jan 25 |
 | **[Intrado](https://www.intrado.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/6794787a6bb5a14fdb642116?utm_campaign=1067&utm_source=git)** | Longmont, CO | On Site | Jan 24 |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Houston – Business – Internship](https://jobright.ai/jobs/info/6795b71d0cdadbd0a064cb4e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/67946794a82df47306dcced0?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Hybrid Cloud Business Planning Intern](https://jobright.ai/jobs/info/6791d328846d85503f91b452?utm_campaign=1067&utm_source=git)** | Spring, TX | Hybrid | Jan 24 |
 | **[Trinidad Benham](https://www.trinidadbenham.com/)** | **[IT Business Analyst Intern (Remote)](https://jobright.ai/jobs/info/6794376c3960e09a52aaddef?utm_campaign=1067&utm_source=git)** | Denver, CO | Remote | Jan 24 |
@@ -95,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[The University of New Mexico](http://unm.edu)** | **[Student Business Analyst](https://jobright.ai/jobs/info/67901ccc52e143626865f3bd?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst (Logistics) Intern, Summer 2025](https://jobright.ai/jobs/info/6790007262fc49dfed83d871?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Jan 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Summer Intern-IT Business Analyst Intern](https://jobright.ai/jobs/info/678f5061903394e15b8cce46?utm_campaign=1067&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
-| **[CRH](http://crh.com)** | **[IT Business Solutions Summer Intern - Atlanta, GA](https://jobright.ai/jobs/info/678ec473abf694536e925954?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
