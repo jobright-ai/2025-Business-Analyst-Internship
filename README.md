@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/6793d763aaaa679f6e825a3d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) in the area of Business Improvement, Performance Measurement and Operational Business Support](https://jobright.ai/jobs/info/679387a8ac835f6a2dd737a7?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Jan 24 |
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/679361404693ba42d17488bc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 24 |
+| **[Jabil](https://www.jabil.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67972432cd95321042bb07d5?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL | On Site | Jan 23 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678b7d11ba24c406149bd1fc?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Jan 23 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6793021e7fb519549a513aa5?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Jan 23 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6793021e7fb519549a513aac?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
@@ -95,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst (Logistics) Intern, Summer 2025](https://jobright.ai/jobs/info/6790007262fc49dfed83d871?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Jan 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Summer Intern-IT Business Analyst Intern](https://jobright.ai/jobs/info/678f5061903394e15b8cce46?utm_campaign=1067&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
 | **[CRH](http://crh.com)** | **[IT Business Solutions Summer Intern - Atlanta, GA](https://jobright.ai/jobs/info/678ec473abf694536e925954?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| **[Skyworks LLC](http://skyworksllc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/678e6987f1d08d78ff5a6d8b?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
