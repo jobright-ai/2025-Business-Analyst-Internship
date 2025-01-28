@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst Intern - Command Center Analytics](https://jobright.ai/jobs/info/679840914816a3dbe290db35?utm_campaign=1067&utm_source=git)** | Meridian - Main | On Site | Jan 27 |
+| ↳ | **[Business Analyst Intern - Command Center Analytics](https://jobright.ai/jobs/info/679841b1128a80eea20fc551?utm_campaign=1067&utm_source=git)** | Meridian, ID | On Site | Jan 27 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67982a8a13f09bf1ab9c397d?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 27 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[Supply Chain Analyst Intern Summer 2025](https://jobright.ai/jobs/info/6798120bc422e3c977f3ed7f?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[FALL 2025 IT Business Analysis Co-ops](https://jobright.ai/jobs/info/6797fb2524637415191fa4f6?utm_campaign=1067&utm_source=git)** | Boston | Hybrid | Jan 27 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Business Analyst Intern - Reporting & Analytics](https://jobright.ai/jobs/info/6797f8c0961eabafdeda2aa8?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 27 |
@@ -99,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Jan 22 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/67909f5a3ab3f5f02847f8e8?utm_campaign=1067&utm_source=git)** | Remote Kentucky | On Site | Jan 21 |
-| **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1b55?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | Jan 21 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6790356acddbb83e7939834e?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[The University of New Mexico](http://unm.edu)** | **[Student Business Analyst](https://jobright.ai/jobs/info/67901ccc52e143626865f3bd?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst (Logistics) Intern, Summer 2025](https://jobright.ai/jobs/info/6790007262fc49dfed83d871?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Jan 21 |
