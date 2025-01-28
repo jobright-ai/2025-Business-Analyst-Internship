@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Intrado](https://www.intrado.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/679872f315ea3d0d03646919?utm_campaign=1067&utm_source=git)** | Longmont, CO | On Site | Jan 27 |
+| **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/679905d94e906b0794cb8127?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jan 28 |
+| **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a969211821?utm_campaign=1067&utm_source=git)** | Offsite U.S. | On Site | Jan 28 |
+| ↳ | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a9692118c7?utm_campaign=1067&utm_source=git)** | Eagan, MN | On Site | Jan 28 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst Intern - Command Center Analytics](https://jobright.ai/jobs/info/679840914816a3dbe290db35?utm_campaign=1067&utm_source=git)** | Meridian - Main | On Site | Jan 27 |
 | ↳ | **[Business Analyst Intern - Command Center Analytics](https://jobright.ai/jobs/info/679841b1128a80eea20fc551?utm_campaign=1067&utm_source=git)** | Meridian, ID | On Site | Jan 27 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67982a8a13f09bf1ab9c397d?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 27 |
@@ -104,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Jan 22 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/67909f5a3ab3f5f02847f8e8?utm_campaign=1067&utm_source=git)** | Remote Kentucky | On Site | Jan 21 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6790356acddbb83e7939834e?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
