@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intrado](https://www.intrado.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/679872f315ea3d0d03646919?utm_campaign=1067&utm_source=git)** | Longmont, CO | On Site | Jan 27 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst Intern - Command Center Analytics](https://jobright.ai/jobs/info/679840914816a3dbe290db35?utm_campaign=1067&utm_source=git)** | Meridian - Main | On Site | Jan 27 |
 | ↳ | **[Business Analyst Intern - Command Center Analytics](https://jobright.ai/jobs/info/679841b1128a80eea20fc551?utm_campaign=1067&utm_source=git)** | Meridian, ID | On Site | Jan 27 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67982a8a13f09bf1ab9c397d?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 27 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Western Governors University](http://www.wgu.edu/)** | **[Business Analyst Intern - Communications](https://jobright.ai/jobs/info/6797d23a5ace449e3c5dd8fb?utm_campaign=1067&utm_source=git)** | Salt Lake City Office | On Site | Jan 27 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Business Analyst Intern - Reporting & Analytics](https://jobright.ai/jobs/info/6797d23a5ace449e3c5dda43?utm_campaign=1067&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Jan 27 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Applications Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/6797c9a981239a7847588ba8?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Jan 27 |
+| **[Veritiv Operating Company](http://www.veritivcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6752b66702d8610ea2ef1e8d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673dfe0e16235023ac14f608?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Jan 27 |
 | **[RADcube ](http://www.radcube.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67955b1c8204a80d6a5e4d1f?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Jan 25 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Business Analyst](https://jobright.ai/jobs/info/67951710d3f9102099da319d?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | Jan 25 |
