@@ -105,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/67909f5a3ab3f5f02847f8e8?utm_campaign=1067&utm_source=git)** | Remote Kentucky | On Site | Jan 21 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6790356acddbb83e7939834e?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
-| **[The University of New Mexico](http://unm.edu)** | **[Student Business Analyst](https://jobright.ai/jobs/info/67901ccc52e143626865f3bd?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
-| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst (Logistics) Intern, Summer 2025](https://jobright.ai/jobs/info/6790007262fc49dfed83d871?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
