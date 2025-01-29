@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intrado](https://www.intrado.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/67996688fa8d51778418a891?utm_campaign=1067&utm_source=git)** | Longmont, CO | On Site | Jan 28 |
+| **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/67994c5cdc826c541de68e83?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Jan 28 |
+| **[PVH Corp.](https://www.pvh.com)** | **[Intern,  Enterprise Transformation - PVH Corp.](https://jobright.ai/jobs/info/6799521a31e9a92f64bc6069?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/679905d94e906b0794cb8127?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jan 28 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a969211821?utm_campaign=1067&utm_source=git)** | Offsite U.S. | On Site | Jan 28 |
 | ↳ | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a9692118c7?utm_campaign=1067&utm_source=git)** | Eagan, MN | On Site | Jan 28 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6793021e7fb519549a513aac?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6792edafa625bd2a411646d0?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Jan 23 |
 | **[MetLife](http://www.metlife.com)** | **[MTU 2025 Summer Internship - Analytics Track](https://jobright.ai/jobs/info/6792daa8adcd992e29fab490?utm_campaign=1067&utm_source=git)** | Cary, NC | Hybrid | Jan 23 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Blood Glucose Monitoring International Business Team](https://jobright.ai/jobs/info/6792ed0809f584cb9dd839c8?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Jabil](https://www.jabil.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67928be17398e6f5e77470fd?utm_campaign=1067&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 23 |
 | **[Verizon](https://www.verizon.com)** | **[Thrive Apprentice - Data Analytics - Business Analyst](https://jobright.ai/jobs/info/67928037151c36a6a6347a94?utm_campaign=1067&utm_source=git)** | Temple Terrace, FL | Hybrid | Jan 23 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Blood Glucose Monitoring International Business Team](https://jobright.ai/jobs/info/67925ca01c2d7b040d0c9420?utm_campaign=1067&utm_source=git)** | Indianapolis | On Site | Jan 23 |
@@ -105,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analytics Master's Intern](https://jobright.ai/jobs/info/6791364ed8fb9f9a481a2e2f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Jan 22 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 22 |
-| **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/67909f5a3ab3f5f02847f8e8?utm_campaign=1067&utm_source=git)** | Remote Kentucky | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
