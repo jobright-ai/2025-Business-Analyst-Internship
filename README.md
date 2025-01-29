@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Intrado](https://www.intrado.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/67996688fa8d51778418a891?utm_campaign=1067&utm_source=git)** | Longmont, CO | On Site | Jan 28 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/67994c5cdc826c541de68e83?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Jan 28 |
 | **[PVH Corp.](https://www.pvh.com)** | **[Intern,  Enterprise Transformation - PVH Corp.](https://jobright.ai/jobs/info/6799521a31e9a92f64bc6069?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, NYSE Listings Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40ea?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/679905d94e906b0794cb8127?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jan 28 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a969211821?utm_campaign=1067&utm_source=git)** | Offsite U.S. | On Site | Jan 28 |
 | ↳ | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a9692118c7?utm_campaign=1067&utm_source=git)** | Eagan, MN | On Site | Jan 28 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Business Analyst Intern - Summer 2025 (Indianapolis, IN)](https://jobright.ai/jobs/info/6791ddeff83d5fecda5d1535?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analytics Master's Intern](https://jobright.ai/jobs/info/6791364ed8fb9f9a481a2e2f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Jan 22 |
-| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
