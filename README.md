@@ -82,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Schneider](https://schneider.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/679a5bfbf3fe155f1369d5ad?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Jan 30 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48a?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Jan 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b06b0ce55494eee53b3dc?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Jan 29 |
-| ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47b?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Jan 29 |
 | ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47d?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
 | ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47c?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Jan 29 |
+| ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47b?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Jan 29 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/679abd11b236413ceadebdda?utm_campaign=1067&utm_source=git)** | Sioux Falls, SD | On Site | Jan 29 |
 | ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/679abd11b236413ceadebdde?utm_campaign=1067&utm_source=git)** | Fargo, ND | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[IT Performance & Analytics Intern- Summer 2025](https://jobright.ai/jobs/info/6778139c6cb7e5f826e61129?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Jan 29 |
@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/67994c5cdc826c541de68e83?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Jan 28 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Business Analyst, NYSE Listings Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c40ea?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/679905d94e906b0794cb8127?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jan 28 |
-| **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a969211821?utm_campaign=1067&utm_source=git)** | Offsite U.S. | On Site | Jan 28 |
-| ↳ | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a9692118c7?utm_campaign=1067&utm_source=git)** | Eagan, MN | On Site | Jan 28 |
+| **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a9692118c7?utm_campaign=1067&utm_source=git)** | Eagan, MN | On Site | Jan 28 |
+| ↳ | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a969211821?utm_campaign=1067&utm_source=git)** | Offsite U.S. | On Site | Jan 28 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jan 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc4c?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
 | **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Jan 27 |
