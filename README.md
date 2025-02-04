@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab44?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | On Site | Feb 03 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/67a150cb5d77a849134abc91?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | On Site | Feb 03 |
+| **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a135f8bbf6a3ce7a0cc52a?utm_campaign=1067&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
 | **[Spot Freight](https://spotinc.com)** | **[Business Reporting Internship (Summer 2025)](https://jobright.ai/jobs/info/67a1195ac321d88ba3f25ba1?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 03 |
 | **[UKG](https://www.ukg.com)** | **[Business Process Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67a10f11f45996543f2dacc5?utm_campaign=1067&utm_source=git)** | Weston, FL | On Site | Feb 03 |
 | **[Airgas](http://airgas.com/)** | **[Intern-Supply Chain and Logistics Analyst](https://jobright.ai/jobs/info/67a0d21ed0bd5c1997b51244?utm_campaign=1067&utm_source=git)** | Independence, OH | On Site | Feb 03 |
@@ -83,11 +86,11 @@ For a complete list, click the following sortable link below:
 | **[Schneider](https://schneider.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/679a5bfbf3fe155f1369d5ad?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Jan 30 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48a?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Jan 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b06b0ce55494eee53b3dc?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Jan 29 |
-| ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47c?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Jan 29 |
-| ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47d?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
 | ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47b?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Jan 29 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/679abd11b236413ceadebdde?utm_campaign=1067&utm_source=git)** | Fargo, ND | On Site | Jan 29 |
-| ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/679abd11b236413ceadebdda?utm_campaign=1067&utm_source=git)** | Sioux Falls, SD | On Site | Jan 29 |
+| ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47d?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
+| ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47c?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Jan 29 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/679abd11b236413ceadebdda?utm_campaign=1067&utm_source=git)** | Sioux Falls, SD | On Site | Jan 29 |
+| ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/679abd11b236413ceadebdde?utm_campaign=1067&utm_source=git)** | Fargo, ND | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[IT Performance & Analytics Intern- Summer 2025](https://jobright.ai/jobs/info/6778139c6cb7e5f826e61129?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Jan 29 |
 | **[Reyes Coca-Cola Bottling](https://www.reyescocacola.com/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/679a7868aef3a87a111dadd2?utm_campaign=1067&utm_source=git)** | Niles, IL | On Site | Jan 29 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Business Operations Analyst Co-op](https://jobright.ai/jobs/info/679a68a0bae82e43e251cb3f?utm_campaign=1067&utm_source=git)** | Framingham, MA | On Site | Jan 29 |
@@ -104,5 +107,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6798ea05d064b5a9692118c7?utm_campaign=1067&utm_source=git)** | Eagan, MN | On Site | Jan 28 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jan 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc4c?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
-| **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
