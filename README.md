@@ -57,20 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com/)** | **[Business Analytics and Training Intern](https://jobright.ai/jobs/info/67a2ebb6dca261482057d2c7?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 04 |
+| ↳ | **[Business Analytics and Training Intern](https://jobright.ai/jobs/info/67a2ebb6dca261482057d321?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 04 |
+| **[Insight](https://www.insight.com)** | **[Intern](https://jobright.ai/jobs/info/67a2e4e5792b9622725c09dd?utm_campaign=1067&utm_source=git)** | Chandler, AZ | Hybrid | Feb 04 |
+| ↳ | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/67a2e4e5792b9622725c09f1?utm_campaign=1067&utm_source=git)** | Chandler, AZ | Hybrid | Feb 04 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2de0fd8e4696d40bb61a6?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Feb 04 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67a2d28a25114e252da5e85c?utm_campaign=1067&utm_source=git)** | New Brunswick, NJ | Hybrid | Feb 04 |
 | **[IGT](http://igt.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/67a2c83481c7d679cc5a4a6f?utm_campaign=1067&utm_source=git)** | Providence, RI | On Site | Feb 04 |
 | **[Emerson](http://www.emerson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a2d28a25114e252da5e8ea?utm_campaign=1067&utm_source=git)** | Shakopee, MN | On Site | Feb 04 |
 | **[Kemper](http://kemper.com)** | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a2c2410e16b734cb0a0867?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Feb 04 |
 | **[Emerson](http://www.emerson.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a2b3ca630d71dada08d215?utm_campaign=1067&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 04 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Business Associate Intern](https://jobright.ai/jobs/info/67a2b6ea6d8ffcadb9636236?utm_campaign=1067&utm_source=git)** | Reston, VA | Remote | Feb 04 |
-| **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst Intern, Undergraduate](https://jobright.ai/jobs/info/67a2b048293212823fb022f0?utm_campaign=1067&utm_source=git)** | Aliso Viejo, CA | Hybrid | Feb 04 |
-| **[Kemper](http://kemper.com)** | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a29556b0527fe2a1201f48?utm_campaign=1067&utm_source=git)** | Birmingham, Alabama | Hybrid | Feb 04 |
-| ↳ | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a29556b0527fe2a1201dc1?utm_campaign=1067&utm_source=git)** | Miami, Florida | Hybrid | Feb 04 |
+| **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst Intern, Undergraduate](https://jobright.ai/jobs/info/67a2b048293212823fb0215c?utm_campaign=1067&utm_source=git)** | Aliso Viejo, CA | Hybrid | Feb 04 |
+| **[Kemper](http://kemper.com)** | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a29556b0527fe2a1201dc1?utm_campaign=1067&utm_source=git)** | Miami, Florida | Hybrid | Feb 04 |
+| ↳ | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a29556b0527fe2a1201f48?utm_campaign=1067&utm_source=git)** | Birmingham, Alabama | Hybrid | Feb 04 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a27f48323cadc0c08ed6b2?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 04 |
-| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19aaf?utm_campaign=1067&utm_source=git)** | Chattanooga Home Office | Hybrid | Feb 04 |
-| ↳ | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19af2?utm_campaign=1067&utm_source=git)** | Baton Rouge Home Office | Hybrid | Feb 04 |
+| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19af2?utm_campaign=1067&utm_source=git)** | Baton Rouge Home Office | Hybrid | Feb 04 |
 | ↳ | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19af3?utm_campaign=1067&utm_source=git)** | USA - ME - Portland | Hybrid | Feb 04 |
+| ↳ | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19aaf?utm_campaign=1067&utm_source=git)** | Chattanooga Home Office | Hybrid | Feb 04 |
 | **[Intel Corporation](http://www.intel.com)** | **[Global Consumer Category, Strategic Insights and Enablement Intern Analyst](https://jobright.ai/jobs/info/67a22b4fccceb24cceeb548a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 04 |
 | ↳ | **[Global Consumer Category, Strategic Insights and Enablement Intern Analyst](https://jobright.ai/jobs/info/67a22bc4ccceb24cceeb5b85?utm_campaign=1067&utm_source=git)** | Hillsboro, OR | Hybrid | Feb 04 |
 | ↳ | **[Global Consumer Category, Strategic Insights and Enablement Intern Analyst](https://jobright.ai/jobs/info/67a22bc4ccceb24cceeb5b86?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Feb 04 |
@@ -85,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a135f8bbf6a3ce7a0cc52a?utm_campaign=1067&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
 | **[Spot Freight](https://spotinc.com)** | **[Business Reporting Internship (Summer 2025)](https://jobright.ai/jobs/info/67a1195ac321d88ba3f25ba1?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 03 |
 | **[UKG](https://www.ukg.com)** | **[Business Process Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67a10f11f45996543f2dacc5?utm_campaign=1067&utm_source=git)** | Weston, FL | On Site | Feb 03 |
+| **[Airgas](http://airgas.com/)** | **[Intern-Supply Chain and Logistics Analyst](https://jobright.ai/jobs/info/67a0d21ed0bd5c1997b51244?utm_campaign=1067&utm_source=git)** | Independence, OH | On Site | Feb 03 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67591819895aceb80f9127ee?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | **[Hunter Agriculture](https://senninger.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/679de88ceb9844213a7e79bd?utm_campaign=1067&utm_source=git)** | San Marcos, CA | On Site | Jan 31 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[Business Technology (Intern)](https://jobright.ai/jobs/info/679d493cea0f8d197dd5027c?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
@@ -105,15 +109,10 @@ For a complete list, click the following sortable link below:
 | **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679c057f66bfc6200b21b8f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/679bbf68bf214c03d6aad022?utm_campaign=1067&utm_source=git)** | Eagan, MN | Hybrid | Jan 30 |
 | **[Lids](https://www.lids.com)** | **[2025 Summer Internship - Business Analytics](https://jobright.ai/jobs/info/67477d5a90a69427e41b4e9d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
-| **[Schneider](https://schneider.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/679a5bfbf3fe155f1369d5ad?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Jan 30 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48a?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Jan 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b06b0ce55494eee53b3dc?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Jan 29 |
-| ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47c?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Jan 29 |
 | ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47d?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
 | ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47b?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Jan 29 |
+| ↳ | **[Intern - Year Round (Projects and Process Improvement)](https://jobright.ai/jobs/info/679b1278002103b5d3b4e47c?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[IT Performance & Analytics Intern- Summer 2025](https://jobright.ai/jobs/info/6778139c6cb7e5f826e61129?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Jan 29 |
-| **[Reyes Coca-Cola Bottling](https://www.reyescocacola.com/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/679a7868aef3a87a111dadd2?utm_campaign=1067&utm_source=git)** | Niles, IL | On Site | Jan 29 |
-| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Business Operations Analyst Co-op](https://jobright.ai/jobs/info/679a68a0bae82e43e251cb3f?utm_campaign=1067&utm_source=git)** | Framingham, MA | On Site | Jan 29 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/679a6fb2321b848399162e5a?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
