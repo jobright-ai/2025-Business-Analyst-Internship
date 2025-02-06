@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a489a8271092c7828f43a6?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Feb 06 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Enablement Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/67a3fb5f63b00d7b6f129715?utm_campaign=1067&utm_source=git)** | Malta, NY | On Site | Feb 05 |
 | **[Knoxville Utilities Board](https://www.kub.org/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/67a3efd767fe72e795cc4591?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Feb 05 |
 | **[NVR, Inc.](http://www.nvrinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3ab?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Feb 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67a3dbaafdecdd478a09d8b7?utm_campaign=1067&utm_source=git)** | El Paso, TX | Hybrid | Feb 05 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/67a3eda16eaf61bfffdf2431?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 05 |
-| **[We Insure](https://weinsuregroup.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a3bb8c91647430ab6e34c6?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Feb 05 |
+| **[We Insure](https://weinsuregroup.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a3bb8c91647430ab6e34e1?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Feb 05 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Feb 05 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Feb 05 |
@@ -83,9 +83,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a29556b0527fe2a1201f48?utm_campaign=1067&utm_source=git)** | Birmingham, Alabama | Hybrid | Feb 04 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a27f48323cadc0c08ed6b2?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/674ee25315265c573835a9d5?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Feb 04 |
-| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19af2?utm_campaign=1067&utm_source=git)** | Baton Rouge Home Office | Hybrid | Feb 04 |
+| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19aaf?utm_campaign=1067&utm_source=git)** | Chattanooga Home Office | Hybrid | Feb 04 |
 | ↳ | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19af3?utm_campaign=1067&utm_source=git)** | USA - ME - Portland | Hybrid | Feb 04 |
-| ↳ | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19aaf?utm_campaign=1067&utm_source=git)** | Chattanooga Home Office | Hybrid | Feb 04 |
+| ↳ | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19af2?utm_campaign=1067&utm_source=git)** | Baton Rouge Home Office | Hybrid | Feb 04 |
 | **[Intel Corporation](http://www.intel.com)** | **[Global Consumer Category, Strategic Insights and Enablement Intern Analyst](https://jobright.ai/jobs/info/67a22b4fccceb24cceeb548a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 04 |
 | ↳ | **[Global Consumer Category, Strategic Insights and Enablement Intern Analyst](https://jobright.ai/jobs/info/67a22bc4ccceb24cceeb5b85?utm_campaign=1067&utm_source=git)** | Hillsboro, OR | Hybrid | Feb 04 |
 | ↳ | **[Global Consumer Category, Strategic Insights and Enablement Intern Analyst](https://jobright.ai/jobs/info/67a22bc4ccceb24cceeb5b86?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Feb 04 |
@@ -107,14 +107,12 @@ For a complete list, click the following sortable link below:
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2025 Fixed Income, Sophomore Externship Program (Technology Solutions Group)](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad417d?utm_campaign=1067&utm_source=git)** | Newark, NJ | On Site | Jan 31 |
 | **[PVH Corp.](https://www.pvh.com)** | **[Intern,  Enterprise Transformation - PVH Corp.](https://jobright.ai/jobs/info/679d446543fb49f91ea9a86c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Internship](https://jobright.ai/jobs/info/679d4224657c8876743f6145?utm_campaign=1067&utm_source=git)** | Florida, United States | On Site | Jan 31 |
-| ↳ | **[Business Systems Internship](https://jobright.ai/jobs/info/679d4224657c8876743f6394?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Jan 31 |
 | ↳ | **[Business Systems Internship](https://jobright.ai/jobs/info/679d4224657c8876743f6395?utm_campaign=1067&utm_source=git)** | Georgia, United States | On Site | Jan 31 |
+| ↳ | **[Business Systems Internship](https://jobright.ai/jobs/info/679d4224657c8876743f6394?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Jan 31 |
 | ↳ | **[Business Systems Internship](https://jobright.ai/jobs/info/679d4224657c8876743f6396?utm_campaign=1067&utm_source=git)** | Charleston, SC | Hybrid | Jan 31 |
 | **[Airgas](http://airgas.com/)** | **[Intern-Supply Chain and Logistics Analyst](https://jobright.ai/jobs/info/67a0c30b2c0c8653d98d4300?utm_campaign=1067&utm_source=git)** | Independence, OH - Rockside Woods Blvd | On Site | Jan 31 |
 | **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[2025 Summer Intern Program: ERP Business Analyst Intern](https://jobright.ai/jobs/info/679d13fdd665a2fcff24d9ff?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Jan 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate - Intern](https://jobright.ai/jobs/info/679cec3dd497652eb6aedbfd?utm_campaign=1067&utm_source=git)** | USA MD Bethesda | On Site | Jan 31 |
 | **[American Signature Inc.](http://www.americansignaturefurniture.com)** | **[Emerging Leaders Summer Internship 2025- IT (Hybrid)](https://jobright.ai/jobs/info/679c84a914877d154d3eae63?utm_campaign=1067&utm_source=git)** | Columbus, OH | Hybrid | Jan 30 |
 | **[Hunter Industries](http://www.hunterindustries.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/679f1dd384b04b518aaf81d7?utm_campaign=1067&utm_source=git)** | San Marcos, CA | On Site | Jan 30 |
-| **[Marco Technologies](https://www.marconet.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/679bff524fb1af735b0568b4?utm_campaign=1067&utm_source=git)** | St Cloud, MN | On Site | Jan 30 |
-| **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679c057f66bfc6200b21b8f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
