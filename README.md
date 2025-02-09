@@ -62,9 +62,9 @@ For a complete list, click the following sortable link below:
 | **[Analog Devices](http://www.analog.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a68b7b178b11a0f93835dd?utm_campaign=1067&utm_source=git)** | Wilmington, MA | On Site | Feb 07 |
 | **[MetLife](http://www.metlife.com)** | **[INROADS Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67a68b7b178b11a0f93835f9?utm_campaign=1067&utm_source=git)** | Whippany, NJ | Hybrid | Feb 07 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67a68265e637700e388e525e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 07 |
-| **[SS&C Technologies](http://www.ssctech.com)** | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0ac?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0ad?utm_campaign=1067&utm_source=git)** | Windsor, CT | Hybrid | Feb 07 |
+| ↳ | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0ac?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0ae?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
-| ↳ | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0ad?utm_campaign=1067&utm_source=git)** | Windsor, CT | Hybrid | Feb 07 |
 | ↳ | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0b0?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 07 |
 | ↳ | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a664f9d0f0510389b96a54?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Feb 07 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/679905d94e906b0794cb8127?utm_campaign=1067&utm_source=git)** | Jersey City, New Jersey · New York, New York | On Site | Feb 07 |
@@ -101,12 +101,12 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Business Associate Intern](https://jobright.ai/jobs/info/67a2b6ea6d8ffcadb9636236?utm_campaign=1067&utm_source=git)** | Reston, VA | Remote | Feb 04 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst Intern, Undergraduate](https://jobright.ai/jobs/info/67a2b048293212823fb022f0?utm_campaign=1067&utm_source=git)** | Aliso Viejo, CA | Hybrid | Feb 04 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108ff2c?utm_campaign=1067&utm_source=git)** | Niles, OH | On Site | Feb 04 |
-| **[Kemper](http://kemper.com)** | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a29556b0527fe2a1201f48?utm_campaign=1067&utm_source=git)** | Birmingham, Alabama | Hybrid | Feb 04 |
-| ↳ | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a29556b0527fe2a1201dc1?utm_campaign=1067&utm_source=git)** | Miami, Florida | Hybrid | Feb 04 |
+| **[Kemper](http://kemper.com)** | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a29556b0527fe2a1201dc1?utm_campaign=1067&utm_source=git)** | Miami, Florida | Hybrid | Feb 04 |
+| ↳ | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a29556b0527fe2a1201f48?utm_campaign=1067&utm_source=git)** | Birmingham, Alabama | Hybrid | Feb 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/674ee25315265c573835a9d5?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Feb 04 |
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19aaf?utm_campaign=1067&utm_source=git)** | Chattanooga Home Office | Hybrid | Feb 04 |
-| ↳ | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19af2?utm_campaign=1067&utm_source=git)** | Baton Rouge Home Office | Hybrid | Feb 04 |
 | ↳ | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19af3?utm_campaign=1067&utm_source=git)** | USA - ME - Portland | Hybrid | Feb 04 |
+| ↳ | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2242f111463738be19af2?utm_campaign=1067&utm_source=git)** | Baton Rouge Home Office | Hybrid | Feb 04 |
 | **[Intel Corporation](http://www.intel.com)** | **[Global Consumer Category, Strategic Insights and Enablement Intern Analyst](https://jobright.ai/jobs/info/67a22b4fccceb24cceeb548a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 04 |
 | ↳ | **[Global Consumer Category, Strategic Insights and Enablement Intern Analyst](https://jobright.ai/jobs/info/67a22bc4ccceb24cceeb5b85?utm_campaign=1067&utm_source=git)** | Hillsboro, OR | Hybrid | Feb 04 |
 | ↳ | **[Global Consumer Category, Strategic Insights and Enablement Intern Analyst](https://jobright.ai/jobs/info/67a22bc4ccceb24cceeb5b86?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Feb 04 |
