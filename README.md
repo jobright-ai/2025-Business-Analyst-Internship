@@ -91,19 +91,17 @@ For a complete list, click the following sortable link below:
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/679905d94e906b0794cb8127?utm_campaign=1067&utm_source=git)** | Jersey City, New Jersey · New York, New York | On Site | Feb 07 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67a64fb29d18b46b7de38140?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | Feb 07 |
 | **[WhiteWater](http://whitewatermidstream.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/67a64f6c6981f27919ff448d?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| **[Oracle](https://www.oracle.com/)** | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 07 |
+| ↳ | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f8068ed?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 07 |
 | **[Viasat](http://www.viasat.com)** | **[Communications and Business Analyst Intern](https://jobright.ai/jobs/info/67a5b28d4dff6c443d2a6062?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 06 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 06 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Feb 06 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2025 Intern, Business Management](https://jobright.ai/jobs/info/67a5596c533b9b0b29ddb9e9?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
-| **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f8068ed?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 06 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Roche](http://www.roche.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a509bd1736ee13a34e0e54?utm_campaign=1067&utm_source=git)** | Tucson, AZ | On Site | Feb 06 |
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a4fe4d30236b69d155a402?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Feb 06 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Systems and Reporting Masters Intern](https://jobright.ai/jobs/info/67a4fa1801e8a60c995c977c?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | Feb 06 |
 | **[Roche](http://www.roche.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a4e2da996034fed5422959?utm_campaign=1067&utm_source=git)** | Tucson | On Site | Feb 06 |
 | **[Insight](https://www.insight.com)** | **[Intern](https://jobright.ai/jobs/info/67a587d3270ab6e91489a684?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Feb 05 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Enablement Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/67a3fb5f63b00d7b6f129715?utm_campaign=1067&utm_source=git)** | Malta, NY | On Site | Feb 05 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67a3dbaafdecdd478a09d8b7?utm_campaign=1067&utm_source=git)** | El Paso, TX | Hybrid | Feb 05 |
-| **[We Insure](https://weinsuregroup.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a3bb8c91647430ab6e34d0?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
