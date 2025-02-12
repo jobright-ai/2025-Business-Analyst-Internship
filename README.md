@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67ac167aae48715f04c4e703?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL | On Site | Feb 11 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67abf3a5d3d54a3f2c41695d?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 11 |
+| **[Calix](http://www.calix.com)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/67abec46c79251b233e3166f?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67abd1d3282fe7b061cec10c?utm_campaign=1067&utm_source=git)** | Illinois-Burr Ridge | On Site | Feb 11 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/67abcc5702c068d19c7f9e3d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Feb 11 |
 | **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67abcc5702c068d19c7f9fba?utm_campaign=1067&utm_source=git)** | Massachusetts, United States | On Site | Feb 11 |
@@ -89,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f8068ed?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 07 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 07 |
-| **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/67a5c78e1d831629a3acecde?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Viasat](http://www.viasat.com)** | **[Communications and Business Analyst Intern](https://jobright.ai/jobs/info/67a5b28d4dff6c443d2a6062?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 06 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 06 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Feb 06 |
@@ -102,10 +104,4 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[IT Enablement Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/67a3fb5f63b00d7b6f129715?utm_campaign=1067&utm_source=git)** | Malta, NY | On Site | Feb 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67a3dbaafdecdd478a09d8b7?utm_campaign=1067&utm_source=git)** | El Paso, TX | Hybrid | Feb 05 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a3bb8c91647430ab6e34c6?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Feb 05 |
-| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 05 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - GP COE Business Process Manager](https://jobright.ai/jobs/info/6726033c92048579056ea498?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Feb 05 |
-| **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/67847c64df07279b7ce8d7bf?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Feb 05 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Feb 05 |
-| **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/679d6520a7522eddbcb66a0a?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Feb 05 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst- Internship](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabe1?utm_campaign=1067&utm_source=git)** | Southlake, TX | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
