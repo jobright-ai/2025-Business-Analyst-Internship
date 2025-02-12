@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67abd1d3282fe7b061cec10c?utm_campaign=1067&utm_source=git)** | Illinois-Burr Ridge | On Site | Feb 11 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/67abcc5702c068d19c7f9e3d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Feb 11 |
+| **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67abcc5702c068d19c7f9fba?utm_campaign=1067&utm_source=git)** | Massachusetts, United States | On Site | Feb 11 |
 | **[Veolia North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ab961237288ae93270340b?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 11 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship – Summer 2025](https://jobright.ai/jobs/info/67ab5352a752a799a9fbaf0a?utm_campaign=1067&utm_source=git)** | Montpelier, VT | On Site | Feb 11 |
 | **[Schneider Electric](https://www.se.com)** | **[Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/67aae2a14f3d707c9f9c20d0?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Business Performance Intern - Chandler, AZ](https://jobright.ai/jobs/info/67aa6d3ddbda10893f5ef1bf?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Feb 10 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67aa45f5cb993ddd3cc3e780?utm_campaign=1067&utm_source=git)** | US FL JAX 347 | On Site | Feb 10 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 Health Plan Operations Business Analyst Undergraduate Intern](https://jobright.ai/jobs/info/67aa19b1df2a2d9782280fa3?utm_campaign=1067&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Feb 10 |
-| **[PDS Health](http://www.pacificdentalservices.com/)** | **[Business Technology (Intern)](https://jobright.ai/jobs/info/679d493cea0f8d197dd5027c?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 10 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern - Hourly](https://jobright.ai/jobs/info/67a9bbad179ffb988a221b4a?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Feb 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Analyst Intern - Hourly](https://jobright.ai/jobs/info/67a9a20041068e9f8a08bf84?utm_campaign=1067&utm_source=git)** | Trenton, NJ | On Site | Feb 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
@@ -80,11 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Feb 07 |
 | **[Analog Devices](http://www.analog.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a68b7b178b11a0f93835dd?utm_campaign=1067&utm_source=git)** | Wilmington, MA | On Site | Feb 07 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67a68265e637700e388e525e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 07 |
-| **[SS&C Technologies](http://www.ssctech.com)** | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0ae?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
-| ↳ | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0ad?utm_campaign=1067&utm_source=git)** | Windsor, CT | Hybrid | Feb 07 |
-| ↳ | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0ac?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
-| ↳ | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0b0?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 07 |
-| ↳ | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a664f9d0f0510389b96a54?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Feb 07 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Investment Company Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a66c6880dee2bb194cd0ad?utm_campaign=1067&utm_source=git)** | Windsor, CT | Hybrid | Feb 07 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/679905d94e906b0794cb8127?utm_campaign=1067&utm_source=git)** | Jersey City, New Jersey · New York, New York | On Site | Feb 07 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67a64fb29d18b46b7de38140?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | Feb 07 |
 | **[WhiteWater](http://whitewatermidstream.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/67a64f6c6981f27919ff448d?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
@@ -110,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Feb 05 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/679d6520a7522eddbcb66a0a?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Feb 05 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst- Internship](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabe1?utm_campaign=1067&utm_source=git)** | Southlake, TX | On Site | Feb 05 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67a5a16b2d16d022147df28a?utm_campaign=1067&utm_source=git)** | New Brunswick, NJ | Hybrid | Feb 04 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/674fca90112f57bdb3537bfb?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
