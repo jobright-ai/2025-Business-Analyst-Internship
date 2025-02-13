@@ -69,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Calix](http://www.calix.com)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/67abec46c79251b233e3166f?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67abd1d3282fe7b061cec10c?utm_campaign=1067&utm_source=git)** | Illinois-Burr Ridge | On Site | Feb 11 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/67abcc5702c068d19c7f9e3d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Feb 11 |
-| **[Veolia North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ab961237288ae93270340b?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 11 |
+| **[Veolia North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ab961237288ae93270340b?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 11 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship – Summer 2025](https://jobright.ai/jobs/info/67ab5352a752a799a9fbaf0a?utm_campaign=1067&utm_source=git)** | Montpelier, VT | On Site | Feb 11 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/679c84a914877d154d3eb48a?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 10 |
 | **[Schneider Electric](https://www.se.com)** | **[Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/67aae2a14f3d707c9f9c20d0?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
@@ -94,12 +94,11 @@ For a complete list, click the following sortable link below:
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/679905d94e906b0794cb8127?utm_campaign=1067&utm_source=git)** | Jersey City, New Jersey · New York, New York | On Site | Feb 07 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67a64fb29d18b46b7de38140?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | Feb 07 |
 | **[WhiteWater](http://whitewatermidstream.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/67a64f6c6981f27919ff448d?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| **[Oracle](https://www.oracle.com/)** | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 07 |
+| ↳ | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f8068ed?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 07 |
 | **[Viasat](http://www.viasat.com)** | **[Communications and Business Analyst Intern](https://jobright.ai/jobs/info/67a5b28d4dff6c443d2a6062?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 06 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 06 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Feb 06 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2025 Intern, Business Management](https://jobright.ai/jobs/info/67a5596c533b9b0b29ddb9e9?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
-| **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f8068ed?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 06 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 06 |
-| **[Roche](http://www.roche.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a509bd1736ee13a34e0e54?utm_campaign=1067&utm_source=git)** | Tucson, AZ | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
