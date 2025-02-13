@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetLife](http://www.metlife.com)** | **[INROADS Intern - Business Procedures](https://jobright.ai/jobs/info/67ad33d963fdcc96bfa79a53?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 12 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Business Administrator, Internal Medicine, Division of Digestive Diseases, College of Medicine](https://jobright.ai/jobs/info/67ad21c8dd159fde09b79480?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 12 |
 | **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[General Business Intern](https://jobright.ai/jobs/info/67acdc79052f609745204a7a?utm_campaign=1067&utm_source=git)** | Shelby Township, MI | On Site | Feb 12 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business/Quality Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67acc621fc62792c8726b0ff?utm_campaign=1067&utm_source=git)** | Lansing, MI | On Site | Feb 12 |
 | **[AAA Northern California, Nevada & Utah](https://calstate.aaa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/67ac544ba324caed2dd5b827?utm_campaign=1067&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 11 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern - Supply Chain Pathway, Olathe, KS/Minneapolis, MN](https://jobright.ai/jobs/info/67ac544ba324caed2dd5bb4e?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Feb 11 |
 | **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67ac167aae48715f04c4e703?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL | On Site | Feb 11 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67abf3a5d3d54a3f2c41695d?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Calix](http://www.calix.com)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/67abec46c79251b233e3166f?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67abd1d3282fe7b061cec10c?utm_campaign=1067&utm_source=git)** | Illinois-Burr Ridge | On Site | Feb 11 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/67abcc5702c068d19c7f9e3d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Feb 11 |
