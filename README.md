@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67aed141b9591c59faf34a91?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Feb 13 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2025 Intern, Business Management](https://jobright.ai/jobs/info/67ae9e262ce42405f8bb70d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae8965daf9fb9eb02ce950?utm_campaign=1067&utm_source=git)** | Spokane Valley, WA | Hybrid | Feb 13 |
 | ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae8b77daf9fb9eb02cefdc?utm_campaign=1067&utm_source=git)** | Washington, United States | Hybrid | Feb 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/67ae76b0c2b0924007b262ef?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Feb 13 |
-| **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6218653aa864e7bd41b5?utm_campaign=1067&utm_source=git)** | Spokane, WA | Hybrid | Feb 13 |
-| ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6456653aa864e7bd4b53?utm_campaign=1067&utm_source=git)** | Remote, WA | Hybrid | Feb 13 |
+| **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6456653aa864e7bd4b53?utm_campaign=1067&utm_source=git)** | Remote, WA | Hybrid | Feb 13 |
+| ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6218653aa864e7bd41b5?utm_campaign=1067&utm_source=git)** | Spokane, WA | Hybrid | Feb 13 |
 | **[RxBenefits, Inc.](http://rxbenefits.com)** | **[Intern](https://jobright.ai/jobs/info/67ae6f05eb6db8490625ebdc?utm_campaign=1067&utm_source=git)** | Al Tahoe, CA | On Site | Feb 13 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Intern](https://jobright.ai/jobs/info/67ae35241a062bde5e47e02c?utm_campaign=1067&utm_source=git)** | Piscataway, NJ | Hybrid | Feb 13 |
+| **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67a68265e637700e388e525e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67adb18024e31d537c36ef67?utm_campaign=1067&utm_source=git)** | Charleston, SC | Hybrid | Feb 13 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67ad796906c1d906714c8fee?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Feb 12 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Business Administrator, Internal Medicine, Division of Digestive Diseases, College of Medicine](https://jobright.ai/jobs/info/67ad21c8dd159fde09b79480?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 12 |
@@ -95,13 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67aafdd4dac274e2af661c74?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Feb 07 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67a857502383b9299fcc0b3b?utm_campaign=1067&utm_source=git)** | Beaverton, OR | Hybrid | Feb 07 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Feb 07 |
-| **[Analog Devices](http://www.analog.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67aeabc5580f1722e5d026e7?utm_campaign=1067&utm_source=git)** | Wilmington, MA | On Site | Feb 07 |
-| **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67a68265e637700e388e525e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/679905d94e906b0794cb8127?utm_campaign=1067&utm_source=git)** | Jersey City, New Jersey · New York, New York | On Site | Feb 07 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67a64fb29d18b46b7de38140?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | Feb 07 |
 | **[WhiteWater](http://whitewatermidstream.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/67a64f6c6981f27919ff448d?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[IT Business Systems Intern (Summer 2025)](https://jobright.ai/jobs/info/67882c9732f192eebe7bb534?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 07 |
-| **[Oracle](https://www.oracle.com/)** | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 07 |
-| ↳ | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f8068ed?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 07 |
-| **[PING](http://ping.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67a5104e8bebac9ea5d9d7ff?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
