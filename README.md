@@ -58,13 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Business Analyst Internship](https://jobright.ai/jobs/info/67af316b1f4d2054a8c6b2a3?utm_campaign=1067&utm_source=git)** | Rogers, AR | On Site | Feb 13 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67aed141b9591c59faf34a91?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Feb 13 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Dallas, TX](https://jobright.ai/jobs/info/67aed141b9591c59faf34a91?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Feb 13 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2025 Intern, Business Management](https://jobright.ai/jobs/info/67ae9e262ce42405f8bb70d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae8965daf9fb9eb02ce950?utm_campaign=1067&utm_source=git)** | Spokane Valley, WA | Hybrid | Feb 13 |
 | ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae8b77daf9fb9eb02cefdc?utm_campaign=1067&utm_source=git)** | Washington, United States | Hybrid | Feb 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/67ae76b0c2b0924007b262ef?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Feb 13 |
-| **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6218653aa864e7bd41b5?utm_campaign=1067&utm_source=git)** | Spokane, WA | Hybrid | Feb 13 |
-| ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6456653aa864e7bd4b53?utm_campaign=1067&utm_source=git)** | Remote, WA | Hybrid | Feb 13 |
+| **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6456653aa864e7bd4b53?utm_campaign=1067&utm_source=git)** | Remote, WA | Hybrid | Feb 13 |
+| ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6218653aa864e7bd41b5?utm_campaign=1067&utm_source=git)** | Spokane, WA | Hybrid | Feb 13 |
 | **[RxBenefits, Inc.](http://rxbenefits.com)** | **[Intern](https://jobright.ai/jobs/info/67ae6f05eb6db8490625ebdc?utm_campaign=1067&utm_source=git)** | Al Tahoe, CA | On Site | Feb 13 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Intern](https://jobright.ai/jobs/info/67ae35241a062bde5e47e02c?utm_campaign=1067&utm_source=git)** | Piscataway, NJ | Hybrid | Feb 13 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67a68265e637700e388e525e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 13 |
@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66f34380fa13e621ce51d12c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 12 |
 | **[AAA Northern California, Nevada & Utah](https://calstate.aaa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/67ac544ba324caed2dd5b827?utm_campaign=1067&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 11 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern - Supply Chain Pathway, Olathe, KS/Minneapolis, MN](https://jobright.ai/jobs/info/67ac544ba324caed2dd5bb4e?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Feb 11 |
-| **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67af28583972840ba7735dd3?utm_campaign=1067&utm_source=git)** | Massachusetts, United States | On Site | Feb 11 |
 | **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67ac167aae48715f04c4e703?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL | On Site | Feb 11 |
 | **[Calix](http://www.calix.com)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/67abec46c79251b233e3166f?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67abd1d3282fe7b061cec10c?utm_campaign=1067&utm_source=git)** | Illinois-Burr Ridge | On Site | Feb 11 |
@@ -97,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/679ca91a8ed22f6f83998e8e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67aafdd4dac274e2af661c74?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Feb 07 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67a857502383b9299fcc0b3b?utm_campaign=1067&utm_source=git)** | Beaverton, OR | Hybrid | Feb 07 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
