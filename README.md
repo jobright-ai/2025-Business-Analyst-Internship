@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Optimization Intern-Graduate](https://jobright.ai/jobs/info/67b1144a491d453eba9c552f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Feb 15 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship Sales Business Analyst BI-LINGUAL](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dc5e?utm_campaign=1067&utm_source=git)** | Norcross, GA | On Site | Feb 15 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst (Logistics) Intern, Summer 2025](https://jobright.ai/jobs/info/6790007262fc49dfed83d871?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Feb 15 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67410a86e6cd3fe13a69d042?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | Feb 15 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Business Continuity & Resiliency (Memphis, TN or Remote)](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a207?utm_campaign=1067&utm_source=git)** | Memphis, TN | Remote | Feb 15 |
@@ -68,7 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 15 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48b?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 15 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265082?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Feb 15 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/67ad9720f8f96d006c7021b1?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Feb 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/6795e6b9524ef30deb0b8392?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Feb 15 |
+| **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/679361404693ba42d17488bc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Feb 15 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/6799ba42cfaf0dce3be3b40b?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Feb 15 |
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Project Development, Summer Intern, Energy Business](https://jobright.ai/jobs/info/6794376c3960e09a52aade77?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 15 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[IT BUSINESS ANALYST INTERN](https://jobright.ai/jobs/info/67b0354a1bbea9132f88cd30?utm_campaign=1067&utm_source=git)** | Riverside, CA | Hybrid | Feb 14 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be9b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Feb 14 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6787b403a9e01bb767156d33?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Feb 14 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Business Analyst Internship](https://jobright.ai/jobs/info/67af316b1f4d2054a8c6b2a3?utm_campaign=1067&utm_source=git)** | Rogers, AR | On Site | Feb 13 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Dallas, TX](https://jobright.ai/jobs/info/67b175fbc94a07a775c949f4?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Feb 13 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2025 Intern, Business Management](https://jobright.ai/jobs/info/67ae9e262ce42405f8bb70d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae8965daf9fb9eb02ce950?utm_campaign=1067&utm_source=git)** | Spokane Valley, WA | Hybrid | Feb 13 |
 | ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae8b77daf9fb9eb02cefdc?utm_campaign=1067&utm_source=git)** | Washington, United States | Hybrid | Feb 13 |
@@ -110,6 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 Health Plan Operations Business Analyst Undergraduate Intern](https://jobright.ai/jobs/info/67aa19b1df2a2d9782280fa3?utm_campaign=1067&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Feb 10 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern - Hourly](https://jobright.ai/jobs/info/67a9bbad179ffb988a221b4a?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Feb 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Analyst Intern - Hourly](https://jobright.ai/jobs/info/67a9a20041068e9f8a08bf84?utm_campaign=1067&utm_source=git)** | Trenton, NJ | On Site | Feb 09 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Feb 09 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265092?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
