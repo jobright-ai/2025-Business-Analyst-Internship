@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Feb 16 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Optimization Intern-Graduate](https://jobright.ai/jobs/info/67b1144a491d453eba9c552f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Feb 15 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship Sales Business Analyst BI-LINGUAL](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dc5e?utm_campaign=1067&utm_source=git)** | Norcross, GA | On Site | Feb 15 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Analyst (Logistics) Intern, Summer 2025](https://jobright.ai/jobs/info/6790007262fc49dfed83d871?utm_campaign=1067&utm_source=git)** | Neenah, WI | On Site | Feb 15 |
