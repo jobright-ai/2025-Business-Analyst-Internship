@@ -91,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae8965daf9fb9eb02ce950?utm_campaign=1067&utm_source=git)** | Spokane Valley, WA | Hybrid | Feb 13 |
 | ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae8b77daf9fb9eb02cefdc?utm_campaign=1067&utm_source=git)** | Washington, United States | Hybrid | Feb 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/67ae76b0c2b0924007b262ef?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Feb 13 |
+| **[Viasat](http://www.viasat.com)** | **[Operations Business Process Intern](https://jobright.ai/jobs/info/6799ce2d376caecbd1c08018?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Feb 13 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6456653aa864e7bd4b53?utm_campaign=1067&utm_source=git)** | Remote, WA | Hybrid | Feb 13 |
 | ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6218653aa864e7bd41b5?utm_campaign=1067&utm_source=git)** | Spokane, WA | Hybrid | Feb 13 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Intern](https://jobright.ai/jobs/info/67ae35241a062bde5e47e02c?utm_campaign=1067&utm_source=git)** | Piscataway, NJ | Hybrid | Feb 13 |
@@ -114,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Business Performance Intern - Chandler, AZ](https://jobright.ai/jobs/info/67aa6d3ddbda10893f5ef1bf?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Feb 10 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67aa45f5cb993ddd3cc3e780?utm_campaign=1067&utm_source=git)** | US FL JAX 347 | On Site | Feb 10 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 Health Plan Operations Business Analyst Undergraduate Intern](https://jobright.ai/jobs/info/67aa19b1df2a2d9782280fa3?utm_campaign=1067&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Feb 10 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern - Hourly](https://jobright.ai/jobs/info/67a9bbad179ffb988a221b4a?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Feb 10 |
-| **[NEOGOV](http://www.neogov.com)** | **[Business Analyst Intern - Hourly](https://jobright.ai/jobs/info/67a9a20041068e9f8a08bf84?utm_campaign=1067&utm_source=git)** | Trenton, NJ | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
