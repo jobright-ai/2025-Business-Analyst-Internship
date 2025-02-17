@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Global Business Strategy Development Intern - Summer 2025](https://jobright.ai/jobs/info/67b388cb27a56df55931edf6?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Feb 17 |
+| **[Panduit](http://www.panduit.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67b371bf8b8886ce07addd01?utm_campaign=1067&utm_source=git)** | USA IL Tinley Park WHQ | On Site | Feb 17 |
+| **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Feb 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Feb 16 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Optimization Intern-Graduate](https://jobright.ai/jobs/info/67b1144a491d453eba9c552f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Feb 15 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship Sales Business Analyst BI-LINGUAL](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dc5e?utm_campaign=1067&utm_source=git)** | Norcross, GA | On Site | Feb 15 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67a3dbaafdecdd478a09d8b7?utm_campaign=1067&utm_source=git)** | El Paso, TX | Hybrid | Feb 15 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[IT BUSINESS ANALYST INTERN](https://jobright.ai/jobs/info/67b0354a1bbea9132f88cd30?utm_campaign=1067&utm_source=git)** | Riverside, CA | Hybrid | Feb 14 |
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/6787aa2f547cc419145a93f4?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Feb 14 |
-| **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/67afd45914bd94af4065ae8a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 14 |
 | **[Waldom Electronics](http://www.waldom.com/)** | **[Internship - Business Analyst/Data Management](https://jobright.ai/jobs/info/67afe1cf93fa8460f5503d72?utm_campaign=1067&utm_source=git)** | Rockford, IL | On Site | Feb 14 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67a5a16b2d16d022147df28a?utm_campaign=1067&utm_source=git)** | New Brunswick, NJ | Hybrid | Feb 14 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6793021e7fb519549a513aac?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
@@ -109,6 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Veolia North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ab961237288ae93270340b?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 11 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship – Summer 2025](https://jobright.ai/jobs/info/67ab5352a752a799a9fbaf0a?utm_campaign=1067&utm_source=git)** | Montpelier, VT | On Site | Feb 11 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/679c84a914877d154d3eb48a?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 10 |
-| **[Schneider Electric](https://www.se.com)** | **[Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/67aae2a14f3d707c9f9c20d0?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
-| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67aac5ac2b67442207865055?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
