@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee15?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Feb 17 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee16?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Feb 17 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee17?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Feb 17 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee18?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed31?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Feb 17 |
+| **[Hunt Oil Company](http://www.huntoil.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/67b3b52a3a7d5c2a2257b912?utm_campaign=1067&utm_source=git)** | 1900 North Akard Street, Dallas, TX, 75201, US | On Site | Feb 17 |
+| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67b3a571c9087e9b19eaef84?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Feb 17 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Global Business Strategy Development Intern - Summer 2025](https://jobright.ai/jobs/info/67b388cb27a56df55931edf6?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Feb 17 |
 | **[Panduit](http://www.panduit.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67b371bf8b8886ce07addd01?utm_campaign=1067&utm_source=git)** | USA IL Tinley Park WHQ | On Site | Feb 17 |
 | **[ETS](http://www.ets.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/674f3409abd99cce730b4525?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Feb 17 |
@@ -105,10 +112,8 @@ For a complete list, click the following sortable link below:
 | **[AAA Northern California, Nevada & Utah](https://calstate.aaa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/67ac544ba324caed2dd5b827?utm_campaign=1067&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 11 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern - Supply Chain Pathway, Olathe, KS/Minneapolis, MN](https://jobright.ai/jobs/info/67ac544ba324caed2dd5bb4e?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Feb 11 |
 | **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67ac167aae48715f04c4e703?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL | On Site | Feb 11 |
-| **[Calix](http://www.calix.com)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/67abec46c79251b233e3166f?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 11 |
-| **[Linde](https://www.linde.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67abd1d3282fe7b061cec10c?utm_campaign=1067&utm_source=git)** | Illinois-Burr Ridge | On Site | Feb 11 |
+| ↳ | **[Business Intern](https://jobright.ai/jobs/info/67abd1d3282fe7b061cec10c?utm_campaign=1067&utm_source=git)** | Illinois-Burr Ridge | On Site | Feb 11 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/67abcc5702c068d19c7f9e3d?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Feb 11 |
 | **[Veolia North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ab961237288ae93270340b?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 11 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship – Summer 2025](https://jobright.ai/jobs/info/67ab5352a752a799a9fbaf0a?utm_campaign=1067&utm_source=git)** | Montpelier, VT | On Site | Feb 11 |
-| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/679c84a914877d154d3eb48a?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
