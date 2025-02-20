@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67b6a4bd9ed2919bb0cdc62c?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Feb 19 |
+| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Summer 2025- CIPHER](https://jobright.ai/jobs/info/67b678983e92d395cfdbbb3a?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Feb 19 |
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67b67018a0bea90d22f6a07d?utm_campaign=1067&utm_source=git)** | Ridgefield Park, NJ | On Site | Feb 19 |
 | **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[General Business Internship](https://jobright.ai/jobs/info/67b65ede4eb13486c6ac3d56?utm_campaign=1067&utm_source=git)** | Shelby Township, MI | On Site | Feb 19 |
 | **[Virginia Department of Transportation](https://www.mrc.virginia.gov/)** | **[Business Intern Wage](https://jobright.ai/jobs/info/67b655e0e11aa749fd830747?utm_campaign=1067&utm_source=git)** | Staunton, VA | On Site | Feb 19 |
@@ -84,11 +86,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2ba?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Feb 17 |
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3e740bb052923fea1cea6?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d097?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 17 |
-| **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee16?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Feb 17 |
-| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed31?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Feb 17 |
-| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee15?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Feb 17 |
-| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee17?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Feb 17 |
+| **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee15?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Feb 17 |
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee18?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed31?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Feb 17 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee16?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Feb 17 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee17?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Feb 17 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/67b3b52a3a7d5c2a2257b912?utm_campaign=1067&utm_source=git)** | 1900 North Akard Street, Dallas, TX, 75201, US | On Site | Feb 17 |
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2025)](https://jobright.ai/jobs/info/67b3a571c9087e9b19eaef84?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Feb 17 |
 | **[Panduit](http://www.panduit.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67b371bf8b8886ce07addd01?utm_campaign=1067&utm_source=git)** | USA IL Tinley Park WHQ | On Site | Feb 17 |
@@ -105,17 +107,14 @@ For a complete list, click the following sortable link below:
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6792edafa625bd2a411646d0?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Feb 15 |
 | **[Michels Corporation](http://www.michels.us)** | **[Internship: Business Related Degree](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470672?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Feb 15 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d0bf?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 15 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a48b?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 15 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265082?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Feb 15 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/67ad9720f8f96d006c7021b1?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Feb 15 |
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/679361404693ba42d17488bc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Feb 15 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/6799ba42cfaf0dce3be3b40b?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Feb 15 |
-| **[Wärtsilä](http://www.wartsila.com/)** | **[Project Development, Summer Intern, Energy Business](https://jobright.ai/jobs/info/6794376c3960e09a52aade77?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 15 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[IT BUSINESS ANALYST INTERN](https://jobright.ai/jobs/info/67b0354a1bbea9132f88cd30?utm_campaign=1067&utm_source=git)** | Riverside, CA | Hybrid | Feb 14 |
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/6787aa2f547cc419145a93f4?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Feb 14 |
 | **[Waldom Electronics](http://www.waldom.com/)** | **[Internship - Business Analyst/Data Management](https://jobright.ai/jobs/info/67afe1cf93fa8460f5503d72?utm_campaign=1067&utm_source=git)** | Rockford, IL | On Site | Feb 14 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be9b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Feb 14 |
-| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6787b403a9e01bb767156d33?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Feb 14 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6787b403a9e01bb767156d33?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Feb 14 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Dallas, TX](https://jobright.ai/jobs/info/67b175fbc94a07a775c949f4?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Feb 13 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2025 Intern, Business Management](https://jobright.ai/jobs/info/67ae9e262ce42405f8bb70d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae8965daf9fb9eb02ce950?utm_campaign=1067&utm_source=git)** | Spokane Valley, WA | Hybrid | Feb 13 |
@@ -124,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6218653aa864e7bd41b5?utm_campaign=1067&utm_source=git)** | Spokane, WA | Hybrid | Feb 13 |
 | ↳ | **[2025 Performance Analyst Intern](https://jobright.ai/jobs/info/67ae6456653aa864e7bd4b53?utm_campaign=1067&utm_source=git)** | Remote, WA | Hybrid | Feb 13 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Intern](https://jobright.ai/jobs/info/67ae35241a062bde5e47e02c?utm_campaign=1067&utm_source=git)** | Piscataway, NJ | Hybrid | Feb 13 |
-| **[Genworth](https://www.genworth.com)** | **[Enterprise Business Intern](https://jobright.ai/jobs/info/67ad91e66f9d660db4db1fd9?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
