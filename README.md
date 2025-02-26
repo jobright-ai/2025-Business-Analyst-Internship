@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[Global Business Services (GBS) - Summer Internship](https://jobright.ai/jobs/info/67be6f66a26f73013ec7ad91?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Feb 25 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2025 Business Analytics Sophomore Summer Internship](https://jobright.ai/jobs/info/67bcfceabdd28c9aa10c0818?utm_campaign=1067&utm_source=git)** | New York, New York, United States | On Site | Feb 25 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67be39939a4703b92b37ced2?utm_campaign=1067&utm_source=git)** | Alexandria, VA | Hybrid | Feb 25 |
 | **[TBWA\WORLDHEALTH](http://tbwaworldhealth.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/67be20bcf842c4911604f547?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[Omnicom Health Group](http://www.omnicomhealthgroup.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/67be17fbcc090b67517b8183?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67bcd5fb6e2c6b8884128fcd?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Feb 24 |
 | **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Business Analyst Intern (Regulatory Support)](https://jobright.ai/jobs/info/67bbdf3487ec5ea1a080b15e?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Feb 23 |
 | ↳ | **[Business Analyst Intern (Market Transparency)](https://jobright.ai/jobs/info/67bbef66bc53f845a05cacbc?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Feb 23 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst Intern – IT Applications & Enterprise Architecture](https://jobright.ai/jobs/info/67be826dcd3c190d81e7ec5a?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Feb 22 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2025 Fixed Income, Sophomore Externship Program (Technology Solutions Group)](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad417d?utm_campaign=1067&utm_source=git)** | Newark, NJ | On Site | Feb 22 |
 | **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[2025 Summer Intern Program: ERP Business Analyst Intern](https://jobright.ai/jobs/info/67a8382eac67ff7fc0991b16?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Feb 22 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67ab181205c21060d4d28d27?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
@@ -116,5 +119,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b744931514ab9b323b3f05?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 19 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b744931514ab9b323b3f0b?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Feb 19 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Transformation](https://jobright.ai/jobs/info/67994c5cdc826c541de68e83?utm_campaign=1067&utm_source=git)** | NYC Metro Area | Hybrid | Feb 19 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66c5464ab8ec8eecf48177c4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
