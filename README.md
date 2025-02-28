@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN - Business Analyst](https://jobright.ai/jobs/info/67c0c9aca444cab7c347fa78?utm_campaign=1067&utm_source=git)** | USA - Remote FL | Remote | Feb 27 |
+| **[PERMA-PIPE](http://www.permapipe.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1163b17a5533769f8ceaf?utm_campaign=1067&utm_source=git)** | Spring, TX | On Site | Feb 27 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN - Business Analyst](https://jobright.ai/jobs/info/67c121ea2b065c6cde8209ca?utm_campaign=1067&utm_source=git)** | Tallahassee, FL | On Site | Feb 27 |
+| ↳ | **[INTERN - Business Analyst](https://jobright.ai/jobs/info/67c121ea2b065c6cde8209d7?utm_campaign=1067&utm_source=git)** | Coral Gables, FL | On Site | Feb 27 |
 | ↳ | **[INTERN - Business Analyst](https://jobright.ai/jobs/info/67c0c9aca444cab7c347f905?utm_campaign=1067&utm_source=git)** | USA - Coral Gables FL HQ | On Site | Feb 27 |
+| ↳ | **[INTERN - Business Analyst](https://jobright.ai/jobs/info/67c0c9aca444cab7c347fa78?utm_campaign=1067&utm_source=git)** | USA - Remote FL | Remote | Feb 27 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c0bc00df4be2782abc126e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Feb 27 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - IT Business Intelligence and Analytics](https://jobright.ai/jobs/info/67c08083a8d2544a972b7cdd?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Feb 27 |
 | ↳ | **[2025 Summer Internship - Transportation Business Analytics](https://jobright.ai/jobs/info/67c08083a8d2544a972b7cbf?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Feb 27 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67bcc5fcb1135114e50b12b6?utm_campaign=1067&utm_source=git)** | US FL JAX 347 | On Site | Feb 24 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd362?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Feb 24 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd44b?utm_campaign=1067&utm_source=git)** | CA-WOODLAND HILLS, 21215 BURBANK BLVD | Hybrid | Feb 24 |
-| ↳ | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd96f?utm_campaign=1067&utm_source=git)** | CA-WALNUT CREEK, 2121 N CALIFORNIA BLVD, 7TH FL | Hybrid | Feb 24 |
 | ↳ | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd970?utm_campaign=1067&utm_source=git)** | CA-SACRAMENTO, 1121 L ST,STE 500 | Hybrid | Feb 24 |
+| ↳ | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd96f?utm_campaign=1067&utm_source=git)** | CA-WALNUT CREEK, 2121 N CALIFORNIA BLVD, 7TH FL | Hybrid | Feb 24 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67bcd5fb6e2c6b8884128fcd?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Feb 24 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst Intern – IT Applications & Enterprise Architecture](https://jobright.ai/jobs/info/67be826dcd3c190d81e7ec5a?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Feb 22 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2025 Fixed Income, Sophomore Externship Program (Technology Solutions Group)](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad417d?utm_campaign=1067&utm_source=git)** | Newark, NJ | On Site | Feb 22 |
@@ -108,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[The Johns Hopkins University Applied Physics Laboratory](http://jhuapl.edu/)** | **[2025 Internship-Business Operations Analyst](https://jobright.ai/jobs/info/67b9ab05a48b4bcbbd59596d?utm_campaign=1067&utm_source=git)** | Laurel, MD | On Site | Feb 21 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/67b8c00c687db2ae171d06ec?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
 | **[Virginia Department of Transportation](https://www.mrc.virginia.gov/)** | **[Business Intern](https://jobright.ai/jobs/info/67b8a466361c38690de7243a?utm_campaign=1067&utm_source=git)** | Colonial Heights, VA | On Site | Feb 21 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/67b8790f2759cde4d48ca38f?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
