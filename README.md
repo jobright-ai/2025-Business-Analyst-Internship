@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WhiteWater](http://whitewatermidstream.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/67a64f6c6981f27919ff448d?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Mar 01 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d38966?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 28 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern - Summer 2025](https://jobright.ai/jobs/info/67c286f24652d6f121b27e94?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Feb 28 |
 | ↳ | **[Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f0937?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Feb 28 |
@@ -66,13 +67,14 @@ For a complete list, click the following sortable link below:
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c25a5ad2661494a617d16b?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Feb 28 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/67c23f4ae525c3192c86f9e2?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Feb 28 |
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/67c253108843b056d4f59ac6?utm_campaign=1067&utm_source=git)** | Florida, United States | On Site | Feb 28 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c205a3f269898f16b66cae?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/679ca91a8ed22f6f83998e8e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c2079eb104cdd88ed16d53?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e0ef?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782db3?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e132?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Feb 28 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 28 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1d41937715dbb91503022?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1d41937715dbb9150303f?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f1?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
+| ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f0?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Feb 28 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 28 |
@@ -81,13 +83,12 @@ For a complete list, click the following sortable link below:
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Global Business Services (GBS) - Summer Internship](https://jobright.ai/jobs/info/67be6f66a26f73013ec7ad91?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Feb 27 |
 | **[Hayes Performance Systems](https://hayesperformance.com)** | **[NPD Product Launch Support Intern](https://jobright.ai/jobs/info/67c2762be563ea97228867b4?utm_campaign=1067&utm_source=git)** | Mequon, WI | On Site | Feb 27 |
 | **[PERMA-PIPE](http://www.permapipe.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1163b17a5533769f8ceaf?utm_campaign=1067&utm_source=git)** | Spring, TX | On Site | Feb 27 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN - Business Analyst](https://jobright.ai/jobs/info/67c0c9aca444cab7c347f905?utm_campaign=1067&utm_source=git)** | USA - Coral Gables FL HQ | On Site | Feb 27 |
-| ↳ | **[INTERN - Business Analyst](https://jobright.ai/jobs/info/67c0c9aca444cab7c347fa78?utm_campaign=1067&utm_source=git)** | USA - Remote FL | Remote | Feb 27 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN - Business Analyst](https://jobright.ai/jobs/info/67c0c9aca444cab7c347fa78?utm_campaign=1067&utm_source=git)** | USA - Remote FL | Remote | Feb 27 |
+| ↳ | **[INTERN - Business Analyst](https://jobright.ai/jobs/info/67c0c9aca444cab7c347f905?utm_campaign=1067&utm_source=git)** | USA - Coral Gables FL HQ | On Site | Feb 27 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c0bc00df4be2782abc126e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Feb 27 |
 | **[Insight](https://www.insight.com)** | **[Intern](https://jobright.ai/jobs/info/67a587d3270ab6e91489a684?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Feb 27 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Business Analyst Intern- Summer Internship Program](https://jobright.ai/jobs/info/67c17c3d58704ba42713eabd?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 26 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Business Systems Analyst Internship (Summer 2025)](https://jobright.ai/jobs/info/67c0037173d5d61c4c6183c7?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 26 |
-| **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/67847c64df07279b7ce8d7bf?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Feb 26 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 26 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2de0fd8e4696d40bb61a6?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Feb 26 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Corporate Information Services Intern - Summer 2025](https://jobright.ai/jobs/info/67bf416da5533fa1926e0bf1?utm_campaign=1067&utm_source=git)** | Wellesley Hills, Massachusetts | Hybrid | Feb 26 |
@@ -109,13 +110,13 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bd294c9388209b9876a484?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 24 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern- Health Operations Support and Stabilization](https://jobright.ai/jobs/info/67bcfcbbd7a7d3eef0f9c296?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Mercury Marine: Business Analyst & Strategy Intern](https://jobright.ai/jobs/info/67bd1c783aa22d4c1a40b48f?utm_campaign=1067&utm_source=git)** | Fond du Lac, WI | Hybrid | Feb 24 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/67bcf3ad1df4a1dd45f81561?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Feb 24 |
-| ↳ | **[Business Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/67bcf3ad1df4a1dd45f81716?utm_campaign=1067&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Feb 24 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/67bcf3ad1df4a1dd45f81716?utm_campaign=1067&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Feb 24 |
+| ↳ | **[Business Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/67bcf3ad1df4a1dd45f81561?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Feb 24 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67bceab3ec00acf300414d7b?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Feb 24 |
 | ↳ | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67bcc5fcb1135114e50b12b6?utm_campaign=1067&utm_source=git)** | US FL JAX 347 | On Site | Feb 24 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd362?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Feb 24 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd96f?utm_campaign=1067&utm_source=git)** | CA-WALNUT CREEK, 2121 N CALIFORNIA BLVD, 7TH FL | Hybrid | Feb 24 |
-| ↳ | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd970?utm_campaign=1067&utm_source=git)** | CA-SACRAMENTO, 1121 L ST,STE 500 | Hybrid | Feb 24 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd970?utm_campaign=1067&utm_source=git)** | CA-SACRAMENTO, 1121 L ST,STE 500 | Hybrid | Feb 24 |
 | ↳ | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd44b?utm_campaign=1067&utm_source=git)** | CA-WOODLAND HILLS, 21215 BURBANK BLVD | Hybrid | Feb 24 |
+| ↳ | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bcbeff85a11b46c41fd96f?utm_campaign=1067&utm_source=git)** | CA-WALNUT CREEK, 2121 N CALIFORNIA BLVD, 7TH FL | Hybrid | Feb 24 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67bcd5fb6e2c6b8884128fcd?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
