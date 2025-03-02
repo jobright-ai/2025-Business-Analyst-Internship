@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782db3?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e132?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Feb 28 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 28 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f1?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
-| ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f0?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1d41937715dbb91503022?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1d41937715dbb9150303f?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Feb 28 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 28 |
