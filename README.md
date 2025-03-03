@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Business Analyst Internship](https://jobright.ai/jobs/info/67c4d900432bbd41c007edfd?utm_campaign=1067&utm_source=git)** | Rogers, AR | On Site | Mar 02 |
+| **[Centric Brands](https://centricbrands.com)** | **[Business Operations Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/674528c6918491d68dc15d82?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Hybrid | Mar 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/67b9bd03db9b02f63f7deb7d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Mar 02 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Mar 02 |
 | **[PERMA-PIPE](http://www.permapipe.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1163b17a5533769f8ceaf?utm_campaign=1067&utm_source=git)** | Spring, TX | On Site | Mar 01 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/67c23f4ae525c3192c86f9e2?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Feb 28 |
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/67c253108843b056d4f59ac6?utm_campaign=1067&utm_source=git)** | Florida, United States | On Site | Feb 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/679ca91a8ed22f6f83998e8e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c2079eb104cdd88ed16d53?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c205a3f269898f16b66cae?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e0ef?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782db3?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e132?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Feb 28 |
@@ -106,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Spot Freight](https://spotinc.com)** | **[Business Reporting Internship (Summer 2025)](https://jobright.ai/jobs/info/67a1195ac321d88ba3f25ba1?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 25 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab44?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | On Site | Feb 25 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67b94d0dc7f8cdc3a1fdce96?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 25 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Manufacturing Business Analyst Intern - Master's](https://jobright.ai/jobs/info/67bcd1ecc97f9b6e7ffdd422?utm_campaign=1067&utm_source=git)** | Newark, DE | On Site | Feb 25 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/67bd67c033977c9d9526187e?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Feb 24 |
 | **[MetLife](http://www.metlife.com)** | **[MTU 2025 Summer Internship - Analytics Track](https://jobright.ai/jobs/info/67bd4dd936cd980e4e04cade?utm_campaign=1067&utm_source=git)** | Cary, NC | Hybrid | Feb 24 |
 | **[Virginia Department of Transportation](https://www.mrc.virginia.gov/)** | **[Business Intern Wage](https://jobright.ai/jobs/info/67bd40b08ebced36c34e05cd?utm_campaign=1067&utm_source=git)** | Staunton, VA | On Site | Feb 24 |
@@ -114,9 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Internship – Summer 2025](https://jobright.ai/jobs/info/67bd294c9388209b9876a484?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 24 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern- Health Operations Support and Stabilization](https://jobright.ai/jobs/info/67bcfcbbd7a7d3eef0f9c296?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Mercury Marine: Business Analyst & Strategy Intern](https://jobright.ai/jobs/info/67bd1c783aa22d4c1a40b48f?utm_campaign=1067&utm_source=git)** | Fond du Lac, WI | Hybrid | Feb 24 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/67bcf3ad1df4a1dd45f81716?utm_campaign=1067&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Feb 24 |
-| ↳ | **[Business Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/67bcf3ad1df4a1dd45f81561?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Feb 24 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67bceab3ec00acf300414d7b?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Feb 24 |
-| ↳ | **[Intern, Business Analyst, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67bcc5fcb1135114e50b12b6?utm_campaign=1067&utm_source=git)** | US FL JAX 347 | On Site | Feb 24 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Demand Planning Business Analyst Intern - Master's](https://jobright.ai/jobs/info/67bcd1ecc97f9b6e7ffdd422?utm_campaign=1067&utm_source=git)** | Newark, DE | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
