@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Yonder](https://blueyonder.com)** | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c78cf14583327c3c780ad6?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Mar 04 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c7882dbdd23b04662b860f?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Mar 04 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern](https://jobright.ai/jobs/info/67c7426790d3321d10cfbe76?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst and Process Improvement Intern](https://jobright.ai/jobs/info/67c6ecfed1fe1e9fd328dee5?utm_campaign=1067&utm_source=git)** | Norfolk, VA | Hybrid | Mar 04 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67aac5ac2b67442207865055?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 04 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst Intern – IT Financial Solutions](https://jobright.ai/jobs/info/67c6dca44cbd06aae8791519?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Mar 04 |
 | **[University of Utah](http://utah.edu)** | **[Business Process Internship](https://jobright.ai/jobs/info/67c65d2170bbe61413f61990?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Mar 03 |
 | **[Charles River Development](https://www.crd.com)** | **[Business Analyst Internship, CRD, Charles River Devlopment](https://jobright.ai/jobs/info/67b74d6a5ff75a6491b5cf04?utm_campaign=1067&utm_source=git)** | Burlington, MA | On Site | Mar 03 |
 | **[Workday](http://www.workday.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c6154f477f9e31726f89bd?utm_campaign=1067&utm_source=git)** | USA, CA, Pleasanton | On Site | Mar 03 |
@@ -79,11 +80,11 @@ For a complete list, click the following sortable link below:
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern - Summer 2025](https://jobright.ai/jobs/info/67c286f24652d6f121b27e94?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Feb 28 |
 | ↳ | **[Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f0937?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Feb 28 |
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/67c24df5109ea0a145c4b663?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 28 |
-| **[Ticketmaster](https://www.ticketmaster.com)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f595b8?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f595b6?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
+| **[Ticketmaster](https://www.ticketmaster.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f595b6?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
+| ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f595b8?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c25a5ad2661494a617d16b?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Feb 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/679ca91a8ed22f6f83998e8e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c2079eb104cdd88ed16d53?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c205a3f269898f16b66cae?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e0ef?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782db3?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e132?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Feb 28 |
