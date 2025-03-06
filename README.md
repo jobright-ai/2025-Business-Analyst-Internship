@@ -58,10 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Intern](https://jobright.ai/jobs/info/6787b9dfdf1de9a8e2f29a40?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Mar 05 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - Business (Summer 2025)](https://jobright.ai/jobs/info/67c8478a4bca6ec42983678e?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Mar 05 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c7d71c5d024baa63d83943?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
+| ↳ | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c78cf14583327c3c780938?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Mar 04 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 04 |
-| **[Blue Yonder](https://blueyonder.com)** | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c78cf14583327c3c780ad6?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Mar 04 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern - Orlando](https://jobright.ai/jobs/info/67c7984f0eef9c4103c7745b?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Mar 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst and Process Improvement Intern](https://jobright.ai/jobs/info/67c6ecfed1fe1e9fd328dee5?utm_campaign=1067&utm_source=git)** | Norfolk, VA | Hybrid | Mar 04 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67aac5ac2b67442207865055?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 04 |
@@ -91,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782db3?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e132?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Feb 28 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 28 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f0?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f1?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f1?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
+| ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f0?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Feb 28 |
 | **[Oracle](https://www.oracle.com/)** | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 28 |
@@ -103,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Global Business Services (GBS) - Summer Internship](https://jobright.ai/jobs/info/67be6f66a26f73013ec7ad91?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Feb 27 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c0bc00df4be2782abc126e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Feb 27 |
 | **[Insight](https://www.insight.com)** | **[Intern](https://jobright.ai/jobs/info/67a587d3270ab6e91489a684?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Feb 27 |
-| **[HealthEdge](http://www.healthedge.com)** | **[Business Analyst Intern- Summer Internship Program](https://jobright.ai/jobs/info/67c17c3d58704ba42713eabd?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
