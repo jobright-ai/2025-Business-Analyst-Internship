@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67c90d299b0f426d5ca32784?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Mar 05 |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Intern](https://jobright.ai/jobs/info/6787b9dfdf1de9a8e2f29a40?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Mar 05 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c7d71c5d024baa63d83943?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
 | ↳ | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c78cf14583327c3c780938?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Mar 04 |
@@ -78,11 +79,10 @@ For a complete list, click the following sortable link below:
 | **[WhiteWater](http://whitewatermidstream.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/67a64f6c6981f27919ff448d?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Mar 01 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d38966?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 28 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern - Summer 2025](https://jobright.ai/jobs/info/67c286f24652d6f121b27e94?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Feb 28 |
-| ↳ | **[Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f0937?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Feb 28 |
 | **[Texas Instruments](http://www.ti.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/67c24df5109ea0a145c4b663?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Feb 28 |
-| **[Ticketmaster](https://www.ticketmaster.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f595b6?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
-| ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f595b8?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
+| **[Ticketmaster](https://www.ticketmaster.com)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f595b8?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f595b6?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c25a5ad2661494a617d16b?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Feb 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/679ca91a8ed22f6f83998e8e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c205a3f269898f16b66cae?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
@@ -90,7 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782db3?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | Remote | Feb 28 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e132?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Feb 28 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 28 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f1?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1d41937715dbb9150303f?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
 | ↳ | **[Business Insights Intern](https://jobright.ai/jobs/info/67c1d41937715dbb915030f0?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA, USA | On Site | Feb 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Feb 28 |
