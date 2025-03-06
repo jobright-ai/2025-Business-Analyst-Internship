@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9952e1e7628564cd1d3e2?utm_campaign=1067&utm_source=git)** | Greater St. George Area | Hybrid | Mar 06 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c941ae9af61546cb27073e?utm_campaign=1067&utm_source=git)** | 625 State St, Schenectady, NY 12305, USA | On Site | Mar 05 |
 | ↳ | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c941ae9af61546cb270897?utm_campaign=1067&utm_source=git)** | 220 Alexander St, Rochester, NY 14607, USA | On Site | Mar 05 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Business Technology Solutions Externship](https://jobright.ai/jobs/info/67c92acf8ad81b9bcd3b2c60?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Mar 05 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67c91e5e6f9b98dd61f91157?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Intern](https://jobright.ai/jobs/info/6787b9dfdf1de9a8e2f29a40?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Mar 05 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c7d71c5d024baa63d83943?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
-| ↳ | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c78cf14583327c3c780938?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Mar 04 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 04 |
+| **[Blue Yonder](https://blueyonder.com)** | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c78cf14583327c3c780ad6?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Mar 04 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern - Orlando](https://jobright.ai/jobs/info/67c7984f0eef9c4103c7745b?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Mar 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst and Process Improvement Intern](https://jobright.ai/jobs/info/67c6ecfed1fe1e9fd328dee5?utm_campaign=1067&utm_source=git)** | Norfolk, VA | Hybrid | Mar 04 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Solutions Intern Summer 2025](https://jobright.ai/jobs/info/67aac5ac2b67442207865055?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 04 |
@@ -85,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Feb 28 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c25a5ad2661494a617d16b?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Feb 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/679ca91a8ed22f6f83998e8e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c205a3f269898f16b66cae?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c2079eb104cdd88ed16d53?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e132?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Feb 28 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 28 |
