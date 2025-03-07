@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Justrite Safety Group](https://www.justrite.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ca51d6c92c5898cb455921?utm_campaign=1067&utm_source=git)** | Deerfield, IL | On Site | Mar 06 |
+| **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f25aa?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 06 |
+| **[Graphic Packaging International, LLC](http://www.graphicpkg.com)** | **[Foodservice - Business Analyst Intern](https://jobright.ai/jobs/info/67ca3a39db83bd488767ab9e?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Mar 06 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025](https://jobright.ai/jobs/info/67ca235e81318318d4c41b10?utm_campaign=1067&utm_source=git)** | Miami, FL | Hybrid | Mar 06 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67c9c125893dc17e5b9a9af8?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Mar 06 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c9b8af70c520397213c28d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Mar 06 |
@@ -88,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Feb 28 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c25a5ad2661494a617d16b?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Feb 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/679ca91a8ed22f6f83998e8e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c2079eb104cdd88ed16d53?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c205a3f269898f16b66cae?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e132?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Feb 28 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 28 |
