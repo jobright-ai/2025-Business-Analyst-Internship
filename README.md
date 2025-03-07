@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clear Channel Outdoor](http://clearchanneloutdoor.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/67ca8197961d2eca7addd4f0?utm_campaign=1067&utm_source=git)** | New York, NY ( 200 Park Avenue) | On Site | Mar 06 |
+| **[MetLife](http://www.metlife.com)** | **[INROADS Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67ca82ad41bb9117c130fe37?utm_campaign=1067&utm_source=git)** | Whippany, NJ | Hybrid | Mar 06 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ca51d6c92c5898cb455921?utm_campaign=1067&utm_source=git)** | Deerfield, IL | On Site | Mar 06 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f25aa?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 06 |
 | **[Graphic Packaging International, LLC](http://www.graphicpkg.com)** | **[Foodservice - Business Analyst Intern](https://jobright.ai/jobs/info/67ca3a39db83bd488767ab9e?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Mar 06 |
@@ -71,10 +73,11 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern](https://jobright.ai/jobs/info/67ac544ba324caed2dd5bb4e?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Mar 05 |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Intern](https://jobright.ai/jobs/info/6787b9dfdf1de9a8e2f29a40?utm_campaign=1067&utm_source=git)** | Rosemont, IL | On Site | Mar 05 |
 | **[Blue Yonder](https://blueyonder.com)** | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c7d71c5d024baa63d83943?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
-| ↳ | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c78cf14583327c3c780938?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Mar 04 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 04 |
+| **[Blue Yonder](https://blueyonder.com)** | **[Mobility and Automation (Edge) Business Operations Intern](https://jobright.ai/jobs/info/67c78cf14583327c3c780ad6?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Mar 04 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern - Orlando](https://jobright.ai/jobs/info/67c7984f0eef9c4103c7745b?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Mar 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst and Process Improvement Intern](https://jobright.ai/jobs/info/67c6ecfed1fe1e9fd328dee5?utm_campaign=1067&utm_source=git)** | Norfolk, VA | Hybrid | Mar 04 |
+| **[University of Utah](http://utah.edu)** | **[Business Process Internship](https://jobright.ai/jobs/info/67cab9d02053f45efeee462c?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Mar 03 |
 | **[Charles River Development](https://www.crd.com)** | **[Business Analyst Internship, CRD, Charles River Devlopment](https://jobright.ai/jobs/info/67b74d6a5ff75a6491b5cf04?utm_campaign=1067&utm_source=git)** | Burlington, MA | On Site | Mar 03 |
 | **[Workday](http://www.workday.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c6154f477f9e31726f89bd?utm_campaign=1067&utm_source=git)** | USA, CA, Pleasanton | On Site | Mar 03 |
 | **[Common Energy](https://commonenergy.us)** | **[Business Analyst Intern, Operations](https://jobright.ai/jobs/info/67c61c8f328a4d207666f6ee?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
@@ -91,11 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/66ff456623434520d320da4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Feb 28 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c25a5ad2661494a617d16b?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Hybrid | Feb 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/679ca91a8ed22f6f83998e8e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Analyst Intern (Intern Program)](https://jobright.ai/jobs/info/67c205a3f269898f16b66cae?utm_campaign=1067&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Feb 28 |
-| **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e132?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Feb 28 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Feb 28 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 28 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3e?utm_campaign=1067&utm_source=git)** | Franklin, TN | On Site | Feb 28 |
-| **[Oracle](https://www.oracle.com/)** | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f80699a?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 28 |
-| ↳ | **[NAA Business Analyst Intern](https://jobright.ai/jobs/info/67a5287c315d3aa71f8068ed?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
