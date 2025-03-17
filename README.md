@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[KBR, Inc.](https://www.kbr.com)** | **[General Business Intern](https://jobright.ai/jobs/info/67d3191466489a1f9a8651ff?utm_campaign=1067&utm_source=git)** | Huntsville, AL | Hybrid | Mar 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Business Management Intern - R10189395](https://jobright.ai/jobs/info/67d5d97fb134bb36e19c4454?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Mar 15 |
 | **[Encompass Health](http://encompasshealth.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67d55b87c73c0b58711cd23d?utm_campaign=1067&utm_source=git)** | Land O' Lakes, FL | On Site | Mar 15 |
+| **[Nexteer Automotive](http://www.nexteer.com/)** | **[2025 Business Summer Internship](https://jobright.ai/jobs/info/67b780b1cf396e9cd15a5f12?utm_campaign=1067&utm_source=git)** | Saginaw, MI | Hybrid | Mar 15 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4b28b89530ed00f088487?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 14 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Co-op/Internship) -  10 Weeks](https://jobright.ai/jobs/info/67d4a05727829136f2c07f2a?utm_campaign=1067&utm_source=git)** | Chicago Heights, IL, USA | On Site | Mar 14 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4a05727829136f2c07f6a?utm_campaign=1067&utm_source=git)** | Chicago (Green St), IL | Hybrid | Mar 14 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Production Resource Group](https://www.prg.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d2426b09672079535506cc?utm_campaign=1067&utm_source=git)** | Secaucus, NJ | On Site | Mar 12 |
 | **[SIG SAUER, Inc.](http://www.sigsauer.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67d20b9b5bb230b0d8b7a76b?utm_campaign=1067&utm_source=git)** | Portsmouth, NH | On Site | Mar 12 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Business Planning](https://jobright.ai/jobs/info/67d20365ed8612ba28555b4c?utm_campaign=1067&utm_source=git)** | Waltham, MA | Hybrid | Mar 12 |
-| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f79e5?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Mar 12 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f7a13?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Mar 12 |
+| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f7a13?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Mar 12 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f79e5?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Mar 12 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern-Enterprise Operations Business Analyst](https://jobright.ai/jobs/info/67d1d307d2da74592cd70ad1?utm_campaign=1067&utm_source=git)** | Midvale, UT | Hybrid | Mar 12 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67ad796906c1d906714c8fee?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Mar 12 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Mar 12 |
@@ -96,13 +97,13 @@ For a complete list, click the following sortable link below:
 | **[AMH](https://www.americanhomes4rent.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67d0f1406bfdba1592bccfb3?utm_campaign=1067&utm_source=git)** | Calabasas, CA | On Site | Mar 11 |
 | ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67d0ee72f0349e956dc026e9?utm_campaign=1067&utm_source=git)** | 280 Pilot Road, Suite 200, Las Vegas, NV, 89119, US | On Site | Mar 11 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/67d0f6c6ae26839f8767e024?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Mar 11 |
-| ↳ | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/67d0c5de103786c744eed2e7?utm_campaign=1067&utm_source=git)** | USA - Miami FL 33178 | On Site | Mar 11 |
 | ↳ | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/67d0c5de103786c744eed25c?utm_campaign=1067&utm_source=git)** | USA - Remote FL | Remote | Mar 11 |
+| ↳ | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/67d0c5de103786c744eed2e7?utm_campaign=1067&utm_source=git)** | USA - Miami FL 33178 | On Site | Mar 11 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst and Project Management Intern](https://jobright.ai/jobs/info/67d0bc572a8ddc0111e88bb9?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Mar 11 |
 | **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0b789f666eefb3bb7d112?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Mar 11 |
 | **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3e740bb052923fea1cea6?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 11 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/67d098ade1aeb46cb26a6f01?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Mar 11 |
-| **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0873883c6e8360815d9a7?utm_campaign=1067&utm_source=git)** | SAN JOSE | Hybrid | Mar 11 |
+| **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0864b83c6e8360815d2a7?utm_campaign=1067&utm_source=git)** | SAN JOSE | Hybrid | Mar 11 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/67d04ac6bd3775d95d43f487?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Mar 11 |
 | **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2b7?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Mar 11 |
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2ba?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Mar 11 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[CSL](https://www.csl.com)** | **[2025 Summer Strategic Analytics Internship](https://jobright.ai/jobs/info/67cf7342e6cf3ddfa5d58f78?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 10 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern (Information Technology)](https://jobright.ai/jobs/info/67cf71839c61419ac7e5045b?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[CSL](https://www.csl.com)** | **[2025 Summer Strategic Analytics Internship](https://jobright.ai/jobs/info/67cf5a36ad5d63daceb5d547?utm_campaign=1067&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Mar 10 |
-| **[Gallagher Re](https://www.capsicumre.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67d7ea872dae1cde95b3c8e5?utm_campaign=1067&utm_source=git)** | Rolling Meadows, Illinois | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
