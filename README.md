@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/67d6f73d992ee1320fee6f50?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 16 |
+| **[KBR, Inc.](https://www.kbr.com)** | **[General Business Intern](https://jobright.ai/jobs/info/67d3191466489a1f9a8651ff?utm_campaign=1067&utm_source=git)** | Huntsville, AL | Hybrid | Mar 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Business Management Intern - R10189395](https://jobright.ai/jobs/info/67d5d97fb134bb36e19c4454?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Mar 15 |
 | **[Encompass Health](http://encompasshealth.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67d55b87c73c0b58711cd23d?utm_campaign=1067&utm_source=git)** | Land O' Lakes, FL | On Site | Mar 15 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4b28b89530ed00f088487?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 14 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[StockX](https://stockx.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/67d362043520244d3a6c771c?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Mar 13 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Summer 2025- CIPHER](https://jobright.ai/jobs/info/67b678983e92d395cfdbbb3a?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 13 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b744931514ab9b323b3f0b?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Mar 13 |
-| **[KBR, Inc.](https://www.kbr.com)** | **[General Business Intern](https://jobright.ai/jobs/info/67d3191466489a1f9a8651ff?utm_campaign=1067&utm_source=git)** | Huntsville, AL | Hybrid | Mar 13 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/66cfbcf6a0c8f2a15b9e0e13?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Mar 13 |
 | **[Leslie's](https://lesliespool.com/)** | **[2025 Summer Internship - Logistics - Business Analyst](https://jobright.ai/jobs/info/67b6dc011ce8399b4f3285dc?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management](https://jobright.ai/jobs/info/67d2b493ec1b85cc3ad59458?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Mar 13 |
@@ -84,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Business Planning](https://jobright.ai/jobs/info/67d20365ed8612ba28555b4c?utm_campaign=1067&utm_source=git)** | Waltham, MA | Hybrid | Mar 12 |
 | **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f79e5?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Mar 12 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f7a13?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Mar 12 |
-| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern-Enterprise Operations Business Analyst](https://jobright.ai/jobs/info/67d1d307d2da74592cd70aad?utm_campaign=1067&utm_source=git)** | Midvale, UT | Hybrid | Mar 12 |
+| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern-Enterprise Operations Business Analyst](https://jobright.ai/jobs/info/67d1d307d2da74592cd70ad1?utm_campaign=1067&utm_source=git)** | Midvale, UT | Hybrid | Mar 12 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67ad796906c1d906714c8fee?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Mar 12 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265086?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Mar 12 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d11c33b1e887400db5d9dd?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 11 |
@@ -102,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0b789f666eefb3bb7d112?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Mar 11 |
 | **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3e740bb052923fea1cea6?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 11 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/67d098ade1aeb46cb26a6f01?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Mar 11 |
-| **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0864b83c6e8360815d2a7?utm_campaign=1067&utm_source=git)** | SAN JOSE | Hybrid | Mar 11 |
+| **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0873883c6e8360815d9a7?utm_campaign=1067&utm_source=git)** | SAN JOSE | Hybrid | Mar 11 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/67d04ac6bd3775d95d43f487?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Mar 11 |
 | **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2b7?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Mar 11 |
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2ba?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Mar 11 |
@@ -114,9 +114,8 @@ For a complete list, click the following sortable link below:
 | **[CSL](https://www.csl.com)** | **[2025 Summer Strategic Analytics Internship](https://jobright.ai/jobs/info/67cf7342e6cf3ddfa5d58f78?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 10 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern (Information Technology)](https://jobright.ai/jobs/info/67cf71839c61419ac7e5045b?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[CSL](https://www.csl.com)** | **[2025 Summer Strategic Analytics Internship](https://jobright.ai/jobs/info/67cf5a36ad5d63daceb5d547?utm_campaign=1067&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Mar 10 |
-| **[Gallagher Re](https://www.capsicumre.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67d7075dc4f9c2eb7581a3ae?utm_campaign=1067&utm_source=git)** | Rolling Meadows, Illinois | On Site | Mar 10 |
+| **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/67cf57db818be5e006b25dc1?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 10 |
 | **[SIG SAUER, Inc.](http://www.sigsauer.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67cf19948318a93f4dc461eb?utm_campaign=1067&utm_source=git)** | Newington, NH | On Site | Mar 10 |
-| **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/67cf061657e2f3baed6c4085?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 10 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Mar 10 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) United States](https://jobright.ai/jobs/info/67ad9720f8f96d006c7021b1?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Mar 10 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265097?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Mar 10 |
