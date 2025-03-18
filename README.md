@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WEX](http://www.wexinc.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67d8c336c1f9640db557278b?utm_campaign=1067&utm_source=git)** | Maine, United States | On Site | Mar 17 |
 | **[Reveal Global Consulting ](https://www.revealgc.com)** | **[Business Intern](https://jobright.ai/jobs/info/67d8a41780d4e62497a42656?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Mar 17 |
 | **[Hasbro](https://investor.hasbro.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67d899a0738c70a05292410c?utm_campaign=1067&utm_source=git)** | Pawtucket, RI | On Site | Mar 17 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67d877bb4bba52be42e3c2fa?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Mar 17 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b742c21514ab9b323b3dca?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d2426b09672079535506cc?utm_campaign=1067&utm_source=git)** | Secaucus, NJ | On Site | Mar 12 |
 | **[SIG SAUER, Inc.](http://www.sigsauer.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67d20b9b5bb230b0d8b7a76b?utm_campaign=1067&utm_source=git)** | Portsmouth, NH | On Site | Mar 12 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Business Planning](https://jobright.ai/jobs/info/67d20365ed8612ba28555b4c?utm_campaign=1067&utm_source=git)** | Waltham, MA | Hybrid | Mar 12 |
 | **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f79e5?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Mar 12 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f7a13?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Mar 12 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern-Enterprise Operations Business Analyst](https://jobright.ai/jobs/info/67d1d307d2da74592cd70aad?utm_campaign=1067&utm_source=git)** | Midvale, UT | Hybrid | Mar 12 |
@@ -98,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst and Project Management Intern](https://jobright.ai/jobs/info/67d0bc572a8ddc0111e88bb9?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Mar 11 |
 | **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0b789f666eefb3bb7d112?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Mar 11 |
 | **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3e740bb052923fea1cea6?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 11 |
-| **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0873883c6e8360815d9a7?utm_campaign=1067&utm_source=git)** | SAN JOSE | Hybrid | Mar 11 |
+| **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0864b83c6e8360815d2a7?utm_campaign=1067&utm_source=git)** | SAN JOSE | Hybrid | Mar 11 |
 | **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2b7?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Mar 11 |
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2ba?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Mar 11 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d097?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 11 |
