@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst Intern – IT Financial Solutions](https://jobright.ai/jobs/info/67da4f6847a2e2e55daaae5c?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Mar 18 |
+| **[Terex Corporation](http://www.terex.com)** | **[Business Analyst Intern, Chattanooga c345](https://jobright.ai/jobs/info/67da4123d83bb5b298715feb?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | On Site | Mar 18 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Connectivity Solutions – Process Analyst Intern / Summer Internship 2025](https://jobright.ai/jobs/info/67da2fa15adb1f248978e9b1?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Mar 18 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[Business Analyst Intern, Salesforce](https://jobright.ai/jobs/info/67da1f5737118ce899db6d84?utm_campaign=1067&utm_source=git)** | Rochester, NY | On Site | Mar 18 |
 | ↳ | **[SalesForce Intern - Business Analysis and AI](https://jobright.ai/jobs/info/67da12487c27ce0112cc09a1?utm_campaign=1067&utm_source=git)** | US - NJ - Raritan | On Site | Mar 18 |
@@ -100,9 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b742c21514ab9b323b3dca?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Mar 13 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern-Enterprise Operations Business Analyst](https://jobright.ai/jobs/info/67d8fc85c8b7fb4cb780e5aa?utm_campaign=1067&utm_source=git)** | Midvale, UT | On Site | Mar 12 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d2426b09672079535506cc?utm_campaign=1067&utm_source=git)** | Secaucus, NJ | On Site | Mar 12 |
-| **[SIG SAUER, Inc.](http://www.sigsauer.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67d20b9b5bb230b0d8b7a76b?utm_campaign=1067&utm_source=git)** | Portsmouth, NH | On Site | Mar 12 |
+| **[SIG SAUER, Inc.](https://www.sigsauer.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67d20b9b5bb230b0d8b7a76b?utm_campaign=1067&utm_source=git)** | Portsmouth, NH | On Site | Mar 12 |
 | **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f7a13?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Mar 12 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d1f28d8fe0bb1f172f79e5?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Mar 12 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern-Enterprise Operations Business Analyst](https://jobright.ai/jobs/info/67d1d307d2da74592cd70aad?utm_campaign=1067&utm_source=git)** | Midvale, UT | Hybrid | Mar 12 |
-| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67ad796906c1d906714c8fee?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
