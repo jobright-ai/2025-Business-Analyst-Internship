@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fendi](http://www.fendi.com)** | **[Intern, Retail Business Analyst - New York, NY - Corporate Office](https://jobright.ai/jobs/info/67ddaf48ace53adbd4e40b7c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[Simmons Bank](https://www.simmonsbank.com/)** | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dd84fed3ecb31d30a935f5?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
+| ↳ | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dd84fed3ecb31d30a934e7?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Mar 21 |
+| ↳ | **[IT Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67dd7b0ca19485e1ef00d3f9?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Mar 21 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67dd142a6538bc079a8a429a?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Mar 20 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Business Data Analyst Apprentice](https://jobright.ai/jobs/info/67dcf48677df62f6f64afec5?utm_campaign=1067&utm_source=git)** | Lynchburg, VA | On Site | Mar 20 |
 | **[Smart Data Solutions](https://sdata.us/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67dcb507f1f9138f78cafb06?utm_campaign=1067&utm_source=git)** | Eagan, MN | Hybrid | Mar 20 |
@@ -66,14 +70,12 @@ For a complete list, click the following sortable link below:
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2de0fd8e4696d40bb61a6?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Mar 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Insight](https://www.insight.com)** | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/67da52ba28500b2140379d03?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Mar 20 |
-| **[Telcom Construction, LLC](http://www.telcomconstruction.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/67dd67fa46c9caf8479c22df?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
-| **[Communications Construction Group, LLC](https://ccgcatv.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/67dd16b8b07b689c302401b6?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
+| **[Communications Construction Group, LLC](https://ccgcatv.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/67ddb2d67c144123fbd75989?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67db195b827d2cd5cc21b28f?utm_campaign=1067&utm_source=git)** | Montvale, NJ | On Site | Mar 19 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab44?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | On Site | Mar 19 |
-| **[Precision Valley Communications, LLC](https://www.pvc2.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/67dd5c9531df39c0b5c81b81?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
-| **[Ervin Cable Construction LLC](http://www.ervincable.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/67dd16b8b07b689c30240170?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
-| **[Dycom Industries, Inc](http://www.dycomind.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/67dd16b8b07b689c3024016f?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
-| **[Ansco & Associates, LLC](http://www.anscollc.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/67dd67fa46c9caf8479c231a?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
+| **[Precision Valley Communications, LLC](https://www.pvc2.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/67ddb2d67c144123fbd75995?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
+| **[Ervin Cable Construction LLC](http://www.ervincable.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/67ddb2d67c144123fbd75b44?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
+| **[Dycom Industries, Inc](http://www.dycomind.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/67ddb2d67c144123fbd759a4?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Summer 2025 (Internship) - 14 weeks](https://jobright.ai/jobs/info/67db10312a33ca5cb5aa4581?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Mar 19 |
 | ↳ | **[Analyst, Summer 2025 (Internship) - 14 weeks](https://jobright.ai/jobs/info/67dad4c032d395c2003deb40?utm_campaign=1067&utm_source=git)** | Jacksonville, FL, USA | On Site | Mar 19 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/67be17fbcc090b67517b8183?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
@@ -97,6 +99,4 @@ For a complete list, click the following sortable link below:
 | **[CSL](https://www.csl.com)** | **[2025 Summer Strategic Analytics Internship](https://jobright.ai/jobs/info/67cf7342e6cf3ddfa5d58f78?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 17 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[General Business Intern](https://jobright.ai/jobs/info/67d3191466489a1f9a8651ff?utm_campaign=1067&utm_source=git)** | Huntsville, AL | Hybrid | Mar 15 |
 | **[Encompass Health](http://encompasshealth.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67d55b87c73c0b58711cd23d?utm_campaign=1067&utm_source=git)** | Land O' Lakes, FL | On Site | Mar 15 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4b28b89530ed00f088487?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 14 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4a05727829136f2c07f6a?utm_campaign=1067&utm_source=git)** | Chicago (Green St), IL | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
