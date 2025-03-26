@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Outsourcing Intern](https://jobright.ai/jobs/info/67e4547804449acb21b2a0ec?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
+| **[Frogslayer](http://frogslayer.com)** | **[Business Analyst Internship - CX & Digital Insights](https://jobright.ai/jobs/info/67e41b1fc8f249339c1cc5b8?utm_campaign=1067&utm_source=git)** | College Station, TX | Hybrid | Mar 26 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analytics/Default Management](https://jobright.ai/jobs/info/67e381aef958b915eef165d4?utm_campaign=1067&utm_source=git)** | South Jordan, UT | On Site | Mar 25 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
-| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
+| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
 | ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d385?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Mar 25 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst and Project Management Intern](https://jobright.ai/jobs/info/67e33d80825ba91e4514d04b?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Mar 25 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e33212129b8df174369383?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 25 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67e33b8b825ba91e4514ccf3?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Mar 25 |
-| **[Veolia North America](http://www.veolianorthamerica.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e3122a9799481f5c2d2e3b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Mar 25 |
+| **[Veolia North America](http://www.veolianorthamerica.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e311e39799481f5c2d293b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Mar 25 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Operations Business Analyst - R8087](https://jobright.ai/jobs/info/67e2faf8af1cddd2785c3b5d?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Mar 25 |
 | **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Business Systems Analyst Co-op](https://jobright.ai/jobs/info/67e2d375d96edba4d80ad37f?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 25 |
 | ↳ | **[Business Systems Analyst Co-op](https://jobright.ai/jobs/info/67e2bedf81a378923124ae87?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 25 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Business Data Analyst Apprentice](https://jobright.ai/jobs/info/67dcf48677df62f6f64afec5?utm_campaign=1067&utm_source=git)** | Lynchburg, VA | On Site | Mar 20 |
 | **[Insight](https://www.insight.com)** | **[Intern](https://jobright.ai/jobs/info/67e220c9e0b4805a98b29040?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Mar 20 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Demand Analyst Co-Op- Summer/Fall](https://jobright.ai/jobs/info/67dc6fdfa1a6e4f77063681e?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 20 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Business Analysis (RDSO)](https://jobright.ai/jobs/info/67d6f73d992ee1320fee6f50?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2de0fd8e4696d40bb61a6?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Mar 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Kemper](http://kemper.com)** | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67a2c2410e16b734cb0a0867?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Mar 20 |
 | **[Insight](https://www.insight.com)** | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/67da52ba28500b2140379d03?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
