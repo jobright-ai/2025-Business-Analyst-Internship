@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analytics/Default Management](https://jobright.ai/jobs/info/67e381aef958b915eef165d4?utm_campaign=1067&utm_source=git)** | South Jordan, UT | On Site | Mar 25 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
 | ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
@@ -64,12 +65,13 @@ For a complete list, click the following sortable link below:
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst and Project Management Intern](https://jobright.ai/jobs/info/67e33d80825ba91e4514d04b?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Mar 25 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e33212129b8df174369383?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 25 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67e33b8b825ba91e4514ccf3?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Mar 25 |
-| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e311e39799481f5c2d293b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Mar 25 |
+| **[Veolia North America](http://www.veolianorthamerica.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e3122a9799481f5c2d2e3b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Mar 25 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Operations Business Analyst - R8087](https://jobright.ai/jobs/info/67e2faf8af1cddd2785c3b5d?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Mar 25 |
 | **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Business Systems Analyst Co-op](https://jobright.ai/jobs/info/67e2d375d96edba4d80ad37f?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 25 |
 | ↳ | **[Business Systems Analyst Co-op](https://jobright.ai/jobs/info/67e2bedf81a378923124ae87?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 25 |
+| **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f25aa?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 25 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/67e220c9e0b4805a98b28a03?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
-| **[Veolia North America](http://growingblue.com/)** | **[Intern - Junior Business Analyst](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06de2?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 24 |
+| **[Veolia North America](http://www.veolianorthamerica.com/)** | **[Intern - Junior Business Analyst](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06de2?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 24 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern - IT Services](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06ec1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 24 |
 | **[State of Michigan](http://www.michigan.gov)** | **[IT Student Business Analyst](https://jobright.ai/jobs/info/67e1d9b9deaef06bb385868a?utm_campaign=1067&utm_source=git)** | Dimondale, MI | On Site | Mar 24 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern-Business Analyst (Summer 2025)](https://jobright.ai/jobs/info/67e1d352dcd68b9972ec1c77?utm_campaign=1067&utm_source=git)** | Brillion, WI | On Site | Mar 24 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern-Business Analyst (Summer 2025)](https://jobright.ai/jobs/info/67e1bf83c6d746490e2d7a1a?utm_campaign=1067&utm_source=git)** | WI - Brillion | On Site | Mar 24 |
 | **[Vistar Media](http://www.vistarmedia.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/67e1cd67e80ebcf67ca11b42?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 24 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern - IT Services](https://jobright.ai/jobs/info/67e1b1a5c256c8d8792f10f7?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Mar 24 |
-| **[Gallagher Re](https://www.capsicumre.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67e3b7a011425b1d23f31dc0?utm_campaign=1067&utm_source=git)** | Rolling Meadows, Illinois | Hybrid | Mar 24 |
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/67e1ae4771f96bbf168090e2?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 24 |
 | **[CRH](http://crh.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/67e2217ca2225dc6556aa4e7?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Mar 24 |
 | **[TRIUMPH](http://www.triumphgroup.com)** | **[Intern, Business Management](https://jobright.ai/jobs/info/67e1aa885cd12fc9abfc1f65?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Mar 24 |
@@ -90,12 +91,12 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Mar 22 |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67deb680994afd0dbae9d33c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 22 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d38966?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Mar 22 |
-| **[Encompass Health](http://encompasshealth.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/67de99f6940760072e1e1f51?utm_campaign=1067&utm_source=git)** | Land O' Lakes, FL | On Site | Mar 22 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Mar 22 |
+| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c0bc00df4be2782abc126e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Mar 22 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67de6a80657b8b8d65c3f24e?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Mar 21 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dddb79984388c9cba8534c?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
+| ↳ | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dddb79984388c9cba85567?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Mar 21 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Retail Business Analyst - New York, NY - Corporate Office](https://jobright.ai/jobs/info/67ddaf48ace53adbd4e40b7c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| **[Simmons Bank](https://www.simmonsbank.com/)** | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dd84fed3ecb31d30a934e7?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Mar 21 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67dd142a6538bc079a8a429a?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Mar 20 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Business Data Analyst Apprentice](https://jobright.ai/jobs/info/67dcf48677df62f6f64afec5?utm_campaign=1067&utm_source=git)** | Lynchburg, VA | On Site | Mar 20 |
 | **[Insight](https://www.insight.com)** | **[Intern](https://jobright.ai/jobs/info/67e220c9e0b4805a98b29040?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Mar 20 |
@@ -104,11 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67a2de0fd8e4696d40bb61a6?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Mar 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Insight](https://www.insight.com)** | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/67da52ba28500b2140379d03?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Mar 20 |
-| **[Communications Construction Group, LLC](https://ccgcatv.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/67e354b5111d959eb3dbdafb?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
-| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67db195b827d2cd5cc21b28f?utm_campaign=1067&utm_source=git)** | Montvale, NJ | On Site | Mar 19 |
-| **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab44?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | On Site | Mar 19 |
-| **[Ervin Cable Construction LLC](http://www.ervincable.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/67e3a5a9635990bc260216d1?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
-| **[Dycom Industries, Inc](http://www.dycomind.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/67e34f7933da47b37292c8d0?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
-| **[Ansco & Associates, LLC](http://www.anscollc.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/67e34f7933da47b37292c8d2?utm_campaign=1067&utm_source=git)** | West Palm Beach, Florida | On Site | Mar 19 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Summer 2025 (Internship) - 14 weeks](https://jobright.ai/jobs/info/67db10312a33ca5cb5aa4581?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
