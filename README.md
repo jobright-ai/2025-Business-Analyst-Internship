@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Business Administrator, Internal Medicine, Division of Cardiovascular Health and Diseases](https://jobright.ai/jobs/info/67e5e5890aebbd3f0f7b58b9?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Planning & Analytics Summer Intern](https://jobright.ai/jobs/info/67e5a6e2ba4d27e86f4b78e4?utm_campaign=1067&utm_source=git)** | Iselin | On Site | Mar 27 |
+| **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Technical Business Analyst Co-Op/Intern (Hybrid)](https://jobright.ai/jobs/info/67e4ee72d007ee2aa15f9179?utm_campaign=1067&utm_source=git)** | Canton, MA | Hybrid | Mar 26 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Outsourcing Intern](https://jobright.ai/jobs/info/67e46e503d2fa58f318dbc33?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | ↳ | **[Business Process Outsourcing Intern](https://jobright.ai/jobs/info/67e4547804449acb21b2a0ec?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Business Operations Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/674528c6918491d68dc15d82?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Hybrid | Mar 24 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Mar 24 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67e1283fce2d1a1ebfde887f?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 24 |
-| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern – Business Analytics (Part-time)](https://jobright.ai/jobs/info/67e1a60a90809ef99a59fb76?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Mar 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, Corporate IT – Summer/ Fall 2025](https://jobright.ai/jobs/info/67df1946dd2342a89e150116?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Mar 22 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Mar 22 |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67deb680994afd0dbae9d33c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 22 |
@@ -96,9 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Mar 22 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c0bc00df4be2782abc126e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Mar 22 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67de6a80657b8b8d65c3f24e?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Mar 21 |
+| **[Simmons Bank](https://www.simmonsbank.com/)** | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dddb79984388c9cba8534c?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Retail Business Analyst - New York, NY - Corporate Office](https://jobright.ai/jobs/info/67ddaf48ace53adbd4e40b7c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dd84fed3ecb31d30a934e7?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Mar 21 |
-| ↳ | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dd84fed3ecb31d30a935f5?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
-| **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67dd142a6538bc079a8a429a?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Mar 20 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Business Data Analyst Apprentice](https://jobright.ai/jobs/info/67dcf48677df62f6f64afec5?utm_campaign=1067&utm_source=git)** | Lynchburg, VA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
