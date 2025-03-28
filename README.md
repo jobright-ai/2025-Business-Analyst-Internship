@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/67e5fa8ca68a26d46464ae54?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Business Administrator, Internal Medicine, Division of Cardiovascular Health and Diseases](https://jobright.ai/jobs/info/67e5e5890aebbd3f0f7b58b9?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Planning & Analytics Summer Intern](https://jobright.ai/jobs/info/67e5a6e2ba4d27e86f4b78e4?utm_campaign=1067&utm_source=git)** | Iselin | On Site | Mar 27 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Technical Business Analyst Co-Op/Intern (Hybrid)](https://jobright.ai/jobs/info/67e4ee72d007ee2aa15f9179?utm_campaign=1067&utm_source=git)** | Canton, MA | Hybrid | Mar 26 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2025 Internship -Business Strategy & Performance Analytics Intern](https://jobright.ai/jobs/info/67e5f0bf7500eb4c256fb35f?utm_campaign=1067&utm_source=git)** | Seattle, WA | Remote | Mar 26 |
+| **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/67e5f0bf7500eb4c256fb37b?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Mar 26 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Outsourcing Intern](https://jobright.ai/jobs/info/67e46e503d2fa58f318dbc33?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | ↳ | **[Business Process Outsourcing Intern](https://jobright.ai/jobs/info/67e4547804449acb21b2a0ec?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67e36b3c857c34c3d1e89a5a?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
@@ -68,8 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Frogslayer](http://frogslayer.com)** | **[Business Analyst Internship - CX & Digital Insights](https://jobright.ai/jobs/info/67e41b1fc8f249339c1cc5b8?utm_campaign=1067&utm_source=git)** | College Station, TX | Hybrid | Mar 26 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analytics/Default Management](https://jobright.ai/jobs/info/67e381aef958b915eef165d4?utm_campaign=1067&utm_source=git)** | South Jordan, UT | On Site | Mar 25 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
-| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
+| **[Gallagher Re](https://www.capsicumre.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e5f2637a67aecaa8c3ca4d?utm_campaign=1067&utm_source=git)** | Rolling Meadows, Illinois | On Site | Mar 25 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
+| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
 | ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d385?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Mar 25 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst and Project Management Intern](https://jobright.ai/jobs/info/67e33d80825ba91e4514d04b?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Mar 25 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e33212129b8df174369383?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 25 |
@@ -97,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d38966?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Mar 22 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Mar 22 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c0bc00df4be2782abc126e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Mar 22 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67de6a80657b8b8d65c3f24e?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Mar 21 |
+| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67de6c5b657b8b8d65c3fd7a?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Mar 21 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dddb79984388c9cba8534c?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
+| ↳ | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dddb79984388c9cba85567?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Mar 21 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Retail Business Analyst - New York, NY - Corporate Office](https://jobright.ai/jobs/info/67ddaf48ace53adbd4e40b7c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| **[Simmons Bank](https://www.simmonsbank.com/)** | **[Business Continuity Management Intern](https://jobright.ai/jobs/info/67dd84fed3ecb31d30a934e7?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
