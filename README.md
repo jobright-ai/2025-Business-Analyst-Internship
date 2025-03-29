@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67e79adae56b0bdd719b28b2?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Business Analysis](https://jobright.ai/jobs/info/67e716388c9a71412c3fb4e6?utm_campaign=1067&utm_source=git)** | Westlake Village, CA | On Site | Mar 28 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67de6a80657b8b8d65c3f24e?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Commercial Operations Analyst (Intern)](https://jobright.ai/jobs/info/67e6f19f3921e1af457d583d?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | **[Raich Ende Malter & Co. LLP](https://www.rem-co.com)** | **[2025 Planning & Analytics Summer Intern](https://jobright.ai/jobs/info/67e66bcd3fa5f453b4e2d99d?utm_campaign=1067&utm_source=git)** | Iselin, NJ | On Site | Mar 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/67e5fa8ca68a26d46464ae54?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
@@ -75,13 +75,13 @@ For a complete list, click the following sortable link below:
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analytics/Default Management](https://jobright.ai/jobs/info/67e381aef958b915eef165d4?utm_campaign=1067&utm_source=git)** | South Jordan, UT | On Site | Mar 25 |
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e5f2637a67aecaa8c3ca4d?utm_campaign=1067&utm_source=git)** | Rolling Meadows, Illinois | On Site | Mar 25 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
-| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
+| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
 | ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d385?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Mar 25 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst and Project Management Intern](https://jobright.ai/jobs/info/67e33d80825ba91e4514d04b?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Mar 25 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e33212129b8df174369383?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 25 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67e33b8b825ba91e4514ccf3?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Mar 25 |
-| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e311e39799481f5c2d293b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Mar 25 |
+| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e3122a9799481f5c2d2e3b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Mar 25 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/67e220c9e0b4805a98b28a03?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[Veolia North America](http://growingblue.com/)** | **[Intern - Junior Business Analyst](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06de2?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 24 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern - IT Services](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06ec1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 24 |
@@ -98,7 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/66d2504e219f991dfebefcb5?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Mar 24 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67e1283fce2d1a1ebfde887f?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 24 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, Corporate IT – Summer/ Fall 2025](https://jobright.ai/jobs/info/67df1946dd2342a89e150116?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Mar 22 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Mar 22 |
-| **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67deb680994afd0dbae9d33c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 22 |
-| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d38966?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
