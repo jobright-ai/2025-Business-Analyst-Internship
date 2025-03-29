@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67e79adae56b0bdd719b28b2?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 28 |
+| ↳ | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67de6c5b657b8b8d65c3fd7a?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Mar 28 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Business Analysis](https://jobright.ai/jobs/info/67e716388c9a71412c3fb4e6?utm_campaign=1067&utm_source=git)** | Westlake Village, CA | On Site | Mar 28 |
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Commercial Operations Analyst (Intern)](https://jobright.ai/jobs/info/67e6f19f3921e1af457d583d?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | **[Raich Ende Malter & Co. LLP](https://www.rem-co.com)** | **[2025 Planning & Analytics Summer Intern](https://jobright.ai/jobs/info/67e66bcd3fa5f453b4e2d99d?utm_campaign=1067&utm_source=git)** | Iselin, NJ | On Site | Mar 28 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analytics/Default Management](https://jobright.ai/jobs/info/67e381aef958b915eef165d4?utm_campaign=1067&utm_source=git)** | South Jordan, UT | On Site | Mar 25 |
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e5f2637a67aecaa8c3ca4d?utm_campaign=1067&utm_source=git)** | Rolling Meadows, Illinois | On Site | Mar 25 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
-| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
+| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
 | ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d385?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Mar 25 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst and Project Management Intern](https://jobright.ai/jobs/info/67e33d80825ba91e4514d04b?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Mar 25 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e33212129b8df174369383?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 25 |
