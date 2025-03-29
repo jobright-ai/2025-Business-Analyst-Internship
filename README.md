@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Commercial Operations Analyst (Intern)](https://jobright.ai/jobs/info/67e6f19f3921e1af457d583d?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | **[Raich Ende Malter & Co. LLP](https://www.rem-co.com)** | **[2025 Planning & Analytics Summer Intern](https://jobright.ai/jobs/info/67e66bcd3fa5f453b4e2d99d?utm_campaign=1067&utm_source=git)** | Iselin, NJ | On Site | Mar 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/67e5fa8ca68a26d46464ae54?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
-| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Business Administrator, Internal Medicine, Division of Cardiovascular Health and Diseases](https://jobright.ai/jobs/info/67e5e5890aebbd3f0f7b58b9?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Planning & Analytics Summer Intern](https://jobright.ai/jobs/info/67e5a6e2ba4d27e86f4b78e4?utm_campaign=1067&utm_source=git)** | Iselin | On Site | Mar 27 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f25aa?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 27 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 27 |
@@ -102,6 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Mar 22 |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67deb680994afd0dbae9d33c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 22 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d38966?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Mar 22 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Business Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/67411876ebaa782b51eef4d7?utm_campaign=1067&utm_source=git)** | Southlake, TX | Hybrid | Mar 22 |
-| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c0bc00df4be2782abc126e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
