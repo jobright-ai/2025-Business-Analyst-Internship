@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/67ea8013b0484ed4288ffdc4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025](https://jobright.ai/jobs/info/67e8ab407ad5d046bae6645d?utm_campaign=1067&utm_source=git)** | Miami, FL | Hybrid | Mar 29 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67e79adae56b0bdd719b28b2?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 28 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9952e1e7628564cd1d3e2?utm_campaign=1067&utm_source=git)** | Greater St. George Area | Hybrid | Mar 28 |
@@ -88,13 +89,4 @@ For a complete list, click the following sortable link below:
 | **[CIM Group](https://www.cimgroup.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/67e220c9e0b4805a98b28a03?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[Veolia North America](http://growingblue.com/)** | **[Intern - Junior Business Analyst](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06de2?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 24 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern - IT Services](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06ec1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 24 |
-| **[State of Michigan](http://www.michigan.gov)** | **[IT Student Business Analyst](https://jobright.ai/jobs/info/67e1d9b9deaef06bb385868a?utm_campaign=1067&utm_source=git)** | Dimondale, MI | On Site | Mar 24 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern-Business Analyst (Summer 2025)](https://jobright.ai/jobs/info/67e1d352dcd68b9972ec1c77?utm_campaign=1067&utm_source=git)** | Brillion, WI | On Site | Mar 24 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics, Delivery Experience Economics (DEX Econ)](https://jobright.ai/jobs/info/67e1bf83c6d746490e2d7992?utm_campaign=1067&utm_source=git)** | Bellevue, Washington, USA | On Site | Mar 24 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern-Business Analyst (Summer 2025)](https://jobright.ai/jobs/info/67e1bf83c6d746490e2d7a1a?utm_campaign=1067&utm_source=git)** | WI - Brillion | On Site | Mar 24 |
-| **[Vistar Media](http://www.vistarmedia.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/67e1cd67e80ebcf67ca11b42?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 24 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern - IT Services](https://jobright.ai/jobs/info/67e1b1a5c256c8d8792f10f7?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Mar 24 |
-| **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/67e1ae4771f96bbf168090e2?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 24 |
-| **[CRH](http://crh.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/67e2217ca2225dc6556aa4e7?utm_campaign=1067&utm_source=git)** | Chandler, AZ | On Site | Mar 24 |
-| **[TRIUMPH](http://www.triumphgroup.com)** | **[Intern, Business Management](https://jobright.ai/jobs/info/67e1aa885cd12fc9abfc1f65?utm_campaign=1067&utm_source=git)** | West Hartford, CT | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
