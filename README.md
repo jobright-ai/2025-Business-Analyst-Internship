@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gallagher Bassett](https://www.robanda.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa54918?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 31 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67eb3e20f5d862136fafd583?utm_campaign=1067&utm_source=git)** | Home, KS | On Site | Mar 31 |
 | **[Sorenson Communications](http://www.sorenson.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/67eb3c5485fe488069c9206f?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Mar 31 |
+| **[Gallagher Re](https://www.capsicumre.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb9b8a5652bc7855caaf9b?utm_campaign=1067&utm_source=git)** | Rolling Meadows, Illinois | On Site | Mar 31 |
 | **[South Carolina Department of Commerce](https://www.sccommerce.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/67eb1db4cc873bd9dcc88657?utm_campaign=1067&utm_source=git)** | Columbia, SC | On Site | Mar 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Intelligence Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67eb2f40c3d9fbbefd7be1ff?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | Hybrid | Mar 31 |
 | ↳ | **[Business Intelligence Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67eaf991921b3e1248dde8f1?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Mar 31 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/67ea8013b0484ed4288ffdc4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025](https://jobright.ai/jobs/info/67e8ab407ad5d046bae6645d?utm_campaign=1067&utm_source=git)** | Miami, FL | Hybrid | Mar 29 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9aa3959bb86f231fd907e?utm_campaign=1067&utm_source=git)** | Rochester, NY | Hybrid | Mar 29 |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Business Analysis](https://jobright.ai/jobs/info/67eb9c3ba7645d1d704e2df9?utm_campaign=1067&utm_source=git)** | Westlake Village, CA | On Site | Mar 28 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67e79adae56b0bdd719b28b2?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 28 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9952e1e7628564cd1d3e2?utm_campaign=1067&utm_source=git)** | Greater St. George Area | Hybrid | Mar 28 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67de6c5b657b8b8d65c3fd7a?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Mar 28 |
@@ -74,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f25aa?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 27 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2025 Internship -Business Strategy & Performance Analytics Intern](https://jobright.ai/jobs/info/67e5f0bf7500eb4c256fb35f?utm_campaign=1067&utm_source=git)** | Seattle, WA | Remote | Mar 26 |
-| **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/67e5f0bf7500eb4c256fb37b?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Mar 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67e36b3c857c34c3d1e89a5a?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67e388c2f40e9150b5286b8a?utm_campaign=1067&utm_source=git)** | Charleston, SC | Hybrid | Mar 26 |
 | **[Frogslayer](http://frogslayer.com)** | **[Business Analyst Internship - CX & Digital Insights](https://jobright.ai/jobs/info/67e41b1fc8f249339c1cc5b8?utm_campaign=1067&utm_source=git)** | College Station, TX | Hybrid | Mar 26 |
@@ -86,5 +89,5 @@ For a complete list, click the following sortable link below:
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst and Project Management Intern](https://jobright.ai/jobs/info/67e33d80825ba91e4514d04b?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Mar 25 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e33212129b8df174369383?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 25 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67e33b8b825ba91e4514ccf3?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Mar 25 |
-| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e3122a9799481f5c2d2e3b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Mar 25 |
+| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e311e39799481f5c2d293b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
