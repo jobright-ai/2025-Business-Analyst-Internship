@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ADP](http://www.adp.com)** | **[Business Analyst Summer Intern - May '26 Grads](https://jobright.ai/jobs/info/67e7774ff72ea2b649cf1778?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Apr 01 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst – IT SCM Solutions Intern](https://jobright.ai/jobs/info/67df8668c8cee3f9fab39610?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Apr 01 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa54918?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 31 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67eb3e20f5d862136fafd583?utm_campaign=1067&utm_source=git)** | Home, KS | On Site | Mar 31 |
 | **[Sorenson Communications](http://www.sorenson.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/67eb3c5485fe488069c9206f?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Mar 31 |
@@ -83,11 +85,10 @@ For a complete list, click the following sortable link below:
 | **[Frogslayer](http://frogslayer.com)** | **[Business Analyst Internship - CX & Digital Insights](https://jobright.ai/jobs/info/67e41b1fc8f249339c1cc5b8?utm_campaign=1067&utm_source=git)** | College Station, TX | Hybrid | Mar 26 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analytics/Default Management](https://jobright.ai/jobs/info/67e381aef958b915eef165d4?utm_campaign=1067&utm_source=git)** | South Jordan, UT | On Site | Mar 25 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
-| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d382?utm_campaign=1067&utm_source=git)** | Winchester, VA | Hybrid | Mar 25 |
+| ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33b8b825ba91e4514cae7?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Mar 25 |
 | ↳ | **[Intern - Year Round (Credit Card and Educational Lending Technology Solutions)](https://jobright.ai/jobs/info/67e33d80825ba91e4514d385?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Mar 25 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst and Project Management Intern](https://jobright.ai/jobs/info/67e33d80825ba91e4514d04b?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Mar 25 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e33212129b8df174369383?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 25 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/67e33b8b825ba91e4514ccf3?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Mar 25 |
-| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e311e39799481f5c2d293b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
