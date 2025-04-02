@@ -57,9 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d11c33b1e887400db5d9dd?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 02 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/67ed281e8cc53b59013b9643?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Business Analyst D (Melbourne, FL)](https://jobright.ai/jobs/info/67ed2e3d83c81b79e5cdf867?utm_campaign=1067&utm_source=git)** | Melbourne, FL | On Site | Apr 02 |
+| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Intern](https://jobright.ai/jobs/info/67ed13c2a02ccad8fc4929a3?utm_campaign=1067&utm_source=git)** | Piscataway, NJ | Hybrid | Apr 02 |
+| **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3e740bb052923fea1cea6?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2b7?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Apr 02 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2ba?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Apr 02 |
+| **[Ashling Partners](https://www.ashlingpartners.com/)** | **[Business Analysis, Intern](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83112126?utm_campaign=1067&utm_source=git)** | Illinois, United States | On Site | Apr 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management](https://jobright.ai/jobs/info/67ecbc5944b95888a1780c60?utm_campaign=1067&utm_source=git)** | Tempe, AZ | Hybrid | Apr 01 |
 | **[Leidos](https://www.leidos.com/)** | **[Energy Advisor Intern](https://jobright.ai/jobs/info/67ecc4b8601d493f77a91fa9?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Apr 01 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/67eca8cbc3dd1387f2c289d7?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 01 |
+| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67e79adae56b0bdd719b28b2?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Caesars Entertainment](https://www.caesars.com/corporate)** | **[Operations Analytics Intern - Corporate (Reno)](https://jobright.ai/jobs/info/67ec78bb3a5b6e5f5610702c?utm_campaign=1067&utm_source=git)** | Reno, NV | On Site | Apr 01 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analytics Master's Intern](https://jobright.ai/jobs/info/67ec7aca6f76696fd2810fb1?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Apr 01 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Business Technology Solutions Intern](https://jobright.ai/jobs/info/67ec7c772a339286f41047c4?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Apr 01 |
@@ -86,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[AI Business Analysis Trainee, Distribution & Networks - Summer/Fall 2025](https://jobright.ai/jobs/info/67e8ab407ad5d046bae6645d?utm_campaign=1067&utm_source=git)** | Miami, FL | Hybrid | Mar 29 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9aa3959bb86f231fd907e?utm_campaign=1067&utm_source=git)** | Rochester, NY | Hybrid | Mar 29 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Business Analysis](https://jobright.ai/jobs/info/67eb9c3ba7645d1d704e2df9?utm_campaign=1067&utm_source=git)** | Westlake Village, CA | On Site | Mar 28 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67e79adae56b0bdd719b28b2?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 28 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9952e1e7628564cd1d3e2?utm_campaign=1067&utm_source=git)** | Greater St. George Area | Hybrid | Mar 28 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/67de6c5b657b8b8d65c3fd7a?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Mar 28 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Business Analysis](https://jobright.ai/jobs/info/67e9aa46c26a9a578c134954?utm_campaign=1067&utm_source=git)** | Westlake Village, CA, United States | On Site | Mar 28 |
@@ -96,6 +104,4 @@ For a complete list, click the following sortable link below:
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f25aa?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 27 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2025 Internship -Business Strategy & Performance Analytics Intern](https://jobright.ai/jobs/info/67e5f0bf7500eb4c256fb35f?utm_campaign=1067&utm_source=git)** | Seattle, WA | Remote | Mar 26 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67e36b3c857c34c3d1e89a5a?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
-| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67e388c2f40e9150b5286b8a?utm_campaign=1067&utm_source=git)** | Charleston, SC | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
