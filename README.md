@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/67eca8cbc3dd1387f2c289d7?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 01 |
 | **[Caesars Entertainment](https://www.caesars.com/corporate)** | **[Operations Analytics Intern - Corporate (Reno)](https://jobright.ai/jobs/info/67ec78bb3a5b6e5f5610702c?utm_campaign=1067&utm_source=git)** | Reno, NV | On Site | Apr 01 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analytics Master's Intern](https://jobright.ai/jobs/info/67ec7aca6f76696fd2810fb1?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Apr 01 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Business Technology Solutions Intern](https://jobright.ai/jobs/info/67ec7c772a339286f41047c4?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Apr 01 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern (Information Technology)](https://jobright.ai/jobs/info/67cf71839c61419ac7e5045b?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 01 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Apr 01 |
 | **[ADP](http://www.adp.com)** | **[Business Analyst Summer Intern - May '26 Grads](https://jobright.ai/jobs/info/67e7774ff72ea2b649cf1778?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Apr 01 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst – IT SCM Solutions Intern](https://jobright.ai/jobs/info/67df8668c8cee3f9fab39610?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Apr 01 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa54918?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 31 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67eb3e20f5d862136fafd583?utm_campaign=1067&utm_source=git)** | Home, KS | On Site | Mar 31 |
 | **[Seattle Housing Authority](http://seattlehousing.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ec2ba765e3df62e3304f56?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Mar 31 |
@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67e36b3c857c34c3d1e89a5a?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/67e388c2f40e9150b5286b8a?utm_campaign=1067&utm_source=git)** | Charleston, SC | Hybrid | Mar 26 |
 | **[Frogslayer](http://frogslayer.com)** | **[Business Analyst Internship - CX & Digital Insights](https://jobright.ai/jobs/info/67e41b1fc8f249339c1cc5b8?utm_campaign=1067&utm_source=git)** | College Station, TX | Hybrid | Mar 26 |
-| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77160?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
