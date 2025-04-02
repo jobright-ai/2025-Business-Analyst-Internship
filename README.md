@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fiserv](http://www.fiserv.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/67ed7be36ed85cd45d6b045d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
+| **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/67ed5271081909ad3afb49cf?utm_campaign=1067&utm_source=git)** | Glen Burnie, MD | On Site | Apr 02 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d11c33b1e887400db5d9dd?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/67ed281e8cc53b59013b9643?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Business Analyst D (Melbourne, FL)](https://jobright.ai/jobs/info/67ed2e3d83c81b79e5cdf867?utm_campaign=1067&utm_source=git)** | Melbourne, FL | On Site | Apr 02 |
+| **[Hunt Oil Company](http://www.huntoil.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d097?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
+| **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0b789f666eefb3bb7d112?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
+| **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67d11868b7e62942d738d03b?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Intern](https://jobright.ai/jobs/info/67ed13c2a02ccad8fc4929a3?utm_campaign=1067&utm_source=git)** | Piscataway, NJ | Hybrid | Apr 02 |
-| **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3e740bb052923fea1cea6?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
+| **[Uline](http://www.uline.com)** | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2b5?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Apr 02 |
+| ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3e740bb052923fea1cea6?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2b7?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Apr 02 |
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2ba?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Apr 02 |
 | **[Ashling Partners](https://www.ashlingpartners.com/)** | **[Business Analysis, Intern](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83112126?utm_campaign=1067&utm_source=git)** | Illinois, United States | On Site | Apr 02 |
@@ -76,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management](https://jobright.ai/jobs/info/67ec67325cb7c6723944c36f?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 01 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Lifecycle Managment-Business Analyst Intern](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810c7a?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Apr 01 |
 | **[Caesars Entertainment](https://www.caesars.com/corporate)** | **[Operations Analytics Intern - Corporate (Reno)](https://jobright.ai/jobs/info/67ec5010c214b8b7ba2599ff?utm_campaign=1067&utm_source=git)** | Reno, NV, United States | On Site | Apr 01 |
-| **[Nexteer Automotive](http://www.nexteer.com/)** | **[2025 Supply Chain Summer Internship - Systems Business Analyst](https://jobright.ai/jobs/info/67ec45912304d4119874feb8?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | Hybrid | Apr 01 |
 | **[Veolia North America](http://growingblue.com/)** | **[Intern - Junior Business Analyst](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06de2?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 01 |
 | ↳ | **[New Business Intern](https://jobright.ai/jobs/info/67e3122a9799481f5c2d2e3b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 01 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/67ec26167de53c48da111a72?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Apr 01 |
@@ -103,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern](https://jobright.ai/jobs/info/67ac544ba324caed2dd5bb4e?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Mar 27 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f25aa?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 27 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2025 Internship -Business Strategy & Performance Analytics Intern](https://jobright.ai/jobs/info/67e5f0bf7500eb4c256fb35f?utm_campaign=1067&utm_source=git)** | Seattle, WA | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
