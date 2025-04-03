@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Information Systems Intern - Classic Team](https://jobright.ai/jobs/info/67ee1e1b100c1edf3ffa6e7d?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA | On Site | Apr 02 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/67ee1e1b100c1edf3ffa7040?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Apr 02 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Information Systems Intern - Classic Team](https://jobright.ai/jobs/info/67edc6a64772f6203a06fb5d?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA | On Site | Apr 02 |
 | **[Veolia North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67edca810688c248931d0341?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
 | **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/67edaf3547a7de490f7c37cb?utm_campaign=1067&utm_source=git)** | Tulsa Metropolitan Area | On Site | Apr 02 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[ADP](http://www.adp.com)** | **[Business Analyst Summer Intern - May '26 Grads](https://jobright.ai/jobs/info/67e7774ff72ea2b649cf1778?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Apr 01 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa54918?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 31 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67eb3e20f5d862136fafd583?utm_campaign=1067&utm_source=git)** | Home, KS | On Site | Mar 31 |
-| **[Seattle Housing Authority](http://seattlehousing.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ec2ba765e3df62e3304f56?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Mar 31 |
 | **[Sorenson Communications](http://www.sorenson.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/67eb3c5485fe488069c9206f?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Mar 31 |
 | **[South Carolina Department of Commerce](https://www.sccommerce.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/67eb1db4cc873bd9dcc88657?utm_campaign=1067&utm_source=git)** | Columbia, SC | On Site | Mar 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Intelligence Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67eb2f40c3d9fbbefd7be1ff?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | Hybrid | Mar 31 |
@@ -110,6 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Commercial Operations Analyst (Intern)](https://jobright.ai/jobs/info/67e6f19f3921e1af457d583d?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67e1283fce2d1a1ebfde887f?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 27 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern](https://jobright.ai/jobs/info/67ac544ba324caed2dd5bb4e?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Mar 27 |
-| **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f25aa?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 27 |
-| **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp - Summer Interns (Business Majors)](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a1b?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
