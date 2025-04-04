@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Process Improvement Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f033e84f5d2e802a1592c5?utm_campaign=1067&utm_source=git)** | Oakland, CA | On Site | Apr 04 |
 | **[TD](https://www.td.com)** | **[2025 Summer Internship Program - Data & Analytics](https://jobright.ai/jobs/info/67ef94987def267c1c758010?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Apr 03 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9952e1e7628564cd1d3e2?utm_campaign=1067&utm_source=git)** | Greater St. George Area | Hybrid | Apr 03 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/67ef50b7c51bb5bdf22d0a0a?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/67ee1e1b100c1edf3ffa7040?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | Hybrid | Apr 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/67ee70f33d97b86f5e8bda7a?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Apr 02 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2025 Internship -Business Strategy & Performance Analytics Intern](https://jobright.ai/jobs/info/67ef4665b3df66b54f7c793a?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Apr 02 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Information Systems Intern - Classic Team](https://jobright.ai/jobs/info/67f0096341eed88aa39c3f8c?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA | On Site | Apr 02 |
 | **[Veolia North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67edca810688c248931d0341?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
 | **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/67edaf3547a7de490f7c37cb?utm_campaign=1067&utm_source=git)** | Tulsa Metropolitan Area | On Site | Apr 02 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67d0f1406bfdba1592bccfb3?utm_campaign=1067&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
@@ -96,9 +98,10 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management](https://jobright.ai/jobs/info/67ec67325cb7c6723944c36f?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 01 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Lifecycle Managment-Business Analyst Intern](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810c7a?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Apr 01 |
 | **[Caesars Entertainment](https://www.caesars.com/corporate)** | **[Operations Analytics Intern - Corporate (Reno)](https://jobright.ai/jobs/info/67ec5010c214b8b7ba2599ff?utm_campaign=1067&utm_source=git)** | Reno, NV, United States | On Site | Apr 01 |
-| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/67e311e39799481f5c2d293b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 01 |
-| ↳ | **[Intern - Junior Business Analyst](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06de2?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 01 |
+| **[Veolia North America](http://growingblue.com/)** | **[Intern - Junior Business Analyst](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06de2?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 01 |
+| ↳ | **[New Business Intern](https://jobright.ai/jobs/info/67e3122a9799481f5c2d2e3b?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 01 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/67ec26167de53c48da111a72?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Apr 01 |
+| **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Business Internship (Summer 2025)](https://jobright.ai/jobs/info/679361404693ba42d17488bc?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Apr 01 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern (Information Technology)](https://jobright.ai/jobs/info/67cf71839c61419ac7e5045b?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 01 |
 | **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/67cf061657e2f3baed6c4085?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Apr 01 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Apr 01 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa54918?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 31 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67eb3e20f5d862136fafd583?utm_campaign=1067&utm_source=git)** | Home, KS | On Site | Mar 31 |
 | **[Sorenson Communications](http://www.sorenson.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/67eb3c5485fe488069c9206f?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Mar 31 |
-| **[Gallagher Re](https://www.capsicumre.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67ef7d05d89e860569cb4c63?utm_campaign=1067&utm_source=git)** | Rolling Meadows, Illinois | On Site | Mar 31 |
 | **[South Carolina Department of Commerce](https://www.sccommerce.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/67eb1db4cc873bd9dcc88657?utm_campaign=1067&utm_source=git)** | Columbia, SC | On Site | Mar 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Intelligence Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67eb2f40c3d9fbbefd7be1ff?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | Hybrid | Mar 31 |
 | ↳ | **[Business Intelligence Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67eaf991921b3e1248dde8f1?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Mar 31 |
