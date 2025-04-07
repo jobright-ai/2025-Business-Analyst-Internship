@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Juniper Networks](http://www.juniper.net)** | **[Business Operations Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67f318ec6a5b1cf7d1d4c1e0?utm_campaign=1067&utm_source=git)** | 10 Technology Park Drive, Westford, MA, 01886, US | On Site | Apr 06 |
+| **[Juniper Networks](http://www.juniper.net)** | **[Business Operations Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67f3633ed9bb15f647c059fb?utm_campaign=1067&utm_source=git)** | Westford, MA | On Site | Apr 06 |
+| ↳ | **[Business Operations Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67f318ec6a5b1cf7d1d4c1e0?utm_campaign=1067&utm_source=git)** | 10 Technology Park Drive, Westford, MA, 01886, US | On Site | Apr 06 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f1774c45162d8d48dcd38e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 05 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4b28b89530ed00f088487?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 05 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Information Systems Intern - Classic Team](https://jobright.ai/jobs/info/67f0b7a61452c97794d58592?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA | On Site | Apr 04 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Summer 2025- CIPHER](https://jobright.ai/jobs/info/67f084045ce27685bc86b086?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
-| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524ba9e?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be31?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Process Improvement Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f033e84f5d2e802a1592c5?utm_campaign=1067&utm_source=git)** | Oakland, CA | On Site | Apr 04 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b744931514ab9b323b3f05?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 04 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b742c21514ab9b323b3dca?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Apr 04 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[South Carolina Department of Commerce](https://www.sccommerce.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/67eb1db4cc873bd9dcc88657?utm_campaign=1067&utm_source=git)** | Columbia, SC | On Site | Mar 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Intelligence Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67eb2f40c3d9fbbefd7be1ff?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | Hybrid | Mar 31 |
 | ↳ | **[Business Intelligence Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67eaf991921b3e1248dde8f1?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Mar 31 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/67ea8013b0484ed4288ffdc4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
