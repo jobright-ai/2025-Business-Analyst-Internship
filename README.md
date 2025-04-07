@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Juniper Networks](http://www.juniper.net)** | **[Business Operations Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67f318ec6a5b1cf7d1d4c1e0?utm_campaign=1067&utm_source=git)** | 10 Technology Park Drive, Westford, MA, 01886, US | On Site | Apr 06 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f1774c45162d8d48dcd38e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 05 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4b28b89530ed00f088487?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 05 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Information Systems Intern - Classic Team](https://jobright.ai/jobs/info/67f0b7a61452c97794d58592?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA | On Site | Apr 04 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Summer 2025- CIPHER](https://jobright.ai/jobs/info/67f084045ce27685bc86b086?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
-| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524ba9e?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be31?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Process Improvement Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f033e84f5d2e802a1592c5?utm_campaign=1067&utm_source=git)** | Oakland, CA | On Site | Apr 04 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b744931514ab9b323b3f05?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 04 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b742c21514ab9b323b3dca?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Apr 04 |
@@ -82,13 +83,13 @@ For a complete list, click the following sortable link below:
 | **[Veolia North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67edca810688c248931d0341?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
 | **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/67edaf3547a7de490f7c37cb?utm_campaign=1067&utm_source=git)** | Tulsa Metropolitan Area | On Site | Apr 02 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67d0f1406bfdba1592bccfb3?utm_campaign=1067&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Business Analyst D (Melbourne, FL)](https://jobright.ai/jobs/info/67edad4847a7de490f7c35ee?utm_campaign=1067&utm_source=git)** | Melbourne, FL | On Site | Apr 02 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67db195b827d2cd5cc21b28f?utm_campaign=1067&utm_source=git)** | Montvale, NJ | On Site | Apr 02 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Undergraduate Business Operations Data Analyst Summer Intern](https://jobright.ai/jobs/info/67ed977fbee89c6f97364b8f?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | Apr 02 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/67ed7be36ed85cd45d6b045d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
 | **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/67ed5271081909ad3afb49cf?utm_campaign=1067&utm_source=git)** | Glen Burnie, MD | On Site | Apr 02 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d11c33b1e887400db5d9dd?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/67ed281e8cc53b59013b9643?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Business Analyst D (Melbourne, FL)](https://jobright.ai/jobs/info/67ed2e3d83c81b79e5cdf867?utm_campaign=1067&utm_source=git)** | Melbourne, FL | On Site | Apr 02 |
 | **[Cadence](https://www.cadence.com)** | **[Purchasing Systems Analyst Intern](https://jobright.ai/jobs/info/67d0b789f666eefb3bb7d112?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67d11868b7e62942d738d03b?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Intern](https://jobright.ai/jobs/info/67ed13c2a02ccad8fc4929a3?utm_campaign=1067&utm_source=git)** | Piscataway, NJ | Hybrid | Apr 02 |
