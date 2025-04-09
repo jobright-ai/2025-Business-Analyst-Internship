@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f52ec21fcc44bfe0767ddd?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Apr 08 |
 | **[Hasbro](https://investor.hasbro.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67ecb0cc88ed86fe2099be80?utm_campaign=1067&utm_source=git)** | Pawtucket, RI | On Site | Apr 08 |
 | **[Corpay](https://payments.corpay.com)** | **[Enterprise Systems Business Analyst Summer Intern](https://jobright.ai/jobs/info/67f4c00f78ae3795e4aca863?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA | On Site | Apr 07 |
+| **[Juniper Networks](http://www.juniper.net)** | **[Business Operations Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67f61ac3bb168e8b5831f520?utm_campaign=1067&utm_source=git)** | Westford, MA | On Site | Apr 07 |
 | **[FLEETCOR](http://www.fleetcor.com)** | **[Enterprise Systems Business Analyst Summer Intern ](https://jobright.ai/jobs/info/67f499fbb56f3f589904ce57?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA 30092, USA | On Site | Apr 07 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d773d8?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Apr 07 |
 | ↳ | **[Business Applications Intern - Summer 2025](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d773f4?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Apr 07 |
@@ -97,8 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2025 Internship -Business Strategy & Performance Analytics Intern](https://jobright.ai/jobs/info/67ef4665b3df66b54f7c793a?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Apr 02 |
 | **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/67edaf3547a7de490f7c37cb?utm_campaign=1067&utm_source=git)** | Tulsa Metropolitan Area | On Site | Apr 02 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/67d0f1406bfdba1592bccfb3?utm_campaign=1067&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Business Analyst D (Melbourne, FL)](https://jobright.ai/jobs/info/67edad4847a7de490f7c35ee?utm_campaign=1067&utm_source=git)** | Melbourne, FL | On Site | Apr 02 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Lifecycle Management-Business Analyst Intern](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810c7a?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Apr 02 |
-| **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/67ed5271081909ad3afb49cf?utm_campaign=1067&utm_source=git)** | Glen Burnie, MD | On Site | Apr 02 |
-| **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67d11c33b1e887400db5d9dd?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 02 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[New Home Warranty Internship](https://jobright.ai/jobs/info/67ed281e8cc53b59013b9643?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
