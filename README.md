@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f5a307b940287aa9d07c5c?utm_campaign=1067&utm_source=git)** | North Mankato, MN - Navitor, Inc. | On Site | Apr 08 |
+| **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f58f06fc878e400ba14e52?utm_campaign=1067&utm_source=git)** | Cambridge, Massachusetts | Hybrid | Apr 08 |
 | **[Stewart Title](https://www.stewart.com/)** | **[IT Business Systems Analyst Intern](https://jobright.ai/jobs/info/67f569c99b5c0ac019264d67?utm_campaign=1067&utm_source=git)** | Houston, TX | Hybrid | Apr 08 |
-| **[Throtle](https://throtle.io)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f570f18f6733d0d8f27d10?utm_campaign=1067&utm_source=git)** | Red Bank, NJ | Hybrid | Apr 08 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/67f5410062d4965ae67c4e20?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Apr 08 |
 | **[Jabil](https://www.jabil.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f52ec21fcc44bfe0767ddd?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Apr 08 |
 | **[Hasbro](https://investor.hasbro.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67ecb0cc88ed86fe2099be80?utm_campaign=1067&utm_source=git)** | Pawtucket, RI | On Site | Apr 08 |
@@ -107,6 +108,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2b7?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Apr 02 |
 | ↳ | **[Associate Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b3fef72a5179ce3816d2ba?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Apr 02 |
 | **[Ashling Partners](https://www.ashlingpartners.com/)** | **[Business Analysis, Intern](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83112126?utm_campaign=1067&utm_source=git)** | Illinois, United States | On Site | Apr 02 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management](https://jobright.ai/jobs/info/67ecbc5944b95888a1780c60?utm_campaign=1067&utm_source=git)** | Tempe, AZ | Hybrid | Apr 01 |
-| **[Leidos](https://www.leidos.com/)** | **[Energy Advisor Intern](https://jobright.ai/jobs/info/67ecc4b8601d493f77a91fa9?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
