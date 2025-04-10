@@ -57,16 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern (Information Technology)](https://jobright.ai/jobs/info/67f74cfeaadfcc406b3e4980?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
+| **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f73f80d186ca1fde900ed2?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Apr 09 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f73f80d186ca1fde900ed1?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
+| **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Commercial Business Associate - Summer Internship 2025](https://jobright.ai/jobs/info/67f739c1571176c497471800?utm_campaign=1067&utm_source=git)** | Little Chute, WI | On Site | Apr 09 |
 | **[Equus Software](http://equusoft.com)** | **[Internship - Global Mobility Business Analyst - Summer 2025](https://jobright.ai/jobs/info/67f713129208002f2a3e9584?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Apr 09 |
 | **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8ef5?utm_campaign=1067&utm_source=git)** | Arlington Virginia, United States | On Site | Apr 09 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8eee?utm_campaign=1067&utm_source=git)** | Seattle, Washington United States | On Site | Apr 09 |
 | **[Ansell](https://www.ansell.com/)** | **[Salesforce Business Analyst Intern](https://jobright.ai/jobs/info/67f6e244c380c14443dbb3f1?utm_campaign=1067&utm_source=git)** | Iselin, NJ | Hybrid | Apr 09 |
 | **[ASML](https://www.asml.com)** | **[Co-op/Internship Business Process Analyst](https://jobright.ai/jobs/info/67f6bbec50b95091d9bbf5c2?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | Hybrid | Apr 09 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analyst <Pittsburgh, PA>](https://jobright.ai/jobs/info/67f756916be946622b3a6595?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 09 |
+| ↳ | **[SAP iXp Intern - Business Analytics & Project Management](https://jobright.ai/jobs/info/67f756916be946622b3a662d?utm_campaign=1067&utm_source=git)** | Tempe, AZ | Hybrid | Apr 09 |
 | **[Qlik](https://www.qlik.com/)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/67f68ec61897aeda809a5ce8?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Apr 09 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67f6cb0d3cc9326bba08a6b8?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | Hybrid | Apr 09 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[Systems Business Analyst - Supply Chain Summer Internship 2025](https://jobright.ai/jobs/info/67d9c730950e35c528bf4e6a?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | Hybrid | Apr 09 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228b9?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[Business Analyst Intern, Salesforce](https://jobright.ai/jobs/info/67da1f5737118ce899db6d84?utm_campaign=1067&utm_source=git)** | Rochester, NY | On Site | Apr 09 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management](https://jobright.ai/jobs/info/67f756916be946622b3a6680?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 09 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern- Health Operations Support and Stabilization](https://jobright.ai/jobs/info/67bcfcbbd7a7d3eef0f9c296?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Motion](https://www.motion.com)** | **[Business Analyst - Warehouse Management System Intern](https://jobright.ai/jobs/info/67d9eb0e88edd3b68dca9d28?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[Jabil](https://www.jabil.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6566ab0bfe2dc344481ec?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Apr 09 |
@@ -78,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Hasbro](https://investor.hasbro.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67ecb0cc88ed86fe2099be80?utm_campaign=1067&utm_source=git)** | Pawtucket, RI | On Site | Apr 08 |
 | **[Juniper Networks](http://www.juniper.net)** | **[Business Operations Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67f61ac3bb168e8b5831f520?utm_campaign=1067&utm_source=git)** | Westford, MA | On Site | Apr 07 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d773d8?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Apr 07 |
-| ↳ | **[Business Applications Intern - Summer 2025](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d773f4?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Apr 07 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/67f417ee0d6b2da5f6f7fb94?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 07 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/67f417ee0d6b2da5f6f7fcb1?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | Apr 07 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f5552635ea7273c9230684?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 07 |
@@ -92,9 +98,7 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9aa3959bb86f231fd907e?utm_campaign=1067&utm_source=git)** | Rochester, NY | Hybrid | Apr 05 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4b28b89530ed00f088487?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 05 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Summer 2025- CIPHER](https://jobright.ai/jobs/info/67f084045ce27685bc86b086?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
-| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524ba9e?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be31?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9952e1e7628564cd1d3e2?utm_campaign=1067&utm_source=git)** | Greater St. George Area | Hybrid | Apr 03 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67ad796906c1d906714c8fee?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 03 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/67eed4e10bdb919a84e179ee?utm_campaign=1067&utm_source=git)** | Illinois, United States | Remote | Apr 03 |
-| ↳ | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/67ee9d6e9820bff17f80be22?utm_campaign=1067&utm_source=git)** | Virtual, IL, USA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
