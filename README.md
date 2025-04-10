@@ -57,19 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Resources](http://www.njresources.com/)** | **[3600 Intern-1000 NJR CEV III](https://jobright.ai/jobs/info/67f814def5491ea187a6ff83?utm_campaign=1067&utm_source=git)** | Wall Corporate Office, Wall, New Jersey, United States of America | On Site | Apr 10 |
+| **[Veolia North America](http://growingblue.com/)** | **[Junior Business Analyst Intern](https://jobright.ai/jobs/info/67f81764d88f8155040a71a5?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 10 |
+| **[AAA Northern California, Nevada & Utah](https://calstate.aaa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/67f7f92a2b3a422c1124e4ff?utm_campaign=1067&utm_source=git)** | Walnut Creek, CA | Hybrid | Apr 10 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/67f7c9a76714bc3dc2b36a8f?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Process Improvement Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f7c6da81089cbf4c6eb3fb?utm_campaign=1067&utm_source=git)** | Oakland, CA | On Site | Apr 10 |
 | ↳ | **[Business Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f7c6da81089cbf4c6eb555?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 10 |
-| **[Veolia North America](http://growingblue.com/)** | **[Intern - Junior Business Analyst](https://jobright.ai/jobs/info/67e1eb23520d884fcbf06de2?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 10 |
+| **[Fiserv](http://www.fiserv.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/67f7d0968e8f329e12938cb4?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Apr 10 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/67f7bb1379f363f95fdc1b59?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 10 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern (Information Technology)](https://jobright.ai/jobs/info/67f74cfeaadfcc406b3e4980?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
 | **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f73f80d186ca1fde900ed2?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Apr 09 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f73f80d186ca1fde900ed1?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Commercial Business Associate - Summer Internship 2025](https://jobright.ai/jobs/info/67f739c1571176c497471800?utm_campaign=1067&utm_source=git)** | Little Chute, WI | On Site | Apr 09 |
 | **[Equus Software](http://equusoft.com)** | **[Internship - Global Mobility Business Analyst - Summer 2025](https://jobright.ai/jobs/info/67f713129208002f2a3e9584?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Apr 09 |
-| **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8ef5?utm_campaign=1067&utm_source=git)** | Arlington Virginia, United States | On Site | Apr 09 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8eee?utm_campaign=1067&utm_source=git)** | Seattle, Washington United States | On Site | Apr 09 |
-| **[Ansell](https://www.ansell.com/)** | **[Salesforce Business Analyst Intern](https://jobright.ai/jobs/info/67f6e244c380c14443dbb3f1?utm_campaign=1067&utm_source=git)** | Iselin, NJ | Hybrid | Apr 09 |
+| **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8eee?utm_campaign=1067&utm_source=git)** | Seattle, Washington United States | On Site | Apr 09 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8ef5?utm_campaign=1067&utm_source=git)** | Arlington Virginia, United States | On Site | Apr 09 |
 | **[ASML](https://www.asml.com)** | **[Co-op/Internship Business Process Analyst](https://jobright.ai/jobs/info/67f6bbec50b95091d9bbf5c2?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | Hybrid | Apr 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analyst <Pittsburgh, PA>](https://jobright.ai/jobs/info/67f756916be946622b3a6595?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 09 |
 | ↳ | **[SAP iXp Intern - Business Analytics & Project Management](https://jobright.ai/jobs/info/67f756916be946622b3a662d?utm_campaign=1067&utm_source=git)** | Tempe, AZ | Hybrid | Apr 09 |
@@ -96,14 +98,11 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f5552635ea7273c9230684?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 07 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67f3e0f0649732861f4e9590?utm_campaign=1067&utm_source=git)** | Montvale, NJ | On Site | Apr 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f3bef737c2a27e4cf94bcc?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 07 |
-| ↳ | **[Process Improvement Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f3bef737c2a27e4cf94bdd?utm_campaign=1067&utm_source=git)** | Oakland, CA | On Site | Apr 07 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/67f3c0abed63755b22b59b8e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 07 |
 | **[Juniper Networks](http://www.juniper.net)** | **[Business Operations Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67f318ec6a5b1cf7d1d4c1e0?utm_campaign=1067&utm_source=git)** | 10 Technology Park Drive, Westford, MA, 01886, US | On Site | Apr 06 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Connectivity Solutions – Process Analyst Intern / Summer Internship 2025](https://jobright.ai/jobs/info/67d43f8b5eab21cc1bf7fb30?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Apr 06 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9aa3959bb86f231fd907e?utm_campaign=1067&utm_source=git)** | Rochester, NY | Hybrid | Apr 05 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4b28b89530ed00f088487?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 05 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Summer 2025- CIPHER](https://jobright.ai/jobs/info/67f084045ce27685bc86b086?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be31?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9952e1e7628564cd1d3e2?utm_campaign=1067&utm_source=git)** | Greater St. George Area | Hybrid | Apr 03 |
-| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67ad796906c1d906714c8fee?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
