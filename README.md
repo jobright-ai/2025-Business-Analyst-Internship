@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8eee?utm_campaign=1067&utm_source=git)** | Seattle, Washington United States | On Site | Apr 09 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8ef5?utm_campaign=1067&utm_source=git)** | Arlington Virginia, United States | On Site | Apr 09 |
+| **[Equus Software](http://equusoft.com)** | **[Internship - Global Mobility Business Analyst - Summer 2025](https://jobright.ai/jobs/info/67f713129208002f2a3e9584?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Apr 09 |
+| **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8ef5?utm_campaign=1067&utm_source=git)** | Arlington Virginia, United States | On Site | Apr 09 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8eee?utm_campaign=1067&utm_source=git)** | Seattle, Washington United States | On Site | Apr 09 |
 | **[Ansell](https://www.ansell.com/)** | **[Salesforce Business Analyst Intern](https://jobright.ai/jobs/info/67f6e244c380c14443dbb3f1?utm_campaign=1067&utm_source=git)** | Iselin, NJ | Hybrid | Apr 09 |
 | **[ASML](https://www.asml.com)** | **[Co-op/Internship Business Process Analyst](https://jobright.ai/jobs/info/67f6bbec50b95091d9bbf5c2?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | Hybrid | Apr 09 |
 | **[Qlik](https://www.qlik.com/)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/67f68ec61897aeda809a5ce8?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Apr 09 |
@@ -91,10 +92,9 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9aa3959bb86f231fd907e?utm_campaign=1067&utm_source=git)** | Rochester, NY | Hybrid | Apr 05 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67d4b28b89530ed00f088487?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 05 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Summer 2025- CIPHER](https://jobright.ai/jobs/info/67f084045ce27685bc86b086?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
-| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be31?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524ba9e?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9952e1e7628564cd1d3e2?utm_campaign=1067&utm_source=git)** | Greater St. George Area | Hybrid | Apr 03 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67ad796906c1d906714c8fee?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 03 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/67eed4e10bdb919a84e179ee?utm_campaign=1067&utm_source=git)** | Illinois, United States | Remote | Apr 03 |
 | ↳ | **[Business Analyst, Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/67ee9d6e9820bff17f80be22?utm_campaign=1067&utm_source=git)** | Virtual, IL, USA | On Site | Apr 03 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67b744931514ab9b323b3f0b?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
