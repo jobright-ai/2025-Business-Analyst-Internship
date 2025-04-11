@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/67f8c1fa51f3dec91029356d?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Apr 11 |
+| **[East West Bank](http://eastwestbank.com)** | **[Intern - Business Operations Analyst](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146fd8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[3600 Intern-1000 NJR CEV III](https://jobright.ai/jobs/info/67f88605c8e25010d3343e5d?utm_campaign=1067&utm_source=git)** | Wall, NJ | Hybrid | Apr 10 |
 | ↳ | **[3600 Intern-1000 NJR CEV III](https://jobright.ai/jobs/info/67f814def5491ea187a6ff83?utm_campaign=1067&utm_source=git)** | Wall Corporate Office, Wall, New Jersey, United States of America | On Site | Apr 10 |
 | **[Veolia North America](http://growingblue.com/)** | **[Junior Business Analyst Intern](https://jobright.ai/jobs/info/67f81764d88f8155040a71a5?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 10 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f73f80d186ca1fde900ed2?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Apr 09 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Commercial Business Associate - Summer Internship 2025](https://jobright.ai/jobs/info/67f739c1571176c497471800?utm_campaign=1067&utm_source=git)** | Little Chute, WI | On Site | Apr 09 |
 | **[Equus Software](http://equusoft.com)** | **[Internship - Global Mobility Business Analyst - Summer 2025](https://jobright.ai/jobs/info/67f713129208002f2a3e9584?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Apr 09 |
-| **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8eee?utm_campaign=1067&utm_source=git)** | Seattle, Washington United States | On Site | Apr 09 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8ef5?utm_campaign=1067&utm_source=git)** | Arlington Virginia, United States | On Site | Apr 09 |
+| **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8ef5?utm_campaign=1067&utm_source=git)** | Arlington Virginia, United States | On Site | Apr 09 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8eee?utm_campaign=1067&utm_source=git)** | Seattle, Washington United States | On Site | Apr 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analyst <Pittsburgh, PA>](https://jobright.ai/jobs/info/67f756916be946622b3a6595?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 09 |
 | **[Qlik](https://www.qlik.com/)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/67f68ec61897aeda809a5ce8?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Apr 09 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/67f6cb0d3cc9326bba08a6b8?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | Hybrid | Apr 09 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6566ab0bfe2dc344481ec?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Apr 09 |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f6433dcf531ab0dbe44c29?utm_campaign=1067&utm_source=git)** | Cambridge, MA | Hybrid | Apr 09 |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f58f06fc878e400ba14e52?utm_campaign=1067&utm_source=git)** | Cambridge, Massachusetts | Hybrid | Apr 08 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2025 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/67f5410062d4965ae67c4e20?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Apr 08 |
 | **[Jabil](https://www.jabil.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f52ec21fcc44bfe0767ddd?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Apr 08 |
 | **[Hasbro](https://investor.hasbro.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67ecb0cc88ed86fe2099be80?utm_campaign=1067&utm_source=git)** | Pawtucket, RI | On Site | Apr 08 |
 | **[Juniper Networks](http://www.juniper.net)** | **[Business Operations Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67f61ac3bb168e8b5831f520?utm_campaign=1067&utm_source=git)** | Westford, MA | On Site | Apr 07 |
