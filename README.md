@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern](https://jobright.ai/jobs/info/67f961f658c83376d84b991a?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 11 |
+| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67c0bc00df4be2782abc126e?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | Apr 11 |
+| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67f1bd8323adf4fd68e2304b?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Operations Data Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/67f90a45f0f7e98f5ee2ebf2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Business Analyst - ERP Management](https://jobright.ai/jobs/info/67f8c1fa51f3dec91029356d?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Apr 11 |
 | **[East West Bank](http://eastwestbank.com)** | **[Intern - Business Operations Analyst](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146fd8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[3600 Intern-1000 NJR CEV III](https://jobright.ai/jobs/info/67f88605c8e25010d3343e5d?utm_campaign=1067&utm_source=git)** | Wall, NJ | Hybrid | Apr 10 |
-| ↳ | **[3600 Intern-1000 NJR CEV III](https://jobright.ai/jobs/info/67f814def5491ea187a6ff83?utm_campaign=1067&utm_source=git)** | Wall Corporate Office, Wall, New Jersey, United States of America | On Site | Apr 10 |
-| **[Veolia North America](http://growingblue.com/)** | **[Junior Business Analyst Intern](https://jobright.ai/jobs/info/67f81764d88f8155040a71a5?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Business Technology Advisory – Intern (2025)](https://jobright.ai/jobs/info/67f8fb42874a080c6190a6d9?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Apr 10 |
 | **[AAA Northern California, Nevada & Utah](https://calstate.aaa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/67f7f92a2b3a422c1124e4ff?utm_campaign=1067&utm_source=git)** | Walnut Creek, CA | Hybrid | Apr 10 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/67f7c9a76714bc3dc2b36a8f?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 10 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/67f7bb1379f363f95fdc1b59?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 10 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab44?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | On Site | Apr 10 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern (Information Technology)](https://jobright.ai/jobs/info/67f74cfeaadfcc406b3e4980?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
-| **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f73f80d186ca1fde900ed2?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Apr 09 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f73f80d186ca1fde900ed1?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
+| **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f73f80d186ca1fde900ed1?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f73f80d186ca1fde900ed2?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Apr 09 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Commercial Business Associate - Summer Internship 2025](https://jobright.ai/jobs/info/67f739c1571176c497471800?utm_campaign=1067&utm_source=git)** | Little Chute, WI | On Site | Apr 09 |
 | **[Equus Software](http://equusoft.com)** | **[Internship - Global Mobility Business Analyst - Summer 2025](https://jobright.ai/jobs/info/67f713129208002f2a3e9584?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Apr 09 |
 | **[Remitly](http://www.remitly.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f6f389112291636a8f8eee?utm_campaign=1067&utm_source=git)** | Seattle, Washington United States | On Site | Apr 09 |
@@ -102,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Juniper Networks](http://www.juniper.net)** | **[Business Operations Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67f318ec6a5b1cf7d1d4c1e0?utm_campaign=1067&utm_source=git)** | 10 Technology Park Drive, Westford, MA, 01886, US | On Site | Apr 06 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Connectivity Solutions – Process Analyst Intern / Summer Internship 2025](https://jobright.ai/jobs/info/67d43f8b5eab21cc1bf7fb30?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Apr 06 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Architect, Internship](https://jobright.ai/jobs/info/67c9aa3959bb86f231fd907e?utm_campaign=1067&utm_source=git)** | Rochester, NY | Hybrid | Apr 05 |
-| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Summer 2025- CIPHER](https://jobright.ai/jobs/info/67f084045ce27685bc86b086?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
