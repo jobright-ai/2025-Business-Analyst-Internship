@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ecacd04f6cea2cf8db69fa?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 13 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Retail Business Analyst - New York, NY - Corporate Office](https://jobright.ai/jobs/info/67ddaf48ace53adbd4e40b7c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 12 |
-| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Business Administrator, Internal Medicine, Division of Cardiovascular Health and Diseases](https://jobright.ai/jobs/info/67fadc6aed664c592a3c745f?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Apr 12 |
 | **[AAA Northern California, Nevada & Utah](https://calstate.aaa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/67f7f92a2b3a422c1124e4ff?utm_campaign=1067&utm_source=git)** | Walnut Creek, CA | Hybrid | Apr 12 |
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f9cc0a140d249cb6c9f34a?utm_campaign=1067&utm_source=git)** | Pueblo, CO | On Site | Apr 11 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[INTERN - Business Systems Analyst](https://jobright.ai/jobs/info/67f98b152f9e8e0aad1ab2af?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 11 |
@@ -98,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Real Projectives®](https://www.realprojectives.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/67f77daa89d707850aecb8db?utm_campaign=1067&utm_source=git)** | Laurel, MD | On Site | Apr 09 |
 | **[Motion](https://www.motion.com)** | **[Business Analyst - Warehouse Management System Intern](https://jobright.ai/jobs/info/67d9eb0e88edd3b68dca9d28?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f6433dcf531ab0dbe44c29?utm_campaign=1067&utm_source=git)** | Cambridge, MA | Hybrid | Apr 09 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67fc7e2d15089fd51db1fda3?utm_campaign=1067&utm_source=git)** | La Crosse, WI | Hybrid | Apr 08 |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f58f06fc878e400ba14e52?utm_campaign=1067&utm_source=git)** | Cambridge, Massachusetts | Hybrid | Apr 08 |
 | **[Hasbro](https://investor.hasbro.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67ecb0cc88ed86fe2099be80?utm_campaign=1067&utm_source=git)** | Pawtucket, RI | On Site | Apr 08 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern - Summer 2025](https://jobright.ai/jobs/info/67fa034d31e8748f39990789?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Apr 07 |
