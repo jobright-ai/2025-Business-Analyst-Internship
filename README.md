@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67fdc9c087a293a1d9565235?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Apr 14 |
+| **[Smart Data Solutions](https://sdata.us/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67fdc2e0fe5908c01da72f8c?utm_campaign=1067&utm_source=git)** | Eagan, MN | Hybrid | Apr 14 |
 | **[Contentstack](http://www.contentstack.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/67fd842f377cb4e03b6a2fb1?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Apr 14 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Strategy and Transformation Services Summer Intern - Business Analyst](https://jobright.ai/jobs/info/67fd7bbb802c56091dd5af51?utm_campaign=1067&utm_source=git)** | New Orleans | On Site | Apr 14 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 14 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67f1bd8323adf4fd68e2304b?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2025 Intern](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecbc?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Operations Data Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/67f90a45f0f7e98f5ee2ebf2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 11 |
-| **[East West Bank](http://eastwestbank.com)** | **[Intern - Business Operations Analyst](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146fd8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/67f7c9a76714bc3dc2b36a8f?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Process Improvement Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f7c6da81089cbf4c6eb3fb?utm_campaign=1067&utm_source=git)** | Oakland, CA | On Site | Apr 10 |
 | ↳ | **[Business Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/67f7c6da81089cbf4c6eb555?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 10 |
