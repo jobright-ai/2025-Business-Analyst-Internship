@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228b9?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[DXC Technology](https://www.dxc.com)** | **[Business Analyst - Non- technical intern (US Remote)](https://jobright.ai/jobs/info/67ff4d474e11c0810371d856?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Remote | Apr 15 |
 | ↳ | **[Business Analyst - Technical Intern (US Remote)](https://jobright.ai/jobs/info/67ff4d474e11c0810371d854?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Remote | Apr 15 |
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Intern, Digital Appliance Business Analyst](https://jobright.ai/jobs/info/67fee9344d855e1e823d9b60?utm_campaign=1067&utm_source=git)** | Ridgefield Park, NJ | On Site | Apr 15 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Apr 13 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Retail Business Analyst - New York, NY - Corporate Office](https://jobright.ai/jobs/info/67ddaf48ace53adbd4e40b7c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f9cc0a140d249cb6c9f34a?utm_campaign=1067&utm_source=git)** | Pueblo, CO | On Site | Apr 11 |
-| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[INTERN - Business Systems Analyst](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6a3a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 11 |
+| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[INTERN - Business Systems Analyst](https://jobright.ai/jobs/info/67f98b152f9e8e0aad1ab2af?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 11 |
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f97b0260ff6efebaad6e6d?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | On Site | Apr 11 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern](https://jobright.ai/jobs/info/67f961f658c83376d84b991a?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 11 |
 | **[Veolia North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f96c0545eb5314dbe410df?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 11 |
