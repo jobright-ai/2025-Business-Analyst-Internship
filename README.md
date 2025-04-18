@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FLEETCOR](http://www.fleetcor.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6801aa839bbcfb8afeacae07?utm_campaign=1067&utm_source=git)** | Buckhead, Atlanta, GA, USA | On Site | Apr 17 |
 | **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c732?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 17 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Apr 17 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Summer Business Analyst Internship (Jersey City)](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c1e1?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 17 |
-| **[JanBask - IT Services & Consulting](http://www.janbask.com)** | **[Internship-Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c2be?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Apr 17 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Systems Intern (Intern Program)](https://jobright.ai/jobs/info/680167ad2c9ac6ed7c1ec14e?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Remote | Apr 17 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68015f9679c5070a0f2f1f62?utm_campaign=1067&utm_source=git)** | Buckhead, GA | On Site | Apr 17 |
 | **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68011bef3001ca4c5a9d4cbf?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | Apr 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture <Newtown Square, PA>](https://jobright.ai/jobs/info/68009659f73aa5e1e85c61ac?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 16 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/68007a01a233034053719e23?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
+| **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/68007a01a233034053719e22?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
 | ↳ | **[Business Services Intern](https://jobright.ai/jobs/info/680069c78459e4ac4fff3d6c?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Business Intern Wyoming Medical Center](https://jobright.ai/jobs/info/680060b838b71c1b2ee51374?utm_campaign=1067&utm_source=git)** | Casper, WY | On Site | Apr 16 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Architecture Intern](https://jobright.ai/jobs/info/67e33212129b8df174369383?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Apr 16 |
