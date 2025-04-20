@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/68040e21c19f5608c7ec42e2?utm_campaign=1067&utm_source=git)** | Glen Burnie, MD | On Site | Apr 19 |
 | **[Virginia Department of Transportation](https://www.mrc.virginia.gov/)** | **[Business Intern Wage](https://jobright.ai/jobs/info/68030861f8e23452513f386d?utm_campaign=1067&utm_source=git)** | Staunton, VA | On Site | Apr 18 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6a3a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 18 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/6802c1e42333bd3e0028d573?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 18 |
