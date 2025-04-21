@@ -76,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[HX5, LLC](http://hxfive.com)** | **[Business Office Intern](https://jobright.ai/jobs/info/67fe6aae301991810626f6e7?utm_campaign=1067&utm_source=git)** | Greater Cleveland | On Site | Apr 15 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 14 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3fd5?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | Apr 14 |
+| **[Throtle](https://throtle.io)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6806100b1b2cb634f596508f?utm_campaign=1067&utm_source=git)** | Red Bank, NJ | On Site | Apr 13 |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ecacd04f6cea2cf8db69fa?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Apr 13 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Retail Business Analyst - New York, NY - Corporate Office](https://jobright.ai/jobs/info/67ddaf48ace53adbd4e40b7c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 12 |
@@ -102,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern - Summer 2025](https://jobright.ai/jobs/info/67fa034d31e8748f39990789?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Apr 07 |
 | ↳ | **[Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d773d8?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Apr 07 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/67f417ee0d6b2da5f6f7fb94?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 07 |
-| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/67f3e0f0649732861f4e9590?utm_campaign=1067&utm_source=git)** | Montvale, NJ | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
