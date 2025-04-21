@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[Business Operations Internship](https://jobright.ai/jobs/info/680648cc4db2f10bef573fff?utm_campaign=1067&utm_source=git)** | Shelby Township, MI | On Site | Apr 21 |
-| **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/68061afb7abe5676aef361df?utm_campaign=1067&utm_source=git)** | Glen Burnie, MD | On Site | Apr 21 |
+| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/68067db54f1fd6d1efe95680?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 21 |
+| **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[General Business Internship](https://jobright.ai/jobs/info/68064d4d2429f7c13c041284?utm_campaign=1067&utm_source=git)** | Shelby Township, MI | On Site | Apr 21 |
+| ↳ | **[Business Operations Internship](https://jobright.ai/jobs/info/680648cc4db2f10bef573fff?utm_campaign=1067&utm_source=git)** | Shelby Township, MI | On Site | Apr 21 |
 | **[Virginia Department of Transportation](https://www.mrc.virginia.gov/)** | **[Business Intern Wage](https://jobright.ai/jobs/info/68030861f8e23452513f386d?utm_campaign=1067&utm_source=git)** | Staunton, VA | On Site | Apr 18 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6a3a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 18 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/6802c1e42333bd3e0028d573?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 18 |
-| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c732?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 17 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Apr 17 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Summer Business Analyst Internship (Jersey City)](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c1e1?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 17 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Systems Intern (Intern Program)](https://jobright.ai/jobs/info/680167ad2c9ac6ed7c1ec14e?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Remote | Apr 17 |
