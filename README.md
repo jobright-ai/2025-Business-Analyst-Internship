@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[Business Operations Internship](https://jobright.ai/jobs/info/680648cc4db2f10bef573fff?utm_campaign=1067&utm_source=git)** | Shelby Township, MI | On Site | Apr 21 |
+| **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/68061afb7abe5676aef361df?utm_campaign=1067&utm_source=git)** | Glen Burnie, MD | On Site | Apr 21 |
 | **[Virginia Department of Transportation](https://www.mrc.virginia.gov/)** | **[Business Intern Wage](https://jobright.ai/jobs/info/68030861f8e23452513f386d?utm_campaign=1067&utm_source=git)** | Staunton, VA | On Site | Apr 18 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6a3a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 18 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/6802c1e42333bd3e0028d573?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 18 |
-| **[Veolia North America](http://www.veolianorthamerica.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c732?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 17 |
+| **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c732?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 17 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Apr 17 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Summer Business Analyst Internship (Jersey City)](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c1e1?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 17 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Systems Intern (Intern Program)](https://jobright.ai/jobs/info/680167ad2c9ac6ed7c1ec14e?utm_campaign=1067&utm_source=git)** | Beachwood, OH | Remote | Apr 17 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[HX5, LLC](http://hxfive.com)** | **[Business Office Intern](https://jobright.ai/jobs/info/67fe6aae301991810626f6e7?utm_campaign=1067&utm_source=git)** | Greater Cleveland | On Site | Apr 15 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 14 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3fd5?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | Apr 14 |
-| **[Throtle](https://throtle.io)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6806100b1b2cb634f596508f?utm_campaign=1067&utm_source=git)** | Red Bank, NJ | On Site | Apr 13 |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67ecacd04f6cea2cf8db69fa?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Apr 13 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Retail Business Analyst - New York, NY - Corporate Office](https://jobright.ai/jobs/info/67ddaf48ace53adbd4e40b7c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 12 |
@@ -101,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f6433dcf531ab0dbe44c29?utm_campaign=1067&utm_source=git)** | Cambridge, MA | Hybrid | Apr 09 |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f58f06fc878e400ba14e52?utm_campaign=1067&utm_source=git)** | Cambridge, Massachusetts | Hybrid | Apr 08 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern - Summer 2025](https://jobright.ai/jobs/info/67fa034d31e8748f39990789?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Apr 07 |
-| ↳ | **[Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d773d8?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Apr 07 |
-| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/67f417ee0d6b2da5f6f7fb94?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
