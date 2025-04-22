@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b97c?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Apr 22 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b8c8?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Apr 22 |
 | **[A F Services Inc.](https://afserv.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6806ee2495f3e5891455e239?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Apr 21 |
-| **[AbbVie](https://www.abbvie.com)** | **[2025 Business Technology Solutions Externship](https://jobright.ai/jobs/info/6806d884cf27822fad9f0e81?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Apr 21 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Business Solutions/Technical Operations Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f86?utm_campaign=1067&utm_source=git)** | Universal City, CA | On Site | Apr 21 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Business Solutions/Technical Operations Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806a45b367efd9b593a9602?utm_campaign=1067&utm_source=git)** | 100 Universal City Plaza, Universal City, CA 91608, USA | On Site | Apr 21 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/6806a271cbff36767b268232?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Apr 21 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6a3a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 21 |
 | **[Veolia North America](http://growingblue.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/68067db54f1fd6d1efe95680?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 21 |
-| **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[General Business Internship](https://jobright.ai/jobs/info/68064d4d2429f7c13c041284?utm_campaign=1067&utm_source=git)** | Shelby Township, MI | On Site | Apr 21 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/6802c1e42333bd3e0028d573?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 18 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Apr 17 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Summer Business Analyst Internship (Jersey City)](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c1e1?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 17 |
@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Real Projectives®](https://www.realprojectives.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/67f77daa89d707850aecb8db?utm_campaign=1067&utm_source=git)** | Laurel, MD | On Site | Apr 09 |
 | **[Motion](https://www.motion.com)** | **[Business Analyst - Warehouse Management System Intern](https://jobright.ai/jobs/info/67d9eb0e88edd3b68dca9d28?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f6433dcf531ab0dbe44c29?utm_campaign=1067&utm_source=git)** | Cambridge, MA | Hybrid | Apr 09 |
-| **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f58f06fc878e400ba14e52?utm_campaign=1067&utm_source=git)** | Cambridge, Massachusetts | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
