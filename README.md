@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A F Services Inc.](https://afserv.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6806ee2495f3e5891455e239?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Apr 21 |
+| **[Weidmann Electrical Technology](https://www.weidmann-electrical.com/)** | **[Business Process Reengineering Intern](https://jobright.ai/jobs/info/6806ea3e4ab1fdb33c4afb1d?utm_campaign=1067&utm_source=git)** | Urbana, OH | On Site | Apr 21 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Business Technology Solutions Externship](https://jobright.ai/jobs/info/6806d884cf27822fad9f0e81?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Apr 21 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Business Solutions/Technical Operations Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f86?utm_campaign=1067&utm_source=git)** | Universal City, CA | On Site | Apr 21 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Business Solutions/Technical Operations Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806a45b367efd9b593a9602?utm_campaign=1067&utm_source=git)** | 100 Universal City Plaza, Universal City, CA 91608, USA | On Site | Apr 21 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f97b0260ff6efebaad6e6d?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | On Site | Apr 11 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern](https://jobright.ai/jobs/info/67f961f658c83376d84b991a?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 11 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[Business Technology Intern](https://jobright.ai/jobs/info/67fa1caff07aa44f6e5c0719?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 11 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67f1bd8323adf4fd68e2304b?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Operations Data Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/67f90a45f0f7e98f5ee2ebf2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Process Improvement Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/6800d8f7859d966db6af3cf8?utm_campaign=1067&utm_source=git)** | Oakland, CA | On Site | Apr 10 |
 | ↳ | **[Business Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/6800daaf859d966db6af3f57?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 10 |
