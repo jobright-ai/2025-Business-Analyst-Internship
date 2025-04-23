@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/6808435e846671f16299826d?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 22 |
 | **[Abacus Insights](https://abacusinsights.com)** | **[Technical Business Analyst - Post Grad Intern](https://jobright.ai/jobs/info/6808034d89ea5d9449bad771?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/6802c1e42333bd3e0028d573?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 22 |
-| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b8c8?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Apr 22 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b97c?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Apr 22 |
+| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b97c?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Apr 22 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b8c8?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Apr 22 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa54918?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Apr 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Apr 22 |
 | **[A F Services Inc.](https://afserv.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6806ee2495f3e5891455e239?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Apr 21 |
@@ -96,9 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Commercial Business Associate - Summer Internship 2025](https://jobright.ai/jobs/info/67f739c1571176c497471800?utm_campaign=1067&utm_source=git)** | Little Chute, WI | On Site | Apr 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analyst <Pittsburgh, PA>](https://jobright.ai/jobs/info/67f756916be946622b3a6595?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 09 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[Systems Business Analyst - Supply Chain Summer Internship 2025](https://jobright.ai/jobs/info/67d9c730950e35c528bf4e6a?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | Hybrid | Apr 09 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management](https://jobright.ai/jobs/info/67f756916be946622b3a6680?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 09 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern- Health Operations Support and Stabilization](https://jobright.ai/jobs/info/67bcfcbbd7a7d3eef0f9c296?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Real Projectives®](https://www.realprojectives.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/67f77daa89d707850aecb8db?utm_campaign=1067&utm_source=git)** | Laurel, MD | On Site | Apr 09 |
 | **[Motion](https://www.motion.com)** | **[Business Analyst - Warehouse Management System Intern](https://jobright.ai/jobs/info/67d9eb0e88edd3b68dca9d28?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
-| **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/67f6433dcf531ab0dbe44c29?utm_campaign=1067&utm_source=git)** | Cambridge, MA | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
