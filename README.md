@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 Business Technology Solutions Externship](https://jobright.ai/jobs/info/68092d3d29b816ffa014a076?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Apr 23 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c33d?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 22 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/6808435e846671f16299826d?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 22 |
 | **[Abacus Insights](https://abacusinsights.com)** | **[Technical Business Analyst - Post Grad Intern](https://jobright.ai/jobs/info/6808034d89ea5d9449bad771?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/6802c1e42333bd3e0028d573?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 22 |
-| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b97c?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Apr 22 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b8c8?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Apr 22 |
+| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b8c8?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Apr 22 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b97c?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Apr 22 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa54918?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Apr 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Apr 22 |
+| **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/67cf061657e2f3baed6c4085?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Apr 22 |
 | **[A F Services Inc.](https://afserv.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6806ee2495f3e5891455e239?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Apr 21 |
 | **[Amentum](https://www.amentum.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807efb43ecc744688a2a0f3?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Apr 21 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Business Solutions/Technical Operations Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f86?utm_campaign=1067&utm_source=git)** | Universal City, CA | On Site | Apr 21 |
