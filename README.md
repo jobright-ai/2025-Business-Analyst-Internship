@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c33d?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 22 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/6808435e846671f16299826d?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 22 |
 | **[Abacus Insights](https://abacusinsights.com)** | **[Technical Business Analyst - Post Grad Intern](https://jobright.ai/jobs/info/6808034d89ea5d9449bad771?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/6802c1e42333bd3e0028d573?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 22 |
@@ -95,9 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/67f7bb1379f363f95fdc1b59?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 10 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68008efdada0c4e5ba613899?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | On Site | Apr 09 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Commercial Business Associate - Summer Internship 2025](https://jobright.ai/jobs/info/67f739c1571176c497471800?utm_campaign=1067&utm_source=git)** | Little Chute, WI | On Site | Apr 09 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analyst <Pittsburgh, PA>](https://jobright.ai/jobs/info/67f756916be946622b3a6595?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 09 |
-| **[Nexteer Automotive](http://www.nexteer.com/)** | **[Systems Business Analyst - Supply Chain Summer Internship 2025](https://jobright.ai/jobs/info/67d9c730950e35c528bf4e6a?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | Hybrid | Apr 09 |
-| **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern- Health Operations Support and Stabilization](https://jobright.ai/jobs/info/67bcfcbbd7a7d3eef0f9c296?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 09 |
-| **[Real Projectives®](https://www.realprojectives.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/67f77daa89d707850aecb8db?utm_campaign=1067&utm_source=git)** | Laurel, MD | On Site | Apr 09 |
-| **[Motion](https://www.motion.com)** | **[Business Analyst - Warehouse Management System Intern](https://jobright.ai/jobs/info/67d9eb0e88edd3b68dca9d28?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
