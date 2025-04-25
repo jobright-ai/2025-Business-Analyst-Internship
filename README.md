@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Business Analyst](https://jobright.ai/jobs/info/680b900edd6538e153be4471?utm_campaign=1067&utm_source=git)** | Okemos, MI | Hybrid | Apr 25 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/680bdc55eae6489e75b5b308?utm_campaign=1067&utm_source=git)** | Frisco, Texas | On Site | Apr 25 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Business Analyst](https://jobright.ai/jobs/info/680bc91a968f71640d77d923?utm_campaign=1067&utm_source=git)** | Okemos, MI | Hybrid | Apr 25 |
 | **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/680b63a60b9a24c1f30bfad1?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
 | **[Mortenson](https://www.mortenson.com)** | **[Business Analytics Intern / Mortenson](https://jobright.ai/jobs/info/680aef4824377af781cff450?utm_campaign=1067&utm_source=git)** | Minnesota, United States | On Site | Apr 24 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[General Business Intern](https://jobright.ai/jobs/info/680ae63c83bc68c903268754?utm_campaign=1067&utm_source=git)** | Albertville, AL | On Site | Apr 24 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[MARA](www.mara.com)** | **[Business Systems Intern (Summer 2025)](https://jobright.ai/jobs/info/680a9beaf19579cd36d2f359?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 24 |
 | **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/6809a8818d55b24128ed537f?utm_campaign=1067&utm_source=git)** | Redmond, WA | On Site | Apr 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/68097c5c85a9575aab0f5b8a?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
-| **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/68096a67d60f02a233f05ec3?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | On Site | Apr 23 |
+| **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/68096a67d60f02a233f05f2b?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | On Site | Apr 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/6809442a63ee69267688871a?utm_campaign=1067&utm_source=git)** | Illinois - Chicago (W. Monroe) | On Site | Apr 23 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c33d?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 22 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/6808435e846671f16299826d?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 22 |
@@ -98,6 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 14 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3fd5?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | Apr 14 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Apr 13 |
-| **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f9cc0a140d249cb6c9f34a?utm_campaign=1067&utm_source=git)** | Pueblo, CO | On Site | Apr 11 |
-| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[INTERN - Business Systems Analyst](https://jobright.ai/jobs/info/67f98b152f9e8e0aad1ab2af?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
