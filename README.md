@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Business Analyst](https://jobright.ai/jobs/info/680b900edd6538e153be4471?utm_campaign=1067&utm_source=git)** | Okemos, MI | Hybrid | Apr 25 |
+| **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/680b63a60b9a24c1f30bfad1?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
 | **[Mortenson](https://www.mortenson.com)** | **[Business Analytics Intern / Mortenson](https://jobright.ai/jobs/info/680aef4824377af781cff450?utm_campaign=1067&utm_source=git)** | Minnesota, United States | On Site | Apr 24 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[General Business Intern](https://jobright.ai/jobs/info/680ae63c83bc68c903268754?utm_campaign=1067&utm_source=git)** | Albertville, AL | On Site | Apr 24 |
 | ↳ | **[General Business Intern](https://jobright.ai/jobs/info/680ae41b4dddc36df241474f?utm_campaign=1067&utm_source=git)** | Albertville | On Site | Apr 24 |
@@ -64,14 +66,14 @@ For a complete list, click the following sortable link below:
 | **[MARA](www.mara.com)** | **[Business Systems Intern (Summer 2025)](https://jobright.ai/jobs/info/680a9beaf19579cd36d2f359?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 24 |
 | **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/6809a8818d55b24128ed537f?utm_campaign=1067&utm_source=git)** | Redmond, WA | On Site | Apr 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/68097c5c85a9575aab0f5b8a?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
-| **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/68096a67d60f02a233f05f2b?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | On Site | Apr 23 |
+| **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/68096a67d60f02a233f05ec3?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | On Site | Apr 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/6809442a63ee69267688871a?utm_campaign=1067&utm_source=git)** | Illinois - Chicago (W. Monroe) | On Site | Apr 23 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c33d?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 22 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/6808435e846671f16299826d?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 22 |
 | **[Abacus Insights](https://abacusinsights.com)** | **[Technical Business Analyst - Post Grad Intern](https://jobright.ai/jobs/info/6808034d89ea5d9449bad771?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/6802c1e42333bd3e0028d573?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 22 |
-| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b8c8?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Apr 22 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b97c?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Apr 22 |
+| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b97c?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Apr 22 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b8c8?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Apr 22 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa54918?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Apr 22 |
 | **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Apr 22 |
 | **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/67cf061657e2f3baed6c4085?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Apr 22 |
@@ -98,6 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Apr 13 |
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f9cc0a140d249cb6c9f34a?utm_campaign=1067&utm_source=git)** | Pueblo, CO | On Site | Apr 11 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[INTERN - Business Systems Analyst](https://jobright.ai/jobs/info/67f98b152f9e8e0aad1ab2af?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 11 |
-| **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f97b0260ff6efebaad6e6d?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | On Site | Apr 11 |
-| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern](https://jobright.ai/jobs/info/67f961f658c83376d84b991a?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
