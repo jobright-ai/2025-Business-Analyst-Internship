@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kemper](http://kemper.com)** | **[IT Business Systems Intern - Summer 2025](https://jobright.ai/jobs/info/680a684b56a70e11e2c1cc33?utm_campaign=1067&utm_source=git)** | Miami, Florida | Hybrid | Apr 24 |
-| **[Year Up United](http://yearup.org)** | **[Business Internship](https://jobright.ai/jobs/info/680a63ced8ad1c55505b44cc?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Apr 24 |
+| **[MARA](www.mara.com)** | **[Business Systems Intern (Summer 2025)](https://jobright.ai/jobs/info/680a9beaf19579cd36d2f359?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 24 |
 | **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/6809a8818d55b24128ed537f?utm_campaign=1067&utm_source=git)** | Redmond, WA | On Site | Apr 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/68097c5c85a9575aab0f5b8a?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
 | **[Veolia North America](http://www.veolianorthamerica.com/)** | **[New Business Intern](https://jobright.ai/jobs/info/68096ff37efc4d74b101b011?utm_campaign=1067&utm_source=git)** | Hackensack, NJ | On Site | Apr 23 |
-| **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/68096a67d60f02a233f05ec3?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | On Site | Apr 23 |
+| **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/68096a67d60f02a233f05f2b?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | On Site | Apr 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/6809442a63ee69267688871a?utm_campaign=1067&utm_source=git)** | Illinois - Chicago (W. Monroe) | On Site | Apr 23 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c33d?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 22 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/6808435e846671f16299826d?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 22 |
@@ -100,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/67f97b0260ff6efebaad6e6d?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | On Site | Apr 11 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Intern](https://jobright.ai/jobs/info/67f961f658c83376d84b991a?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 11 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[Business Technology Intern](https://jobright.ai/jobs/info/67fa1caff07aa44f6e5c0719?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 11 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Process Improvement Analyst Intern-Undergraduate](https://jobright.ai/jobs/info/6800d8f7859d966db6af3cf8?utm_campaign=1067&utm_source=git)** | Oakland, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
