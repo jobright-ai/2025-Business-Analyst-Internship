@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Business Analyst](https://jobright.ai/jobs/info/680b900edd6538e153be4471?utm_campaign=1067&utm_source=git)** | Okemos, MI | Hybrid | Apr 25 |
 | **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/680b63a60b9a24c1f30bfad1?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
 | **[Mortenson](https://www.mortenson.com)** | **[Business Analytics Intern / Mortenson](https://jobright.ai/jobs/info/680aef4824377af781cff450?utm_campaign=1067&utm_source=git)** | Minnesota, United States | On Site | Apr 24 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[General Business Intern](https://jobright.ai/jobs/info/680d298b2826896aaeb031ce?utm_campaign=1067&utm_source=git)** | Albertville, AL (PRSC Corp HQ) - 001 | On Site | Apr 24 |
-| ↳ | **[General Business Intern](https://jobright.ai/jobs/info/680d298b2826896aaeb0379b?utm_campaign=1067&utm_source=git)** | Albertville | On Site | Apr 24 |
+| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[General Business Intern](https://jobright.ai/jobs/info/680d298b2826896aaeb0379b?utm_campaign=1067&utm_source=git)** | Albertville | On Site | Apr 24 |
+| ↳ | **[General Business Intern](https://jobright.ai/jobs/info/680d298b2826896aaeb031ce?utm_campaign=1067&utm_source=git)** | Albertville, AL (PRSC Corp HQ) - 001 | On Site | Apr 24 |
 | **[MARA](www.mara.com)** | **[Business Systems Intern (Summer 2025)](https://jobright.ai/jobs/info/680a9beaf19579cd36d2f359?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 24 |
 | **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/6809a8818d55b24128ed537f?utm_campaign=1067&utm_source=git)** | Redmond, WA | On Site | Apr 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/68097c5c85a9575aab0f5b8a?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[HX5, LLC](http://hxfive.com)** | **[Business Office Intern](https://jobright.ai/jobs/info/67fe6aae301991810626f6e7?utm_campaign=1067&utm_source=git)** | Greater Cleveland | On Site | Apr 15 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 14 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3fd5?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | Apr 14 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
