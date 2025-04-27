@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Business Administrator, Internal Medicine, Division of Cardiovascular Health and Diseases](https://jobright.ai/jobs/info/680d466edd2407cf1eff25e7?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Apr 26 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/680d1830049ff6b15bb5c9bc?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 26 |
 | **[Mercedes-Benz Financial Services USA LLC](https://www.mbfs.com/home)** | **[Business Analysis and Reporting Internship](https://jobright.ai/jobs/info/680bf259beb11b922d4ecd4f?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/680bdc55eae6489e75b5b308?utm_campaign=1067&utm_source=git)** | Frisco, Texas | On Site | Apr 25 |
@@ -68,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[MARA](www.mara.com)** | **[Business Systems Intern (Summer 2025)](https://jobright.ai/jobs/info/680a9beaf19579cd36d2f359?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 24 |
 | **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/6809a8818d55b24128ed537f?utm_campaign=1067&utm_source=git)** | Redmond, WA | On Site | Apr 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/68097c5c85a9575aab0f5b8a?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
-| **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/68096a67d60f02a233f05ec3?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | On Site | Apr 23 |
+| **[NTT DATA, Inc.](https://hello.global.ntt/)** | **[Business Generalist Intern](https://jobright.ai/jobs/info/68096a67d60f02a233f05f2b?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | On Site | Apr 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/6809442a63ee69267688871a?utm_campaign=1067&utm_source=git)** | Illinois - Chicago (W. Monroe) | On Site | Apr 23 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c33d?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 22 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/6808435e846671f16299826d?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 22 |
