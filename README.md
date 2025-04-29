@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68102f9b8a1d8b37f6f5cbc0?utm_campaign=1067&utm_source=git)** | Findlay, OH | On Site | Apr 28 |
 | **[Lockton](https://global.lockton.com)** | **[Global Business Intern](https://jobright.ai/jobs/info/6810179a4310d067235fc513?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Apr 28 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Business Solutions/Technical Operations Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/68100d706fa1dadcb9475ef9?utm_campaign=1067&utm_source=git)** | Universal City, CA | On Site | Apr 28 |
+| **[Ricardo Defense Inc ](http://www.control-pt.com)** | **[Business Intern](https://jobright.ai/jobs/info/68102e9d93a3a358448630cf?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | Apr 28 |
 | **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/67edaf3547a7de490f7c37cb?utm_campaign=1067&utm_source=git)** | Tulsa Metropolitan Area | On Site | Apr 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/680fe7c552e293f3338ba8f3?utm_campaign=1067&utm_source=git)** | Findlay, Ohio | On Site | Apr 28 |
 | **[Ricardo plc](https://ricardo.com/)** | **[Business Intern](https://jobright.ai/jobs/info/680fd643cd665ff503fa530f?utm_campaign=1067&utm_source=git)** | Troy | On Site | Apr 28 |
@@ -77,14 +79,12 @@ For a complete list, click the following sortable link below:
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Business Analyst, Artificial Intelligence Intern](https://jobright.ai/jobs/info/6808435e846671f16299826d?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Apr 22 |
 | **[Abacus Insights](https://abacusinsights.com)** | **[Technical Business Analyst - Post Grad Intern](https://jobright.ai/jobs/info/6808034d89ea5d9449bad771?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[IT Business Analyst Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/6802c1e42333bd3e0028d573?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 22 |
-| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b8c8?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Apr 22 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b97c?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Apr 22 |
+| **[Jacobs](http://www.jacobs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b97c?utm_campaign=1067&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Apr 22 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807c94978c3f732a138b8c8?utm_campaign=1067&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Apr 22 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa54918?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Apr 22 |
-| **[Humana](http://www.humana.com)** | **[Process Improvement Professional Intern](https://jobright.ai/jobs/info/6790ef2d99dedba12fe8b08a?utm_campaign=1067&utm_source=git)** | Kentucky, United States | On Site | Apr 22 |
 | **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/67cf061657e2f3baed6c4085?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Apr 22 |
 | **[A F Services Inc.](https://afserv.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6806ee2495f3e5891455e239?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Apr 21 |
 | **[Amentum](https://www.amentum.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6807efb43ecc744688a2a0f3?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Apr 21 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Business Solutions/Technical Operations Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f86?utm_campaign=1067&utm_source=git)** | Universal City, CA | On Site | Apr 21 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Business Solutions/Technical Operations Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806a45b367efd9b593a9602?utm_campaign=1067&utm_source=git)** | 100 Universal City Plaza, Universal City, CA 91608, USA | On Site | Apr 21 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/6806a271cbff36767b268232?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Apr 21 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6a3a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 21 |
