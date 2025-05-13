@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Business & Digital Transformation Intern](https://jobright.ai/jobs/info/681bb154ae50b2f8307b0609?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 07 |
 | ↳ | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b7361ed1696109328efb0?utm_campaign=1067&utm_source=git)** | New York - New York (Lexington) | On Site | May 07 |
-| **[HealthTrust Performance Group](https://healthtrustpg.com/)** | **[Intern](https://jobright.ai/jobs/info/681ab76b4694f0360a3b528f?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | May 06 |
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Data and Business Analyst Intern](https://jobright.ai/jobs/info/681aadba867475a7aa0de00e?utm_campaign=1067&utm_source=git)** | Cypress, CA | On Site | May 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/681a4cc454df80e68a224ce1?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 06 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | May 06 |
@@ -90,23 +89,23 @@ For a complete list, click the following sortable link below:
 | **[Clarivate](http://clarivate.com)** | **[Futures Business Intern](https://jobright.ai/jobs/info/681279349861ac5130c274c4?utm_campaign=1067&utm_source=git)** | R186- Ann Arbor | On Site | Apr 30 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Process Intern](https://jobright.ai/jobs/info/681256e26ae08376e2290127?utm_campaign=1067&utm_source=git)** | United States | On Site | Apr 30 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern- Health Operations Support and Stabilization](https://jobright.ai/jobs/info/681230c618203fcf86199ede?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 30 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a61?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a68?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a5b?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a59?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a6d?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a5c?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a60?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a66?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a6a?utm_campaign=1067&utm_source=git)** | Silicon Valley, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a6c?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Apr 30 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a59?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Apr 30 |
 | ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a6b?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a6e?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Apr 30 |
-| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a5e?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Apr 30 |
 | ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a5d?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Apr 30 |
 | ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a65?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a5b?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Apr 30 |
 | ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a64?utm_campaign=1067&utm_source=git)** | Connecticut - Darien, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a61?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a5c?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Apr 30 |
 | ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a69?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a6a?utm_campaign=1067&utm_source=git)** | Silicon Valley, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a60?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a66?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a6c?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a6e?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a6d?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a68?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Apr 30 |
+| ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121865a8e763f5a2270a5e?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Apr 30 |
 | ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/68121828a8e763f5a226ff05?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Apr 30 |
 | ↳ | **[Sophomore Summer Business Analyst](https://jobright.ai/jobs/info/681221a994daff2857abf9d1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
