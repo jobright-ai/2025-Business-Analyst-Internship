@@ -83,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Business & Digital Transformation Intern](https://jobright.ai/jobs/info/681bb154ae50b2f8307b0609?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 07 |
 | ↳ | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b7361ed1696109328efb0?utm_campaign=1067&utm_source=git)** | New York - New York (Lexington) | On Site | May 07 |
-| **[Havas Media Network](https://havasmedianetwork.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682319873d966a254d788ece?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | May 07 |
+| **[Havas Media Network](https://havasmedianetwork.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682319a23d966a254d78961f?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | May 07 |
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Data and Business Analyst Intern](https://jobright.ai/jobs/info/681aadba867475a7aa0de00e?utm_campaign=1067&utm_source=git)** | Cypress, CA | On Site | May 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/681a4cc454df80e68a224ce1?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 06 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | May 06 |
@@ -91,7 +91,5 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 04 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68161d3c21264e508f80842a?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | May 03 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | May 01 |
-| **[Bayview Asset Management, LLC](http://www.bayviewassetmanagement.com)** | **[Transaction Business Analyst Intern](https://jobright.ai/jobs/info/6812c7d9f2f7937afb1af59f?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | May 01 |
 | **[Ricardo Defense Inc ](http://www.control-pt.com)** | **[Business Intern](https://jobright.ai/jobs/info/68102e9d93a3a358448630cf?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 01 |
-| **[Clarivate](http://clarivate.com)** | **[Futures Business Intern](https://jobright.ai/jobs/info/68131c92f440f24bf9efc864?utm_campaign=1067&utm_source=git)** | Ann Arbor, MI | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
