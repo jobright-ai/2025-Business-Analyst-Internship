@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Business Analyst I - Intern](https://jobright.ai/jobs/info/682437dbc62c472d36eda2eb?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | May 13 |
 | ↳ | **[Business Analyst I - Intern](https://jobright.ai/jobs/info/68240850adce4a08fb4c3753?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | May 13 |
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823f88ea2ba228deff0a797?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | Hybrid | May 13 |
-| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e76fe38f816daf93513e?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Planate Management Group](https://www.planate.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6823e76fe38f816daf935183?utm_campaign=1067&utm_source=git)** | Orlando, Florida, United States | On Site | May 13 |
+| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e3f7ecd98139c7e04772?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/67edaf3547a7de490f7c37cb?utm_campaign=1067&utm_source=git)** | Tulsa Metropolitan Area | On Site | May 13 |
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823c4b0c5e310771c417c3c?utm_campaign=1067&utm_source=git)** | Scottsdale | Hybrid | May 13 |
 | **[Greenfield Industries, Inc.](http://www.gfii.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6823b58de34378a7f83373a8?utm_campaign=1067&utm_source=git)** | Clemson, SC | On Site | May 13 |
@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 04 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68161d3c21264e508f80842a?utm_campaign=1067&utm_source=git)** | Bloomington, MN | On Site | May 03 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | May 01 |
-| **[Ricardo Defense Inc ](http://www.control-pt.com)** | **[Business Intern](https://jobright.ai/jobs/info/68102e9d93a3a358448630cf?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
