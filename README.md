@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/68266d2423308a760b6de059?utm_campaign=1067&utm_source=git)** | BNY Mellon Center, Pittsburgh, PA, 15219, US | On Site | May 15 |
+| **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/6826ab8ed80c575285f45649?utm_campaign=1067&utm_source=git)** | Glen Burnie, MD | On Site | May 15 |
+| **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/682690eef9de5df2cbeb662b?utm_campaign=1067&utm_source=git)** | United States | Remote | May 15 |
+| ↳ | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/68266d2423308a760b6de059?utm_campaign=1067&utm_source=git)** | BNY Mellon Center, Pittsburgh, PA, 15219, US | On Site | May 15 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/682633073cbc771f5420db31?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | May 15 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/682632fbabf868828bd3ab9a?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | May 15 |
 | **[Getlabs](https://getlabs.com/partners)** | **[Summer Intern – Analytics & Business Operations](https://jobright.ai/jobs/info/68243d3f35cda2ca4ffef584?utm_campaign=1067&utm_source=git)** | United States | Remote | May 13 |
