@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/68266d2423308a760b6de059?utm_campaign=1067&utm_source=git)** | BNY Mellon Center, Pittsburgh, PA, 15219, US | On Site | May 15 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/682633073cbc771f5420db31?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | May 15 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/682632fbabf868828bd3ab9a?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | May 15 |
 | **[Getlabs](https://getlabs.com/partners)** | **[Summer Intern – Analytics & Business Operations](https://jobright.ai/jobs/info/68243d3f35cda2ca4ffef584?utm_campaign=1067&utm_source=git)** | United States | Remote | May 13 |
@@ -65,10 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823f88ea2ba228deff0a797?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | Hybrid | May 13 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e76fe38f816daf93513e?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Planate Management Group](https://www.planate.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6823e76fe38f816daf935183?utm_campaign=1067&utm_source=git)** | Orlando, Florida, United States | On Site | May 13 |
-| **[CAP Tulsa](https://captulsa.org/)** | **[Business Administrator (INTERNSHIP)](https://jobright.ai/jobs/info/67edaf3547a7de490f7c37cb?utm_campaign=1067&utm_source=git)** | Tulsa Metropolitan Area | On Site | May 13 |
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823c4b0c5e310771c417c3c?utm_campaign=1067&utm_source=git)** | Scottsdale | Hybrid | May 13 |
 | **[Greenfield Industries, Inc.](http://www.gfii.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6823b58de34378a7f83373a8?utm_campaign=1067&utm_source=git)** | Clemson, SC | On Site | May 13 |
-| **[Anywhere Real Estate Inc.](https://www.anywhere.re/)** | **[Summer Artificial Intelligence  Business Analyst - US Based Remote](https://jobright.ai/jobs/info/682393a1a732b6487a9d8971?utm_campaign=1067&utm_source=git)** | US Remote Address 1, US Remote City, US Remote State, 00000, US | Remote | May 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture <Newtown Square, PA>](https://jobright.ai/jobs/info/68009659f73aa5e1e85c61ac?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 13 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68015f9679c5070a0f2f1f62?utm_campaign=1067&utm_source=git)** | Buckhead, GA | On Site | May 13 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/6806a271cbff36767b268232?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | May 13 |
