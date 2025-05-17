@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6828cd204fc7f54d77cc7813?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | May 17 |
 | **[Beacon Mobility](https://gobeacon.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6827b7f5bd5be4826b2b4b27?utm_campaign=1067&utm_source=git)** | Beacon, NY | On Site | May 16 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, Distribution – Summer/ Fall 2025](https://jobright.ai/jobs/info/6827714b96cbb135148df4a3?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | May 16 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/682690eef9de5df2cbeb662b?utm_campaign=1067&utm_source=git)** | United States | Remote | May 15 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Business Analyst I - Intern](https://jobright.ai/jobs/info/682437dbc62c472d36eda2eb?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | May 13 |
 | ↳ | **[Business Analyst I - Intern](https://jobright.ai/jobs/info/68240850adce4a08fb4c3753?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | May 13 |
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823f88ea2ba228deff0a797?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | Hybrid | May 13 |
-| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e76fe38f816daf93513e?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Planate Management Group](https://www.planate.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6823e76fe38f816daf935183?utm_campaign=1067&utm_source=git)** | Orlando, Florida, United States | On Site | May 13 |
+| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e3f7ecd98139c7e04772?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823c4b0c5e310771c417c3c?utm_campaign=1067&utm_source=git)** | Scottsdale | Hybrid | May 13 |
 | **[Greenfield Industries, Inc.](http://www.gfii.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6823b58de34378a7f83373a8?utm_campaign=1067&utm_source=git)** | Clemson, SC | On Site | May 13 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68015f9679c5070a0f2f1f62?utm_campaign=1067&utm_source=git)** | Buckhead, GA | On Site | May 13 |
