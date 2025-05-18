@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/68266d2423308a760b6de059?utm_campaign=1067&utm_source=git)** | BNY Mellon Center, Pittsburgh, PA, 15219, US | On Site | May 15 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/682633073cbc771f5420db31?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | May 15 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/682632fbabf868828bd3ab9a?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | May 15 |
+| **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/67cf061657e2f3baed6c4085?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | May 14 |
 | **[Getlabs](https://getlabs.com/partners)** | **[Summer Intern – Analytics & Business Operations](https://jobright.ai/jobs/info/68243d3f35cda2ca4ffef584?utm_campaign=1067&utm_source=git)** | United States | Remote | May 13 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Business Analyst I - Intern](https://jobright.ai/jobs/info/682437dbc62c472d36eda2eb?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | May 13 |
 | ↳ | **[Business Analyst I - Intern](https://jobright.ai/jobs/info/68240850adce4a08fb4c3753?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | May 13 |
