@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
 | **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6828cd204fc7f54d77cc7813?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | May 17 |
 | **[Beacon Mobility](https://gobeacon.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6827b7f5bd5be4826b2b4b27?utm_campaign=1067&utm_source=git)** | Beacon, NY | On Site | May 16 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, Distribution – Summer/ Fall 2025](https://jobright.ai/jobs/info/6827714b96cbb135148df4a3?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | May 16 |
@@ -88,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Business & Digital Transformation Intern](https://jobright.ai/jobs/info/681bb154ae50b2f8307b0609?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 07 |
 | ↳ | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b7361ed1696109328efb0?utm_campaign=1067&utm_source=git)** | New York - New York (Lexington) | On Site | May 07 |
-| **[Havas Media Network](https://havasmedianetwork.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682319a23d966a254d78961f?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | May 07 |
+| **[Havas Media Network](https://havasmedianetwork.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682319873d966a254d788ece?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | May 07 |
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Data and Business Analyst Intern](https://jobright.ai/jobs/info/681aadba867475a7aa0de00e?utm_campaign=1067&utm_source=git)** | Cypress, CA | On Site | May 06 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | May 06 |
-| **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
