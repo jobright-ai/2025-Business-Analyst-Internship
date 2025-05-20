@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EY](http://www.ey.com)** | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cb6e54b443512646136b1?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cb3a46aaa3b2fd7d1bbee?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cac7b15b03707eb752077?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cac7b15b03707eb752076?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a64?utm_campaign=1067&utm_source=git)** | Hoboken, NJ | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a60?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a66?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e427878f?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a65?utm_campaign=1067&utm_source=git)** | Secaucus, NJ | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a61?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | May 20 |
 | **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
 | **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6828cd204fc7f54d77cc7813?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | May 17 |
@@ -72,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/682960166ebe17b33dc1e221?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | May 13 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Business Analyst I - Intern](https://jobright.ai/jobs/info/68240850adce4a08fb4c3753?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | May 13 |
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823f88ea2ba228deff0a797?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | Hybrid | May 13 |
+| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e76fe38f816daf93513e?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Planate Management Group](https://www.planate.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6823e76fe38f816daf935183?utm_campaign=1067&utm_source=git)** | Orlando, Florida, United States | On Site | May 13 |
-| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e3f7ecd98139c7e04772?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823c4b0c5e310771c417c3c?utm_campaign=1067&utm_source=git)** | Scottsdale | Hybrid | May 13 |
 | **[Greenfield Industries, Inc.](http://www.gfii.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6823b58de34378a7f83373a8?utm_campaign=1067&utm_source=git)** | Clemson, SC | On Site | May 13 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68015f9679c5070a0f2f1f62?utm_campaign=1067&utm_source=git)** | Buckhead, GA | On Site | May 13 |
@@ -88,6 +98,5 @@ For a complete list, click the following sortable link below:
 | **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Business & Digital Transformation Intern](https://jobright.ai/jobs/info/681bb154ae50b2f8307b0609?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 07 |
 | ↳ | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b7361ed1696109328efb0?utm_campaign=1067&utm_source=git)** | New York - New York (Lexington) | On Site | May 07 |
-| **[Havas Media Network](https://havasmedianetwork.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682319873d966a254d788ece?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | May 07 |
-| **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Data and Business Analyst Intern](https://jobright.ai/jobs/info/681aadba867475a7aa0de00e?utm_campaign=1067&utm_source=git)** | Cypress, CA | On Site | May 06 |
+| **[Havas Media Network](https://havasmedianetwork.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682319a23d966a254d78961f?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
