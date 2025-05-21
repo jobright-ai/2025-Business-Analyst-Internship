@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Healthcare.com](http://www.healthcare.com)** | **[Jr Business Analyst (Intern to Hire)](https://jobright.ai/jobs/info/682e28053403b37ac4b927b9?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
+| ↳ | **[Jr Business Analyst](https://jobright.ai/jobs/info/682e22097932affd9fe5854c?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682d1bdaf50af4efd15339e0?utm_campaign=1067&utm_source=git)** | Covington, LA | On Site | May 20 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Business Technology Intern](https://jobright.ai/jobs/info/682d81e764e26a991e9c4a03?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | May 20 |
 | **[Ricardo plc](https://ricardo.com/)** | **[Business Intern](https://jobright.ai/jobs/info/680fd231dfe0af8d35d7e32d?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 20 |
@@ -76,11 +78,10 @@ For a complete list, click the following sortable link below:
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/682960166ebe17b33dc1e221?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | May 13 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Business Analyst I - Intern](https://jobright.ai/jobs/info/68240850adce4a08fb4c3753?utm_campaign=1067&utm_source=git)** | Fountain Valley, CA | On Site | May 13 |
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823f88ea2ba228deff0a797?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | Hybrid | May 13 |
-| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e76fe38f816daf93513e?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Planate Management Group](https://www.planate.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6823e76fe38f816daf935183?utm_campaign=1067&utm_source=git)** | Orlando, Florida, United States | On Site | May 13 |
+| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e3f7ecd98139c7e04772?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Early Warning®](http://www.earlywarning.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6823c4b0c5e310771c417c3c?utm_campaign=1067&utm_source=git)** | Scottsdale | Hybrid | May 13 |
 | **[Greenfield Industries, Inc.](http://www.gfii.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6823b58de34378a7f83373a8?utm_campaign=1067&utm_source=git)** | Clemson, SC | On Site | May 13 |
-| **[EXL](http://www.exlservice.com)** | **[Business Analyst - Intern/Temp](https://jobright.ai/jobs/info/682d8f500f81c96d9db1062f?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, USA | On Site | May 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/68297bba26c1433a02c57be1?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 10 |
 | ↳ | **[SAP iXp Intern - Finance and Spend Management Ecosystem - Business Analyst](https://jobright.ai/jobs/info/682967c24f9cb34a9ba1ab40?utm_campaign=1067&utm_source=git)** | Palo Alto, CA | Hybrid | May 10 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business System Analyst Intern](https://jobright.ai/jobs/info/6819087a549ca8705983ebac?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 09 |
