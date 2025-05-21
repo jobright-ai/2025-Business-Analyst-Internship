@@ -59,11 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682d1bdaf50af4efd15339e0?utm_campaign=1067&utm_source=git)** | Covington, LA | On Site | May 20 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Business Technology Intern](https://jobright.ai/jobs/info/682d81e764e26a991e9c4a03?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | May 20 |
-| **[TIH](https://www.truistinsurance.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/682ce3785331141b5a775236?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | May 20 |
-| **[EY](http://www.ey.com)** | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cb3a46aaa3b2fd7d1bbee?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 20 |
-| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cac7b15b03707eb752077?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 20 |
-| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cac7b15b03707eb752076?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | May 20 |
-| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a66?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 20 |
 | **[Ricardo plc](https://ricardo.com/)** | **[Business Intern](https://jobright.ai/jobs/info/680fd231dfe0af8d35d7e32d?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 20 |
 | **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
@@ -93,6 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | May 09 |
 | **[Invenergy](https://invenergy.com)** | **[Graduate Intern](https://jobright.ai/jobs/info/681cf621a8b287cc15ff1359?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 08 |
 | ↳ | **[Graduate Intern](https://jobright.ai/jobs/info/681cdb4502b58a32fec8983a?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 08 |
-| **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Business & Digital Transformation Intern](https://jobright.ai/jobs/info/681bb154ae50b2f8307b0609?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 07 |
-| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
