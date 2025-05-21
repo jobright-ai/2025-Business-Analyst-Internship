@@ -57,17 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682d1bdaf50af4efd15339e0?utm_campaign=1067&utm_source=git)** | Covington, LA | On Site | May 20 |
 | **[TIH](https://www.truistinsurance.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/682ce3785331141b5a775236?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | May 20 |
 | **[EY](http://www.ey.com)** | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cb6e54b443512646136b1?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | May 20 |
 | ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cb3a46aaa3b2fd7d1bbee?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 20 |
 | ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cac7b15b03707eb752077?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 20 |
 | ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682cac7b15b03707eb752076?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a60?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
 | ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a64?utm_campaign=1067&utm_source=git)** | Hoboken, NJ | On Site | May 20 |
 | ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a65?utm_campaign=1067&utm_source=git)** | Secaucus, NJ | On Site | May 20 |
-| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a66?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 20 |
-| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a60?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
-| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e427878f?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 20 |
 | ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a61?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e4278a66?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 20 |
+| ↳ | **[Intern - Business Management Analyst](https://jobright.ai/jobs/info/682caa61aebad423e427878f?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 20 |
 | **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
 | **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6828cd204fc7f54d77cc7813?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | May 17 |
@@ -99,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Business & Digital Transformation Intern](https://jobright.ai/jobs/info/681bb154ae50b2f8307b0609?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 07 |
 | ↳ | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b7361ed1696109328efb0?utm_campaign=1067&utm_source=git)** | New York - New York (Lexington) | On Site | May 07 |
-| **[Havas Media Network](https://havasmedianetwork.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682319873d966a254d788ece?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
