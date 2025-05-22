@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[College Coop: Operational Readiness: Business Specialist - CollAHNJ (PT)](https://jobright.ai/jobs/info/682eef752880733707782b65?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057e7b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 21 |
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Business Analyst](https://jobright.ai/jobs/info/682e54f8faac5a5ce8c3a099?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
 | **[Yakima Chief Hops](https://www.tene.in)** | **[Business Systems Intern](https://jobright.ai/jobs/info/682e4ba01015ba492943e78c?utm_campaign=1067&utm_source=git)** | Yakima, WA | On Site | May 21 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, Distribution – Summer/ Fall 2025](https://jobright.ai/jobs/info/6827714b96cbb135148df4a3?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | May 16 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/682690eef9de5df2cbeb662b?utm_campaign=1067&utm_source=git)** | United States | Remote | May 15 |
 | ↳ | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/68266d2423308a760b6de059?utm_campaign=1067&utm_source=git)** | BNY Mellon Center, Pittsburgh, PA, 15219, US | On Site | May 15 |
-| **[NV5](http://www.nv5.com)** | **[GIS/Business Intern](https://jobright.ai/jobs/info/680832b86c962f7be342e727?utm_campaign=1067&utm_source=git)** | Sun Prairie Town, WI | On Site | May 15 |
 | **[MasterBrand, Inc.](http://www.masterbrand.com/)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/682633073cbc771f5420db31?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | May 15 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/682632fbabf868828bd3ab9a?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | May 15 |
 | **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/67cf061657e2f3baed6c4085?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | May 14 |
@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Kitchen Craft](https://www.kitchencraft.com)** | **[Business Process Workflow Intern (Summer 2025)](https://jobright.ai/jobs/info/681ec921e9dc59a711800e5f?utm_campaign=1067&utm_source=git)** | Beachwood, OH | On Site | May 09 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | May 09 |
 | **[Invenergy](https://invenergy.com)** | **[Graduate Intern](https://jobright.ai/jobs/info/681cf621a8b287cc15ff1359?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 08 |
-| ↳ | **[Graduate Intern](https://jobright.ai/jobs/info/681cdb4502b58a32fec8983a?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
