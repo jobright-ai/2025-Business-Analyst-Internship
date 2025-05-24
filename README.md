@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Wagner Equipment](http://wagnerequipment.com/)** | **[IT Intern - Business Process Intern](https://jobright.ai/jobs/info/6830d275a830fee55f60025b?utm_campaign=1067&utm_source=git)** | Aurora, CO | On Site | May 23 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6830aee6d993b413d4d6feb0?utm_campaign=1067&utm_source=git)** | California, United States | Remote | May 23 |
+| **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | May 23 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Intern](https://jobright.ai/jobs/info/682fd269ca020f97de0e6619?utm_campaign=1067&utm_source=git)** | Aurora, CO | On Site | May 22 |
 | **[Detroit Defense](http://www.control-pt.com)** | **[Business Intern](https://jobright.ai/jobs/info/68102e9d93a3a358448630cf?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 22 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Coop: Operational Readiness: Business Specialist - CollAHNJ (PT)](https://jobright.ai/jobs/info/682eef752880733707782b65?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
@@ -67,10 +68,10 @@ For a complete list, click the following sortable link below:
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Business Analyst](https://jobright.ai/jobs/info/682e54f8faac5a5ce8c3a099?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
 | **[Yakima Chief Hops](https://www.tene.in)** | **[Business Systems Intern](https://jobright.ai/jobs/info/682e4ba01015ba492943e78c?utm_campaign=1067&utm_source=git)** | Yakima, WA | On Site | May 21 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e46f99084e3336b0dc129?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | May 21 |
+| **[OneRail](http://www.onerail.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/682e368b63345804acef1a54?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | May 21 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Intern](https://jobright.ai/jobs/info/682e33de07d3aeb0ca7144cb?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2cc0f6fe6de0d437107c?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
-| **[OneRail](http://www.onerail.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/682e2c7af6fe6de0d437084d?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | May 21 |
-| **[Echo Global Logistics](https://www.echo.com)** | **[Intern](https://jobright.ai/jobs/info/682e2c7af6fe6de0d4370855?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/682e2c7af6fe6de0d4370855?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[Healthcare.com](http://www.healthcare.com)** | **[Jr Business Analyst (Intern to Hire)](https://jobright.ai/jobs/info/682e28053403b37ac4b927b9?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[Ricardo plc](https://ricardo.com/)** | **[Business Intern](https://jobright.ai/jobs/info/680fd231dfe0af8d35d7e32d?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 20 |
 | **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
