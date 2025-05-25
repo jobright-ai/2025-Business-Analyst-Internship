@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 24 |
-| **[Wagner Equipment](http://wagnerequipment.com/)** | **[IT Intern - Business Process Intern](https://jobright.ai/jobs/info/6832af7f86fd6bdcd450fcc1?utm_campaign=1067&utm_source=git)** | Aurora, CO | On Site | May 23 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6830aee6d993b413d4d6feb0?utm_campaign=1067&utm_source=git)** | California, United States | Remote | May 23 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | May 23 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Intern](https://jobright.ai/jobs/info/682fd269ca020f97de0e6619?utm_campaign=1067&utm_source=git)** | Aurora, CO | On Site | May 22 |
