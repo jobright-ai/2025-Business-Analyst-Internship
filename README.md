@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Groundswell](https://gswell.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6835161ac0844f898ce17db8?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | May 26 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6835092bdeb38704b5988b5d?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | May 26 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 25 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 24 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6830aee6d993b413d4d6feb0?utm_campaign=1067&utm_source=git)** | California, United States | Remote | May 23 |
