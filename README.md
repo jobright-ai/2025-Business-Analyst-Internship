@@ -89,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Getlabs](https://getlabs.com/partners)** | **[Summer Intern – Analytics & Business Operations](https://jobright.ai/jobs/info/68243d3f35cda2ca4ffef584?utm_campaign=1067&utm_source=git)** | United States | Remote | May 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture <Newtown Square, PA>](https://jobright.ai/jobs/info/682974b601a158a85f463163?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 13 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Business Systems - Summer 2025](https://jobright.ai/jobs/info/682960166ebe17b33dc1e221?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | May 13 |
-| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e76fe38f816daf93513e?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Planate Management Group](https://www.planate.com/)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6823e76fe38f816daf935183?utm_campaign=1067&utm_source=git)** | Orlando, Florida, United States | On Site | May 13 |
+| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6823e3f7ecd98139c7e04772?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | May 13 |
 | **[Greenfield Industries, Inc.](http://www.gfii.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6823b58de34378a7f83373a8?utm_campaign=1067&utm_source=git)** | Clemson, SC | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
