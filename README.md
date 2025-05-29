@@ -57,10 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Purple](https://purple.com/)** | **[Business & Systems Analyst Intern](https://jobright.ai/jobs/info/6837abeeea5d357c67c6f401?utm_campaign=1067&utm_source=git)** | McDonough, GA | On Site | May 28 |
 | **[Vaxart, Inc.](http://vaxart.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68379966c55b9484ad340ab8?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | May 28 |
-| **[Purple](https://purple.com/)** | **[Business & Systems Analyst Intern](https://jobright.ai/jobs/info/6837916c64d654abc8e8cadb?utm_campaign=1067&utm_source=git)** | McDonough, GA | On Site | May 28 |
-| **[Vaxart, Inc.](http://vaxart.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6837607f188da72220f0b846?utm_campaign=1067&utm_source=git)** | south San Francisco, CA | On Site | May 28 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6837607f188da72220f0b846?utm_campaign=1067&utm_source=git)** | south San Francisco, CA | On Site | May 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/68297bba26c1433a02c57be1?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/67e1ae4771f96bbf168090e2?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 28 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
@@ -90,6 +88,4 @@ For a complete list, click the following sortable link below:
 | **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, Distribution – Summer/ Fall 2025](https://jobright.ai/jobs/info/6827714b96cbb135148df4a3?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | May 16 |
-| **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682ff814fc58871b83177158?utm_campaign=1067&utm_source=git)** | Buckhead, GA | On Site | May 15 |
-| **[NV5](http://www.nv5.com)** | **[GIS/Business Intern](https://jobright.ai/jobs/info/680832b86c962f7be342e727?utm_campaign=1067&utm_source=git)** | Sun Prairie Town, WI | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
