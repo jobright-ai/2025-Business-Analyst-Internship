@@ -76,11 +76,12 @@ For a complete list, click the following sortable link below:
 | **[Primoris Services Corporation](http://prim.com)** | **[Intern](https://jobright.ai/jobs/info/682fd269ca020f97de0e6619?utm_campaign=1067&utm_source=git)** | Aurora, CO | On Site | May 22 |
 | **[Detroit Defense](http://www.control-pt.com)** | **[Business Intern](https://jobright.ai/jobs/info/68102e9d93a3a358448630cf?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 22 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Coop: Operational Readiness: Business Specialist - CollAHNJ (PT)](https://jobright.ai/jobs/info/682eef752880733707782b65?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/6837e7d98a7ff27b535b4640?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | May 21 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057e7b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 21 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/682ef69912088e6a1983c47c?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 21 |
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Business Analyst](https://jobright.ai/jobs/info/682e54f8faac5a5ce8c3a099?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
 | **[Yakima Chief Hops](https://www.tene.in)** | **[Business Systems Intern](https://jobright.ai/jobs/info/682e4ba01015ba492943e78c?utm_campaign=1067&utm_source=git)** | Yakima, WA | On Site | May 21 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e46f99084e3336b0dc129?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | May 21 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e46f99084e3336b0dbfde?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | May 21 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Intern](https://jobright.ai/jobs/info/682e33de07d3aeb0ca7144cb?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2cc0f6fe6de0d437107c?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2c7af6fe6de0d4370855?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
