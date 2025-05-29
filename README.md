@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Purple](https://purple.com/)** | **[Business & Systems Analyst Intern](https://jobright.ai/jobs/info/6837abeeea5d357c67c6f401?utm_campaign=1067&utm_source=git)** | McDonough, GA | On Site | May 28 |
 | **[Vaxart, Inc.](http://vaxart.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68379966c55b9484ad340ab8?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | May 28 |
 | **[Purple](https://purple.com/)** | **[Business & Systems Analyst Intern](https://jobright.ai/jobs/info/6837916c64d654abc8e8cadb?utm_campaign=1067&utm_source=git)** | McDonough, GA | On Site | May 28 |
 | **[Vaxart, Inc.](http://vaxart.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6837607f188da72220f0b846?utm_campaign=1067&utm_source=git)** | south San Francisco, CA | On Site | May 28 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/683727c6acebb2791ea684b6?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/68297bba26c1433a02c57be1?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/67e1ae4771f96bbf168090e2?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 28 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67fd6cd63a0d51f746eb6811?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
