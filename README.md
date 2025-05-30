@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship (Business Process Excellence)](https://jobright.ai/jobs/info/68391733e3bca59dacc15c82?utm_campaign=1067&utm_source=git)** | Alameda, CA | Hybrid | May 29 |
+| **[Camping World](http://www.campingworld.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/683910947084e366bac0a9fa?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 29 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Ops Intern](https://jobright.ai/jobs/info/6839054f40872350a4804281?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | May 29 |
+| **[Vaxart, Inc.](http://vaxart.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/6839050c40872350a48037a7?utm_campaign=1067&utm_source=git)** | south San Francisco, CA | On Site | May 29 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Ops Intern](https://jobright.ai/jobs/info/6839050c40872350a4803975?utm_campaign=1067&utm_source=git)** | Possible | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/6838bbf2b191ea2073c2bffd?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 29 |
 | **[Vaxart, Inc.](http://vaxart.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68379966c55b9484ad340ab8?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | May 28 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6837607f188da72220f0b846?utm_campaign=1067&utm_source=git)** | south San Francisco, CA | On Site | May 28 |
