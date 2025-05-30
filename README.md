@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/6838bbf2b191ea2073c2bffd?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 29 |
 | **[Vaxart, Inc.](http://vaxart.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68379966c55b9484ad340ab8?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | May 28 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6837607f188da72220f0b846?utm_campaign=1067&utm_source=git)** | south San Francisco, CA | On Site | May 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/68297bba26c1433a02c57be1?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
@@ -79,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/682ef69912088e6a1983c47c?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 21 |
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Business Analyst](https://jobright.ai/jobs/info/682e54f8faac5a5ce8c3a099?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
 | **[Yakima Chief Hops](https://www.tene.in)** | **[Business Systems Intern](https://jobright.ai/jobs/info/682e4ba01015ba492943e78c?utm_campaign=1067&utm_source=git)** | Yakima, WA | On Site | May 21 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e46f99084e3336b0dc129?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | May 21 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e46f99084e3336b0dbfde?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | May 21 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Intern](https://jobright.ai/jobs/info/682e33de07d3aeb0ca7144cb?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2cc0f6fe6de0d437107c?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2c7af6fe6de0d4370855?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
@@ -87,5 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Ricardo plc](https://ricardo.com/)** | **[Business Intern](https://jobright.ai/jobs/info/680fd231dfe0af8d35d7e32d?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 20 |
 | **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Analysis Trainee, Distribution – Summer/ Fall 2025](https://jobright.ai/jobs/info/6827714b96cbb135148df4a3?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
