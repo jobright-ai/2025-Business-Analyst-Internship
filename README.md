@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Vaxart, Inc.](http://vaxart.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/68398fd06bbd2149439e912d?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | May 30 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship (Business Process Excellence)](https://jobright.ai/jobs/info/68391733e3bca59dacc15c82?utm_campaign=1067&utm_source=git)** | Alameda, CA | Hybrid | May 29 |
 | **[Vaxart, Inc.](http://vaxart.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/6839050c40872350a48037a7?utm_campaign=1067&utm_source=git)** | south San Francisco, CA | On Site | May 29 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f319?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | May 29 |
-| ↳ | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f1ed?utm_campaign=1067&utm_source=git)** | Possible | On Site | May 29 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f1ed?utm_campaign=1067&utm_source=git)** | Possible | On Site | May 29 |
+| ↳ | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f319?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/6838bbf2b191ea2073c2bffd?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 29 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 29 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Primoris Services Corporation](http://prim.com)** | **[Intern](https://jobright.ai/jobs/info/682fd269ca020f97de0e6619?utm_campaign=1067&utm_source=git)** | Aurora, CO | On Site | May 22 |
 | **[Detroit Defense](http://www.control-pt.com)** | **[Business Intern](https://jobright.ai/jobs/info/68102e9d93a3a358448630cf?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 22 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Coop: Operational Readiness: Business Specialist - CollAHNJ (PT)](https://jobright.ai/jobs/info/682eef752880733707782b65?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/6837e7d98a7ff27b535b4640?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | May 21 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057e7b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 21 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/682ef69912088e6a1983c47c?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 21 |
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Business Analyst](https://jobright.ai/jobs/info/682e54f8faac5a5ce8c3a099?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
