@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | May 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Finance and Spend Management Ecosystem - Business Analyst](https://jobright.ai/jobs/info/682967c24f9cb34a9ba1ab40?utm_campaign=1067&utm_source=git)** | Palo Alto, CA | Hybrid | May 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683b0630379dc8140ab6937e?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683a6c4d593355184935bb2a?utm_campaign=1067&utm_source=git)** | Seattle, Washington, USA | On Site | May 30 |
