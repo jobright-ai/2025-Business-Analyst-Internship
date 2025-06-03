@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683b0630379dc8140ab6937e?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683a6c4d593355184935bb2a?utm_campaign=1067&utm_source=git)** | Seattle, Washington, USA | On Site | May 30 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship (Business Process Excellence)](https://jobright.ai/jobs/info/68391733e3bca59dacc15c82?utm_campaign=1067&utm_source=git)** | Alameda, CA | Hybrid | May 29 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f319?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | May 29 |
-| ↳ | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f1ed?utm_campaign=1067&utm_source=git)** | Possible | On Site | May 29 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f1ed?utm_campaign=1067&utm_source=git)** | Possible | On Site | May 29 |
+| ↳ | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f319?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/6838bbf2b191ea2073c2bffd?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 29 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 29 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2cc0f6fe6de0d437107c?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2c7af6fe6de0d4370855?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[Healthcare.com](http://www.healthcare.com)** | **[Jr Business Analyst (Intern to Hire)](https://jobright.ai/jobs/info/682e28053403b37ac4b927b9?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
-| **[Ricardo plc](https://ricardo.com/)** | **[Business Intern](https://jobright.ai/jobs/info/680fd231dfe0af8d35d7e32d?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
