@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683e5c7c80526921e331107a?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 02 |
+| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship- Business Process Excellence](https://jobright.ai/jobs/info/683e5378ec8be7ec5cfe8c86?utm_campaign=1067&utm_source=git)** | Kansas City, MO | Hybrid | Jun 02 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/683e07f6651e57c49c2f18d3?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 02 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683e0729555d373baa419e28?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Jun 02 |
 | ↳ | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683dd33a5445f45ee0489686?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jun 02 |
@@ -65,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683b0630379dc8140ab6937e?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683a6c4d593355184935bb2a?utm_campaign=1067&utm_source=git)** | Seattle, Washington, USA | On Site | May 30 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship (Business Process Excellence)](https://jobright.ai/jobs/info/68391733e3bca59dacc15c82?utm_campaign=1067&utm_source=git)** | Alameda, CA | Hybrid | May 29 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f1ed?utm_campaign=1067&utm_source=git)** | Possible | On Site | May 29 |
-| ↳ | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f319?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | May 29 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f319?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | May 29 |
+| ↳ | **[Business Ops Intern](https://jobright.ai/jobs/info/683af991d6090c7bed03f1ed?utm_campaign=1067&utm_source=git)** | Possible | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/6838bbf2b191ea2073c2bffd?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 29 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 29 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
