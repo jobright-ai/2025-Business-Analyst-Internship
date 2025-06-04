@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/683f90cd3940d5e10df8d3a5?utm_campaign=1067&utm_source=git)** | Honolulu, HI | Hybrid | Jun 03 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Business Process (Year-Round)](https://jobright.ai/jobs/info/683f6bee58a8462f8faa0edf?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | On Site | Jun 03 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683e5c7c80526921e331107a?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 02 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship- Business Process Excellence](https://jobright.ai/jobs/info/683e5378ec8be7ec5cfe8c86?utm_campaign=1067&utm_source=git)** | Kansas City, MO | Hybrid | Jun 02 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/683e07f6651e57c49c2f18d3?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 02 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683e0729555d373baa419e28?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Jun 02 |
-| ↳ | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683dd33a5445f45ee0489686?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jun 02 |
+| ↳ | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683dd33a5445f45ee048995b?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jun 02 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | May 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Finance and Spend Management Ecosystem - Business Analyst](https://jobright.ai/jobs/info/682967c24f9cb34a9ba1ab40?utm_campaign=1067&utm_source=git)** | Palo Alto, CA | Hybrid | May 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683b0630379dc8140ab6937e?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 31 |
@@ -83,13 +85,12 @@ For a complete list, click the following sortable link below:
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 24 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | May 23 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Intern](https://jobright.ai/jobs/info/682fd269ca020f97de0e6619?utm_campaign=1067&utm_source=git)** | Aurora, CO | On Site | May 22 |
-| **[Detroit Defense](http://www.control-pt.com)** | **[Business Intern](https://jobright.ai/jobs/info/68102e9d93a3a358448630cf?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | May 22 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Coop: Operational Readiness: Business Specialist - CollAHNJ (PT)](https://jobright.ai/jobs/info/682eef752880733707782b65?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057e7b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 21 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/682ef69912088e6a1983c47c?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 21 |
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Business Analyst](https://jobright.ai/jobs/info/682e54f8faac5a5ce8c3a099?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
 | **[Yakima Chief Hops](https://www.tene.in)** | **[Business Systems Intern](https://jobright.ai/jobs/info/682e4ba01015ba492943e78c?utm_campaign=1067&utm_source=git)** | Yakima, WA | On Site | May 21 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e46f99084e3336b0dc129?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | May 21 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e46f99084e3336b0dbfde?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | May 21 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Intern](https://jobright.ai/jobs/info/682e33de07d3aeb0ca7144cb?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2cc0f6fe6de0d437107c?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2c7af6fe6de0d4370855?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
