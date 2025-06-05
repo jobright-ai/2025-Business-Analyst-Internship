@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
+| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[IT Business Partner -Intern](https://jobright.ai/jobs/info/6840893f7084ee9306ae57ea?utm_campaign=1067&utm_source=git)** | Andover, MA | On Site | Jun 04 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6840853e460ad13ea2931837?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jun 04 |
-| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[IT Business Partner -Intern](https://jobright.ai/jobs/info/684075eb2ec9da11d23e8a8a?utm_campaign=1067&utm_source=git)** | Andover, MA | On Site | Jun 04 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682ff814fc58871b83177158?utm_campaign=1067&utm_source=git)** | Buckhead, GA | On Site | Jun 04 |
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/683f90cd3940d5e10df8d3a5?utm_campaign=1067&utm_source=git)** | Honolulu, HI | Hybrid | Jun 03 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683e5c7c80526921e331107a?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 02 |
