@@ -66,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship- Business Process Excellence](https://jobright.ai/jobs/info/683e5378ec8be7ec5cfe8c86?utm_campaign=1067&utm_source=git)** | Kansas City, MO | Hybrid | Jun 02 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/683e07f6651e57c49c2f18d3?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 02 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683e0729555d373baa419e28?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Jun 02 |
-| ↳ | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683dd33a5445f45ee0489686?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jun 02 |
+| ↳ | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683dd33a5445f45ee048995b?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jun 02 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | May 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Finance and Spend Management Ecosystem - Business Analyst](https://jobright.ai/jobs/info/682967c24f9cb34a9ba1ab40?utm_campaign=1067&utm_source=git)** | Palo Alto, CA | Hybrid | May 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683b0630379dc8140ab6937e?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 31 |
@@ -89,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/682ef69912088e6a1983c47c?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 21 |
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Business Analyst](https://jobright.ai/jobs/info/682e54f8faac5a5ce8c3a099?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
 | **[Yakima Chief Hops](https://www.tene.in)** | **[Business Systems Intern](https://jobright.ai/jobs/info/682e4ba01015ba492943e78c?utm_campaign=1067&utm_source=git)** | Yakima, WA | On Site | May 21 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/682e46f99084e3336b0dc129?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | May 21 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Intern](https://jobright.ai/jobs/info/682e33de07d3aeb0ca7144cb?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2cc0f6fe6de0d437107c?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2c7af6fe6de0d4370855?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
@@ -102,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/683ad23c10f1dfdb02f95ce4?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 12 |
 | **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Business & Digital Transformation Intern](https://jobright.ai/jobs/info/681bb154ae50b2f8307b0609?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b7361ed1696109328efb0?utm_campaign=1067&utm_source=git)** | New York - New York (Lexington) | On Site | May 07 |
-| **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Data and Business Analyst Intern](https://jobright.ai/jobs/info/681aadba867475a7aa0de00e?utm_campaign=1067&utm_source=git)** | Cypress, CA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
