@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swisher](http://www.swisher.com/)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/684225387944f56c10709d96?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Jun 05 |
 | **[NV5](http://www.nv5.com)** | **[GIS/Business Intern](https://jobright.ai/jobs/info/680832b86c962f7be342e727?utm_campaign=1067&utm_source=git)** | Sun Prairie Town, WI | On Site | Jun 05 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
