@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/684342824a34a9c562327a1d?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Jun 06 |
-| **[Swisher](http://www.swisher.com/)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/684225387944f56c10709d96?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Jun 05 |
 | **[NV5](http://www.nv5.com)** | **[GIS/Business Intern](https://jobright.ai/jobs/info/680832b86c962f7be342e727?utm_campaign=1067&utm_source=git)** | Sun Prairie Town, WI | On Site | Jun 05 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
@@ -66,7 +65,7 @@ For a complete list, click the following sortable link below:
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship- Business Process Excellence](https://jobright.ai/jobs/info/683e5378ec8be7ec5cfe8c86?utm_campaign=1067&utm_source=git)** | Kansas City, MO | Hybrid | Jun 02 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/683e07f6651e57c49c2f18d3?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 02 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683e0729555d373baa419e28?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Jun 02 |
-| ↳ | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683dd33a5445f45ee0489686?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jun 02 |
+| ↳ | **[Business Operations Intern (Year-Round)](https://jobright.ai/jobs/info/683dd33a5445f45ee048995b?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jun 02 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | May 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Finance and Spend Management Ecosystem - Business Analyst](https://jobright.ai/jobs/info/682967c24f9cb34a9ba1ab40?utm_campaign=1067&utm_source=git)** | Palo Alto, CA | Hybrid | May 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683b0630379dc8140ab6937e?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 31 |
