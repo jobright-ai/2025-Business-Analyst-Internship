@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/684433aa03bc8309e6efb632?utm_campaign=1067&utm_source=git)** | Honolulu, HI | Hybrid | Jun 07 |
 | **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/684342824a34a9c562327a1d?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Jun 06 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/683d27a9e3502e937bcb128d?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | Jun 06 |
 | **[NV5](http://www.nv5.com)** | **[GIS/Business Intern](https://jobright.ai/jobs/info/680832b86c962f7be342e727?utm_campaign=1067&utm_source=git)** | Sun Prairie Town, WI | On Site | Jun 05 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Healthcare.com](http://www.healthcare.com)** | **[Jr Business Analyst (Intern to Hire)](https://jobright.ai/jobs/info/682e28053403b37ac4b927b9?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/683d27a9e3502e937bcb128d?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | May 18 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683dbd6f0dd423c00b8f49a7?utm_campaign=1067&utm_source=git)** | BNY Mellon Center, Pittsburgh, PA, 15219, US | On Site | May 15 |
 | **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/68224a44cdaf82e297b605ec?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | May 14 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/683ad23c10f1dfdb02f95ce4?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 12 |
