@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/684574b9c53604562dec80d1?utm_campaign=1067&utm_source=git)** | Palm Harbor, FL | On Site | Jun 08 |
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/684433aa03bc8309e6efb632?utm_campaign=1067&utm_source=git)** | Honolulu, HI | Hybrid | Jun 07 |
 | **[Gallagher](http://www.ajg.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/684342824a34a9c562327a1d?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | Hybrid | Jun 06 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/683d27a9e3502e937bcb128d?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | Jun 06 |
