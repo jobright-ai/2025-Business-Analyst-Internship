@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Jun 10 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e859?utm_campaign=1067&utm_source=git)** | Orlando, FL | Hybrid | Jun 09 |
 | **[ASML](https://www.asml.com)** | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/68478aa15ea3c85dd1485f8d?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Jun 09 |
-| **[Dolby OptiView](https://dolby.io)** | **[Strategic Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684761a3e5385904cd1bfa55?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
-| ↳ | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684761a3e5385904cd1bfabd?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
+| **[Dolby OptiView](https://dolby.io)** | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684761a3e5385904cd1bfabd?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/68475436d436505df8430e00?utm_campaign=1067&utm_source=git)** | 6535 Nemours Parkway, Orlando, FL, 32827, US | On Site | Jun 09 |
 | **[ASML](https://www.asml.com)** | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/68474b3149d66ce393068b37?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Jun 09 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Strategic Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e6c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
@@ -100,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682e2c7af6fe6de0d4370855?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[Healthcare.com](http://www.healthcare.com)** | **[Jr Business Analyst (Intern to Hire)](https://jobright.ai/jobs/info/682e28053403b37ac4b927b9?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683dbd6f0dd423c00b8f49a7?utm_campaign=1067&utm_source=git)** | BNY Mellon Center, Pittsburgh, PA, 15219, US | On Site | May 15 |
 | **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/68224a44cdaf82e297b605ec?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | May 14 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/683ad23c10f1dfdb02f95ce4?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 12 |
