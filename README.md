@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intuitive](https://intusurg.com)** | **[Business Intelligence Strategy Analyst Intern](https://jobright.ai/jobs/info/684929e612035063be9794c2?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
 | **[Open](https://o-p-e-n.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68489a2812afe2185e64491c?utm_campaign=1067&utm_source=git)** | Los Angeles | Hybrid | Jun 10 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Jun 10 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e859?utm_campaign=1067&utm_source=git)** | Orlando, FL | Hybrid | Jun 09 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Strategic Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e6c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | ↳ | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684729a7cd3a1f70ebe3fc19?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[Audax Group](https://www.audaxprivateequity.com)** | **[Business Administrative Co-Op, Business Solutions (July - December 2025) ](https://jobright.ai/jobs/info/677eaa80657f0e9ea1928e1d?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Jun 08 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/683d27a9e3502e937bcb128d?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | Jun 06 |
 | **[NV5](http://www.nv5.com)** | **[GIS/Business Intern](https://jobright.ai/jobs/info/680832b86c962f7be342e727?utm_campaign=1067&utm_source=git)** | Sun Prairie Town, WI | On Site | Jun 05 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/68297bba26c1433a02c57be1?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/67e1ae4771f96bbf168090e2?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 28 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/68362a577dccb9f63f5e87d5?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | May 27 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business System Analyst Intern](https://jobright.ai/jobs/info/6819087a549ca8705983ebac?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 27 |
 | **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | May 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 25 |
