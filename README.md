@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Intuitive](https://intusurg.com)** | **[Business Intelligence Strategy Analyst Intern](https://jobright.ai/jobs/info/684929e612035063be9794c2?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
 | **[Open](https://o-p-e-n.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68489a2812afe2185e64491c?utm_campaign=1067&utm_source=git)** | Los Angeles | Hybrid | Jun 10 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/682b684c0b5f93542fb1703c?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Jun 10 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e859?utm_campaign=1067&utm_source=git)** | Orlando, FL | Hybrid | Jun 09 |
 | **[ASML](https://www.asml.com)** | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/68478aa15ea3c85dd1485f8d?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Jun 09 |
 | **[Dolby OptiView](https://dolby.io)** | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684761a3e5385904cd1bfabd?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
