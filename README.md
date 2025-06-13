@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business](https://jobright.ai/jobs/info/684c7c6cb4feb1c6cb242a2e?utm_campaign=1067&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Jun 13 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/684c543143b695797f38f4bf?utm_campaign=1067&utm_source=git)** | USA MA Norwood | On Site | Jun 13 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/684b649108ebc2dec0620fc1?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona | On Site | Jun 12 |
 | **[Intuitive](https://intusurg.com)** | **[Business Intelligence Strategy Analyst Intern](https://jobright.ai/jobs/info/684929e612035063be9794c2?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/684bc22905d704bbaa3fa4d3?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Jun 10 |
 | **[Open](https://o-p-e-n.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68489a2812afe2185e64491c?utm_campaign=1067&utm_source=git)** | Los Angeles | Hybrid | Jun 10 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e859?utm_campaign=1067&utm_source=git)** | Orlando, FL | Hybrid | Jun 09 |
 | **[Dolby OptiView](https://dolby.io)** | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684761a3e5385904cd1bfabd?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683a6c4d593355184935bb2a?utm_campaign=1067&utm_source=git)** | Seattle, Washington, USA | On Site | May 30 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship (Business Process Excellence)](https://jobright.ai/jobs/info/68391733e3bca59dacc15c82?utm_campaign=1067&utm_source=git)** | Alameda, CA | Hybrid | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/6838bbf2b191ea2073c2bffd?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 29 |
-| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Business Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d9794?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 29 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/68297bba26c1433a02c57be1?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Business Performance](https://jobright.ai/jobs/info/67e1ae4771f96bbf168090e2?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 28 |
@@ -89,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 25 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 24 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | May 23 |
-| **[Primoris Services Corporation](http://prim.com)** | **[Intern](https://jobright.ai/jobs/info/682fd269ca020f97de0e6619?utm_campaign=1067&utm_source=git)** | Aurora, CO | On Site | May 22 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Coop: Operational Readiness: Business Specialist - CollAHNJ (PT)](https://jobright.ai/jobs/info/682eef752880733707782b65?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/682ef69912088e6a1983c47c?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 21 |
 | **[Yakima Chief Hops](https://www.tene.in)** | **[Business Systems Intern](https://jobright.ai/jobs/info/682e4ba01015ba492943e78c?utm_campaign=1067&utm_source=git)** | Yakima, WA | On Site | May 21 |
