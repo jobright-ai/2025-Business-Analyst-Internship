@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[U-Haul](http://www.uhaul.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/684b649108ebc2dec0620fc1?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona | On Site | Jun 12 |
 | **[Intuitive](https://intusurg.com)** | **[Business Intelligence Strategy Analyst Intern](https://jobright.ai/jobs/info/684929e612035063be9794c2?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
+| **[AlixPartners](http://www.alixpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/684bc22905d704bbaa3fa4d3?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Jun 10 |
 | **[Open](https://o-p-e-n.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68489a2812afe2185e64491c?utm_campaign=1067&utm_source=git)** | Los Angeles | Hybrid | Jun 10 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e859?utm_campaign=1067&utm_source=git)** | Orlando, FL | Hybrid | Jun 09 |
 | **[Dolby OptiView](https://dolby.io)** | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684761a3e5385904cd1bfabd?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Strategic Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e6c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | ↳ | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684729a7cd3a1f70ebe3fc19?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[Audax Group](https://www.audaxprivateequity.com)** | **[Business Administrative Co-Op, Business Solutions (July - December 2025) ](https://jobright.ai/jobs/info/677eaa80657f0e9ea1928e1d?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Jun 08 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/684bb5e8bacdaa412e2a253f?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | Jun 06 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683e5c7c80526921e331107a?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 02 |
