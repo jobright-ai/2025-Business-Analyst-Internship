@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Healthcare.com](http://www.healthcare.com)** | **[Jr Business Analyst (Intern to Hire)](https://jobright.ai/jobs/info/682e28053403b37ac4b927b9?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683dbd6f0dd423c00b8f49a7?utm_campaign=1067&utm_source=git)** | BNY Mellon Center, Pittsburgh, PA, 15219, US | On Site | May 15 |
-| **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/68224a44cdaf82e297b605ec?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
