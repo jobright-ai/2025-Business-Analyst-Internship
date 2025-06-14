@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[U-Haul](http://www.uhaul.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/684b649108ebc2dec0620fc1?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona | On Site | Jun 12 |
 | **[Intuitive](https://intusurg.com)** | **[Business Intelligence Strategy Analyst Intern](https://jobright.ai/jobs/info/684929e612035063be9794c2?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
 | **[Open](https://o-p-e-n.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68489a2812afe2185e64491c?utm_campaign=1067&utm_source=git)** | Los Angeles | Hybrid | Jun 10 |
+| **[ASML](https://www.asml.com)** | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/684ce58ed644f872cf35bc88?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Jun 09 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e859?utm_campaign=1067&utm_source=git)** | Orlando, FL | Hybrid | Jun 09 |
 | **[Dolby OptiView](https://dolby.io)** | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684761a3e5385904cd1bfabd?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/68475436d436505df8430e00?utm_campaign=1067&utm_source=git)** | 6535 Nemours Parkway, Orlando, FL, 32827, US | On Site | Jun 09 |
