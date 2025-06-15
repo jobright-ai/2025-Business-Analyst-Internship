@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Intern - Business](https://jobright.ai/jobs/info/684dd540fb9160260bc41d8f?utm_campaign=1067&utm_source=git)** | Columbia, MO | On Site | Jun 14 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Jun 14 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business](https://jobright.ai/jobs/info/684c7c6cb4feb1c6cb242a2e?utm_campaign=1067&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Jun 13 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/684c543143b695797f38f4bf?utm_campaign=1067&utm_source=git)** | USA MA Norwood | On Site | Jun 13 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship (Business Process Excellence)](https://jobright.ai/jobs/info/68391733e3bca59dacc15c82?utm_campaign=1067&utm_source=git)** | Alameda, CA | Hybrid | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/6838bbf2b191ea2073c2bffd?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 29 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/68297bba26c1433a02c57be1?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business System Analyst Intern](https://jobright.ai/jobs/info/6819087a549ca8705983ebac?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 27 |
 | **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | May 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 25 |
