@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/685009b9a8cd37704873a61c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jun 16 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 15 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Intern - Business](https://jobright.ai/jobs/info/684dd540fb9160260bc41d8f?utm_campaign=1067&utm_source=git)** | Columbia, MO | On Site | Jun 14 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Jun 14 |
