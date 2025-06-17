@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68511c4f8c5a59aa04f5485d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation  Intern](https://jobright.ai/jobs/info/685110d63816db6ec5c24098?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jun 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analysis & Project Management](https://jobright.ai/jobs/info/6850aef7a7c5e145f49bc153?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jun 16 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 16 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/685009b9a8cd37704873a61c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jun 16 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 15 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Intern - Business](https://jobright.ai/jobs/info/684dd540fb9160260bc41d8f?utm_campaign=1067&utm_source=git)** | Columbia, MO | On Site | Jun 14 |
@@ -87,8 +89,6 @@ For a complete list, click the following sortable link below:
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship (Business Process Excellence)](https://jobright.ai/jobs/info/68391733e3bca59dacc15c82?utm_campaign=1067&utm_source=git)** | Alameda, CA | Hybrid | May 29 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business System Analyst Intern](https://jobright.ai/jobs/info/6819087a549ca8705983ebac?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 27 |
-| **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | May 27 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 25 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Coop: Operational Readiness: Business Specialist - CollAHNJ (PT)](https://jobright.ai/jobs/info/682eef752880733707782b65?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/682ef69912088e6a1983c47c?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 21 |
 | **[Yakima Chief Hops](https://www.tene.in)** | **[Business Systems Intern](https://jobright.ai/jobs/info/682e4ba01015ba492943e78c?utm_campaign=1067&utm_source=git)** | Yakima, WA | On Site | May 21 |
