@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Intern](https://jobright.ai/jobs/info/685262e820641cf1dd981245?utm_campaign=1067&utm_source=git)** | Bogota, NJ | On Site | Jun 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68511c4f8c5a59aa04f5485d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation  Intern](https://jobright.ai/jobs/info/685110d63816db6ec5c24098?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jun 16 |
@@ -93,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/682ef69912088e6a1983c47c?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 21 |
 | **[Yakima Chief Hops](https://www.tene.in)** | **[Business Systems Intern](https://jobright.ai/jobs/info/682e4ba01015ba492943e78c?utm_campaign=1067&utm_source=git)** | Yakima, WA | On Site | May 21 |
 | **[Healthcare.com](http://www.healthcare.com)** | **[Jr Business Analyst (Intern to Hire)](https://jobright.ai/jobs/info/682e28053403b37ac4b927b9?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
-| **[The Asia Group](http://the-asia-group.com)** | **[Japan Team Analyst Intern](https://jobright.ai/jobs/info/682bdd1447435ecb6654ecc1?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
