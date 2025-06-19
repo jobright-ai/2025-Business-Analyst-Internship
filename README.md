@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Intern](https://jobright.ai/jobs/info/685262e820641cf1dd981245?utm_campaign=1067&utm_source=git)** | Bogota, NJ | On Site | Jun 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68511c4f8c5a59aa04f5485d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation  Intern](https://jobright.ai/jobs/info/685110d63816db6ec5c24098?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jun 16 |
