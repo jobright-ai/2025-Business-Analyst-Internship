@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e9?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127eb?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e8?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d935dfedcc93283120c3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e7?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127ee?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127f2?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc9328312808?utm_campaign=1067&utm_source=git)** | Durham, NC | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc9328312803?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc9328312811?utm_campaign=1067&utm_source=git)** | Baltimore, MD | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc932831281b?utm_campaign=1067&utm_source=git)** | Newark, NJ | On Site | Jun 18 |
 | **[Cyber Defense Technologies](http://www.cyberdefensetechnologies.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724fd4?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Jun 18 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/685355f6333461a157855870?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jun 18 |
 | **[Audax Group](https://www.audaxprivateequity.com)** | **[Business Administrative Co-Op, Business Solutions (July - December 2025)](https://jobright.ai/jobs/info/685336d16204761c478883a3?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Jun 18 |
@@ -79,16 +90,4 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/68474b3149d66ce393068b37?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Jun 09 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684729a7cd3a1f70ebe3fc19?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/684bb5e8bacdaa412e2a253f?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | Jun 06 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
-| ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
-| **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68523d7955ceed42753a63d4?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 03 |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683e5c7c80526921e331107a?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 02 |
-| **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | May 31 |
-| **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683b0630379dc8140ab6937e?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | May 31 |
-| **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/683a6c4d593355184935bb2a?utm_campaign=1067&utm_source=git)** | Seattle, Washington, USA | On Site | May 30 |
-| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship (Business Process Excellence)](https://jobright.ai/jobs/info/68391733e3bca59dacc15c82?utm_campaign=1067&utm_source=git)** | Alameda, CA | Hybrid | May 29 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
-| **[Independence Blue Cross](https://www.ibx.com)** | **[College Coop: Operational Readiness: Business Specialist - CollAHNJ (PT)](https://jobright.ai/jobs/info/682eef752880733707782b65?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/682ef69912088e6a1983c47c?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 21 |
-| **[Healthcare.com](http://www.healthcare.com)** | **[Jr Business Analyst (Intern to Hire)](https://jobright.ai/jobs/info/682e28053403b37ac4b927b9?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
