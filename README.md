@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennar](http://lennar.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6854c461578cf631171ea7a7?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jun 19 |
 | **[Concentric Power Services](http://www.concentricusa.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/68546fc9219dcebd3bdf5966?utm_campaign=1067&utm_source=git)** | Carrollton, TX | On Site | Jun 19 |
-| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127eb?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jun 18 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e9?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e7?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 18 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d935dfedcc93283120c3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jun 18 |
+| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e9?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e8?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jun 18 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127f2?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e7?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127eb?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d935dfedcc93283120c3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127ee?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127f2?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc9328312808?utm_campaign=1067&utm_source=git)** | Durham, NC | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc9328312803?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc9328312811?utm_campaign=1067&utm_source=git)** | Baltimore, MD | On Site | Jun 18 |
