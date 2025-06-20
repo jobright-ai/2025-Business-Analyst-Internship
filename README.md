@@ -60,13 +60,13 @@ For a complete list, click the following sortable link below:
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68550f16f69a18b3b6600313?utm_campaign=1067&utm_source=git)** | Honolulu, HI | Hybrid | Jun 20 |
 | **[Lennar](http://lennar.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6854c461578cf631171ea7a7?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jun 19 |
 | **[Concentric Power Services](http://www.concentricusa.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/68545ef5c90a9c822621226c?utm_campaign=1067&utm_source=git)** | Carrollton, TX | On Site | Jun 19 |
-| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e9?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
+| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127eb?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e8?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jun 18 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127eb?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e9?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127e7?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d935dfedcc93283120c3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jun 18 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127ee?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127f2?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Jun 18 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc93283127ee?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc9328312808?utm_campaign=1067&utm_source=git)** | Durham, NC | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc9328312803?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jun 18 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6853d96cdfedcc9328312811?utm_campaign=1067&utm_source=git)** | Baltimore, MD | On Site | Jun 18 |
@@ -81,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analysis & Project Management](https://jobright.ai/jobs/info/6850aef7a7c5e145f49bc153?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jun 16 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 16 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 15 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jun 14 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Intern - Business](https://jobright.ai/jobs/info/684dd540fb9160260bc41d8f?utm_campaign=1067&utm_source=git)** | Columbia, MO | On Site | Jun 14 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Jun 14 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business](https://jobright.ai/jobs/info/684c7c6cb4feb1c6cb242a2e?utm_campaign=1067&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Jun 13 |
