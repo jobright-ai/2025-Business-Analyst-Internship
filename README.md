@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/6856679ee1ff3143aab9d19e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jun 21 |
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68550f16f69a18b3b6600313?utm_campaign=1067&utm_source=git)** | Honolulu, HI | Hybrid | Jun 20 |
-| **[Lennar](http://lennar.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6854c461578cf631171ea7a7?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jun 19 |
 | **[Concentric Power Services](http://www.concentricusa.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/68545ef5c90a9c822621226c?utm_campaign=1067&utm_source=git)** | Carrollton, TX | On Site | Jun 19 |
 | **[Cyber Defense Technologies](http://www.cyberdefensetechnologies.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724fd4?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Jun 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/684fb5ac707392e347a4f5b9?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 18 |
@@ -69,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analysis & Project Management](https://jobright.ai/jobs/info/6850aef7a7c5e145f49bc153?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jun 16 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 16 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 15 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jun 15 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Intern - Business](https://jobright.ai/jobs/info/684dd540fb9160260bc41d8f?utm_campaign=1067&utm_source=git)** | Columbia, MO | On Site | Jun 14 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality IQ](https://jobright.ai/jobs/info/681425bb4a6300e02544496b?utm_campaign=1067&utm_source=git)** | DFW Metroplex | On Site | Jun 14 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business](https://jobright.ai/jobs/info/684c7c6cb4feb1c6cb242a2e?utm_campaign=1067&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Jun 13 |
@@ -81,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/68474b3149d66ce393068b37?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Jun 09 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684729a7cd3a1f70ebe3fc19?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/684bb5e8bacdaa412e2a253f?utm_campaign=1067&utm_source=git)** | Leominster, MA | On Site | Jun 06 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b9d4ec0693395bda38e?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68523d7955ceed42753a63d4?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 03 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683e5c7c80526921e331107a?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 02 |
