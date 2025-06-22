@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/6856679ee1ff3143aab9d19e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jun 21 |
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68550f16f69a18b3b6600313?utm_campaign=1067&utm_source=git)** | Honolulu, HI | Hybrid | Jun 20 |
+| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6857742f975471a994b76006?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jun 19 |
 | **[Concentric Power Services](http://www.concentricusa.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/68545ef5c90a9c822621226c?utm_campaign=1067&utm_source=git)** | Carrollton, TX | On Site | Jun 19 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e859?utm_campaign=1067&utm_source=git)** | Orlando, FL | Hybrid | Jun 19 |
 | **[Cyber Defense Technologies](http://www.cyberdefensetechnologies.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724fd4?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Jun 18 |
