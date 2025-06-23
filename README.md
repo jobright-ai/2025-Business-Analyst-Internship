@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Jun 22 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/6856679ee1ff3143aab9d19e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jun 21 |
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68550f16f69a18b3b6600313?utm_campaign=1067&utm_source=git)** | Honolulu, HI | Hybrid | Jun 20 |
 | **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6857742f975471a994b76006?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jun 19 |
@@ -87,6 +88,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68523d7955ceed42753a63d4?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 03 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683e5c7c80526921e331107a?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 02 |
-| **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | May 31 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
