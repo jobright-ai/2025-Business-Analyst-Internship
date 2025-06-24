@@ -57,14 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685a3c45e184ac13345e1f7d?utm_campaign=1067&utm_source=git)** | Durham, NC | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685a3c45e184ac13345e1f7a?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685a3c45e184ac13345e1f83?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685a3c45e184ac13345e1f95?utm_campaign=1067&utm_source=git)** | Baltimore, MD | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685a3c45e184ac13345e1f85?utm_campaign=1067&utm_source=git)** | Newark, NJ | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685a3c45e184ac13345e1f94?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685a3c45e184ac13345e1f9a?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685a463c74c42892a4bda59c?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Jun 23 |
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Intern, Technology Analysis & Business Development](https://jobright.ai/jobs/info/68599ff61e0ccd0524a78cc6?utm_campaign=1067&utm_source=git)** | Maitland, FL | On Site | Jun 23 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/68593d79c288399624a5f1b5?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jun 22 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Jun 22 |
