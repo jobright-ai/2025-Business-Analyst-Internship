@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Business Communication Intern](https://jobright.ai/jobs/info/685bfb7a51fe0a920a63d5b1?utm_campaign=1067&utm_source=git)** | Shanghai, VA | On Site | Jun 25 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Business Resilience Intern](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1d83e?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Jun 24 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/685b3453605301f162a78700?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Jun 24 |
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Intern, Technology Analysis & Business Development](https://jobright.ai/jobs/info/68599ff61e0ccd0524a78cc6?utm_campaign=1067&utm_source=git)** | Maitland, FL | On Site | Jun 23 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e859?utm_campaign=1067&utm_source=git)** | Orlando, FL | Hybrid | Jun 19 |
 | **[Cyber Defense Technologies](http://www.cyberdefensetechnologies.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724fd4?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Jun 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/684fb5ac707392e347a4f5b9?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 18 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Intern](https://jobright.ai/jobs/info/685262e820641cf1dd981245?utm_campaign=1067&utm_source=git)** | Bogota, NJ | On Site | Jun 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68511c4f8c5a59aa04f5485d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation  Intern](https://jobright.ai/jobs/info/685110d63816db6ec5c24098?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jun 16 |
