@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[bioMérieux](https://www.biomerieux.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/685b3453605301f162a78700?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Jun 24 |
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Intern, Technology Analysis & Business Development](https://jobright.ai/jobs/info/68599ff61e0ccd0524a78cc6?utm_campaign=1067&utm_source=git)** | Maitland, FL | On Site | Jun 23 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/68593d79c288399624a5f1b5?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jun 22 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Jun 22 |
@@ -86,6 +87,5 @@ For a complete list, click the following sortable link below:
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b9d4ec0693395bda38e?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68523d7955ceed42753a63d4?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 03 |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/683e5c7c80526921e331107a?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
