@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Fall 2025)](https://jobright.ai/jobs/info/685c4b95dcd532b2511fb73d?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jun 25 |
-| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685cb60c08795d4388595a89?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 24 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Business Resilience Intern](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1d83e?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Jun 24 |
 | **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685cb60c08795d4388595a9a?utm_campaign=1067&utm_source=git)** | Newark, NJ | On Site | Jun 24 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/685b3453605301f162a78700?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Jun 24 |
