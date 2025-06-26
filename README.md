@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Health Information Network Shared Services (MiHIN)](http://mihin.org)** | **[Business Analyst  Intern](https://jobright.ai/jobs/info/685d9bd1d918a4f7adda0937?utm_campaign=1067&utm_source=git)** | Michigan, United States | Remote | Jun 26 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 26 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Fall 2025)](https://jobright.ai/jobs/info/685c4b95dcd532b2511fb73d?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jun 25 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Business Resilience Intern](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1d83e?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Jun 24 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/685b3453605301f162a78700?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Jun 24 |
-| **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/68593d79c288399624a5f1b5?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jun 22 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Jun 22 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/6856679ee1ff3143aab9d19e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jun 21 |
 | **[Nemours](http://www.nemours.org)** | **[Intern (Business Applications)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e859?utm_campaign=1067&utm_source=git)** | Orlando, FL | Hybrid | Jun 19 |
 | **[Cyber Defense Technologies](http://www.cyberdefensetechnologies.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724fd4?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Jun 18 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analytics & Project Management <Newtown Square>](https://jobright.ai/jobs/info/684fb5ac707392e347a4f5b9?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 18 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Intern](https://jobright.ai/jobs/info/685262e820641cf1dd981245?utm_campaign=1067&utm_source=git)** | Bogota, NJ | On Site | Jun 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68511c4f8c5a59aa04f5485d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation  Intern](https://jobright.ai/jobs/info/685110d63816db6ec5c24098?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jun 16 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/68474b3149d66ce393068b37?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Jun 09 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[IT Business Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/684729a7cd3a1f70ebe3fc19?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
-| ↳ | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 04 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68523d7955ceed42753a63d4?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd89b8?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
