@@ -57,16 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f6fd5dda593694d5297fd?utm_campaign=1067&utm_source=git)** | Durham, NC | On Site | Jun 27 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f6fd5dda593694d529800?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Jun 27 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f6fd5dda593694d529817?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | On Site | Jun 27 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f6fd5dda593694d52980a?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jun 27 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f6fd5dda593694d5297fa?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Jun 27 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f8ac187c7f34cc64a87bb?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jun 27 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f8ac187c7f34cc64a87bf?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Jun 27 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f8ac187c7f34cc64a87c1?utm_campaign=1067&utm_source=git)** | Newark, NJ | On Site | Jun 27 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f8ac187c7f34cc64a87ca?utm_campaign=1067&utm_source=git)** | Baltimore, MD | On Site | Jun 27 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/685f8ac187c7f34cc64a87d0?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jun 27 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/685ed92d58aabbfc3f3a052c?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Jun 27 |
 | **[Michigan Health Information Network Shared Services (MiHIN)](http://mihin.org)** | **[Business Analyst  Intern](https://jobright.ai/jobs/info/685d9bd1d918a4f7adda0937?utm_campaign=1067&utm_source=git)** | Michigan, United States | Remote | Jun 26 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 26 |
