@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6861fe61b8120079f9a95d40?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jun 28 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6861fe61b8120079f9a95d58?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 28 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6861fe61b8120079f9a95d64?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jun 28 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/685ed92d58aabbfc3f3a052c?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Jun 27 |
 | **[Michigan Health Information Network Shared Services (MiHIN)](http://mihin.org)** | **[Business Analyst  Intern](https://jobright.ai/jobs/info/685d9bd1d918a4f7adda0937?utm_campaign=1067&utm_source=git)** | Michigan, United States | Remote | Jun 26 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 26 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Jun 22 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/6856679ee1ff3143aab9d19e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jun 21 |
 | **[Cyber Defense Technologies](http://www.cyberdefensetechnologies.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724fd4?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Jun 18 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Intern](https://jobright.ai/jobs/info/685262e820641cf1dd981245?utm_campaign=1067&utm_source=git)** | Bogota, NJ | On Site | Jun 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[Technical Business Analyst Co-op with Drexel University: Fall/Winter A Round](https://jobright.ai/jobs/info/68194167801e6cb66bc86222?utm_campaign=1067&utm_source=git)** | Greater Philadelphia | Remote | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68511c4f8c5a59aa04f5485d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 17 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation  Intern](https://jobright.ai/jobs/info/685110d63816db6ec5c24098?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jun 16 |
@@ -78,6 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Open](https://o-p-e-n.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68489a2812afe2185e64491c?utm_campaign=1067&utm_source=git)** | Los Angeles | Hybrid | Jun 10 |
 | **[ASML](https://www.asml.com)** | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/684ce58ed644f872cf35bc88?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Jun 09 |
 | ↳ | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/68474b3149d66ce393068b37?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Jun 09 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b9d4ec0693395bda38e?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68523d7955ceed42753a63d4?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
