@@ -57,9 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NPower](http://www.npower.org/)** | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6861fe61b8120079f9a95d40?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jun 28 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6861fe61b8120079f9a95d58?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 28 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/6861fe61b8120079f9a95d64?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Jun 28 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/685ed92d58aabbfc3f3a052c?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Jun 27 |
 | **[Michigan Health Information Network Shared Services (MiHIN)](http://mihin.org)** | **[Business Analyst  Intern](https://jobright.ai/jobs/info/685d9bd1d918a4f7adda0937?utm_campaign=1067&utm_source=git)** | Michigan, United States | Remote | Jun 26 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 26 |
