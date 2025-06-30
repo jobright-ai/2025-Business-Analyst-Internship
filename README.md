@@ -77,6 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Open](https://o-p-e-n.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68489a2812afe2185e64491c?utm_campaign=1067&utm_source=git)** | Los Angeles | Hybrid | Jun 10 |
 | **[ASML](https://www.asml.com)** | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/684ce58ed644f872cf35bc88?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Jun 09 |
 | ↳ | **[Business Analyst Co-op Fall 2025 (internship)](https://jobright.ai/jobs/info/68474b3149d66ce393068b37?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Jun 09 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b9d4ec0693395bda38e?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b704ec0693395bd9e77?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68523d7955ceed42753a63d4?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
