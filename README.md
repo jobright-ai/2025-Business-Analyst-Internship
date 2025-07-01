@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Fall 2025 (Internship) - 4 months](https://jobright.ai/jobs/info/685ed92d58aabbfc3f3a052c?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Jun 27 |
-| **[Michigan Health Information Network Shared Services (MiHIN)](http://mihin.org)** | **[Business Analyst  Intern](https://jobright.ai/jobs/info/685d9bd1d918a4f7adda0937?utm_campaign=1067&utm_source=git)** | Michigan, United States | Remote | Jun 26 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/684096a5d01bfd05d5a54b14?utm_campaign=1067&utm_source=git)** | Bowling Green, OH | On Site | Jun 26 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Fall 2025)](https://jobright.ai/jobs/info/685c4b95dcd532b2511fb73d?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jun 25 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Jun 22 |
