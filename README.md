@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Fall 2025- CIPHER](https://jobright.ai/jobs/info/686743e20a7d81431615aea4?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
+| **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Fall Interns](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5aef?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Jul 02 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/68658af4dacc710e97af28f2?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 02 |
 | **[CleanJoule](https://cleanjoule.com)** | **[Business Analyst Intern - Japanese Market focus](https://jobright.ai/jobs/info/6864ef1414ce342b94d8a1a1?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Jul 02 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/686427b1dce9e834393f95c8?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 01 |
@@ -75,5 +76,4 @@ For a complete list, click the following sortable link below:
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business](https://jobright.ai/jobs/info/684c7c6cb4feb1c6cb242a2e?utm_campaign=1067&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Jun 13 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Business Translator Intern](https://jobright.ai/jobs/info/684b649108ebc2dec0620fc1?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona | On Site | Jun 12 |
 | **[Open](https://o-p-e-n.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68489a2812afe2185e64491c?utm_campaign=1067&utm_source=git)** | Los Angeles | Hybrid | Jun 10 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Business Analytics Co-op](https://jobright.ai/jobs/info/68409b9d4ec0693395bda38e?utm_campaign=1067&utm_source=git)** | Bowling Green, Ohio, United States | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
