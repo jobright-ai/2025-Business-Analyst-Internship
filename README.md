@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Fall 2025- CIPHER](https://jobright.ai/jobs/info/686743e20a7d81431615aea4?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
+| **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Fall Interns](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5aef?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Jul 03 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
-| **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Fall Intern](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5aef?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Jul 02 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/68658af4dacc710e97af28f2?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 02 |
 | **[CleanJoule](https://cleanjoule.com)** | **[Business Analyst Intern - Japanese Market focus](https://jobright.ai/jobs/info/6864ef1414ce342b94d8a1a1?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Jul 02 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/686427b1dce9e834393f95c8?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 01 |
