@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee6e?utm_campaign=1067&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
+| ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee46?utm_campaign=1067&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jul 05 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Fall 2025- CIPHER](https://jobright.ai/jobs/info/686743e20a7d81431615aea4?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
-| **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Fall Interns](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5aef?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Jul 03 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
+| **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Fall Intern](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5aef?utm_campaign=1067&utm_source=git)** | Arlington, VA | On Site | Jul 02 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Business Analyst Intern, GovTech and Public Safety](https://jobright.ai/jobs/info/68658af4dacc710e97af28f2?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 02 |
 | **[CleanJoule](https://cleanjoule.com)** | **[Business Analyst Intern - Japanese Market focus](https://jobright.ai/jobs/info/6864ef1414ce342b94d8a1a1?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Jul 02 |
 | **[SAP](https://www.sap.com)** | **[SAP Global Value Advisory iXp Intern - Business Analyst](https://jobright.ai/jobs/info/686427b1dce9e834393f95c8?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 01 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation  Intern](https://jobright.ai/jobs/info/685110d63816db6ec5c24098?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jun 16 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 16 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 15 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jun 15 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Intern - Business](https://jobright.ai/jobs/info/684dd540fb9160260bc41d8f?utm_campaign=1067&utm_source=git)** | Columbia, MO | On Site | Jun 14 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business](https://jobright.ai/jobs/info/684c7c6cb4feb1c6cb242a2e?utm_campaign=1067&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Jun 13 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Business Translator Intern](https://jobright.ai/jobs/info/684b649108ebc2dec0620fc1?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona | On Site | Jun 12 |
