@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wisdom Infotech](http://wisdominfotech.com)** | **[Business Analyst & QA Intern (AI-Driven Projects)](https://jobright.ai/jobs/info/687110cea5ae807a59cfda99?utm_campaign=1067&utm_source=git)** | Grafton, WI | Hybrid | Jul 11 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/6870667601cc0956e7e81aa5?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jul 10 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/687044e6a5ae807a59cf7342?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jul 10 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/68700f169a77984d3d150bd2?utm_campaign=1067&utm_source=git)** | San Antonio, TX - One Frost | On Site | Jul 10 |
