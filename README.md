@@ -60,12 +60,9 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687704805cebcd1dd51ce7a0?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876fe7d299cbc74b876279f?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876fd6dae2f413e4a5b5af9?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jul 15 |
-| **[CSC](http://www.cscglobal.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68771504ae2f413e4a5b6772?utm_campaign=1067&utm_source=git)** | Buffalo Grove, IL | Hybrid | Jul 15 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68771517299cbc74b87633ea?utm_campaign=1067&utm_source=git)** | Lewisville, TX | Hybrid | Jul 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f422ae2f413e4a5b5430?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f422ae2f413e4a5b5430?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f3775cebcd1dd51cdcec?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
-| **[CSC](http://www.cscglobal.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6876bdf3299cbc74b876036a?utm_campaign=1067&utm_source=git)** | 2100 E. Lake Cook Road, Buffalo Grove, IL, 60089, US | Remote | Jul 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687665a85cebcd1dd51c8b72?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687665a85cebcd1dd51c8b72?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68766579ae2f413e4a5af633?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687665065cebcd1dd51c8aed?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68766474ae2f413e4a5af55f?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Jul 15 |
