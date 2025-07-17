@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/68782e16ae2f413e4a5c0726?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6877e4125cebcd1dd51d5de9?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 16 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687704805cebcd1dd51ce7a0?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876fe7d299cbc74b876279f?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jul 15 |
@@ -70,8 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68766441299cbc74b875cd0b?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jul 15 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/687604b4299cbc74b8759f07?utm_campaign=1067&utm_source=git)** | Mason, OH | Hybrid | Jul 15 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Business Intern](https://jobright.ai/jobs/info/68714a48a5ae807a59cfeda8?utm_campaign=1067&utm_source=git)** | Advance, NC | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873f58101889204ff8f5ccb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 13 |
-| **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[IT Intern - Business Analyst](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c372?utm_campaign=1067&utm_source=git)** | Hauppauge, NY | On Site | Jul 13 |
+| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873c03c01889204ff8f58e5?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/687044e6a5ae807a59cf7342?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jul 10 |
 | **[Rev1 Ventures](http://www.rev1ventures.com)** | **[Business Insights Internship](https://jobright.ai/jobs/info/686ed9d9a0864b8b9c5bb163?utm_campaign=1067&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Jul 09 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/68511c4f8c5a59aa04f5485d?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jul 08 |
@@ -83,5 +83,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Fall 2025- CIPHER](https://jobright.ai/jobs/info/686743e20a7d81431615aea4?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
 | **[Cyber Defense Technologies](http://www.cyberdefensetechnologies.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724fd4?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Jun 18 |
-| **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business Transformation  Intern](https://jobright.ai/jobs/info/685110d63816db6ec5c24098?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
