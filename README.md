@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6878e35aed63844c9449717b?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6879e45ded63844c9449f5fb?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
+| ↳ | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6878e35aed63844c9449717b?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Semiconductor Business Analyst](https://jobright.ai/jobs/info/68786d045cebcd1dd51da5b3?utm_campaign=1067&utm_source=git)** | Shanghai, VA | Hybrid | Jul 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analysis & Project Management](https://jobright.ai/jobs/info/687847fa866a435525ab7e5c?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 16 |
