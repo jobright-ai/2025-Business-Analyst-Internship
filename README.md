@@ -63,18 +63,13 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6878e35aed63844c9449717b?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Semiconductor Business Analyst](https://jobright.ai/jobs/info/68786d045cebcd1dd51da5b3?utm_campaign=1067&utm_source=git)** | Shanghai, VA | Hybrid | Jul 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analysis & Project Management](https://jobright.ai/jobs/info/687847fa866a435525ab7e5c?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 16 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/68782e16ae2f413e4a5c0726?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6877e4125cebcd1dd51d5de9?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 16 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687704805cebcd1dd51ce7a0?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876fe7d299cbc74b876279f?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876fd6dae2f413e4a5b5af9?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f422ae2f413e4a5b5430?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f3775cebcd1dd51cdcec?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687665a85cebcd1dd51c8b72?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68766579ae2f413e4a5af633?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687665065cebcd1dd51c8aed?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68766474ae2f413e4a5af55f?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68766441299cbc74b875cd0b?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jul 15 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/687604b4299cbc74b8759f07?utm_campaign=1067&utm_source=git)** | Mason, OH | Hybrid | Jul 15 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Business Intern](https://jobright.ai/jobs/info/68714a48a5ae807a59cfeda8?utm_campaign=1067&utm_source=git)** | Advance, NC | On Site | Jul 13 |
 | **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873c03c01889204ff8f58e5?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 12 |
