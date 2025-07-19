@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/687bc0b5ed63844c944ab580?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 19 |
-| ↳ | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687ba759764c3d7411c348f3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 19 |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687bf96b764c3d7411c362c3?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 19 |
+| ↳ | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/687bc0b5ed63844c944ab580?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 19 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687ae3392097a271a8981b21?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Business Operations Analyst (Intern Conversion Only)](https://jobright.ai/jobs/info/687a955ded63844c944a3f1a?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jul 18 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Semiconductor Business Analyst](https://jobright.ai/jobs/info/68786d045cebcd1dd51da5b3?utm_campaign=1067&utm_source=git)** | Shanghai, VA | Hybrid | Jul 16 |
