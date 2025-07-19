@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -60,11 +60,10 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/687addc5764c3d7411c2fda5?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 18 |
 | ↳ | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687ae3392097a271a8981b21?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Business Operations Analyst (Intern Conversion Only)](https://jobright.ai/jobs/info/687a955ded63844c944a3f1a?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jul 18 |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/687a302c764c3d7411c2bc6a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6878e35aed63844c9449717b?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Semiconductor Business Analyst](https://jobright.ai/jobs/info/68786d045cebcd1dd51da5b3?utm_campaign=1067&utm_source=git)** | Shanghai, VA | Hybrid | Jul 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analysis & Project Management](https://jobright.ai/jobs/info/687847fa866a435525ab7e5c?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 16 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/68782e16ae2f413e4a5c0726?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6877e4125cebcd1dd51d5de9?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 16 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687704805cebcd1dd51ce7a0?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876fe7d299cbc74b876279f?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jul 15 |
@@ -78,7 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68766441299cbc74b875cd0b?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jul 15 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/687604b4299cbc74b8759f07?utm_campaign=1067&utm_source=git)** | Mason, OH | Hybrid | Jul 15 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Business Intern](https://jobright.ai/jobs/info/68714a48a5ae807a59cfeda8?utm_campaign=1067&utm_source=git)** | Advance, NC | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873f58101889204ff8f5ccb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 13 |
+| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873c03c01889204ff8f58e5?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/687044e6a5ae807a59cf7342?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jul 10 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/687ada30ed63844c944a5b1a?utm_campaign=1067&utm_source=git)** | San Antonio, TX - One Frost | On Site | Jul 10 |
 | **[Rev1 Ventures](http://www.rev1ventures.com)** | **[Business Insights Internship](https://jobright.ai/jobs/info/686ed9d9a0864b8b9c5bb163?utm_campaign=1067&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Jul 09 |
@@ -87,4 +86,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/686c603c35584b65425d1eb9?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 07 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 07 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jul 06 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jul 05 |
+| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Fall 2025- CIPHER](https://jobright.ai/jobs/info/686743e20a7d81431615aea4?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
