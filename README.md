@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/686c603c35584b65425d1eb9?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 07 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 07 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jul 06 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
