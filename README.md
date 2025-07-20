@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/687cacf2ed63844c944b0f86?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 20 |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687cf34a2097a271a898d848?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 20 |
+| ↳ | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/687cacf2ed63844c944b0f86?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687cb0ee764c3d7411c3b5c3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 19 |
 | ↳ | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687bf96b764c3d7411c362c3?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/687cb08c764c3d7411c3b57a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
