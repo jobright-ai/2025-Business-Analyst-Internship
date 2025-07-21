@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687d8119764c3d7411c3d0bf?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 20 |
-| ↳ | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687cf34a2097a271a898d848?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 20 |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687cf34a2097a271a898d848?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/687cacf2ed63844c944b0f86?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 20 |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687bf96b764c3d7411c362c3?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 19 |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687cb0ee764c3d7411c3b5c3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 19 |
+| ↳ | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687bf96b764c3d7411c362c3?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Business Operations Analyst (Intern Conversion Only)](https://jobright.ai/jobs/info/687a955ded63844c944a3f1a?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jul 18 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Semiconductor Business Analyst](https://jobright.ai/jobs/info/68786d045cebcd1dd51da5b3?utm_campaign=1067&utm_source=git)** | Shanghai, VA | Hybrid | Jul 16 |
@@ -73,7 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f3775cebcd1dd51cdcec?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/687604b4299cbc74b8759f07?utm_campaign=1067&utm_source=git)** | Mason, OH | Hybrid | Jul 15 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Business Intern](https://jobright.ai/jobs/info/68714a48a5ae807a59cfeda8?utm_campaign=1067&utm_source=git)** | Advance, NC | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873c03c01889204ff8f58e5?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 12 |
+| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873f58101889204ff8f5ccb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/687044e6a5ae807a59cf7342?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jul 10 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/687ada30ed63844c944a5b1a?utm_campaign=1067&utm_source=git)** | San Antonio, TX - One Frost | On Site | Jul 10 |
 | **[Rev1 Ventures](http://www.rev1ventures.com)** | **[Business Insights Internship](https://jobright.ai/jobs/info/686ed9d9a0864b8b9c5bb163?utm_campaign=1067&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Jul 09 |
