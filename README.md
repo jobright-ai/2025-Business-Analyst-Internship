@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[bioMérieux](https://www.biomerieux.com)** | **[IS Business Analyst Intern](https://jobright.ai/jobs/info/687f338f2097a271a899bb9f?utm_campaign=1067&utm_source=git)** | Hazelwood, Missouri | On Site | Jul 21 |
-| ↳ | **[IS Business Analyst Intern](https://jobright.ai/jobs/info/687f465e764c3d7411c4abc5?utm_campaign=1067&utm_source=git)** | Hazelwood, MO | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/687f0c842097a271a899a338?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 21 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/687e4743db19f31cf0d691ca?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 21 |
@@ -78,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/687604b4299cbc74b8759f07?utm_campaign=1067&utm_source=git)** | Mason, OH | Hybrid | Jul 15 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/687e4d622097a271a899428c?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jul 14 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Business Intern](https://jobright.ai/jobs/info/68714a48a5ae807a59cfeda8?utm_campaign=1067&utm_source=git)** | Advance, NC | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873c03c01889204ff8f58e5?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 12 |
+| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873f58101889204ff8f5ccb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/687044e6a5ae807a59cf7342?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jul 10 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/687ada30ed63844c944a5b1a?utm_campaign=1067&utm_source=git)** | San Antonio, TX - One Frost | On Site | Jul 10 |
 | **[Rev1 Ventures](http://www.rev1ventures.com)** | **[Business Insights Internship](https://jobright.ai/jobs/info/686ed9d9a0864b8b9c5bb163?utm_campaign=1067&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Jul 09 |
