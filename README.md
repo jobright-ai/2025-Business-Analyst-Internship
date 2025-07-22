@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/687f0c842097a271a899a338?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 21 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/687e4743db19f31cf0d691ca?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 21 |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687d8119764c3d7411c3d0bf?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 20 |
-| ↳ | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687cf34a2097a271a898d848?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 20 |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687cf34a2097a271a898d848?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/687cacf2ed63844c944b0f86?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 20 |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687cb0ee764c3d7411c3b5c3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 19 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Business Operations Analyst (Intern Conversion Only)](https://jobright.ai/jobs/info/687a955ded63844c944a3f1a?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jul 18 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Semiconductor Business Analyst](https://jobright.ai/jobs/info/68786d045cebcd1dd51da5b3?utm_campaign=1067&utm_source=git)** | Shanghai, VA | Hybrid | Jul 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analysis & Project Management](https://jobright.ai/jobs/info/687847fa866a435525ab7e5c?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 16 |
