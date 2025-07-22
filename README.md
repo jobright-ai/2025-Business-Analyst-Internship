@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687cf34a2097a271a898d848?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/687cacf2ed63844c944b0f86?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687cb0ee764c3d7411c3b5c3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 19 |
+| **[World Wide Technology Healthcare Solutions](https://www.wwt.com/industry/healthcare/)** | **[Business Operations Analyst (Intern Conversion Only)](https://jobright.ai/jobs/info/687b2f2b2097a271a8982a49?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Jul 18 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Business Operations Analyst (Intern Conversion Only)](https://jobright.ai/jobs/info/687a955ded63844c944a3f1a?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Jul 18 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Semiconductor Business Analyst](https://jobright.ai/jobs/info/68786d045cebcd1dd51da5b3?utm_campaign=1067&utm_source=git)** | Shanghai, VA | Hybrid | Jul 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Analysis & Project Management](https://jobright.ai/jobs/info/687847fa866a435525ab7e5c?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 16 |
@@ -82,5 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/687044e6a5ae807a59cf7342?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jul 10 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/686c802c35584b65421821ea?utm_campaign=1067&utm_source=git)** | Statesville, NC | On Site | Jul 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/686c603c35584b65425d1eb9?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 07 |
+| **[Airbus Aircraft](http://www.airbus.com)** | **[Long-term Internship - Business Operations](https://jobright.ai/jobs/info/6868248135584b65425ee830?utm_campaign=1067&utm_source=git)** | Wichita, KS | Hybrid | Jul 04 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
