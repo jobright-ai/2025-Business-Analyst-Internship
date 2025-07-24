@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/68828021835a903aa07edef3?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 24 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 24 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6881c304ee15177ae9716f09?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
 | **[Mead Lumber](https://www.meadcompanies.com/mead-lumber/)** | **[Business Intern](https://jobright.ai/jobs/info/6881ab7716ea5743a373b35a?utm_campaign=1067&utm_source=git)** | North Platte, NE | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/688164a816ea5743a3738c4a?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 23 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/687f241b9f72804245701876?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 20 |
 | ↳ | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/687d8119764c3d7411c3d0bf?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 20 |
-| ↳ | **[Business Analyst (GOV) - Entry Level (Internship) (Remote)](https://jobright.ai/jobs/info/687cf34a2097a271a898d848?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 20 |
 | **[Greater Lynn Senior Services, Inc.](http://www.glss.net)** | **[UNPAID Fall Business Intern](https://jobright.ai/jobs/info/6879c8d1ed63844c9449e3df?utm_campaign=1067&utm_source=git)** | Lynn, MA | On Site | Jul 17 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Semiconductor Business Analyst](https://jobright.ai/jobs/info/68786d045cebcd1dd51da5b3?utm_campaign=1067&utm_source=git)** | Shanghai, VA | Hybrid | Jul 16 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Jul 16 |
@@ -82,9 +83,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f3775cebcd1dd51cdcec?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | **[Euronics Gruppo Nova](https://www.euronics.it/home)** | **[STAGE BUSINESS ANALYST](https://jobright.ai/jobs/info/6875d58c5cebcd1dd51c3e62?utm_campaign=1067&utm_source=git)** | Milano, TX | On Site | Jul 14 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/687e4d622097a271a899428c?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jul 14 |
+| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873f58101889204ff8f5ccb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 13 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern, Business Analyst Eastern Region - Fall 2025](https://jobright.ai/jobs/info/6876181e299cbc74b875aa94?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ | Hybrid | Jul 12 |
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Business Management Trainee](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce416?utm_campaign=1067&utm_source=git)** | Newington, CT | On Site | Jul 12 |
-| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873c03c01889204ff8f58e5?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 12 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Business Process Intern](https://jobright.ai/jobs/info/687267fa06ad7073463cc145?utm_campaign=1067&utm_source=git)** | Longwood, FL | On Site | Jul 12 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Business Process Intern](https://jobright.ai/jobs/info/6871b035a96c881fdf355b7b?utm_campaign=1067&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
