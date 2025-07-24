@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Business Process Intern](https://jobright.ai/jobs/info/687267fa06ad7073463cc145?utm_campaign=1067&utm_source=git)** | Longwood, FL | On Site | Jul 12 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Business Process Intern](https://jobright.ai/jobs/info/6871b035a96c881fdf355b7b?utm_campaign=1067&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Jul 11 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/687044e6a5ae807a59cf7342?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jul 10 |
-| **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/687ada30ed63844c944a5b1a?utm_campaign=1067&utm_source=git)** | San Antonio, TX - One Frost | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
