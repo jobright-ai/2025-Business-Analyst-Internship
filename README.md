@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/688344926fcd973d15ae0d1f?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/68828021835a903aa07edef3?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 24 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 24 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6881c304ee15177ae9716f09?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
