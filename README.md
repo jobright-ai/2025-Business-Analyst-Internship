@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imperium Dynamics](https://imperiumdynamics.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68843c3efbbf032d00066335?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jul 25 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/6883d4cfb54cac0f1e73a0ad?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/688344926fcd973d15ae0d1f?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/68828021835a903aa07edef3?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 24 |
