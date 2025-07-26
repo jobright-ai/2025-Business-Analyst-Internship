@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Imperium Dynamics](https://imperiumdynamics.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68843c3efbbf032d00066335?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jul 25 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/6883d4cfb54cac0f1e73a0ad?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/688344926fcd973d15ae0d1f?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/68828021835a903aa07edef3?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 24 |
@@ -66,7 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Mead Lumber](https://www.meadcompanies.com/mead-lumber/)** | **[Business Intern](https://jobright.ai/jobs/info/6882f622835a903aa07f1e75?utm_campaign=1067&utm_source=git)** | North Platte, NE | On Site | Jul 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/68813ff229ad6b2744ae0932?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 23 |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6881d5b0ee15177ae9717b0a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 22 |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/68846b50b651c92cb78a8311?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 22 |
+| ↳ | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6881d5b0ee15177ae9717b0a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 22 |
 | **[Immersion Consulting](http://immersioninc.com)** | **[Intern](https://jobright.ai/jobs/info/6880ace716ea5743a3731f80?utm_campaign=1067&utm_source=git)** | Annapolis, MD | On Site | Jul 22 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[IS Business Analyst Intern](https://jobright.ai/jobs/info/687ff7c32097a271a899fcb5?utm_campaign=1067&utm_source=git)** | Hazelwood, Missouri | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/6881de8641fbda106ee6e069?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 21 |
@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873f58101889204ff8f5ccb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 13 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern, Business Analyst Eastern Region - Fall 2025](https://jobright.ai/jobs/info/6876181e299cbc74b875aa94?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ | Hybrid | Jul 12 |
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Business Management Trainee](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce416?utm_campaign=1067&utm_source=git)** | Newington, CT | On Site | Jul 12 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Business Process Intern](https://jobright.ai/jobs/info/687267fa06ad7073463cc145?utm_campaign=1067&utm_source=git)** | Longwood, FL | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
