@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/6881de8641fbda106ee6e069?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 21 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[IS Business Analyst Intern](https://jobright.ai/jobs/info/68807bed764c3d7411c5382c?utm_campaign=1067&utm_source=git)** | Hazelwood, MO | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/687f0c842097a271a899a338?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 21 |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/687f241b9f72804245701876?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 20 |
 | **[Greater Lynn Senior Services, Inc.](http://www.glss.net)** | **[UNPAID Fall Business Intern](https://jobright.ai/jobs/info/6879c8d1ed63844c9449e3df?utm_campaign=1067&utm_source=git)** | Lynn, MA | On Site | Jul 17 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Semiconductor Business Analyst](https://jobright.ai/jobs/info/68786d045cebcd1dd51da5b3?utm_campaign=1067&utm_source=git)** | Shanghai, VA | Hybrid | Jul 16 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Jul 16 |
