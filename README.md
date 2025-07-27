@@ -70,8 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/688594044174df41e0f97197?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst, Internship](https://jobright.ai/jobs/info/68813ff229ad6b2744ae0932?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 23 |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/68846b50b651c92cb78a8311?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 22 |
-| ↳ | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6881d5b0ee15177ae9717b0a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 22 |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Operations Analyst - Internship](https://jobright.ai/jobs/info/6881d5b0ee15177ae9717b0a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jul 22 |
 | **[Immersion Consulting](http://immersioninc.com)** | **[Intern](https://jobright.ai/jobs/info/6880ace716ea5743a3731f80?utm_campaign=1067&utm_source=git)** | Annapolis, MD | On Site | Jul 22 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[IS Business Analyst Intern](https://jobright.ai/jobs/info/687ff7c32097a271a899fcb5?utm_campaign=1067&utm_source=git)** | Hazelwood, Missouri | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/6881de8641fbda106ee6e069?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jul 21 |
