@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Business Analyst - Internship](https://jobright.ai/jobs/info/68870330b651c92cb78b12b5?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Business Analyst Intern at Arctex Inc.](https://jobright.ai/jobs/info/68861757b651c92cb78aec13?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/68868d4fb651c92cb78af70d?utm_campaign=1067&utm_source=git)** | South Jordan, UT | On Site | Jul 27 |
 | ↳ | **[Business Analyst Intern (Internship)](https://jobright.ai/jobs/info/68866c40b651c92cb78af423?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Business Analyst Intern at Arctex Inc.](https://jobright.ai/jobs/info/68861757b651c92cb78aec13?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Information Technology Business Analyst I - Internship](https://jobright.ai/jobs/info/6885542db651c92cb78ab942?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | On Site | Jul 26 |
 | ↳ | **[Business Systems Analyst - Internship](https://jobright.ai/jobs/info/68851456fbbf032d0006beae?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jul 26 |
