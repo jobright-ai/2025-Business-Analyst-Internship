@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/688819184174df41e0fa2dc5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Jul 28 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/688827effbbf032d000790a5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Intern Undergraduate Business](https://jobright.ai/jobs/info/68880c4d4174df41e0fa275e?utm_campaign=1067&utm_source=git)** | Illinois, United States | On Site | Jul 28 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[001081 - Business Reporting Analyst Intern](https://jobright.ai/jobs/info/6888541373e3e13cbd944670?utm_campaign=1067&utm_source=git)** | Nottingham, MD | On Site | Jul 28 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/68876180fbbf032d00073d5d?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 24 |
 | **[Mead Lumber](https://www.meadcompanies.com/mead-lumber/)** | **[Business Intern](https://jobright.ai/jobs/info/6882f622835a903aa07f1e75?utm_campaign=1067&utm_source=git)** | North Platte, NE | On Site | Jul 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 23 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68224a44cdaf82e297b60700?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jul 23 |
 | **[Immersion Consulting](http://immersioninc.com)** | **[Intern](https://jobright.ai/jobs/info/6880ace716ea5743a3731f80?utm_campaign=1067&utm_source=git)** | Annapolis, MD | On Site | Jul 22 |
 | **[Greater Lynn Senior Services, Inc.](http://www.glss.net)** | **[UNPAID Fall Business Intern](https://jobright.ai/jobs/info/6879c8d1ed63844c9449e3df?utm_campaign=1067&utm_source=git)** | Lynn, MA | On Site | Jul 17 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Jul 16 |
