@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parsons Corporation](http://www.parsons.com)** | **[2025 Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/688a90a609808a6103e4fc9a?utm_campaign=1067&utm_source=git)** | US - VA, Chantilly | On Site | Jul 30 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Business Technology Solutions Intern](https://jobright.ai/jobs/info/688a6bd509808a6103e4e794?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Jul 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/68890bdaaab47a17f66fe74e?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Jul 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/678f377e215dc6e7f646212b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 29 |
