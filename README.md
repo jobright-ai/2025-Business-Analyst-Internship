@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolis Technologies](http://www.metropolis.io)** | **[Corporate Intern](https://jobright.ai/jobs/info/688ac3da9f961617fe21e051?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[2025 Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/688a90a609808a6103e4fc9a?utm_campaign=1067&utm_source=git)** | US - VA, Chantilly | On Site | Jul 30 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Business Technology Solutions Intern](https://jobright.ai/jobs/info/688a6bd509808a6103e4e794?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Jul 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/68890bdaaab47a17f66fe74e?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Jul 29 |
