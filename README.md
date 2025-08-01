@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688c57b43a30793eb9642671?utm_campaign=1067&utm_source=git)** | PA Pittsburgh | Hybrid | Jul 31 |
 | ↳ | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688c57a0906ac06e1d1d3662?utm_campaign=1067&utm_source=git)** | TX Houston - Sequent | Hybrid | Jul 31 |
 | ↳ | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688c57923a30793eb96425fc?utm_campaign=1067&utm_source=git)** | TX Houston - Tower | Hybrid | Jul 31 |
-| **[KCC Capital Partners](kcccapitalpartners.com)** | **[Intern](https://jobright.ai/jobs/info/688c5110906ac06e1d1d30ec?utm_campaign=1067&utm_source=git)** | West Hollywood, CA | On Site | Jul 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/68876180fbbf032d00073d5d?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jul 31 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/688ba6c3906ac06e1d1cd0cb?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jul 31 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/688ba60f3a30793eb963c306?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 31 |
