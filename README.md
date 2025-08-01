@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688c57cb1808534a89cbaf61?utm_campaign=1067&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Jul 31 |
+| ↳ | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688c57c01808534a89cbaf4a?utm_campaign=1067&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Jul 31 |
+| ↳ | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688c57b43a30793eb9642671?utm_campaign=1067&utm_source=git)** | PA Pittsburgh | Hybrid | Jul 31 |
+| ↳ | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688c57a0906ac06e1d1d3662?utm_campaign=1067&utm_source=git)** | TX Houston - Sequent | Hybrid | Jul 31 |
+| ↳ | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688c57923a30793eb96425fc?utm_campaign=1067&utm_source=git)** | TX Houston - Tower | Hybrid | Jul 31 |
 | **[KCC Capital Partners](kcccapitalpartners.com)** | **[Intern](https://jobright.ai/jobs/info/688c5110906ac06e1d1d30ec?utm_campaign=1067&utm_source=git)** | West Hollywood, CA | On Site | Jul 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/68876180fbbf032d00073d5d?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jul 31 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/688ba6c3906ac06e1d1cd0cb?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jul 31 |
@@ -82,13 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68224a44cdaf82e297b60700?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jul 23 |
 | **[Immersion Consulting](http://immersioninc.com)** | **[Intern](https://jobright.ai/jobs/info/6880ace716ea5743a3731f80?utm_campaign=1067&utm_source=git)** | Annapolis, MD | On Site | Jul 22 |
-| **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Jul 16 |
-| **[Upskills](http://www.upskills.com/)** | **[Business Analyst Intern (Domain in Capital Markets Industry)](https://jobright.ai/jobs/info/68779e6b5cebcd1dd51d3d06?utm_campaign=1067&utm_source=git)** | Remote job | Remote | Jul 16 |
-| **[Euronics Gruppo Nova](https://www.euronics.it/home)** | **[STAGE BUSINESS ANALYST](https://jobright.ai/jobs/info/6875d58c5cebcd1dd51c3e62?utm_campaign=1067&utm_source=git)** | Milano, TX | On Site | Jul 14 |
-| **[CourseCareers](http://coursecareers.com)** | **[Business Management Internship](https://jobright.ai/jobs/info/6873c03c01889204ff8f58e5?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 12 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Business Process Intern](https://jobright.ai/jobs/info/687267fa06ad7073463cc145?utm_campaign=1067&utm_source=git)** | Longwood, FL | On Site | Jul 12 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Business Process Intern](https://jobright.ai/jobs/info/6871b035a96c881fdf355b7b?utm_campaign=1067&utm_source=git)** | Feeding Children Everywhere - HQ | On Site | Jul 11 |
-| **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/687044e6a5ae807a59cf7342?utm_campaign=1067&utm_source=git)** | Myrtle Point, OR | On Site | Jul 10 |
-| **[Rev1 Ventures](http://www.rev1ventures.com)** | **[Business Insights Internship](https://jobright.ai/jobs/info/686ed9d9a0864b8b9c5bb163?utm_campaign=1067&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Jul 09 |
-| **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern - Grass Valley](https://jobright.ai/jobs/info/68662cd837d022c0a5c6fb43?utm_campaign=1067&utm_source=git)** | Grass Valley, CA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
