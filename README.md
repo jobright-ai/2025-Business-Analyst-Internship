@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/688df443cdbd821a36640199?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db99dcdbd821a3663e74f?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Aug 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db11f6a4aac5783cd5e38?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 01 |
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst - Intern - Onsite - Dallas, TX](https://jobright.ai/jobs/info/688d62ff27f9022553c0b0bb?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/688d533227f9022553c0ac71?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Truist](https://www.truist.com)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/688cd48f3a30793eb96467b3?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
+| **[Truist](https://www.truist.com)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/688d1c031808534a89cc1017?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
 | **[CRC Group](https://www.crcgroup.com/)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/688cd46727f9022553c0705c?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688caec93a30793eb9645cfe?utm_campaign=1067&utm_source=git)** | Tulsa, OK | Hybrid | Aug 01 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Return Internship - General Business](https://jobright.ai/jobs/info/688c57cb1808534a89cbaf61?utm_campaign=1067&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Jul 31 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/686c603c35584b65425d1eb9?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 29 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/686c802c35584b65421821ea?utm_campaign=1067&utm_source=git)** | Statesville, NC | On Site | Jul 29 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/688b03499f961617fe2205f6?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/688827effbbf032d000790a5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 | **[RWI Logistics LLC](https://www.rwilogistics.com)** | **[Business Analyst Co-op (Fall 2025)](https://jobright.ai/jobs/info/688938839f961617fe212d64?utm_campaign=1067&utm_source=git)** | Fort Thomas, KY | On Site | Jul 28 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/688819184174df41e0fa2dc5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[001081 - Business Reporting Analyst Intern](https://jobright.ai/jobs/info/6888541373e3e13cbd944670?utm_campaign=1067&utm_source=git)** | Nottingham, MD | On Site | Jul 28 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jul 28 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jul 27 |
