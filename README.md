@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/689097daf5ee707a15db7c36?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
-| **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/688df443cdbd821a36640199?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Business Technology Solutions Intern](https://jobright.ai/jobs/info/688e011dcdbd821a3664041b?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Aug 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db99dcdbd821a3663e74f?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Aug 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db11f6a4aac5783cd5e38?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 01 |
@@ -79,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/686c603c35584b65425d1eb9?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 29 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/686c802c35584b65421821ea?utm_campaign=1067&utm_source=git)** | Statesville, NC | On Site | Jul 29 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/688b03499f961617fe2205f6?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/688827effbbf032d000790a5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 | **[RWI Logistics LLC](https://www.rwilogistics.com)** | **[Business Analyst Co-op (Fall 2025)](https://jobright.ai/jobs/info/688938839f961617fe212d64?utm_campaign=1067&utm_source=git)** | Fort Thomas, KY | On Site | Jul 28 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/688819184174df41e0fa2dc5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jul 28 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship – Corporate Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jul 27 |
