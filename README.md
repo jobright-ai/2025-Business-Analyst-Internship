@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Mead Lumber](https://www.meadcompanies.com/mead-lumber/)** | **[Business Intern](https://jobright.ai/jobs/info/6882f622835a903aa07f1e75?utm_campaign=1067&utm_source=git)** | North Platte, NE | On Site | Jul 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6878203a5cebcd1dd51d7f16?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68224a44cdaf82e297b60700?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jul 23 |
-| **[Immersion Consulting](http://immersioninc.com)** | **[Intern](https://jobright.ai/jobs/info/6880ace716ea5743a3731f80?utm_campaign=1067&utm_source=git)** | Annapolis, MD | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
