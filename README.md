@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891717ff5ee707a15dbe8d7?utm_campaign=1067&utm_source=git)** | Brownsville, WI Corporate Office | On Site | Aug 04 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/689097daf5ee707a15db7c36?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Business Technology Solutions Intern](https://jobright.ai/jobs/info/688e011dcdbd821a3664041b?utm_campaign=1067&utm_source=git)** | North Chicago, IL | On Site | Aug 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db99dcdbd821a3663e74f?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Aug 02 |
