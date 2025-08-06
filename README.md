@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jul 27 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/6883d4cfb54cac0f1e73a0ad?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jul 24 |
-| **[Mead Lumber](https://www.meadcompanies.com/mead-lumber/)** | **[Business Intern](https://jobright.ai/jobs/info/6882f622835a903aa07f1e75?utm_campaign=1067&utm_source=git)** | North Platte, NE | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
