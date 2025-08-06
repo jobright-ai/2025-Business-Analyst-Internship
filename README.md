@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cyclomedia](http://www.cyclomedia.com)** | **[Business Process Improvement Intern](https://jobright.ai/jobs/info/6893c1754c7e851b90ae02c3?utm_campaign=1067&utm_source=git)** | Middleton, WI | On Site | Aug 06 |
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN BUSINESS ANALYST](https://jobright.ai/jobs/info/6892cd6ef5ee707a15dc8830?utm_campaign=1067&utm_source=git)** | Arlington, VA or Richmond, VA | On Site | Aug 05 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68927fa9f5ee707a15dc6344?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Aug 05 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Aug 05 |
