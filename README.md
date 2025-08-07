@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetLife](http://www.metlife.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6894ee9273b3a600fe883723?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6894ea5173b3a600fe8834ad?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 07 |
 | **[Cyclomedia](http://www.cyclomedia.com)** | **[Business Process Improvement Intern](https://jobright.ai/jobs/info/6893c1754c7e851b90ae02c3?utm_campaign=1067&utm_source=git)** | Middleton, WI | On Site | Aug 06 |
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN BUSINESS ANALYST](https://jobright.ai/jobs/info/6892cd6ef5ee707a15dc8830?utm_campaign=1067&utm_source=git)** | Arlington, VA or Richmond, VA | On Site | Aug 05 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68927fa9f5ee707a15dc6344?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Aug 05 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Aug 05 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 04 |
 | ↳ | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891717ff5ee707a15dbe8d7?utm_campaign=1067&utm_source=git)** | Brownsville, WI Corporate Office | On Site | Aug 04 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db11f6a4aac5783cd5e38?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 01 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[2025 Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/688ae95009808a6103e52406?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/688d533227f9022553c0ac71?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Truist](https://www.truist.com)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68936afaa9199876488dd45b?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
 | **[CRC Group](https://www.crcgroup.com/)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68936b18f47efe211396405f?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
 | **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/68876180fbbf032d00073d5d?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jul 31 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/688ba6c3906ac06e1d1cd0cb?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jul 31 |
