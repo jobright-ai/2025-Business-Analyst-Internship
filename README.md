@@ -61,6 +61,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6895ffea1b9e81727f18d388?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Aug 08 |
 | ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6895fbc28c6d6b442677e06d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 08 |
 | ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6895fb488c6d6b442677e04e?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/689615b473b3a600fe88c964?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6896155b1b9e81727f18dfd9?utm_campaign=1067&utm_source=git)** | Los Angeles County, CA | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6896132b1b9e81727f18df20?utm_campaign=1067&utm_source=git)** | New Haven, CT | Hybrid | Aug 08 |
 | **[MONKEY MOUTHS, LLC](https://monkeymouths.com)** | **[Fall Internship - Business Majors](https://jobright.ai/jobs/info/68954bf74ed2ea559ca54cc0?utm_campaign=1067&utm_source=git)** | Hurst, TX | On Site | Aug 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/689545a54ed2ea559ca548ff?utm_campaign=1067&utm_source=git)** | Lake Mary, FL | Hybrid | Aug 07 |
 | ↳ | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6895459e4ed2ea559ca548fb?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 07 |
@@ -91,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[State of Arizona](https://az.gov/)** | **[Business Management Intern](https://jobright.ai/jobs/info/688c71ce1808534a89cbc2cb?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jul 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/686c802c35584b65421821ea?utm_campaign=1067&utm_source=git)** | Statesville, NC | On Site | Jul 29 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/688b03499f961617fe2205f6?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/688827effbbf032d000790a5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 | **[RWI Logistics LLC](https://www.rwilogistics.com)** | **[Business Analyst Co-op (Fall 2025)](https://jobright.ai/jobs/info/688938839f961617fe212d64?utm_campaign=1067&utm_source=git)** | Fort Thomas, KY | On Site | Jul 28 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/688819184174df41e0fa2dc5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 | **[AffiniPay](https://www.affinipay.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/683220b862f0b2a7a793de76?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jul 28 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship – Corporate Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Jul 27 |
