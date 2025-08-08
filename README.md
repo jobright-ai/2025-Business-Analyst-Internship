@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight - Digital Business Services](https://jobright.ai/jobs/info/68963e578c6d6b442677fe89?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 08 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6895fff38c6d6b442677e1a1?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Aug 08 |
 | ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6895ffea1b9e81727f18d388?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Aug 08 |
 | ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6895fbc28c6d6b442677e06d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 08 |
