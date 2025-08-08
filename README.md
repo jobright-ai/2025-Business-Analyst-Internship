@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TIH](https://www.truistinsurance.com/)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/689662f31b9e81727f190762?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight - Digital Business Services](https://jobright.ai/jobs/info/68963e578c6d6b442677fe89?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 08 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6895fff38c6d6b442677e1a1?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Aug 08 |
 | ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6895ffea1b9e81727f18d388?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Aug 08 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[2025 Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/688ae95009808a6103e52406?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/688d533227f9022553c0ac71?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6895869e73b3a600fe8884d8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[Amazon](https://amazon.com)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/68876180fbbf032d00073d5d?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jul 31 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/688ba6c3906ac06e1d1cd0cb?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jul 31 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/688ba60f3a30793eb963c306?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/68890bdaaab47a17f66fe74e?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Jul 31 |
