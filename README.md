@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/689545a54ed2ea559ca548ff?utm_campaign=1067&utm_source=git)** | Lake Mary, FL | Hybrid | Aug 07 |
 | ↳ | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6895459e4ed2ea559ca548fb?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/6895431a73b3a600fe88619d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Aug 07 |
+| **[MONKEY MOUTHS, LLC](https://monkeymouths.com)** | **[Fall Internship - Business Majors](https://jobright.ai/jobs/info/6897e3f273b3a600fe8a0ecf?utm_campaign=1067&utm_source=git)** | Hurst, TX | On Site | Aug 07 |
 | **[MetLife](http://www.metlife.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6894ee9273b3a600fe883723?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6894ea5173b3a600fe8834ad?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 07 |
 | **[Cyclomedia](http://www.cyclomedia.com)** | **[Business Process Improvement Intern (Madison, Wisconsin)](https://jobright.ai/jobs/info/68954a928c6d6b4426778a1e?utm_campaign=1067&utm_source=git)** | Middleton, Wisconsin, United States | On Site | Aug 06 |
