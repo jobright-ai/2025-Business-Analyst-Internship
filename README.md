@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TIH](https://www.truistinsurance.com/)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68983a685574fd6bc0c7603a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 08 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight - Digital Business Services](https://jobright.ai/jobs/info/68984c8183d13d1f5b68d6b7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 08 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6897dbd58c6d6b44267930be?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/68984ff75574fd6bc0c77e74?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/68984c635574fd6bc0c775a0?utm_campaign=1067&utm_source=git)** | Los Angeles County, CA | Hybrid | Aug 08 |
 | **[MONKEY MOUTHS, LLC](https://monkeymouths.com)** | **[Fall Internship - Business Majors](https://jobright.ai/jobs/info/68954bf74ed2ea559ca54cc0?utm_campaign=1067&utm_source=git)** | Hurst, TX | On Site | Aug 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/689545a54ed2ea559ca548ff?utm_campaign=1067&utm_source=git)** | Lake Mary, FL | Hybrid | Aug 07 |
 | ↳ | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6895459e4ed2ea559ca548fb?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 07 |
@@ -66,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[MetLife](http://www.metlife.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6894ee9273b3a600fe883723?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6894ea5173b3a600fe8834ad?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 07 |
 | **[Cyclomedia](http://www.cyclomedia.com)** | **[Business Process Improvement Intern (Madison, Wisconsin)](https://jobright.ai/jobs/info/68954a928c6d6b4426778a1e?utm_campaign=1067&utm_source=git)** | Middleton, Wisconsin, United States | On Site | Aug 06 |
-| ↳ | **[Business Process Improvement Intern (Madison, Wisconsin)](https://jobright.ai/jobs/info/6893c1754c7e851b90ae02c3?utm_campaign=1067&utm_source=git)** | Middleton, WI | On Site | Aug 06 |
+| ↳ | **[Business Process Improvement Intern](https://jobright.ai/jobs/info/6893c1754c7e851b90ae02c3?utm_campaign=1067&utm_source=git)** | Middleton, WI | On Site | Aug 06 |
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN BUSINESS ANALYST](https://jobright.ai/jobs/info/6892cd6ef5ee707a15dc8830?utm_campaign=1067&utm_source=git)** | Arlington, VA or Richmond, VA | On Site | Aug 05 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Aug 05 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 04 |
