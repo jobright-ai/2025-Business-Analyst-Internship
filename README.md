@@ -60,8 +60,13 @@ For a complete list, click the following sortable link below:
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68983a685574fd6bc0c7603a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight - Digital Business Services](https://jobright.ai/jobs/info/68984c8183d13d1f5b68d6b7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 08 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6897dbd58c6d6b44267930be?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/689861c483d13d1f5b68fcb3?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6898572cfaa4e875e824e923?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Aug 08 |
 | ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/68984ff75574fd6bc0c77e74?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Aug 08 |
 | ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/68984c635574fd6bc0c775a0?utm_campaign=1067&utm_source=git)** | Los Angeles County, CA | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/68985b4983d13d1f5b68f14d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/689866fd5574fd6bc0c79d77?utm_campaign=1067&utm_source=git)** | New Haven, CT | Hybrid | Aug 08 |
+| ↳ | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6898660283d13d1f5b68ff21?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Aug 08 |
 | **[MONKEY MOUTHS, LLC](https://monkeymouths.com)** | **[Fall Internship - Business Majors](https://jobright.ai/jobs/info/68954bf74ed2ea559ca54cc0?utm_campaign=1067&utm_source=git)** | Hurst, TX | On Site | Aug 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/689545a54ed2ea559ca548ff?utm_campaign=1067&utm_source=git)** | Lake Mary, FL | Hybrid | Aug 07 |
 | ↳ | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6895459e4ed2ea559ca548fb?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 07 |
