@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fe5183d13d1f5b69550d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe51faa4e875e82550cc?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe3b83d13d1f5b6954fb?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe145574fd6bc0c7ef21?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe0883d13d1f5b6954ad?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe02faa4e875e8255064?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fde3faa4e875e8255026?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fd5e5574fd6bc0c7ee1b?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68983a685574fd6bc0c7603a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight - Digital Business Services](https://jobright.ai/jobs/info/68984c8183d13d1f5b68d6b7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 08 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Post-doctoral Fellow - Business](https://jobright.ai/jobs/info/6897dbd58c6d6b44267930be?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 08 |
@@ -80,21 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Aug 05 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 04 |
 | ↳ | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891717ff5ee707a15dbe8d7?utm_campaign=1067&utm_source=git)** | Brownsville, WI Corporate Office | On Site | Aug 04 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Business Management Intern, Chartwells Higher Ed / Tusculum University](https://jobright.ai/jobs/info/68919c21f47efe2113957752?utm_campaign=1067&utm_source=git)** | Greeneville, TN | On Site | Aug 04 |
-| **[Frost](https://www.frostbank.com/)** | **[College Intern -  IT Business Analyst](https://jobright.ai/jobs/info/689435614c7e851b90ae3e87?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db99dcdbd821a3663e74f?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Aug 02 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db11f6a4aac5783cd5e38?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 01 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[2025 Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/688ae95009808a6103e52406?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | Aug 01 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6895869e73b3a600fe8884d8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/688ba6c3906ac06e1d1cd0cb?utm_campaign=1067&utm_source=git)** | New York, New York | On Site | Jul 31 |
-| **[Brookfield](https://bam.brookfield.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/688ba60f3a30793eb963c306?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/68890bdaaab47a17f66fe74e?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Jul 31 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/689440a94c7e851b90ae4593?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 30 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[001081 - Business Reporting Analyst Intern](https://jobright.ai/jobs/info/6888541373e3e13cbd944670?utm_campaign=1067&utm_source=git)** | Nottingham, MD | On Site | Jul 30 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[2025 Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/688a90a609808a6103e4fc9a?utm_campaign=1067&utm_source=git)** | US - VA, Chantilly | On Site | Jul 30 |
-| **[State of Arizona](https://az.gov/)** | **[Business Management Intern](https://jobright.ai/jobs/info/688c71ce1808534a89cbc2cb?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jul 30 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Business Analyst Student Experience](https://jobright.ai/jobs/info/686c802c35584b65421821ea?utm_campaign=1067&utm_source=git)** | Statesville, NC | On Site | Jul 29 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[2026 Business Analyst Intern](https://jobright.ai/jobs/info/688b03499f961617fe2205f6?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| **[RWI Logistics LLC](https://www.rwilogistics.com)** | **[Business Analyst Co-op (Fall 2025)](https://jobright.ai/jobs/info/688938839f961617fe212d64?utm_campaign=1067&utm_source=git)** | Fort Thomas, KY | On Site | Jul 28 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, IT Business Analysis, TV Networks - Fall 2025](https://jobright.ai/jobs/info/688819184174df41e0fa2dc5?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
