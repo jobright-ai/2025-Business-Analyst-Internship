@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fe5183d13d1f5b69550d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe51faa4e875e82550cc?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe3b83d13d1f5b6954fb?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe145574fd6bc0c7ef21?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe0883d13d1f5b6954ad?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6899fe02faa4e875e8255064?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| **[RWE](https://www.group.rwe/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/689a282f5574fd6bc0c80290?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Aug 11 |
+| **[Textron](http://textron.com)** | **[Fall Co-Op - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/689a243783d13d1f5b6965cf?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 11 |
+| ↳ | **[Fall Co-Op - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/689a22725574fd6bc0c7ffb6?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Aug 11 |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80389?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2957faa4e875e825651c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a294d83d13d1f5b696819?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fe5183d13d1f5b69550d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fde3faa4e875e8255026?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fd5e5574fd6bc0c7ee1b?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 (Intern Conversion) Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68983a685574fd6bc0c7603a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 08 |
