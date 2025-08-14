@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[Fall Co-Op - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/689a22725574fd6bc0c7ffb6?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a294d83d13d1f5b696819?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80389?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2957faa4e875e825651c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fe5183d13d1f5b69550d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fde3faa4e875e8255026?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6895459e4ed2ea559ca548fb?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/6895431a73b3a600fe88619d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[MONKEY MOUTHS, LLC](https://monkeymouths.com)** | **[Fall Internship - Business Majors](https://jobright.ai/jobs/info/6897e3f273b3a600fe8a0ecf?utm_campaign=1067&utm_source=git)** | Hurst, TX | On Site | Aug 07 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6894ea5173b3a600fe8834ad?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
