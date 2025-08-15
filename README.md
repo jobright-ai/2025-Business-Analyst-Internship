@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ELife](http://www.elifelimo.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689f68acfaa4e875e8286994?utm_campaign=1067&utm_source=git)** | Burlingame, CA | Hybrid | Aug 15 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst Intern - Store Operations —Summer 2026](https://jobright.ai/jobs/info/689e69af83d13d1f5b6bbf57?utm_campaign=1067&utm_source=git)** | Burlington, NJ | On Site | Aug 14 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/689d28e983d13d1f5b6ad9a0?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Aug 13 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689cf120faa4e875e826c0c5?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 13 |
@@ -73,10 +74,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/689ad79583d13d1f5b69ce53?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[RWE](https://www.group.rwe/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/689a282f5574fd6bc0c80290?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Aug 11 |
 | **[Textron](http://textron.com)** | **[Fall Co-Op - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/689a22725574fd6bc0c7ffb6?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Aug 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80389?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2957faa4e875e825651c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80389?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a294d83d13d1f5b696819?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fe5183d13d1f5b69550d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fde3faa4e875e8255026?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
@@ -96,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Business Management Intern, Chartwells Higher Ed / Tusculum University](https://jobright.ai/jobs/info/68919c21f47efe2113957752?utm_campaign=1067&utm_source=git)** | Greeneville, TN | On Site | Aug 04 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db99dcdbd821a3663e74f?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Aug 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db11f6a4aac5783cd5e38?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 01 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[2025 Business Analyst Intern – Business Process Optimization & Intelligent Automation](https://jobright.ai/jobs/info/688ae95009808a6103e52406?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
