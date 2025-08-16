@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/68a0a2e583d13d1f5b6d0fc4?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Aug 16 |
+| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Aug 16 |
+| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c7b9cc9ee94dc9120847?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 16 |
+| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Aug 16 |
+| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Aug 16 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op](https://jobright.ai/jobs/info/689f9107b3e889632cf08b7d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Aug 15 |
 | **[Elife Transfer](http://www.elifelimo.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689f68acfaa4e875e8286994?utm_campaign=1067&utm_source=git)** | Burlingame, CA | Hybrid | Aug 15 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst Intern - Store Operations —Summer 2026](https://jobright.ai/jobs/info/689e69af83d13d1f5b6bbf57?utm_campaign=1067&utm_source=git)** | Burlington, NJ | On Site | Aug 14 |
@@ -77,24 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/689ad79583d13d1f5b69ce53?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[RWE](https://www.group.rwe/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/689a282f5574fd6bc0c80290?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Aug 11 |
 | **[Textron](http://textron.com)** | **[Fall Co-Op - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/689a22725574fd6bc0c7ffb6?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Aug 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a294d83d13d1f5b696819?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2957faa4e875e825651c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a294d83d13d1f5b696819?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80389?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2957faa4e875e825651c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fe5183d13d1f5b69550d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fde3faa4e875e8255026?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fd5e5574fd6bc0c7ee1b?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight - Digital Business Services](https://jobright.ai/jobs/info/68984c8183d13d1f5b68d6b7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 08 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6895459e4ed2ea559ca548fb?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 07 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/6895431a73b3a600fe88619d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Aug 07 |
-| **[MONKEY MOUTHS, LLC](https://monkeymouths.com)** | **[Fall Internship - Business Majors](https://jobright.ai/jobs/info/6897e3f273b3a600fe8a0ecf?utm_campaign=1067&utm_source=git)** | Hurst, TX | On Site | Aug 07 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/6894ea5173b3a600fe8834ad?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 07 |
-| **[Cyclomedia](http://www.cyclomedia.com)** | **[Business Process Improvement Intern (Madison, Wisconsin)](https://jobright.ai/jobs/info/6893c1754c7e851b90ae02c3?utm_campaign=1067&utm_source=git)** | Middleton, WI | On Site | Aug 07 |
-| **[Cyclomedia](http://www.cyclomedia.com)** | **[Business Process Improvement Intern (Madison, Wisconsin)](https://jobright.ai/jobs/info/68954a928c6d6b4426778a1e?utm_campaign=1067&utm_source=git)** | Middleton, Wisconsin, United States | On Site | Aug 06 |
-| **[2nd Order Solutions](https://2os.com)** | **[INTERN BUSINESS ANALYST](https://jobright.ai/jobs/info/6892cd6ef5ee707a15dc8830?utm_campaign=1067&utm_source=git)** | Arlington, VA or Richmond, VA | On Site | Aug 05 |
-| **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Aug 05 |
-| **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 04 |
-| ↳ | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891717ff5ee707a15dbe8d7?utm_campaign=1067&utm_source=git)** | Brownsville, WI Corporate Office | On Site | Aug 04 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Business Management Intern, Chartwells Higher Ed / Tusculum University](https://jobright.ai/jobs/info/68919c21f47efe2113957752?utm_campaign=1067&utm_source=git)** | Greeneville, TN | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
