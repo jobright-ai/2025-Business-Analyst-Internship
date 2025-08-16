@@ -76,10 +76,10 @@ For a complete list, click the following sortable link below:
 | **[RWE](https://www.group.rwe/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/689a282f5574fd6bc0c80290?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Aug 11 |
 | **[Textron](http://textron.com)** | **[Fall Co-Op - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/689a22725574fd6bc0c7ffb6?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a294d83d13d1f5b696819?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2957faa4e875e825651c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80389?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fe5183d13d1f5b69550d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fde3faa4e875e8255026?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fd5e5574fd6bc0c7ee1b?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 04 |
 | ↳ | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891717ff5ee707a15dbe8d7?utm_campaign=1067&utm_source=git)** | Brownsville, WI Corporate Office | On Site | Aug 04 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Business Management Intern, Chartwells Higher Ed / Tusculum University](https://jobright.ai/jobs/info/68919c21f47efe2113957752?utm_campaign=1067&utm_source=git)** | Greeneville, TN | On Site | Aug 04 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/688db99dcdbd821a3663e74f?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
