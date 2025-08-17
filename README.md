@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Intern](https://jobright.ai/jobs/info/68a1dacacc9ee94dc9123fa8?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Aug 17 |
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN BUSINESS ANALYST - (Campus Hires)](https://jobright.ai/jobs/info/6892cd6ef5ee707a15dc8830?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 16 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Aug 16 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c7b9cc9ee94dc9120847?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 16 |
@@ -70,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689cf120faa4e875e826c0c5?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 13 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/689cdee1faa4e875e826b4ab?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Aug 13 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analyst Associate Intern](https://jobright.ai/jobs/info/689ccfd479a9f9666253b01c?utm_campaign=1067&utm_source=git)** | USA MD Bethesda | Hybrid | Aug 13 |
-| **[Pegasystems](http://www.pega.com)** | **[Pega Ventures and Launchpad Business Analyst Intern](https://jobright.ai/jobs/info/689be19e83d13d1f5b6a424c?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Aug 12 |
+| **[Pegasystems](http://www.pega.com)** | **[Pega Ventures and Launchpad Business Analyst Fall Intern](https://jobright.ai/jobs/info/689be19e83d13d1f5b6a424c?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Aug 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689b2a16faa4e875e825edaa?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689ae2115574fd6bc0c8712a?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689add475574fd6bc0c86f13?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
@@ -84,9 +85,9 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[Fall Co-Op - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/689a22725574fd6bc0c7ffb6?utm_campaign=1067&utm_source=git)** | US-Kansas-Wichita | On Site | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80389?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a294d83d13d1f5b696819?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2957faa4e875e825651c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80389?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fe5183d13d1f5b69550d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fde3faa4e875e8255026?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fd5e5574fd6bc0c7ee1b?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
