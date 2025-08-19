@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a4f116758f2e4ac3fdaf17?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Aug 19 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a4f0bd758f2e4ac3fdae52?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Aug 19 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a4efedb6a3617d7fa6d81c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Aug 19 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a4efadb6a3617d7fa6d7d2?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 19 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/68a4e183758f2e4ac3fdaa69?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Aug 19 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68a3c95f1ab5f8579e8a8369?utm_campaign=1067&utm_source=git)** | Fulton, NC | On Site | Aug 18 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68a3e616e9f1c744da11ede7?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Aug 18 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Business Analysis Graduate Intern- Summer 2026](https://jobright.ai/jobs/info/68a37d0e403ad4363b1c19b0?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Aug 18 |
