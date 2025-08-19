@@ -92,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight - Digital Business Services](https://jobright.ai/jobs/info/68984c8183d13d1f5b68d6b7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 08 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/6895431a73b3a600fe88619d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[MONKEY MOUTHS, LLC](https://monkeymouths.com)** | **[Fall Internship - Business Majors](https://jobright.ai/jobs/info/6897e3f273b3a600fe8a0ecf?utm_campaign=1067&utm_source=git)** | Hurst, TX | On Site | Aug 07 |
-| **[Cyclomedia](http://www.cyclomedia.com)** | **[Business Process Improvement Intern (Madison, Wisconsin)](https://jobright.ai/jobs/info/68954a928c6d6b4426778a1e?utm_campaign=1067&utm_source=git)** | Middleton, Wisconsin, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
