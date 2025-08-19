@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68a3c95f1ab5f8579e8a8369?utm_campaign=1067&utm_source=git)** | Fulton, NC | On Site | Aug 18 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Business Operations Analyst (Intern) at Torchstar Corporation](https://jobright.ai/jobs/info/68a3bb3b1ab5f8579e8a7e59?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | **[ThriveLife Brand Management](www.thethrivelifeco.com)** | **[Business Management Intern (Remote)](https://jobright.ai/jobs/info/68a397cc403ad4363b1c27d8?utm_campaign=1067&utm_source=git)** | Houston, TX | Remote | Aug 18 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Business Analysis Graduate Intern- Summer 2026](https://jobright.ai/jobs/info/68a37d0e403ad4363b1c19b0?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Aug 18 |
@@ -86,21 +87,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/689adb355574fd6bc0c86c27?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/689ada2a83d13d1f5b69d1d0?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689ad93c83d13d1f5b69d076?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
-| **[Textron](http://textron.com)** | **[Fall Co-Op - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/68a0298483d13d1f5b6cec78?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/689ad79583d13d1f5b69ce53?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/689ad79583d13d1f5b69ce53?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[RWE](https://www.group.rwe/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/689a282f5574fd6bc0c80290?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2a965574fd6bc0c80341?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80389?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a294d83d13d1f5b696819?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2957faa4e875e825651c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a29adfaa4e875e8256582?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/689a2957faa4e875e825651c?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fe5183d13d1f5b69550d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fde3faa4e875e8255026?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/6899fd5e5574fd6bc0c7ee1b?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Analytics and Business Insight - Digital Business Services](https://jobright.ai/jobs/info/68984c8183d13d1f5b68d6b7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 08 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Business Process, Emerging Talent Intern](https://jobright.ai/jobs/info/6895431a73b3a600fe88619d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[MONKEY MOUTHS, LLC](https://monkeymouths.com)** | **[Fall Internship - Business Majors](https://jobright.ai/jobs/info/6897e3f273b3a600fe8a0ecf?utm_campaign=1067&utm_source=git)** | Hurst, TX | On Site | Aug 07 |
-| **[Cyclomedia](http://www.cyclomedia.com)** | **[Business Process Improvement Intern (Madison, Wisconsin)](https://jobright.ai/jobs/info/6893c1754c7e851b90ae02c3?utm_campaign=1067&utm_source=git)** | Middleton, WI | On Site | Aug 07 |
 | **[Cyclomedia](http://www.cyclomedia.com)** | **[Business Process Improvement Intern (Madison, Wisconsin)](https://jobright.ai/jobs/info/68954a928c6d6b4426778a1e?utm_campaign=1067&utm_source=git)** | Middleton, Wisconsin, United States | On Site | Aug 06 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
