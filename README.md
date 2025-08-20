@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Digital Business Solutions (IT) Intern - Undergraduate](https://jobright.ai/jobs/info/68a5b07c758f2e4ac3fe03bf?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Aug 20 |
 | **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a56c8a33dd7158bbc9a36a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[2nd Order Solutions](https://2os.com)** | **[BUSINESS ANALYST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca084c7e851b90ad876a?utm_campaign=1067&utm_source=git)** | Arlington, VA or Richmond, VA | Hybrid | Aug 19 |
 | **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a543aa33dd7158bbc987bf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
@@ -95,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst Intern - Store Operations —Summer 2026](https://jobright.ai/jobs/info/689e69af83d13d1f5b6bbf57?utm_campaign=1067&utm_source=git)** | Burlington, NJ | On Site | Aug 14 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/689d28e983d13d1f5b6ad9a0?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Aug 13 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689cf120faa4e875e826c0c5?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 13 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/689cdee1faa4e875e826b4ab?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
