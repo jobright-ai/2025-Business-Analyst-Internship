@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a525bd33dd7158bbc97811?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Aug 19 |
+| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a54405758f2e4ac3fdd5ba?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
+| ↳ | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a543aa33dd7158bbc987bf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| **[CRC Group](https://www.crcgroup.com/)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a54347758f2e4ac3fdd3fd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| ↳ | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a542f2b6a3617d7fa6fc5a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Aug 19 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a530b9758f2e4ac3fdca00?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Aug 19 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a525bd33dd7158bbc97811?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Aug 19 |
 | **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68a5208b33dd7158bbc9754a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/68a51465758f2e4ac3fdbaca?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 19 |
+| ↳ | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/68a538a333dd7158bbc98018?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 19 |
 | **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68a500a5b6a3617d7fa6dd48?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a4f15d33dd7158bbc9625e?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Aug 19 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a4f116758f2e4ac3fdaf17?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Aug 19 |
