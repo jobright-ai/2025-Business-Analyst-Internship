@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Elife Transfer](http://www.elifelimo.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689f68acfaa4e875e8286994?utm_campaign=1067&utm_source=git)** | Burlingame, CA | Hybrid | Aug 15 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst Intern - Store Operations —Summer 2026](https://jobright.ai/jobs/info/689e69af83d13d1f5b6bbf57?utm_campaign=1067&utm_source=git)** | Burlington, NJ | On Site | Aug 14 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/689d28e983d13d1f5b6ad9a0?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Aug 13 |
-| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689cf120faa4e875e826c0c5?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
