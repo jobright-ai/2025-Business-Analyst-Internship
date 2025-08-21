@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Intern](https://jobright.ai/jobs/info/68a74b7d758f2e4ac3feace9?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Aug 21 |
 | **[23XI Racing](https://heylink.me/SHENBERSAMA/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68a73dea33dd7158bbca5797?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Aug 21 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Business Analytics](https://jobright.ai/jobs/info/68a66d39b6a3617d7fa776ed?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Aug 20 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68a666c1758f2e4ac3fe4ad5?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 20 |
