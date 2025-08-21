@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[23XI Racing](https://heylink.me/SHENBERSAMA/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68a73dea33dd7158bbca5797?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Aug 21 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Business Analytics](https://jobright.ai/jobs/info/68a66d39b6a3617d7fa776ed?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Aug 20 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68a666c1758f2e4ac3fe4ad5?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 20 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/689440a94c7e851b90ae4593?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 20 |
@@ -98,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689f9107b3e889632cf08b7d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 16 |
 | **[Elife Transfer](http://www.elifelimo.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689f68acfaa4e875e8286994?utm_campaign=1067&utm_source=git)** | Burlingame, CA | Hybrid | Aug 15 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst Intern - Store Operations —Summer 2026](https://jobright.ai/jobs/info/689e69af83d13d1f5b6bbf57?utm_campaign=1067&utm_source=git)** | Burlington, NJ | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
