@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RTX](http://www.raytheon.com)** | **[Business Analyst Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68a88f0bd627244576e338e5?utm_campaign=1067&utm_source=git)** | HMD31: Annapolis, MD 2551 Riva Road  , Annapolis, MD, 21401-7435 USA | On Site | Aug 22 |
+| **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68a8a6846acf96396f7217d7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68a8104f758f2e4ac3ff07f3?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 21 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a7b5b233dd7158bbca8e60?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/68a7ec4ed627244576e2f8cd?utm_campaign=1067&utm_source=git)** | Placerville, CA | On Site | Aug 21 |
