@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68a8a6846acf96396f7217d7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Aug 22 |
+| **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d9a5758f2e4ac3ff5e2c?utm_campaign=1067&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
+| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d63a758f2e4ac3ff5b9a?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Aug 22 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Business & Market Analyst Intern (Palm Bay, FL)](https://jobright.ai/jobs/info/68a8d1a56acf96396f7230eb?utm_campaign=1067&utm_source=git)** | Palm Bay, FL | On Site | Aug 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68a8104f758f2e4ac3ff07f3?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 21 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a7b5b233dd7158bbca8e60?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/68a7ec4ed627244576e2f8cd?utm_campaign=1067&utm_source=git)** | Placerville, CA | On Site | Aug 21 |
@@ -69,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/689440a94c7e851b90ae4593?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 20 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Digital Business Solutions (IT) Intern - Undergraduate](https://jobright.ai/jobs/info/68a5b07c758f2e4ac3fe03bf?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Aug 20 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a6cdea758f2e4ac3fe8369?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Aug 20 |
-| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a56c8a33dd7158bbc9a36a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[2nd Order Solutions](https://2os.com)** | **[BUSINESS ANALYST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca084c7e851b90ad876a?utm_campaign=1067&utm_source=git)** | Arlington, VA or Richmond, VA | Hybrid | Aug 19 |
-| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a543aa33dd7158bbc987bf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a54405758f2e4ac3fdd5ba?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
+| ↳ | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a543aa33dd7158bbc987bf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | **[CRC Group](https://www.crcgroup.com/)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a54347758f2e4ac3fdd3fd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | ↳ | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a542f2b6a3617d7fa6fc5a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Aug 19 |
