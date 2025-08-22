@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68a8104f758f2e4ac3ff07f3?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 21 |
+| **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a7b5b233dd7158bbca8e60?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/68a7ec4ed627244576e2f8cd?utm_campaign=1067&utm_source=git)** | Placerville, CA | On Site | Aug 21 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/68a7bbb933dd7158bbca9075?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 21 |
-| **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a7b5b233dd7158bbca8e60?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
-| ↳ | **[Business Analysis/Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a78ea233dd7158bbca8258?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
+| **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a78ea233dd7158bbca8258?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[23XI Racing](https://heylink.me/SHENBERSAMA/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68a73dea33dd7158bbca5797?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Aug 21 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Business Analytics](https://jobright.ai/jobs/info/68a66d39b6a3617d7fa776ed?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Aug 20 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68a666c1758f2e4ac3fe4ad5?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 20 |
