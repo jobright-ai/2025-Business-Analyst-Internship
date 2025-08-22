@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Aug 16 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 16 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op](https://jobright.ai/jobs/info/689f9107b3e889632cf08b7d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Aug 15 |
-| **[Elife Transfer](http://www.elifelimo.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689f68acfaa4e875e8286994?utm_campaign=1067&utm_source=git)** | Burlingame, CA | Hybrid | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
