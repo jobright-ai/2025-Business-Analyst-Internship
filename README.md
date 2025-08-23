@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a90f546acf96396f724715?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d9a5758f2e4ac3ff5e2c?utm_campaign=1067&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d63a758f2e4ac3ff5b9a?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Aug 22 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Business & Market Analyst Intern (Palm Bay, FL)](https://jobright.ai/jobs/info/68a8d1a56acf96396f7230eb?utm_campaign=1067&utm_source=git)** | Palm Bay, FL | On Site | Aug 22 |
@@ -71,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/689440a94c7e851b90ae4593?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 20 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Digital Business Solutions (IT) Intern - Undergraduate](https://jobright.ai/jobs/info/68a5b07c758f2e4ac3fe03bf?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Aug 20 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a6cdea758f2e4ac3fe8369?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Aug 20 |
-| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a56c8a33dd7158bbc9a36a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[2nd Order Solutions](https://2os.com)** | **[BUSINESS ANALYST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca084c7e851b90ad876a?utm_campaign=1067&utm_source=git)** | Arlington, VA or Richmond, VA | Hybrid | Aug 19 |
-| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a543aa33dd7158bbc987bf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a54405758f2e4ac3fdd5ba?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
+| ↳ | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a543aa33dd7158bbc987bf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | **[CRC Group](https://www.crcgroup.com/)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a54347758f2e4ac3fdd3fd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | ↳ | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a542f2b6a3617d7fa6fc5a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Aug 19 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Aug 16 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Aug 16 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689f9107b3e889632cf08b7d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
