@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Operation Intern](https://jobright.ai/jobs/info/68a9df316acf96396f7292b5?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Aug 23 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern - Orlando](https://jobright.ai/jobs/info/68a992fd6acf96396f7286c2?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a90f546acf96396f724715?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d9a5758f2e4ac3ff5e2c?utm_campaign=1067&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
