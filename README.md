@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TIH](https://www.truistinsurance.com/)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68aa3752d627244576e3c701?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Intern](https://jobright.ai/jobs/info/68aa28d3d627244576e3c64d?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Aug 23 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern - Orlando](https://jobright.ai/jobs/info/68a992fd6acf96396f7286c2?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
+| **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68a5208b33dd7158bbc9754a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 22 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a90f546acf96396f724715?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d9a5758f2e4ac3ff5e2c?utm_campaign=1067&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d63a758f2e4ac3ff5b9a?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Aug 22 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a530b9758f2e4ac3fdca00?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Aug 19 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a525bd33dd7158bbc97811?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Aug 19 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a563d3758f2e4ac3fde944?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 19 |
-| **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68a5208b33dd7158bbc9754a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/68a51465758f2e4ac3fdbaca?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 19 |
 | ↳ | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/68a538a333dd7158bbc98018?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 19 |
 | **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68a500a5b6a3617d7fa6dd48?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
