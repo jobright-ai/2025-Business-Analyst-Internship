@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Business Intern](https://jobright.ai/jobs/info/68ab045ed627244576e3f075?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Aug 24 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68aa3752d627244576e3c701?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern - Orlando](https://jobright.ai/jobs/info/68a992fd6acf96396f7286c2?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68aa84ddd627244576e3d160?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
