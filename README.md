@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68aa3752d627244576e3c701?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
-| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Intern](https://jobright.ai/jobs/info/68aa28d3d627244576e3c64d?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Aug 23 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern - Orlando](https://jobright.ai/jobs/info/68a992fd6acf96396f7286c2?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
+| **[TIH](https://www.truistinsurance.com/)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68aa84ddd627244576e3d160?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68a5208b33dd7158bbc9754a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 22 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a90f546acf96396f724715?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d9a5758f2e4ac3ff5e2c?utm_campaign=1067&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
