@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oatey Company](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68acbbf2758f2e4ac3008361?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ac9b45d627244576e47403?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 25 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/68acaf82758f2e4ac3007aa9?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 25 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68aca7a1daf1431824c96e74?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
+| **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Analyst Intern/Co-op (Residential Line of Business)](https://jobright.ai/jobs/info/68aca67ed627244576e47ac8?utm_campaign=1067&utm_source=git)** | Marlborough, MA | Hybrid | Aug 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68ac6a45758f2e4ac30057ca?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68aa3752d627244576e3c701?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern - Orlando](https://jobright.ai/jobs/info/68a992fd6acf96396f7286c2?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
