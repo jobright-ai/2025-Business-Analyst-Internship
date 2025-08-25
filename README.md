@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68accaef758f2e4ac3008d56?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/68acc2f2758f2e4ac3008918?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Aug 25 |
+| ↳ | **[2026 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/68acc1d6758f2e4ac30087eb?utm_campaign=1067&utm_source=git)** | Purchase, NY | On Site | Aug 25 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68acbbf2758f2e4ac3008361?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ac9b45d627244576e47403?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 25 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/68acaf82758f2e4ac3007aa9?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 25 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68aca7a1daf1431824c96e74?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Analyst Intern/Co-op (Residential Line of Business)](https://jobright.ai/jobs/info/68aca67ed627244576e47ac8?utm_campaign=1067&utm_source=git)** | Marlborough, MA | Hybrid | Aug 25 |
@@ -81,9 +83,9 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/689440a94c7e851b90ae4593?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 20 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Digital Business Solutions (IT) Intern - Undergraduate](https://jobright.ai/jobs/info/68a5b07c758f2e4ac3fe03bf?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Aug 20 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a6cdea758f2e4ac3fe8369?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Aug 20 |
+| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a56c8a33dd7158bbc9a36a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[2nd Order Solutions](https://2os.com)** | **[BUSINESS ANALYST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca084c7e851b90ad876a?utm_campaign=1067&utm_source=git)** | Arlington, VA or Richmond, VA | Hybrid | Aug 19 |
-| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a54405758f2e4ac3fdd5ba?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
-| ↳ | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a543aa33dd7158bbc987bf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a543aa33dd7158bbc987bf?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | **[CRC Group](https://www.crcgroup.com/)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a54347758f2e4ac3fdd3fd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | ↳ | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a542f2b6a3617d7fa6fc5a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Aug 19 |
