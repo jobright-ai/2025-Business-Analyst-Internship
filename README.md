@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad48c0daf1431824c9bf03?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68ad0ca1d627244576e4ae3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/68acf8acdaf1431824c99711?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68acf70cd627244576e4a3e8?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
