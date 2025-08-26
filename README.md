@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68acf3f0daf1431824c99534?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Aug 25 |
+| **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68ad0ca1d627244576e4ae3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/68acf8acdaf1431824c99711?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68acf70cd627244576e4a3e8?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68acf6a2d627244576e4a392?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Aug 25 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[IS Business Analyst Intern](https://jobright.ai/jobs/info/68acf2a0758f2e4ac3009b0f?utm_campaign=1067&utm_source=git)** | Hazelwood, MO | On Site | Aug 25 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68accaef758f2e4ac3008d56?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/68acc2f2758f2e4ac3008918?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Aug 25 |
 | ↳ | **[2026 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/68acc1d6758f2e4ac30087eb?utm_campaign=1067&utm_source=git)** | Purchase, NY | On Site | Aug 25 |
+| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship](https://jobright.ai/jobs/info/68a56c8a33dd7158bbc9a36a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68acbbf2758f2e4ac3008361?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/68acaf82758f2e4ac3007aa9?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 25 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68aca7a1daf1431824c96e74?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
