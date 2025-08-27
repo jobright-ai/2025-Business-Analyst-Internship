@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/68af40f81f0a2a568a0601b3?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Aug 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Analyst Early Internship Program - Summer 2026](https://jobright.ai/jobs/info/68af25852daaba398441bd35?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 27 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/68af13ca2daaba398441b802?utm_campaign=1067&utm_source=git)** | US NC Huntersville | On Site | Aug 27 |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Business Intern 2026](https://jobright.ai/jobs/info/68ae6d2e758f2e4ac30136a9?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ae4955758f2e4ac3012925?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
 | **[Leidos](https://www.leidos.com/)** | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68ae73fddaf1431824ca3209?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Aug 26 |
 | **[Peraton](https://www.peraton.com/)** | **[Part-time Business Information Technology Intern](https://jobright.ai/jobs/info/68adf5d8daf1431824c9f425?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 26 |
@@ -91,6 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/68a7ec4ed627244576e2f8cd?utm_campaign=1067&utm_source=git)** | Placerville, CA | On Site | Aug 21 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/68a7bbb933dd7158bbca9075?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 21 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a78ea233dd7158bbca8258?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
-| **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Business Analytics](https://jobright.ai/jobs/info/68a66d39b6a3617d7fa776ed?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Aug 20 |
-| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68a666c1758f2e4ac3fe4ad5?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
