@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Business Intern 2026](https://jobright.ai/jobs/info/68ae6d2e758f2e4ac30136a9?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ae4955758f2e4ac3012925?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
+| **[Leidos](https://www.leidos.com/)** | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68ae73fddaf1431824ca3209?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Aug 26 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Internship](https://jobright.ai/jobs/info/68ae1d52758f2e4ac3011749?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Aug 26 |
-| **[Cooperative Energy](https://cooperativeenergy.com/)** | **[Business Information Systems Intern](https://jobright.ai/jobs/info/68ae18a1d627244576e51909?utm_campaign=1067&utm_source=git)** | Hattiesburg, MS | On Site | Aug 26 |
 | **[Peraton](https://www.peraton.com/)** | **[Part-time Business Information Technology Intern](https://jobright.ai/jobs/info/68adf5d8daf1431824c9f425?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Leidos](https://www.leidos.com/)** | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68adc980d627244576e4eefb?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Aug 26 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 26 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad7137daf1431824c9cf4b?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad48c0daf1431824c9bf03?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ae819cdaf1431824ca3958?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Aug 25 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68ad0ca1d627244576e4ae3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/68acf8acdaf1431824c99711?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68acf6a2d627244576e4a392?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Aug 25 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68aca7a1daf1431824c96e74?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Analyst Intern/Co-op (Residential Line of Business)](https://jobright.ai/jobs/info/68aca67ed627244576e47ac8?utm_campaign=1067&utm_source=git)** | Marlborough, MA | Hybrid | Aug 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68ac6a45758f2e4ac30057ca?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
-| **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Business Analyst Intern - Orlando](https://jobright.ai/jobs/info/68a992fd6acf96396f7286c2?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68aa84ddd627244576e3d160?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68a5208b33dd7158bbc9754a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 22 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a90f546acf96396f724715?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
