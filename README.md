@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ae4955758f2e4ac3012925?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Internship](https://jobright.ai/jobs/info/68ae1d52758f2e4ac3011749?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Aug 26 |
 | **[Cooperative Energy](https://cooperativeenergy.com/)** | **[Business Information Systems Intern](https://jobright.ai/jobs/info/68ae18a1d627244576e51909?utm_campaign=1067&utm_source=git)** | Hattiesburg, MS | On Site | Aug 26 |
 | **[Peraton](https://www.peraton.com/)** | **[Part-time Business Information Technology Intern](https://jobright.ai/jobs/info/68adf5d8daf1431824c9f425?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 26 |
@@ -91,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68a666c1758f2e4ac3fe4ad5?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 20 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/689440a94c7e851b90ae4593?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 20 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Digital Business Solutions (IT) Intern - Undergraduate](https://jobright.ai/jobs/info/68a5b07c758f2e4ac3fe03bf?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Aug 20 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a6cdea758f2e4ac3fe8369?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
