@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Analyst Early Internship Program - Summer 2026](https://jobright.ai/jobs/info/68af25852daaba398441bd35?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 27 |
+| **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/68af13ca2daaba398441b802?utm_campaign=1067&utm_source=git)** | US NC Huntersville | On Site | Aug 27 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Business Intern 2026](https://jobright.ai/jobs/info/68ae6d2e758f2e4ac30136a9?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ae4955758f2e4ac3012925?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
 | **[Leidos](https://www.leidos.com/)** | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68ae73fddaf1431824ca3209?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Aug 26 |
