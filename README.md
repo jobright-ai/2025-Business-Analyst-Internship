@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/68af40f81f0a2a568a0601b3?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Aug 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Analyst Early Internship Program - Summer 2026](https://jobright.ai/jobs/info/68af25852daaba398441bd35?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 27 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/68af13ca2daaba398441b802?utm_campaign=1067&utm_source=git)** | US NC Huntersville | On Site | Aug 27 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68ae4955758f2e4ac3012925?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
 | **[Leidos](https://www.leidos.com/)** | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68ae73fddaf1431824ca3209?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Aug 26 |
 | ↳ | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68adc980d627244576e4eefb?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Aug 26 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 26 |
