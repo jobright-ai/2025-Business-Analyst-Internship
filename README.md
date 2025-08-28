@@ -68,9 +68,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68adc980d627244576e4eefb?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Aug 26 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68aec87703c5f15c2fd8ba86?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Aug 25 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad48c0daf1431824c9bf03?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68affeb2e723db6c9b7b545c?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68afdabde723db6c9b7b441b?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68affeb2e723db6c9b7b545c?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad7137daf1431824c9cf4b?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68afdabde723db6c9b7b441b?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 25 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68ad0ca1d627244576e4ae3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/68acf8acdaf1431824c99711?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Aug 25 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[IS Business Analyst Intern](https://jobright.ai/jobs/info/68acf2a0758f2e4ac3009b0f?utm_campaign=1067&utm_source=git)** | Hazelwood, MO | On Site | Aug 25 |
@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a7b5b233dd7158bbca8e60?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/68a7ec4ed627244576e2f8cd?utm_campaign=1067&utm_source=git)** | Placerville, CA | On Site | Aug 21 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/68a7bbb933dd7158bbca9075?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 21 |
-| **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a78ea233dd7158bbca8258?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
