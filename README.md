@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black Hills Energy](https://www.blackhillsenergy.com)** | **[Technology Business Analyst Internship](https://jobright.ai/jobs/info/68afc930b47fb001d688d2d9?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 27 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68af6c7c1f0a2a568a061827?utm_campaign=1067&utm_source=git)** | NYC Metro Area | Hybrid | Aug 27 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/68af40f81f0a2a568a0601b3?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Aug 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Analyst Early Internship Program - Summer 2026](https://jobright.ai/jobs/info/68af25852daaba398441bd35?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 27 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/68af13ca2daaba398441b802?utm_campaign=1067&utm_source=git)** | US NC Huntersville | On Site | Aug 27 |
+| **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Aug 27 |
 | **[Leidos](https://www.leidos.com/)** | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68ae73fddaf1431824ca3209?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Aug 26 |
 | ↳ | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68adc980d627244576e4eefb?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Aug 26 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68aec87703c5f15c2fd8ba86?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Aug 25 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad7137daf1431824c9cf4b?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad48c0daf1431824c9bf03?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68ad0ca1d627244576e4ae3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/68acf8acdaf1431824c99711?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Aug 25 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[IS Business Analyst Intern](https://jobright.ai/jobs/info/68acf2a0758f2e4ac3009b0f?utm_campaign=1067&utm_source=git)** | Hazelwood, MO | On Site | Aug 25 |
