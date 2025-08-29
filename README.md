@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1e4dfbc187f64e1bd787e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Aug 29 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1d9a5f4e41a61efd801e1?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1ae59bc187f64e1bd60d3?utm_campaign=1067&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 IT Business Solutions Intern](https://jobright.ai/jobs/info/68b1c40abc187f64e1bd69b7?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1aee1f4e41a61efd7efe5?utm_campaign=1067&utm_source=git)** | Raleigh | On Site | Aug 29 |
@@ -98,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Analyst Intern/Co-op (Residential Line of Business)](https://jobright.ai/jobs/info/68aca67ed627244576e47ac8?utm_campaign=1067&utm_source=git)** | Marlborough, MA | Hybrid | Aug 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68ac6a45758f2e4ac30057ca?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68a5208b33dd7158bbc9754a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 22 |
-| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a90f546acf96396f724715?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
