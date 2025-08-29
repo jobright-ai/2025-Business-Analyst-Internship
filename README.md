@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0ce6eb47fb001d689598a?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b10517e815524ae11faa2c?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Aug 28 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0fd0de815524ae11fa7cc?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
+| ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0fb0e6fab621da7b091a1?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
+| ↳ | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0ce6eb47fb001d689598a?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0c01c2d46f6396cae8212?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0bf4f13563e782a9f9009?utm_campaign=1067&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 28 |
 | **[Commvault](https://www.commvault.com)** | **[Mentee, Business Technology](https://jobright.ai/jobs/info/68b0b2a42d46f6396cae7c96?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 28 |
