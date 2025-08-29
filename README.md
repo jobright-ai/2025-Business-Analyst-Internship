@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1aee1f4e41a61efd7efe5?utm_campaign=1067&utm_source=git)** | Raleigh | On Site | Aug 29 |
+| **[IGS Energy](http://www.igsenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1ae59bc187f64e1bd60d3?utm_campaign=1067&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 29 |
 | **[KIHOMAC](https://kihomac.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/68b126786fab621da7b0a2b6?utm_campaign=1067&utm_source=git)** | Layton, UT | On Site | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b10517e815524ae11faa2c?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0fd0de815524ae11fa7cc?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
@@ -95,7 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68ac6a45758f2e4ac30057ca?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/68a5208b33dd7158bbc9754a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 22 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a90f546acf96396f724715?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
-| **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d9a5758f2e4ac3ff5e2c?utm_campaign=1067&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
-| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Operations, Business Analysis](https://jobright.ai/jobs/info/68a8d63a758f2e4ac3ff5b9a?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Aug 22 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Business & Market Analyst Intern (Palm Bay, FL)](https://jobright.ai/jobs/info/68a8d1a56acf96396f7230eb?utm_campaign=1067&utm_source=git)** | Palm Bay, FL | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
