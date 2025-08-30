@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68b23b2e1ade4306aa6350fe?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b21df4bc187f64e1bd96c8?utm_campaign=1067&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Aug 29 |
 | ↳ | **[Consumer Operations Intern](https://jobright.ai/jobs/info/68b21d761ade4306aa634815?utm_campaign=1067&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Aug 29 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68b20369f4e41a61efd819a0?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Aug 29 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0ce6eb47fb001d689598a?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0c01c2d46f6396cae8212?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0bf4f13563e782a9f9009?utm_campaign=1067&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 28 |
-| **[Capital One](http://www.capitalone.com)** | **[Analyst Early Internship Program - Summer 2026](https://jobright.ai/jobs/info/68b0437d13563e782a9f4583?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Aug 27 |
 | **[Black Hills Energy](https://www.blackhillsenergy.com)** | **[Technology Business Analyst Internship](https://jobright.ai/jobs/info/68afc930b47fb001d688d2d9?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 27 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68af6c7c1f0a2a568a061827?utm_campaign=1067&utm_source=git)** | NYC Metro Area | Hybrid | Aug 27 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/68af40f81f0a2a568a0601b3?utm_campaign=1067&utm_source=git)** | Huntersville, NC | On Site | Aug 27 |
