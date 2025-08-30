@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68b24484f4e41a61efd8311e?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b24478f4e41a61efd83112?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 29 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68b243571ade4306aa6352ec?utm_campaign=1067&utm_source=git)** | Fulton, NC | On Site | Aug 29 |
+| **[Peraton](https://www.peraton.com/)** | **[Part-time Business Information Technology Intern](https://jobright.ai/jobs/info/68b23fe21ade4306aa63527c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68b23b2e1ade4306aa6350fe?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b21df4bc187f64e1bd96c8?utm_campaign=1067&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Aug 29 |
 | ↳ | **[Consumer Operations Intern](https://jobright.ai/jobs/info/68b21d761ade4306aa634815?utm_campaign=1067&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Aug 29 |
