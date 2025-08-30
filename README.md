@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b30145bc187f64e1bdf935?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
+| **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68b2fde91ade4306aa63a96f?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Consumer Operations Intern](https://jobright.ai/jobs/info/68b2f96df4e41a61efd88687?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
 | **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b2b1b0f4e41a61efd87b80?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68b24484f4e41a61efd8311e?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b24478f4e41a61efd83112?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 29 |
