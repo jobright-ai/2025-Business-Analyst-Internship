@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2026 Intern - IT Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55001f4e41a61efd8f5c8?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
+| **[Mike Maroone Automotive](https://www.mikemaroonecolorado.com/dealership/about.htm)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b54fbaf4e41a61efd8f59f?utm_campaign=1067&utm_source=git)** | Boulder, CO | Hybrid | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68b5443dbc187f64e1be5e43?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
+| ↳ | **[2026 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/68b543e31ade4306aa640dce?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
+| ↳ | **[2026 Internship - Information Systems (Business Analyst)](https://jobright.ai/jobs/info/68b54195f4e41a61efd8ed7f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
+| ↳ | **[2026 Summer Intern - Business Analyst - Johnson City, TN.](https://jobright.ai/jobs/info/68b53ebbf4e41a61efd8ebb5?utm_campaign=1067&utm_source=git)** | Piney Flats, TN | On Site | Aug 31 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/68b52729bc187f64e1be5755?utm_campaign=1067&utm_source=git)** | Cayce, SC | On Site | Aug 31 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business intern (business administration )](https://jobright.ai/jobs/info/68b4a0d4bc187f64e1be39be?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Aug 31 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Technology Intern - Business & Project Management](https://jobright.ai/jobs/info/68b330da1ade4306aa63ae54?utm_campaign=1067&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
@@ -97,9 +103,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68adc980d627244576e4eefb?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Aug 26 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68aec87703c5f15c2fd8ba86?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Aug 25 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad48c0daf1431824c9bf03?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68affeb2e723db6c9b7b545c?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b1457204557a6c207bbe69?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68affeb2e723db6c9b7b545c?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad7137daf1431824c9cf4b?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b1457204557a6c207bbe69?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68afdabde723db6c9b7b441b?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b14483e815524ae11fd06b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Aug 25 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68ad0ca1d627244576e4ae3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
@@ -112,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Demand Analyst Intern](https://jobright.ai/jobs/info/68acaf82758f2e4ac3007aa9?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 25 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68aca7a1daf1431824c96e74?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Analyst Intern/Co-op (Residential Line of Business)](https://jobright.ai/jobs/info/68aca67ed627244576e47ac8?utm_campaign=1067&utm_source=git)** | Marlborough, MA | Hybrid | Aug 25 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2026 Internship](https://jobright.ai/jobs/info/68ac6a45758f2e4ac30057ca?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
