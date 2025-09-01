@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Textron](http://textron.com)** | **[2026 Intern - IT Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55001f4e41a61efd8f5c8?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55edb1ade4306aa641921?utm_campaign=1067&utm_source=git)** | US-Louisiana-Slidell | Hybrid | Sep 01 |
+| ↳ | **[2026 Intern - IT Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55001f4e41a61efd8f5c8?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
 | **[Mike Maroone Automotive](https://www.mikemaroonecolorado.com/dealership/about.htm)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b54fbaf4e41a61efd8f59f?utm_campaign=1067&utm_source=git)** | Boulder, CO | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68b5443dbc187f64e1be5e43?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
 | ↳ | **[2026 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/68b543e31ade4306aa640dce?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | ↳ | **[2026 Internship - Information Systems (Business Analyst)](https://jobright.ai/jobs/info/68b54195f4e41a61efd8ed7f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | ↳ | **[2026 Summer Intern - Business Analyst - Johnson City, TN.](https://jobright.ai/jobs/info/68b53ebbf4e41a61efd8ebb5?utm_campaign=1067&utm_source=git)** | Piney Flats, TN | On Site | Aug 31 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/68b52729bc187f64e1be5755?utm_campaign=1067&utm_source=git)** | Cayce, SC | On Site | Aug 31 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business intern (business administration )](https://jobright.ai/jobs/info/68b4a0d4bc187f64e1be39be?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Aug 31 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Technology Intern - Business & Project Management](https://jobright.ai/jobs/info/68b330da1ade4306aa63ae54?utm_campaign=1067&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
 | ↳ | **[2026 Charles Schwab Technology Intern - Business & Project Management](https://jobright.ai/jobs/info/68b330811ade4306aa63ae31?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b30145bc187f64e1bdf935?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
