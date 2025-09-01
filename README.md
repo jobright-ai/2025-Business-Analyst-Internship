@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Textron](http://textron.com)** | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55edb1ade4306aa641921?utm_campaign=1067&utm_source=git)** | US-Louisiana-Slidell | Hybrid | Sep 01 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/68b5da04bc187f64e1be8623?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b5ce40bc187f64e1be845f?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
+| ↳ | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55edb1ade4306aa641921?utm_campaign=1067&utm_source=git)** | US-Louisiana-Slidell | Hybrid | Sep 01 |
 | ↳ | **[2026 Intern - IT Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55001f4e41a61efd8f5c8?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
-| **[Mike Maroone Automotive](https://www.mikemaroonecolorado.com/dealership/about.htm)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b54fbaf4e41a61efd8f59f?utm_campaign=1067&utm_source=git)** | Boulder, CO | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68b5443dbc187f64e1be5e43?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
 | ↳ | **[2026 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/68b543e31ade4306aa640dce?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | ↳ | **[2026 Internship - Information Systems (Business Analyst)](https://jobright.ai/jobs/info/68b54195f4e41a61efd8ed7f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
@@ -109,6 +110,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68afdabde723db6c9b7b441b?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b14483e815524ae11fd06b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Aug 25 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68ad0ca1d627244576e4ae3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/68acf8acdaf1431824c99711?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Aug 25 |
-| **[bioMérieux](https://www.biomerieux.com)** | **[IS Business Analyst Intern](https://jobright.ai/jobs/info/68acf2a0758f2e4ac3009b0f?utm_campaign=1067&utm_source=git)** | Hazelwood, MO | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
