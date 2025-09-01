@@ -105,7 +105,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68aec87703c5f15c2fd8ba86?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Aug 25 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad48c0daf1431824c9bf03?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68affeb2e723db6c9b7b545c?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b1457204557a6c207bbe69?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68afdabde723db6c9b7b441b?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b14483e815524ae11fd06b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
