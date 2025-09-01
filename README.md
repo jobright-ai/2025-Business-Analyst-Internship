@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/68b5da04bc187f64e1be8623?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b5ce40bc187f64e1be845f?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
 | ↳ | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55edb1ade4306aa641921?utm_campaign=1067&utm_source=git)** | US-Louisiana-Slidell | Hybrid | Sep 01 |
@@ -66,8 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Internship - Information Systems (Business Analyst)](https://jobright.ai/jobs/info/68b54195f4e41a61efd8ed7f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | ↳ | **[2026 Summer Intern - Business Analyst - Johnson City, TN.](https://jobright.ai/jobs/info/68b53ebbf4e41a61efd8ebb5?utm_campaign=1067&utm_source=git)** | Piney Flats, TN | On Site | Aug 31 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/68b52729bc187f64e1be5755?utm_campaign=1067&utm_source=git)** | Cayce, SC | On Site | Aug 31 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Technology Intern - Business & Project Management](https://jobright.ai/jobs/info/68b330da1ade4306aa63ae54?utm_campaign=1067&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
-| ↳ | **[2026 Charles Schwab Technology Intern - Business & Project Management](https://jobright.ai/jobs/info/68b330811ade4306aa63ae31?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b30145bc187f64e1bdf935?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
 | **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68b2fde91ade4306aa63a96f?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Consumer Operations Intern](https://jobright.ai/jobs/info/68b2f96df4e41a61efd88687?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
@@ -104,10 +103,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68adc980d627244576e4eefb?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Aug 26 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68aec87703c5f15c2fd8ba86?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68affeb2e723db6c9b7b545c?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad7137daf1431824c9cf4b?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b1457204557a6c207bbe69?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Aug 25 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ad48c0daf1431824c9bf03?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68affeb2e723db6c9b7b545c?utm_campaign=1067&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b1457204557a6c207bbe69?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68afdabde723db6c9b7b441b?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b14483e815524ae11fd06b?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Aug 25 |
-| **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68ad0ca1d627244576e4ae3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
