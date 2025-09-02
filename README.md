@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b12f2c6fab621da7b0a9b3?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
 | **[Leidos](https://www.leidos.com/)** | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68ae73fddaf1431824ca3209?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Aug 26 |
 | ↳ | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68adc980d627244576e4eefb?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Aug 26 |
-| **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
