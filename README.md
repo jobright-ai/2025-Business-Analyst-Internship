@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b726012124650c1401faff?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Sep 02 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Operational Risk and Control: Business Analyst Co-op](https://jobright.ai/jobs/info/68b710bd2124650c1401f140?utm_campaign=1067&utm_source=git)** | Boston | On Site | Sep 02 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b6ef402124650c1401e799?utm_campaign=1067&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Sep 02 |
 | **[Arthur D. Little](http://www.adlittle.com)** | **[Summer Business Analyst 2026  (Advanced Degree)](https://jobright.ai/jobs/info/68b6e6f7f4e41a61efd94758?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Consumer Operations Intern](https://jobright.ai/jobs/info/68b2f96df4e41a61efd88687?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
 | **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b2b1b0f4e41a61efd87b80?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 IT Business Solutions Intern](https://jobright.ai/jobs/info/68b3dad3bc187f64e1be1e72?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
-| **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b3c6e5bc187f64e1be13d4?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Aug 29 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68b24484f4e41a61efd8311e?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b24478f4e41a61efd83112?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 29 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68b243571ade4306aa6352ec?utm_campaign=1067&utm_source=git)** | Fulton, NC | On Site | Aug 29 |
@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/68af13ca2daaba398441b802?utm_campaign=1067&utm_source=git)** | US NC Huntersville | On Site | Aug 27 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Aug 27 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b12f2c6fab621da7b0a9b3?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
-| **[Leidos](https://www.leidos.com/)** | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68ae73fddaf1431824ca3209?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
