@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b73f7e1ade4306aa64912b?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 02 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[2026 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/68b73b42f4e41a61efd96b57?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 02 |
+| **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/68b734242124650c14020387?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Sep 02 |
+| **[Florida Power & Light](https://www.fpl.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b733502124650c14020286?utm_campaign=1067&utm_source=git)** | Miami Gardens, FL | On Site | Sep 02 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b726012124650c1401faff?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Sep 02 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Operational Risk and Control: Business Analyst Co-op](https://jobright.ai/jobs/info/68b710bd2124650c1401f140?utm_campaign=1067&utm_source=git)** | Boston | On Site | Sep 02 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b6ef402124650c1401e799?utm_campaign=1067&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Sep 02 |
+| **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Business Intern](https://jobright.ai/jobs/info/68b731791ade4306aa648566?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Sep 02 |
 | **[Arthur D. Little](http://www.adlittle.com)** | **[Summer Business Analyst 2026  (Advanced Degree)](https://jobright.ai/jobs/info/68b6e6f7f4e41a61efd94758?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e6b6f4e41a61efd94743?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 | ↳ | **[Summer Business Analyst 2026](https://jobright.ai/jobs/info/68b6e6b5f4e41a61efd94741?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
@@ -80,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67318bc187f64e1bea128?utm_campaign=1067&utm_source=git)** | MN - St. Paul | Hybrid | Sep 01 |
 | ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67245f4e41a61efd92ebd?utm_campaign=1067&utm_source=git)** | CT - Hartford | Hybrid | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b672281ade4306aa645062?utm_campaign=1067&utm_source=git)** | Holmdel | Hybrid | Sep 01 |
+| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Business Analytics (Part-time)](https://jobright.ai/jobs/info/68b746f01ade4306aa64980e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b5ce40bc187f64e1be845f?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
 | ↳ | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55edb1ade4306aa641921?utm_campaign=1067&utm_source=git)** | US-Louisiana-Slidell | Hybrid | Sep 01 |
