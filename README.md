@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b69860f4e41a61efd93b95?utm_campaign=1067&utm_source=git)** | Holmdel, NJ | Hybrid | Sep 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67318bc187f64e1bea128?utm_campaign=1067&utm_source=git)** | MN - St. Paul | Hybrid | Sep 01 |
 | ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67245f4e41a61efd92ebd?utm_campaign=1067&utm_source=git)** | CT - Hartford | Hybrid | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b672281ade4306aa645062?utm_campaign=1067&utm_source=git)** | Holmdel | Hybrid | Sep 01 |
@@ -103,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6880ca1129ad6b2744adbfec?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Aug 27 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b12f2c6fab621da7b0a9b3?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
 | **[Leidos](https://www.leidos.com/)** | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68ae73fddaf1431824ca3209?utm_campaign=1067&utm_source=git)** | Reston, VA | Hybrid | Aug 26 |
-| ↳ | **[Finance & Business Operations Intern](https://jobright.ai/jobs/info/68adc980d627244576e4eefb?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
