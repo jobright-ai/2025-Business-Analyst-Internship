@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[HII](https://hii.com)** | **[2026 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/68b7d1275e55be5e2604e455?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 02 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7af54195d032a0960a8c9?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
+| **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b2c1ee1ade4306aa639f76?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 02 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b789cd2124650c14023972?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Sep 02 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b785d81ade4306aa64bb31?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
 | ↳ | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b772ea1ade4306aa64b063?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68b20369f4e41a61efd819a0?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 29 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b1f9d8f4e41a61efd8132f?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Aug 29 |
-| ↳ | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b2c1ee1ade4306aa639f76?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1e4dfbc187f64e1bd787e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1d9a5f4e41a61efd801e1?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1aee1f4e41a61efd7efe5?utm_campaign=1067&utm_source=git)** | Raleigh | On Site | Aug 29 |
