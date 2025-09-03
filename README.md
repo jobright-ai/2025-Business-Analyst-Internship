@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7af54195d032a0960a8c9?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b789cd2124650c14023972?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Sep 02 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b785d81ade4306aa64bb31?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
 | ↳ | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b772ea1ade4306aa64b063?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
