@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[HII](https://hii.com)** | **[2026 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/68b7d1275e55be5e2604e455?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 02 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7af54195d032a0960a8c9?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b2c1ee1ade4306aa639f76?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 02 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b789cd2124650c14023972?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Sep 02 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b785d81ade4306aa64bb31?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
 | ↳ | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b772ea1ade4306aa64b063?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7723d2124650c14022cf6?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
@@ -142,5 +141,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0ce6eb47fb001d689598a?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0c01c2d46f6396cae8212?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0bf4f13563e782a9f9009?utm_campaign=1067&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 28 |
-| **[Black Hills Energy](https://www.blackhillsenergy.com)** | **[Technology Business Analyst Internship](https://jobright.ai/jobs/info/68afc930b47fb001d688d2d9?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
