@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b83a1eea901c0d269f4d13?utm_campaign=1067&utm_source=git)** | Baton Rouge, Louisiana, USA | Hybrid | Sep 03 |
+| **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b839ebea901c0d269f4cf2?utm_campaign=1067&utm_source=git)** | Portland, Maine, USA | Hybrid | Sep 03 |
+| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b839b007090163b6ba04a9?utm_campaign=1067&utm_source=git)** | Baton Rouge, Louisiana, USA | Hybrid | Sep 03 |
+| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b839af5b42bc45628231b8?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Sep 03 |
+| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b83986ea901c0d269f4cbe?utm_campaign=1067&utm_source=git)** | Chattanooga, Tennessee, USA | Hybrid | Sep 03 |
+| **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b8390407090163b6ba043e?utm_campaign=1067&utm_source=git)** | Chattanooga, Tennessee, USA | Hybrid | Sep 03 |
+| **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b838fb07090163b6ba043c?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Sep 03 |
+| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b838e95b42bc456282315d?utm_campaign=1067&utm_source=git)** | Portland, Maine, USA | Hybrid | Sep 03 |
 | **[HII](https://hii.com)** | **[2026 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/68b7d1275e55be5e2604e455?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 02 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7af54195d032a0960a8c9?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b2c1ee1ade4306aa639f76?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 02 |
@@ -74,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b726012124650c1401faff?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Sep 02 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Operational Risk and Control: Business Analyst Co-op](https://jobright.ai/jobs/info/68b710bd2124650c1401f140?utm_campaign=1067&utm_source=git)** | Boston | On Site | Sep 02 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b6ef402124650c1401e799?utm_campaign=1067&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Sep 02 |
-| **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Business Intern](https://jobright.ai/jobs/info/68b731791ade4306aa648566?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Sep 02 |
 | **[Arthur D. Little](http://www.adlittle.com)** | **[Summer Business Analyst 2026  (Advanced Degree)](https://jobright.ai/jobs/info/68b6e6f7f4e41a61efd94758?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e6b6f4e41a61efd94743?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 | ↳ | **[Summer Business Analyst 2026](https://jobright.ai/jobs/info/68b6e6b5f4e41a61efd94741?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
@@ -90,13 +97,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e568f4e41a61efd946e4?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
 | ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e5362124650c1401e3a4?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e4752124650c1401e36b?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
+| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Business Analytics (Internship)](https://jobright.ai/jobs/info/68b746f01ade4306aa64980e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Sep 02 |
 | **[RWE](https://www.group.rwe/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/689a282f5574fd6bc0c80290?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Sep 02 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b69860f4e41a61efd93b95?utm_campaign=1067&utm_source=git)** | Holmdel, NJ | Hybrid | Sep 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67318bc187f64e1bea128?utm_campaign=1067&utm_source=git)** | MN - St. Paul | Hybrid | Sep 01 |
 | ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67245f4e41a61efd92ebd?utm_campaign=1067&utm_source=git)** | CT - Hartford | Hybrid | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b672281ade4306aa645062?utm_campaign=1067&utm_source=git)** | Holmdel | Hybrid | Sep 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/68b7cc780514b74d7c3ea733?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Sep 01 |
-| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Business Analytics (Part-time)](https://jobright.ai/jobs/info/68b746f01ade4306aa64980e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b5ce40bc187f64e1be845f?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
 | ↳ | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55edb1ade4306aa641921?utm_campaign=1067&utm_source=git)** | US-Louisiana-Slidell | Hybrid | Sep 01 |
@@ -129,5 +136,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0c01c2d46f6396cae8212?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0bf4f13563e782a9f9009?utm_campaign=1067&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 28 |
 | **[Black Hills Energy](https://www.blackhillsenergy.com)** | **[Technology Business Analyst Internship](https://jobright.ai/jobs/info/68afc930b47fb001d688d2d9?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 27 |
-| **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68af6c7c1f0a2a568a061827?utm_campaign=1067&utm_source=git)** | NYC Metro Area | Hybrid | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
