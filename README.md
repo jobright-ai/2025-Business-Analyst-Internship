@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b772ea1ade4306aa64b063?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
+| **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7723d2124650c14022cf6?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68b75f80f4e41a61efd988be?utm_campaign=1067&utm_source=git)** | Worcester, MA | On Site | Sep 02 |
 | **[BerkleyNet (a Berkley Company)](https://berkleynet.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b74d6d1ade4306aa649d7d?utm_campaign=1067&utm_source=git)** | Manassas, VA | On Site | Sep 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b73f7e1ade4306aa64912b?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 02 |
@@ -102,9 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Consumer Operations Intern](https://jobright.ai/jobs/info/68b2f96df4e41a61efd88687?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
 | **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b2b1b0f4e41a61efd87b80?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 IT Business Solutions Intern](https://jobright.ai/jobs/info/68b3dad3bc187f64e1be1e72?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68b24484f4e41a61efd8311e?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b24478f4e41a61efd83112?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 29 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/68b243571ade4306aa6352ec?utm_campaign=1067&utm_source=git)** | Fulton, NC | On Site | Aug 29 |
 | **[Peraton](https://www.peraton.com/)** | **[Part-time Business Information Technology Intern](https://jobright.ai/jobs/info/68b23fe21ade4306aa63527c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68b23b2e1ade4306aa6350fe?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b21df4bc187f64e1bd96c8?utm_campaign=1067&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Aug 29 |
