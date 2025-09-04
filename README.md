@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/68b9eb788043103d4f21bd6c?utm_campaign=1067&utm_source=git)** | Olive Branch, MS | On Site | Sep 04 |
+| **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business-Communication/Media](https://jobright.ai/jobs/info/68b9da756105227d11898542?utm_campaign=1067&utm_source=git)** | Newnan, GA | On Site | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern:  Business Analyst](https://jobright.ai/jobs/info/68b9c9d96105227d11897bfc?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Sep 04 |
 | **[Federal Home Loan Bank of Topeka](http://fhlbtopeka.com)** | **[Business Technology Summer Intern](https://jobright.ai/jobs/info/68b9a1968043103d4f2192db?utm_campaign=1067&utm_source=git)** | Topeka, Kansas | On Site | Sep 04 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Operation Planning & Analysis Intern](https://jobright.ai/jobs/info/68b98c328043103d4f2180e6?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
@@ -142,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1d9a5f4e41a61efd801e1?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1aee1f4e41a61efd7efe5?utm_campaign=1067&utm_source=git)** | Raleigh | On Site | Aug 29 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 29 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0fd0de815524ae11fa7cc?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
