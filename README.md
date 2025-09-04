@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern:  Business Analyst](https://jobright.ai/jobs/info/68b9c9d96105227d11897bfc?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Sep 04 |
 | **[Federal Home Loan Bank of Topeka](http://fhlbtopeka.com)** | **[Business Technology Summer Intern](https://jobright.ai/jobs/info/68b9a1968043103d4f2192db?utm_campaign=1067&utm_source=git)** | Topeka, Kansas | On Site | Sep 04 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Operation Planning & Analysis Intern](https://jobright.ai/jobs/info/68b98c328043103d4f2180e6?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 03 |
-| **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68b9289e07090163b6ba8483?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 03 |
 | **[bp](https://www.bp.com)** | **[Summer Internship - Supply, Trading, & Shipping - Commercial - Chicago, IL](https://jobright.ai/jobs/info/68b92780ea901c0d269fcc72?utm_campaign=1067&utm_source=git)** | United States of America - Illinois - Chicago | Hybrid | Sep 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68b924e55b42bc456282b021?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68b9217aea901c0d269fc857?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 03 |
@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e568f4e41a61efd946e4?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
 | ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e5362124650c1401e3a4?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e4752124650c1401e36b?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
-| **[RWE](https://www.group.rwe/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/689a282f5574fd6bc0c80290?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Sep 02 |
 | **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Business Analytics (Internship)](https://jobright.ai/jobs/info/68b746f01ade4306aa64980e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Sep 02 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b69860f4e41a61efd93b95?utm_campaign=1067&utm_source=git)** | Holmdel, NJ | Hybrid | Sep 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67318bc187f64e1bea128?utm_campaign=1067&utm_source=git)** | MN - St. Paul | Hybrid | Sep 01 |
@@ -144,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1aee1f4e41a61efd7efe5?utm_campaign=1067&utm_source=git)** | Raleigh | On Site | Aug 29 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0fd0de815524ae11fa7cc?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
-| ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0fb0e6fab621da7b091a1?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
