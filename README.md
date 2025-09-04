@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Venture Global LNG](https://ventureglobal.com)** | **[Internship - Business](https://jobright.ai/jobs/info/68b9fa5d8043103d4f21c72c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Sep 04 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/68b9eb788043103d4f21bd6c?utm_campaign=1067&utm_source=git)** | Olive Branch, MS | On Site | Sep 04 |
 | **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business-Communication/Media](https://jobright.ai/jobs/info/68b9da756105227d11898542?utm_campaign=1067&utm_source=git)** | Newnan, GA | On Site | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern:  Business Analyst](https://jobright.ai/jobs/info/68b9c9d96105227d11897bfc?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Sep 04 |
