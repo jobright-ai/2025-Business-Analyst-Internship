@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Operation Planning & Analysis Intern](https://jobright.ai/jobs/info/68b98c328043103d4f2180e6?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 03 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68b9289e07090163b6ba8483?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 03 |
 | **[bp](https://www.bp.com)** | **[Summer Internship - Supply, Trading, & Shipping - Commercial - Chicago, IL](https://jobright.ai/jobs/info/68b92780ea901c0d269fcc72?utm_campaign=1067&utm_source=git)** | United States of America - Illinois - Chicago | Hybrid | Sep 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68b924e55b42bc456282b021?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2026](https://jobright.ai/jobs/info/68b894275b42bc4562825d52?utm_campaign=1067&utm_source=git)** | Omaha, NE | On Site | Sep 03 |
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b891d407090163b6ba2f0a?utm_campaign=1067&utm_source=git)** | TEXAS VIRTUAL, USA | On Site | Sep 03 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b891455b42bc4562825ba3?utm_campaign=1067&utm_source=git)** | ATLANTA, GA, USA | On Site | Sep 03 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/68b98a085f3832749185e71d?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Sep 03 |
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b879675b42bc4562824c19?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Sep 03 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2026](https://jobright.ai/jobs/info/68b86f6207090163b6ba1a3d?utm_campaign=1067&utm_source=git)** | Omaha, Nebraska | On Site | Sep 03 |
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b83a1eea901c0d269f4d13?utm_campaign=1067&utm_source=git)** | Baton Rouge, Louisiana, USA | Hybrid | Sep 03 |
@@ -81,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7af54195d032a0960a8c9?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b2c1ee1ade4306aa639f76?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 02 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b785d81ade4306aa64bb31?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b789cd2124650c14023972?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Sep 02 |
-| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b772ea1ade4306aa64b063?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
+| ↳ | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b772ea1ade4306aa64b063?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7723d2124650c14022cf6?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68b75f80f4e41a61efd988be?utm_campaign=1067&utm_source=git)** | Worcester, MA | On Site | Sep 02 |
 | **[BerkleyNet (a Berkley Company)](https://berkleynet.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b74d6d1ade4306aa649d7d?utm_campaign=1067&utm_source=git)** | Manassas, VA | On Site | Sep 02 |
@@ -109,13 +111,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e5362124650c1401e3a4?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e4752124650c1401e36b?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
 | **[RWE](https://www.group.rwe/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/689a282f5574fd6bc0c80290?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Sep 02 |
+| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Business Analytics (Internship)](https://jobright.ai/jobs/info/68b746f01ade4306aa64980e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Sep 02 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b69860f4e41a61efd93b95?utm_campaign=1067&utm_source=git)** | Holmdel, NJ | Hybrid | Sep 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67318bc187f64e1bea128?utm_campaign=1067&utm_source=git)** | MN - St. Paul | Hybrid | Sep 01 |
 | ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67245f4e41a61efd92ebd?utm_campaign=1067&utm_source=git)** | CT - Hartford | Hybrid | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b672281ade4306aa645062?utm_campaign=1067&utm_source=git)** | Holmdel | Hybrid | Sep 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/68b7cc780514b74d7c3ea733?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Sep 01 |
-| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Business Analytics (Part-time)](https://jobright.ai/jobs/info/68b746f01ade4306aa64980e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b5ce40bc187f64e1be845f?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
 | ↳ | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55edb1ade4306aa641921?utm_campaign=1067&utm_source=git)** | US-Louisiana-Slidell | Hybrid | Sep 01 |
 | ↳ | **[2026 Intern - IT Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55001f4e41a61efd8f5c8?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
@@ -143,6 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0fd0de815524ae11fa7cc?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0fb0e6fab621da7b091a1?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 | ↳ | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0ce6eb47fb001d689598a?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
-| ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0c01c2d46f6396cae8212?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
-| ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0bf4f13563e782a9f9009?utm_campaign=1067&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
