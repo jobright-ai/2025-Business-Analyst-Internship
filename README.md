@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Intern](https://jobright.ai/jobs/info/68b8d04607090163b6ba52d1?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Sep 03 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Operation Planning & Analysis Intern](https://jobright.ai/jobs/info/68b89a2507090163b6ba3739?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Sep 03 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Analyst Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/68b8989607090163b6ba34ed?utm_campaign=1067&utm_source=git)** | Northbrook, Illinois | Hybrid | Sep 03 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2026](https://jobright.ai/jobs/info/68b894275b42bc4562825d52?utm_campaign=1067&utm_source=git)** | Omaha, NE | On Site | Sep 03 |
