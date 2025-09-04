@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Home Loan Bank of Topeka](http://fhlbtopeka.com)** | **[Business Technology Summer Intern](https://jobright.ai/jobs/info/68b9a1968043103d4f2192db?utm_campaign=1067&utm_source=git)** | Topeka, Kansas | On Site | Sep 04 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Operation Planning & Analysis Intern](https://jobright.ai/jobs/info/68b98c328043103d4f2180e6?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 03 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68b9289e07090163b6ba8483?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 03 |
 | **[bp](https://www.bp.com)** | **[Summer Internship - Supply, Trading, & Shipping - Commercial - Chicago, IL](https://jobright.ai/jobs/info/68b92780ea901c0d269fcc72?utm_campaign=1067&utm_source=git)** | United States of America - Illinois - Chicago | Hybrid | Sep 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68b924e55b42bc456282b021?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68b9217aea901c0d269fc857?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 03 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Analyst Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/68b9a89e8043103d4f2195fa?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Sep 03 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Operation Planning & Analysis Intern](https://jobright.ai/jobs/info/68b89a2507090163b6ba3739?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Sep 03 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Analyst Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/68b8989607090163b6ba34ed?utm_campaign=1067&utm_source=git)** | Northbrook, Illinois | Hybrid | Sep 03 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/68b52729bc187f64e1be5755?utm_campaign=1067&utm_source=git)** | Cayce, SC | On Site | Sep 03 |
@@ -143,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0fd0de815524ae11fa7cc?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 | ↳ | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0fb0e6fab621da7b091a1?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
-| ↳ | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68b0ce6eb47fb001d689598a?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
