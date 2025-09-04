@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68b9289e07090163b6ba8483?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 03 |
 | **[bp](https://www.bp.com)** | **[Summer Internship - Supply, Trading, & Shipping - Commercial - Chicago, IL](https://jobright.ai/jobs/info/68b92780ea901c0d269fcc72?utm_campaign=1067&utm_source=git)** | United States of America - Illinois - Chicago | Hybrid | Sep 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68b924e55b42bc456282b021?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68b9217aea901c0d269fc857?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 03 |
