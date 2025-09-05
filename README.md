@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/68b9eb788043103d4f21bd6c?utm_campaign=1067&utm_source=git)** | Olive Branch, MS | On Site | Sep 04 |
 | **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business-Communication/Media](https://jobright.ai/jobs/info/68b9da756105227d11898542?utm_campaign=1067&utm_source=git)** | Newnan, GA | On Site | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern:  Business Analyst](https://jobright.ai/jobs/info/68b9c9d96105227d11897bfc?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Sep 04 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689cf120faa4e875e826c0c5?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 04 |
 | **[Federal Home Loan Bank of Topeka](http://fhlbtopeka.com)** | **[Business Technology Summer Intern](https://jobright.ai/jobs/info/68b9a1968043103d4f2192db?utm_campaign=1067&utm_source=git)** | Topeka, Kansas | On Site | Sep 04 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Operation Planning & Analysis Intern](https://jobright.ai/jobs/info/68b98c328043103d4f2180e6?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 03 |
@@ -149,5 +150,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68b20369f4e41a61efd819a0?utm_campaign=1067&utm_source=git)** | Dallas | On Site | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 29 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b1f9d8f4e41a61efd8132f?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Aug 29 |
-| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1e4dfbc187f64e1bd787e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
