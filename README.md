@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amway](http://www.amway.com)** | **[ABO Business Management, Analysis Intern, Summer 2026 (42265)](https://jobright.ai/jobs/info/68ba22198043103d4f21da97?utm_campaign=1067&utm_source=git)** | Ada, MI | On Site | Sep 04 |
+| **[Perpay Inc.](http://www.perpay.com)** | **[Strategic Analytics Internship, 2026](https://jobright.ai/jobs/info/68ba175b8043103d4f21d699?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 04 |
 | **[Venture Global LNG](https://ventureglobal.com)** | **[Internship - Business](https://jobright.ai/jobs/info/68b9fa5d8043103d4f21c72c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Sep 04 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/68b9eb788043103d4f21bd6c?utm_campaign=1067&utm_source=git)** | Olive Branch, MS | On Site | Sep 04 |
 | **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business-Communication/Media](https://jobright.ai/jobs/info/68b9da756105227d11898542?utm_campaign=1067&utm_source=git)** | Newnan, GA | On Site | Sep 04 |
