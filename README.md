@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bafc825f3832749186b3a3?utm_campaign=1067&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | Hybrid | Sep 05 |
+| ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bafbaf8043103d4f224970?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Supply Chain Data Analytics Co-op - Spring 2026](https://jobright.ai/jobs/info/68ba8dc76105227d1189efdb?utm_campaign=1067&utm_source=git)** | Quincy, MA | Hybrid | Sep 05 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba76168043103d4f220bda?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[DTI](http://www.docotel.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ba58305f383274918660f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
@@ -144,6 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b24478f4e41a61efd83112?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Aug 29 |
 | **[Peraton](https://www.peraton.com/)** | **[Part-time Business Information Technology Intern](https://jobright.ai/jobs/info/68b23fe21ade4306aa63527c?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68b23b2e1ade4306aa6350fe?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
-| **[Santander México](http://www.santander.com.mx/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b21df4bc187f64e1bd96c8?utm_campaign=1067&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Aug 29 |
-| ↳ | **[Consumer Operations Intern](https://jobright.ai/jobs/info/68b21d761ade4306aa634815?utm_campaign=1067&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
