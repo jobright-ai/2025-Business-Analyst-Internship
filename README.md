@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ba3bb66105227d1189c3bc?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Sep 04 |
 | **[Amway](http://www.amway.com)** | **[ABO Business Management, Analysis Intern, Summer 2026 (42265)](https://jobright.ai/jobs/info/68ba22198043103d4f21da97?utm_campaign=1067&utm_source=git)** | Ada, MI | On Site | Sep 04 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Strategic Analytics Internship, 2026](https://jobright.ai/jobs/info/68ba175b8043103d4f21d699?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 04 |
 | **[Venture Global LNG](https://ventureglobal.com)** | **[Internship - Business](https://jobright.ai/jobs/info/68b9fa5d8043103d4f21c72c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Sep 04 |
