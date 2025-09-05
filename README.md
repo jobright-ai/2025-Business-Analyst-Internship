@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Aug 29 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b1f9d8f4e41a61efd8132f?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1e4dfbc187f64e1bd787e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Aug 29 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1d9a5f4e41a61efd801e1?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
