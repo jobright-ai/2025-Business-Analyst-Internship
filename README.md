@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Supply Chain Data Analytics Co-op - Spring 2026](https://jobright.ai/jobs/info/68ba8dc76105227d1189efdb?utm_campaign=1067&utm_source=git)** | Quincy, MA | Hybrid | Sep 05 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba76168043103d4f220bda?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[DTI](http://www.docotel.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ba58305f383274918660f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ba3bb66105227d1189c3bc?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Sep 04 |
@@ -150,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b1f9d8f4e41a61efd8132f?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1e4dfbc187f64e1bd787e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1d9a5f4e41a61efd801e1?utm_campaign=1067&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 29 |
-| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68b1aee1f4e41a61efd7efe5?utm_campaign=1067&utm_source=git)** | Raleigh | On Site | Aug 29 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
