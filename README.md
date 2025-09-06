@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matrix Design Group LLC](http://matrixteam.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/68bbea956105227d118ab2b4?utm_campaign=1067&utm_source=git)** | Newburgh, IN | On Site | Sep 06 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[General Business Undergraduate Intern](https://jobright.ai/jobs/info/68bbe3c86105227d118aae5c?utm_campaign=1067&utm_source=git)** | Round Rock, TX | On Site | Sep 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68bbcd4b6105227d118a9fc2?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68bbc8ac8043103d4f22c7bf?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Business Analyst 2026 (Advanced Degree)](https://jobright.ai/jobs/info/68b6e5dd1ade4306aa64685f?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
 | ↳ | **[Winter Business Analyst 2026 (Advanced Degree)](https://jobright.ai/jobs/info/68b6e584f4e41a61efd946ed?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 | ↳ | **[Summer Business Analyst 2026](https://jobright.ai/jobs/info/68b6e5822124650c1401e3b7?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
-| ↳ | **[Summer Business Analyst 2026  (Advanced Degree)](https://jobright.ai/jobs/info/68b6e57d2124650c1401e3b4?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
 | ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e568f4e41a61efd946e4?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
 | ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e5362124650c1401e3a4?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e4752124650c1401e36b?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
