@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | On Site | Sep 05 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68bb71486105227d118a5fc6?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 05 |
+| **[Perpay Inc.](http://www.perpay.com)** | **[Business Operations Internship, 2026](https://jobright.ai/jobs/info/68bb6c965f3832749186f11a?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 05 |
+| **[Enterprise Fleet Management](https://www.efleets.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68bb6c106105227d118a5da4?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Sep 05 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68bb41976105227d118a497a?utm_campaign=1067&utm_source=git)** | Detroit, MI US | Hybrid | Sep 05 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7af54195d032a0960a8c9?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 05 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[General Business Undergraduate Intern](https://jobright.ai/jobs/info/68bb57596105227d118a572a?utm_campaign=1067&utm_source=git)** | Round Rock, Texas, United States | On Site | Sep 05 |
 | ↳ | **[General Business Undergraduate Intern](https://jobright.ai/jobs/info/68bb57005f3832749186e925?utm_campaign=1067&utm_source=git)** | Hopkinton, Massachusetts, United States | On Site | Sep 05 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Systems Intern  - Summer 2026](https://jobright.ai/jobs/info/68bb4b7e5f3832749186e1b3?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | ↳ | **[Business Applications Intern- Summer 2026](https://jobright.ai/jobs/info/68bb496d6105227d118a4e68?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb431b8043103d4f2274f1?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68bb41976105227d118a497a?utm_campaign=1067&utm_source=git)** | Detroit, MI US | Hybrid | Sep 05 |
-| **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3faa6105227d118a4717?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 05 |
+| ↳ | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3faa6105227d118a4717?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bafc825f3832749186b3a3?utm_campaign=1067&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bafbaf8043103d4f224970?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba76168043103d4f220bda?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
