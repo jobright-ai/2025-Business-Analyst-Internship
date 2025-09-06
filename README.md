@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern- Summer 2026](https://jobright.ai/jobs/info/68bba0c58043103d4f22a3c6?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
+| ↳ | **[Business Systems Intern  - Summer 2026](https://jobright.ai/jobs/info/68bb9e9c6105227d118a7920?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Business Analyst Student Experience](https://jobright.ai/jobs/info/68bb8b835f38327491870147?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bb873c5f3832749186fe1e?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb7b4c8043103d4f228f41?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern - IT  Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55edb1ade4306aa641921?utm_campaign=1067&utm_source=git)** | US-Louisiana-Slidell | Hybrid | Sep 01 |
 | ↳ | **[2026 Intern - IT Business Partner - Slidell, LA](https://jobright.ai/jobs/info/68b55001f4e41a61efd8f5c8?utm_campaign=1067&utm_source=git)** | Slidell, LA | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68b5443dbc187f64e1be5e43?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
-| ↳ | **[2026 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/68b543e31ade4306aa640dce?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
-| ↳ | **[2026 Internship - Information Systems (Business Analyst)](https://jobright.ai/jobs/info/68b54195f4e41a61efd8ed7f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
