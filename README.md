@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2026 Business Analyst Student Experience](https://jobright.ai/jobs/info/68bb8b835f38327491870147?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Sep 05 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bb873c5f3832749186fe1e?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
+| ↳ | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb7b4c8043103d4f228f41?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
+| ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68bb7b448043103d4f228f39?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
+| ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68bb797e5f3832749186f743?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
+| ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
+| ↳ | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb78646105227d118a6347?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
+| ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78375f3832749186f5dc?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bb78145f3832749186f5b3?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | On Site | Sep 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68bb71486105227d118a5fc6?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 05 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Business Operations Internship, 2026](https://jobright.ai/jobs/info/68bb6c965f3832749186f11a?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 05 |
@@ -148,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68b5443dbc187f64e1be5e43?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
 | ↳ | **[2026 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/68b543e31ade4306aa640dce?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | ↳ | **[2026 Internship - Information Systems (Business Analyst)](https://jobright.ai/jobs/info/68b54195f4e41a61efd8ed7f?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
-| ↳ | **[2026 Summer Intern - Business Analyst - Johnson City, TN.](https://jobright.ai/jobs/info/68b53ebbf4e41a61efd8ebb5?utm_campaign=1067&utm_source=git)** | Piney Flats, TN | On Site | Aug 31 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b30145bc187f64e1bdf935?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
-| **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68b2fde91ade4306aa63a96f?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Consumer Operations Intern](https://jobright.ai/jobs/info/68b2f96df4e41a61efd88687?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
-| **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68b2b1b0f4e41a61efd87b80?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
