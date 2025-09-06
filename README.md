@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68bbc8ac8043103d4f22c7bf?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[General Business Undergraduate Intern](https://jobright.ai/jobs/info/68bbe3c86105227d118aae5c?utm_campaign=1067&utm_source=git)** | Round Rock, TX | On Site | Sep 06 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68bbcd4b6105227d118a9fc2?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
+| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68bbc8ac8043103d4f22c7bf?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern- Summer 2026](https://jobright.ai/jobs/info/68bba0c58043103d4f22a3c6?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | ↳ | **[Business Systems Intern  - Summer 2026](https://jobright.ai/jobs/info/68bb9e9c6105227d118a7920?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Business Analyst Student Experience](https://jobright.ai/jobs/info/68bb8b835f38327491870147?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67318bc187f64e1bea128?utm_campaign=1067&utm_source=git)** | MN - St. Paul | Hybrid | Sep 01 |
 | ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67245f4e41a61efd92ebd?utm_campaign=1067&utm_source=git)** | CT - Hartford | Hybrid | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b672281ade4306aa645062?utm_campaign=1067&utm_source=git)** | Holmdel | Hybrid | Sep 01 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/68b7cc780514b74d7c3ea733?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Sep 01 |
-| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Business Analytics (Part-time)](https://jobright.ai/jobs/info/68b746f01ade4306aa64980e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
