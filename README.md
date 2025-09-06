@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/68bc6b9768300c452ca158f3?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Sep 06 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business Internship](https://jobright.ai/jobs/info/68bc7ffe68300c452ca15b28?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Sep 06 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 06 |
 | **[Matrix Design Group LLC](http://matrixteam.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/68bbea956105227d118ab2b4?utm_campaign=1067&utm_source=git)** | Newburgh, IN | On Site | Sep 06 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[General Business Undergraduate Intern](https://jobright.ai/jobs/info/68bbe3c86105227d118aae5c?utm_campaign=1067&utm_source=git)** | Round Rock, TX | On Site | Sep 06 |
