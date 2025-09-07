@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kahua](http://www.kahua.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68bca027ae79610dacddbf55?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Sep 06 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business Internship](https://jobright.ai/jobs/info/68bc7ffe68300c452ca15b28?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Sep 06 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 06 |
 | **[Matrix Design Group LLC](http://matrixteam.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/68bbea956105227d118ab2b4?utm_campaign=1067&utm_source=git)** | Newburgh, IN | On Site | Sep 06 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[General Business Undergraduate Intern](https://jobright.ai/jobs/info/68bbe3c86105227d118aae5c?utm_campaign=1067&utm_source=git)** | Round Rock, TX | On Site | Sep 06 |
@@ -90,7 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3faa6105227d118a4717?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bafc825f3832749186b3a3?utm_campaign=1067&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bafbaf8043103d4f224970?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba76168043103d4f220bda?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba761b8043103d4f220be3?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68bbb8e16105227d118a8ffb?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 04 |
 | **[DTI](http://www.docotel.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ba58305f383274918660f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ba3bb66105227d1189c3bc?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Sep 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e4752124650c1401e36b?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
 | **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Business Analytics (Internship)](https://jobright.ai/jobs/info/68b746f01ade4306aa64980e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Sep 02 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68b69860f4e41a61efd93b95?utm_campaign=1067&utm_source=git)** | Holmdel, NJ | Hybrid | Sep 02 |
+| **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b67318bc187f64e1bea128?utm_campaign=1067&utm_source=git)** | MN - St. Paul | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
