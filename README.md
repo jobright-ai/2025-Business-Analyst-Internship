@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68bebe3f702aa35207aa014f?utm_campaign=1067&utm_source=git)** | Tulsa, OK | Hybrid | Sep 08 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be6920c4c5904ff60063d9?utm_campaign=1067&utm_source=git)** | TX Houston - Sequent | Hybrid | Sep 07 |
 | ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be690c3d31ec76b7e8a2c0?utm_campaign=1067&utm_source=git)** | TX Houston - Tower | Hybrid | Sep 07 |
 | ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be68f2e57feb02eb0ae474?utm_campaign=1067&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Sep 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e6b6f4e41a61efd94743?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 | ↳ | **[Summer Business Analyst 2026](https://jobright.ai/jobs/info/68b6e6b5f4e41a61efd94741?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e6af1ade4306aa6468a2?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
-| ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e6411ade4306aa646877?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
