@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veeam Software](http://www.veeam.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bf0c958e65e77df55b66d0?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Sep 08 |
 | **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[DynaTen Internship](https://jobright.ai/jobs/info/68befa19702aa35207aa1fae?utm_campaign=1067&utm_source=git)** | Fort Worth, TX (DynaTen HQ) | On Site | Sep 08 |
-| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Management Intern](https://jobright.ai/jobs/info/68bee3248e65e77df55b51f9?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 08 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68bebe3f702aa35207aa014f?utm_campaign=1067&utm_source=git)** | Tulsa, OK | Hybrid | Sep 08 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Sep 08 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be6920c4c5904ff60063d9?utm_campaign=1067&utm_source=git)** | TX Houston - Sequent | Hybrid | Sep 07 |
@@ -102,9 +102,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Applications Intern- Summer 2026](https://jobright.ai/jobs/info/68bb496d6105227d118a4e68?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb431b8043103d4f2274f1?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | ↳ | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3faa6105227d118a4717?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 05 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Conway, AR - Spring 2026](https://jobright.ai/jobs/info/68bb3e9b5f3832749186d941?utm_campaign=1067&utm_source=git)** | Conway | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bafbaf8043103d4f224970?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba76168043103d4f220bda?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
-| **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68bbb8e16105227d118a8ffb?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 04 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba761b8043103d4f220be3?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[DTI](http://www.docotel.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ba58305f383274918660f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ba3bb66105227d1189c3bc?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Sep 04 |
 | **[Swagelok Southeast Texas](https://www.southeasttexas.swagelok.solutions/)** | **[Intern](https://jobright.ai/jobs/info/68bb3fd55f3832749186dac7?utm_campaign=1067&utm_source=git)** | Location, WV | On Site | Sep 04 |
