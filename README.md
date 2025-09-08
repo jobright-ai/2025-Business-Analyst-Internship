@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be6920c4c5904ff60063d9?utm_campaign=1067&utm_source=git)** | TX Houston - Sequent | Hybrid | Sep 07 |
+| ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be690c3d31ec76b7e8a2c0?utm_campaign=1067&utm_source=git)** | TX Houston - Tower | Hybrid | Sep 07 |
+| ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be68f2e57feb02eb0ae474?utm_campaign=1067&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Sep 07 |
+| ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be68e0e57feb02eb0ae45e?utm_campaign=1067&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Sep 07 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Technical Business Analyst Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be4e4b3d31ec76b7e8973f?utm_campaign=1067&utm_source=git)** | Johnston, IA | Hybrid | Sep 07 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - IT Operations & Performance Management Specialist](https://jobright.ai/jobs/info/68be4d003d31ec76b7e89603?utm_campaign=1067&utm_source=git)** | Durham NC | On Site | Sep 07 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Technical Business Analyst Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be2853c4c5904ff60048f7?utm_campaign=1067&utm_source=git)** | Delta Dental of Iowa | Hybrid | Sep 07 |
@@ -137,7 +141,8 @@ For a complete list, click the following sortable link below:
 | **[HII](https://hii.com)** | **[2026 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/68b7d1275e55be5e2604e455?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 02 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b2c1ee1ade4306aa639f76?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 02 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b785d81ade4306aa64bb31?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
-| ↳ | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b772ea1ade4306aa64b063?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/68b789cd2124650c14023972?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Sep 02 |
+| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b772ea1ade4306aa64b063?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7723d2124650c14022cf6?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68b75f80f4e41a61efd988be?utm_campaign=1067&utm_source=git)** | Worcester, MA | On Site | Sep 02 |
 | **[BerkleyNet (a Berkley Company)](https://berkleynet.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b74d6d1ade4306aa649d7d?utm_campaign=1067&utm_source=git)** | Manassas, VA | On Site | Sep 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Business Analyst 2026](https://jobright.ai/jobs/info/68b6e6b5f4e41a61efd94741?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e6af1ade4306aa6468a2?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
 | ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e6411ade4306aa646877?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
-| ↳ | **[Summer Business Analyst 2026](https://jobright.ai/jobs/info/68b6e6301ade4306aa646873?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
-| ↳ | **[Winter Business Analyst 2026 (Advanced Degree)](https://jobright.ai/jobs/info/68b6e6212124650c1401e3db?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
-| ↳ | **[Summer Business Analyst 2026  (Advanced Degree)](https://jobright.ai/jobs/info/68b6e5e01ade4306aa646861?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
-| ↳ | **[Winter Business Analyst 2026 (Advanced Degree)](https://jobright.ai/jobs/info/68b6e5dd1ade4306aa64685f?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
-| ↳ | **[Winter Business Analyst 2026 (Advanced Degree)](https://jobright.ai/jobs/info/68b6e584f4e41a61efd946ed?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
