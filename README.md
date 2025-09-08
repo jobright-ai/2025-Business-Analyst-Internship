@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68bf4720702aa35207aa5012?utm_campaign=1067&utm_source=git)** | Worcester, MA | On Site | Sep 08 |
 | **[Kemin Industries](http://www.kemin.com)** | **[Business Intern](https://jobright.ai/jobs/info/68bf2d938e65e77df55b7e2f?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 08 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Business Technology Analyst](https://jobright.ai/jobs/info/68bf2a555c5d5f14f46d4692?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | Hybrid | Sep 08 |
 | **[DynaTen Corporation](http://dynaten.com)** | **[DynaTen Internship](https://jobright.ai/jobs/info/68bf198a5c5d5f14f46d3b8d?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Sep 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b6ef402124650c1401e799?utm_campaign=1067&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Sep 02 |
 | **[Arthur D. Little](http://www.adlittle.com)** | **[Summer Business Analyst 2026  (Advanced Degree)](https://jobright.ai/jobs/info/68b6e6f7f4e41a61efd94758?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
 | ↳ | **[Business Analyst Co-op 2026, Advanced Degree (4 to 6 months)](https://jobright.ai/jobs/info/68b6e6b6f4e41a61efd94743?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
-| ↳ | **[Summer Business Analyst 2026](https://jobright.ai/jobs/info/68b6e6b5f4e41a61efd94741?utm_campaign=1067&utm_source=git)** | US-Boston | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
