@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Technical Business Analyst Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be2853c4c5904ff60048f7?utm_campaign=1067&utm_source=git)** | Delta Dental of Iowa | Hybrid | Sep 07 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Sep 07 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Sep 07 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Sep 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Business Analyst 2026 (Advanced Degree)](https://jobright.ai/jobs/info/68b6e584f4e41a61efd946ed?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 | ↳ | **[Summer Business Analyst 2026](https://jobright.ai/jobs/info/68b6e5822124650c1401e3b7?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
 | ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e568f4e41a61efd946e4?utm_campaign=1067&utm_source=git)** | US-San Francisco | On Site | Sep 02 |
-| ↳ | **[Winter Business Analyst 2026](https://jobright.ai/jobs/info/68b6e5362124650c1401e3a4?utm_campaign=1067&utm_source=git)** | US-New York | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
