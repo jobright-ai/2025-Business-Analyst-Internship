@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[DynaTen Internship](https://jobright.ai/jobs/info/68befa19702aa35207aa1fae?utm_campaign=1067&utm_source=git)** | Fort Worth, TX (DynaTen HQ) | On Site | Sep 08 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Management Intern](https://jobright.ai/jobs/info/68bee3248e65e77df55b51f9?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 08 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68bebe3f702aa35207aa014f?utm_campaign=1067&utm_source=git)** | Tulsa, OK | Hybrid | Sep 08 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Sep 08 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be6920c4c5904ff60063d9?utm_campaign=1067&utm_source=git)** | TX Houston - Sequent | Hybrid | Sep 07 |
 | ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be690c3d31ec76b7e8a2c0?utm_campaign=1067&utm_source=git)** | TX Houston - Tower | Hybrid | Sep 07 |
 | ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be68f2e57feb02eb0ae474?utm_campaign=1067&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Sep 07 |
@@ -80,14 +83,12 @@ For a complete list, click the following sortable link below:
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern- Summer 2026](https://jobright.ai/jobs/info/68bba0c58043103d4f22a3c6?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | ↳ | **[Business Systems Intern  - Summer 2026](https://jobright.ai/jobs/info/68bb9e9c6105227d118a7920?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Business Analyst Student Experience](https://jobright.ai/jobs/info/68bb8b835f38327491870147?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bb873c5f3832749186fe1e?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb7b4c8043103d4f228f41?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb7b4c8043103d4f228f41?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68bb7b448043103d4f228f39?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68bb797e5f3832749186f743?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb78646105227d118a6347?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78375f3832749186f5dc?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bb78145f3832749186f5b3?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | On Site | Sep 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68bb71486105227d118a5fc6?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 05 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Business Operations Internship, 2026](https://jobright.ai/jobs/info/68bb6c965f3832749186f11a?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 05 |
@@ -101,9 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Applications Intern- Summer 2026](https://jobright.ai/jobs/info/68bb496d6105227d118a4e68?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb431b8043103d4f2274f1?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | ↳ | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3faa6105227d118a4717?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bafc825f3832749186b3a3?utm_campaign=1067&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bafbaf8043103d4f224970?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba761b8043103d4f220be3?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bafbaf8043103d4f224970?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba76168043103d4f220bda?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68bbb8e16105227d118a8ffb?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 04 |
 | **[DTI](http://www.docotel.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ba58305f383274918660f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ba3bb66105227d1189c3bc?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Sep 04 |
