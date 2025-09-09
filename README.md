@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Business Insights and Analytics Interns](https://jobright.ai/jobs/info/68bf7b2d5c5d5f14f46d731e?utm_campaign=1067&utm_source=git)** | Jessup, Maryland, USA | Remote | Sep 08 |
+| **[RESPEC](http://www.respec.com)** | **[Student Business Analyst Intern](https://jobright.ai/jobs/info/68bf6c50702aa35207aa62eb?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Sep 08 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf62865c5d5f14f46d675c?utm_campaign=1067&utm_source=git)** | Kennett Square, Pennsylvania, USA | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf6226702aa35207aa5e7b?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, USA | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf60a35c5d5f14f46d6556?utm_campaign=1067&utm_source=git)** | Centennial, Colorado, USA | On Site | Sep 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7723d2124650c14022cf6?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
 | **[BerkleyNet (a Berkley Company)](https://berkleynet.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b74d6d1ade4306aa649d7d?utm_campaign=1067&utm_source=git)** | Manassas, VA | On Site | Sep 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b73f7e1ade4306aa64912b?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 02 |
-| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[2026 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/68b73b42f4e41a61efd96b57?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 02 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b726012124650c1401faff?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
