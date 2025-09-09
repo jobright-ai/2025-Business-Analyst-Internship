@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – IT Business Analyst (Year-Round)](https://jobright.ai/jobs/info/68c083cf8e65e77df55c21c0?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 09 |
+| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business/Quality Analyst Internship -- Summer 2026](https://jobright.ai/jobs/info/68c09fc58e65e77df55c3441?utm_campaign=1067&utm_source=git)** | Lansing, MI | On Site | Sep 09 |
+| **[CRH](http://crh.com)** | **[Intern - Business](https://jobright.ai/jobs/info/68c0932e702aa35207aaecb1?utm_campaign=1067&utm_source=git)** | Findlay, OH | On Site | Sep 09 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Pequot Lakes, MN](https://jobright.ai/jobs/info/68c092fd702aa35207aaec77?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN, 56472 | On Site | Sep 09 |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Business Management Intern](https://jobright.ai/jobs/info/68c0864b702aa35207aae361?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Sep 09 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – IT Business Analyst (Year-Round)](https://jobright.ai/jobs/info/68c085075c5d5f14f46deb4c?utm_campaign=1067&utm_source=git)** | IT Madison | Hybrid | Sep 09 |
+| ↳ | **[Internship – IT Business Analyst (Year-Round)](https://jobright.ai/jobs/info/68c083cf8e65e77df55c21c0?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 09 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c082795c5d5f14f46de9ca?utm_campaign=1067&utm_source=git)** | Des Moines, Iowa, United States | On Site | Sep 09 |
 | **[AllianceBernstein](http://www.alliancebernstein.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c07a80702aa35207aad806?utm_campaign=1067&utm_source=git)** | Nashville, Tennessee | On Site | Sep 09 |
 | **[Veeam Software](http://www.veeam.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c06577702aa35207aacb42?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern:  Business Analyst](https://jobright.ai/jobs/info/68b9c9d96105227d11897bfc?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Sep 04 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689cf120faa4e875e826c0c5?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 04 |
 | **[Federal Home Loan Bank of Topeka](http://fhlbtopeka.com)** | **[Business Technology Summer Intern](https://jobright.ai/jobs/info/68b9a1968043103d4f2192db?utm_campaign=1067&utm_source=git)** | Topeka, Kansas | On Site | Sep 04 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Operation Planning & Analysis Intern](https://jobright.ai/jobs/info/68b98c328043103d4f2180e6?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 03 |
-| **[bp](https://www.bp.com)** | **[Summer Internship - Supply, Trading, & Shipping - Commercial - Chicago, IL](https://jobright.ai/jobs/info/68b92780ea901c0d269fcc72?utm_campaign=1067&utm_source=git)** | United States of America - Illinois - Chicago | Hybrid | Sep 03 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68b924e55b42bc456282b021?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
-| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68b9217aea901c0d269fc857?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
