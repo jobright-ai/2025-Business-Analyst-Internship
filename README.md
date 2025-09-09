@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf98798e65e77df55bbb21?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Sep 08 |
+| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8164?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Sep 08 |
+| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8165?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 08 |
+| **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern/Co-op 2026 – Business Technology Analyst](https://jobright.ai/jobs/info/68bf8ece5c5d5f14f46d7fa8?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Sep 08 |
+| **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68bf8ab48e65e77df55bb3a6?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
+| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68bf8a475c5d5f14f46d7e70?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Sep 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Business Insights and Analytics Interns](https://jobright.ai/jobs/info/68bf7b2d5c5d5f14f46d731e?utm_campaign=1067&utm_source=git)** | Jessup, Maryland, USA | Remote | Sep 08 |
 | **[RESPEC](http://www.respec.com)** | **[Student Business Analyst Intern](https://jobright.ai/jobs/info/68bf6c50702aa35207aa62eb?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Sep 08 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf62865c5d5f14f46d675c?utm_campaign=1067&utm_source=git)** | Kennett Square, Pennsylvania, USA | On Site | Sep 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b838fb07090163b6ba043c?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Sep 03 |
 | ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b838e95b42bc456282315d?utm_campaign=1067&utm_source=git)** | Portland, Maine, USA | Hybrid | Sep 03 |
 | **[HII](https://hii.com)** | **[2026 BUSINESS MANAGEMENT SUMMER INTERNSHIP - BUSN MGMT INTRN](https://jobright.ai/jobs/info/68b7d1275e55be5e2604e455?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Sep 02 |
-| **[Elucid](http://elucid.com)** | **[Business Intern: Fall 2025](https://jobright.ai/jobs/info/68b2c1ee1ade4306aa639f76?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 02 |
-| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b785d81ade4306aa64bb31?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
-| ↳ | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68b772ea1ade4306aa64b063?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
-| **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate (Summer 2026) - Business Analyst](https://jobright.ai/jobs/info/68b7723d2124650c14022cf6?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
-| **[BerkleyNet (a Berkley Company)](https://berkleynet.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b74d6d1ade4306aa649d7d?utm_campaign=1067&utm_source=git)** | Manassas, VA | On Site | Sep 02 |
-| **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b73f7e1ade4306aa64912b?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
