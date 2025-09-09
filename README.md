@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a37b581ab5f8579e8a624e?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Sep 09 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfdabc702aa35207aa9b7e?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Sep 09 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfb5648e65e77df55bcb01?utm_campaign=1067&utm_source=git)** | US-Texas-Fort Worth | On Site | Sep 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68bfb4a3702aa35207aa8b1b?utm_campaign=1067&utm_source=git)** | 600 Lafayette East, Detroit, MI, 48226, US | On Site | Sep 08 |
@@ -125,7 +126,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3faa6105227d118a4717?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 05 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Conway, AR - Spring 2026](https://jobright.ai/jobs/info/68bb3e9b5f3832749186d941?utm_campaign=1067&utm_source=git)** | Conway | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bafbaf8043103d4f224970?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba761b8043103d4f220be3?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba76168043103d4f220bda?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[DTI](http://www.docotel.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ba58305f383274918660f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ba3bb66105227d1189c3bc?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Sep 04 |
 | **[Swagelok Southeast Texas](https://www.southeasttexas.swagelok.solutions/)** | **[Intern](https://jobright.ai/jobs/info/68bb3fd55f3832749186dac7?utm_campaign=1067&utm_source=git)** | Location, WV | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unum](http://www.unum.com)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b83a1eea901c0d269f4d13?utm_campaign=1067&utm_source=git)** | Baton Rouge, Louisiana, USA | Hybrid | Sep 03 |
 | **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b839ebea901c0d269f4cf2?utm_campaign=1067&utm_source=git)** | Portland, Maine, USA | Hybrid | Sep 03 |
 | ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b839b007090163b6ba04a9?utm_campaign=1067&utm_source=git)** | Baton Rouge, Louisiana, USA | Hybrid | Sep 03 |
-| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68b839af5b42bc45628231b8?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
