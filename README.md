@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Pequot Lakes, MN](https://jobright.ai/jobs/info/68c0f0d08e65e77df55c5d63?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN | On Site | Sep 09 |
+| **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c0ee105c5d5f14f46e261d?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 09 |
+| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Life & Annuity Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c0e38d8e65e77df55c54d3?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 09 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business/Quality Analyst Internship -- Summer 2026](https://jobright.ai/jobs/info/68c09fc58e65e77df55c3441?utm_campaign=1067&utm_source=git)** | Lansing, MI | On Site | Sep 09 |
 | **[CRH](http://crh.com)** | **[Intern - Business](https://jobright.ai/jobs/info/68c0932e702aa35207aaecb1?utm_campaign=1067&utm_source=git)** | Findlay, OH | On Site | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Pequot Lakes, MN](https://jobright.ai/jobs/info/68c092fd702aa35207aaec77?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN, 56472 | On Site | Sep 09 |
-| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Business Management Intern](https://jobright.ai/jobs/info/68c0864b702aa35207aae361?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Sep 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – IT Business Analyst (Year-Round)](https://jobright.ai/jobs/info/68c085075c5d5f14f46deb4c?utm_campaign=1067&utm_source=git)** | IT Madison | Hybrid | Sep 09 |
 | ↳ | **[Internship – IT Business Analyst (Year-Round)](https://jobright.ai/jobs/info/68c083cf8e65e77df55c21c0?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 09 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c082795c5d5f14f46de9ca?utm_campaign=1067&utm_source=git)** | Des Moines, Iowa, United States | On Site | Sep 09 |
@@ -87,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68bf8a475c5d5f14f46d7e70?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Sep 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Business Insights and Analytics Interns](https://jobright.ai/jobs/info/68bf7b2d5c5d5f14f46d731e?utm_campaign=1067&utm_source=git)** | Jessup, Maryland, USA | Remote | Sep 08 |
 | **[RESPEC](http://www.respec.com)** | **[Student Business Analyst Intern](https://jobright.ai/jobs/info/68bf6c50702aa35207aa62eb?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Sep 08 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Business Systems Analyst](https://jobright.ai/jobs/info/68bf64cd8e65e77df55b9db6?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 08 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf62865c5d5f14f46d675c?utm_campaign=1067&utm_source=git)** | Kennett Square, Pennsylvania, USA | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf6226702aa35207aa5e7b?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, USA | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf60a35c5d5f14f46d6556?utm_campaign=1067&utm_source=git)** | Centennial, Colorado, USA | On Site | Sep 08 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Business Systems Analyst](https://jobright.ai/jobs/info/68bf607f702aa35207aa5cc3?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 08 |
 | **[Kemin Industries](http://www.kemin.com)** | **[Business Intern](https://jobright.ai/jobs/info/68bf2d938e65e77df55b7e2f?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 08 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Business Technology Analyst](https://jobright.ai/jobs/info/68bf2a555c5d5f14f46d4692?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | Hybrid | Sep 08 |
 | **[DynaTen Corporation](http://dynaten.com)** | **[DynaTen Internship](https://jobright.ai/jobs/info/68bf198a5c5d5f14f46d3b8d?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Sep 08 |
@@ -143,7 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3faa6105227d118a4717?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 05 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Conway, AR - Spring 2026](https://jobright.ai/jobs/info/68bb3e9b5f3832749186d941?utm_campaign=1067&utm_source=git)** | Conway | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bafbaf8043103d4f224970?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba761b8043103d4f220be3?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba76168043103d4f220bda?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[DTI](http://www.docotel.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ba58305f383274918660f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ba3bb66105227d1189c3bc?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Sep 04 |
 | **[Swagelok Southeast Texas](https://www.southeasttexas.swagelok.solutions/)** | **[Intern](https://jobright.ai/jobs/info/68bb3fd55f3832749186dac7?utm_campaign=1067&utm_source=git)** | Location, WV | On Site | Sep 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern:  Business Analyst](https://jobright.ai/jobs/info/68b9c9d96105227d11897bfc?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Sep 04 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689cf120faa4e875e826c0c5?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 04 |
 | **[Federal Home Loan Bank of Topeka](http://fhlbtopeka.com)** | **[Business Technology Summer Intern](https://jobright.ai/jobs/info/68b9a1968043103d4f2192db?utm_campaign=1067&utm_source=git)** | Topeka, Kansas | On Site | Sep 04 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Operation Planning & Analysis Intern](https://jobright.ai/jobs/info/68b98c328043103d4f2180e6?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance](https://jobright.ai/jobs/info/68b5dd0f1ade4306aa6436a1?utm_campaign=1067&utm_source=git)** | Rosemead, CA | Hybrid | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
