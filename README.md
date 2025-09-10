@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Bank](http://www.usbank.com)** | **[2026 Business Analytics Summer Intern](https://jobright.ai/jobs/info/68c141a23fd8b059a20ef244?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Pequot Lakes, MN](https://jobright.ai/jobs/info/68c0f0d08e65e77df55c5d63?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN | On Site | Sep 09 |
 | **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c0ee105c5d5f14f46e261d?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 09 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Life & Annuity Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c0e38d8e65e77df55c54d3?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 09 |
@@ -147,7 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3faa6105227d118a4717?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 05 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Conway, AR - Spring 2026](https://jobright.ai/jobs/info/68bb3e9b5f3832749186d941?utm_campaign=1067&utm_source=git)** | Conway | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bafbaf8043103d4f224970?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba76168043103d4f220bda?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Process Improvement Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ba761b8043103d4f220be3?utm_campaign=1067&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[DTI](http://www.docotel.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ba58305f383274918660f5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ba3bb66105227d1189c3bc?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Sep 04 |
 | **[Swagelok Southeast Texas](https://www.southeasttexas.swagelok.solutions/)** | **[Intern](https://jobright.ai/jobs/info/68bb3fd55f3832749186dac7?utm_campaign=1067&utm_source=git)** | Location, WV | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Venture Global LNG](https://ventureglobal.com)** | **[Internship - Business](https://jobright.ai/jobs/info/68b9fa5d8043103d4f21c72c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Sep 04 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/68b9eb788043103d4f21bd6c?utm_campaign=1067&utm_source=git)** | Olive Branch, MS | On Site | Sep 04 |
 | **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business-Communication/Media](https://jobright.ai/jobs/info/68b9da756105227d11898542?utm_campaign=1067&utm_source=git)** | Newnan, GA | On Site | Sep 04 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern:  Business Analyst](https://jobright.ai/jobs/info/68b9c9d96105227d11897bfc?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
