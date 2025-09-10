@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c17cae4d652f0447757b49?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
+| **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Digital Business Solutions (IT) Intern - Undergraduate](https://jobright.ai/jobs/info/68a5b07c758f2e4ac3fe03bf?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Sep 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Business Analytics Summer Intern](https://jobright.ai/jobs/info/68c141a23fd8b059a20ef244?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Pequot Lakes, MN](https://jobright.ai/jobs/info/68c0f0d08e65e77df55c5d63?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN | On Site | Sep 09 |
 | **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c0ee105c5d5f14f46e261d?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amway](http://www.amway.com)** | **[ABO Business Management, Analysis Intern, Summer 2026 (42265)](https://jobright.ai/jobs/info/68ba22198043103d4f21da97?utm_campaign=1067&utm_source=git)** | Ada, MI | On Site | Sep 04 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Strategic Analytics Internship, 2026](https://jobright.ai/jobs/info/68ba175b8043103d4f21d699?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 04 |
 | **[Venture Global LNG](https://ventureglobal.com)** | **[Internship - Business](https://jobright.ai/jobs/info/68b9fa5d8043103d4f21c72c?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Sep 04 |
-| **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/68b9eb788043103d4f21bd6c?utm_campaign=1067&utm_source=git)** | Olive Branch, MS | On Site | Sep 04 |
-| **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business-Communication/Media](https://jobright.ai/jobs/info/68b9da756105227d11898542?utm_campaign=1067&utm_source=git)** | Newnan, GA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
