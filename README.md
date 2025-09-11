@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Intern](https://jobright.ai/jobs/info/68c33a3d5adaee6c9bda87d3?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Remote | Sep 11 |
+| **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c332085001f8077bf6208b?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
+| **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c3316b63829b0a8a5009b9?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
+| **[StoneRidge Senior Living Community](https://www.stoneridgelcs.com/careers/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c331465adaee6c9bda8024?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
+| **[South Port Square](https://southportseniorliving.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c3311a63829b0a8a500956?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
 | **[LCS](https://www.lcsnet.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c3253163829b0a8a500357?utm_campaign=1067&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 11 |
 | **[WM](https://www.wm.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/68c31f715adaee6c9bda76a3?utm_campaign=1067&utm_source=git)** | 2900 N FM 973, AUSTIN, TX, 78725, US | Remote | Sep 11 |
 | **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/68c31df65adaee6c9bda72b2?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 11 |
@@ -81,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/68b9eb788043103d4f21bd6c?utm_campaign=1067&utm_source=git)** | Olive Branch, MS | On Site | Sep 10 |
 | **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/68c1c6734d652f0447759d65?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 10 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/68c1b67f3fd8b059a20f1bee?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Sep 10 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68c1b2cb233c7d3e64d03700?utm_campaign=1067&utm_source=git)** | Lincoln, NE | Hybrid | Sep 10 |
 | **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[Business Applications Intern](https://jobright.ai/jobs/info/68c1ad9d233c7d3e64d0353d?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 10 |
 | **[South Port Square](https://southportseniorliving.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/68c1ac994d652f04477590db?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 10 |
 | **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Business Applications Intern](https://jobright.ai/jobs/info/68c1ac304d652f0447759052?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 10 |
@@ -95,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c190a84d652f04477581ca?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Sep 10 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c1903f233c7d3e64d02426?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Sep 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c1903d4d652f044775814d?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68c18f7d4d652f04477580c1?utm_campaign=1067&utm_source=git)** | Lincoln, NE | Hybrid | Sep 10 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 10 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a563d3758f2e4ac3fde944?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 10 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/689440a94c7e851b90ae4593?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Sep 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Technical Business Analyst Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be4e4b3d31ec76b7e8973f?utm_campaign=1067&utm_source=git)** | Johnston, IA | Hybrid | Sep 07 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - IT Operations & Performance Management Specialist](https://jobright.ai/jobs/info/68be4d003d31ec76b7e89603?utm_campaign=1067&utm_source=git)** | Durham NC | On Site | Sep 07 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68c0fb38702aa35207ab24a6?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Sep 07 |
-| **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Technical Business Analyst Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be2853c4c5904ff60048f7?utm_campaign=1067&utm_source=git)** | Delta Dental of Iowa | Hybrid | Sep 07 |
-| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Sep 07 |
-| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Sep 07 |
-| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Sep 07 |
-| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c7b9cc9ee94dc9120847?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
