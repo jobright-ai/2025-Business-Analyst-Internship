@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Business Analytics Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c30a7b5001f8077bf6071b?utm_campaign=1067&utm_source=git)** | US, Minnesota, Maplewood | On Site | Sep 11 |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c3253163829b0a8a500357?utm_campaign=1067&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 11 |
+| **[WM](https://www.wm.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/68c31f715adaee6c9bda76a3?utm_campaign=1067&utm_source=git)** | 2900 N FM 973, AUSTIN, TX, 78725, US | Remote | Sep 11 |
+| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/68c31df65adaee6c9bda72b2?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 11 |
+| **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Business Analytics Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c3190e63829b0a8a4ffa9a?utm_campaign=1067&utm_source=git)** | Minnesota, United States | On Site | Sep 11 |
+| ↳ | **[Internship - 2026 Undergraduate Business Analytics Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c30a7b5001f8077bf6071b?utm_campaign=1067&utm_source=git)** | US, Minnesota, Maplewood | On Site | Sep 11 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst intern](https://jobright.ai/jobs/info/68c2e5fa5adaee6c9bda52d8?utm_campaign=1067&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Sep 11 |
 | **[Wayfair](https://www.wayfair.com)** | **[Operations Analyst Fall Intern](https://jobright.ai/jobs/info/68c2e3dc5adaee6c9bda515a?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 11 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst intern](https://jobright.ai/jobs/info/68c2e2fd5001f8077bf5efb8?utm_campaign=1067&utm_source=git)** | Round Rock, TX | On Site | Sep 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Sep 07 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Sep 07 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c7b9cc9ee94dc9120847?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
-| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Sep 07 |
-| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689f9107b3e889632cf08b7d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 07 |
-| **[Kahua](http://www.kahua.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68bca027ae79610dacddbf55?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Sep 06 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
