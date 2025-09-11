@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Business Analytics Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c30a7b5001f8077bf6071b?utm_campaign=1067&utm_source=git)** | US, Minnesota, Maplewood | On Site | Sep 11 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst intern](https://jobright.ai/jobs/info/68c2e5fa5adaee6c9bda52d8?utm_campaign=1067&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Sep 11 |
 | **[Wayfair](https://www.wayfair.com)** | **[Operations Analyst Fall Intern](https://jobright.ai/jobs/info/68c2e3dc5adaee6c9bda515a?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 11 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst intern](https://jobright.ai/jobs/info/68c2e2fd5001f8077bf5efb8?utm_campaign=1067&utm_source=git)** | Round Rock, TX | On Site | Sep 11 |
@@ -121,17 +122,17 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68bfb4a3702aa35207aa8b1b?utm_campaign=1067&utm_source=git)** | 600 Lafayette East, Detroit, MI, 48226, US | On Site | Sep 08 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68c10329702aa35207ab2a2c?utm_campaign=1067&utm_source=git)** | Worcester, MA | On Site | Sep 08 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf98798e65e77df55bbb21?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Sep 08 |
-| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8164?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8165?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 08 |
+| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8164?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Sep 08 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern/Co-op 2026 – Business Technology Analyst](https://jobright.ai/jobs/info/68bf8ece5c5d5f14f46d7fa8?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Sep 08 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68bf8ab48e65e77df55bb3a6?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68bf8a475c5d5f14f46d7e70?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Sep 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Business Insights and Analytics Interns](https://jobright.ai/jobs/info/68bf7b2d5c5d5f14f46d731e?utm_campaign=1067&utm_source=git)** | Jessup, Maryland, USA | Remote | Sep 08 |
 | **[RESPEC](http://www.respec.com)** | **[Student Business Analyst Intern](https://jobright.ai/jobs/info/68bf6c50702aa35207aa62eb?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Sep 08 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Business Systems Analyst](https://jobright.ai/jobs/info/68bf64cd8e65e77df55b9db6?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 08 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf62865c5d5f14f46d675c?utm_campaign=1067&utm_source=git)** | Kennett Square, Pennsylvania, USA | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf6226702aa35207aa5e7b?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, USA | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf60a35c5d5f14f46d6556?utm_campaign=1067&utm_source=git)** | Centennial, Colorado, USA | On Site | Sep 08 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Business Systems Analyst](https://jobright.ai/jobs/info/68bf607f702aa35207aa5cc3?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 08 |
 | **[Kemin Industries](http://www.kemin.com)** | **[Business Intern](https://jobright.ai/jobs/info/68bf2d938e65e77df55b7e2f?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 08 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Business Technology Analyst](https://jobright.ai/jobs/info/68bf2a555c5d5f14f46d4692?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | Hybrid | Sep 08 |
 | **[DynaTen Corporation](http://dynaten.com)** | **[DynaTen Internship](https://jobright.ai/jobs/info/68bf198a5c5d5f14f46d3b8d?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Sep 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689f9107b3e889632cf08b7d?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 07 |
 | **[Kahua](http://www.kahua.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68bca027ae79610dacddbf55?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Sep 06 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 06 |
-| **[Matrix Design Group LLC](http://matrixteam.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/68bbea956105227d118ab2b4?utm_campaign=1067&utm_source=git)** | Newburgh, IN | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
