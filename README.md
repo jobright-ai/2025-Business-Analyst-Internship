@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68c35c98b8c22d382847133b?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Sep 11 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c35bee80e77b1fa6fc894f?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 11 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68c35b6a80e77b1fa6fc88d3?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 11 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Intern](https://jobright.ai/jobs/info/68c33a3d5adaee6c9bda87d3?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Remote | Sep 11 |
 | **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c332085001f8077bf6208b?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
 | **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c3316b63829b0a8a5009b9?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
@@ -129,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfdabc702aa35207aa9b7e?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Sep 09 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfb5648e65e77df55bcb01?utm_campaign=1067&utm_source=git)** | US-Texas-Fort Worth | On Site | Sep 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68bfb4a3702aa35207aa8b1b?utm_campaign=1067&utm_source=git)** | 600 Lafayette East, Detroit, MI, 48226, US | On Site | Sep 08 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68c10329702aa35207ab2a2c?utm_campaign=1067&utm_source=git)** | Worcester, MA | On Site | Sep 08 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf98798e65e77df55bbb21?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8165?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8164?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Sep 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be68f2e57feb02eb0ae474?utm_campaign=1067&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Sep 07 |
 | ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be68e0e57feb02eb0ae45e?utm_campaign=1067&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Sep 07 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Technical Business Analyst Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be4e4b3d31ec76b7e8973f?utm_campaign=1067&utm_source=git)** | Johnston, IA | Hybrid | Sep 07 |
-| **[Fortrea](https://www.fortrea.com)** | **[Intern - IT Operations & Performance Management Specialist](https://jobright.ai/jobs/info/68be4d003d31ec76b7e89603?utm_campaign=1067&utm_source=git)** | Durham NC | On Site | Sep 07 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68c0fb38702aa35207ab24a6?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
