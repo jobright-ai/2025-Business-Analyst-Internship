@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68c57539c96a22563ece8f7f?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 13 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Business Operations & Research Analyst Intern](https://jobright.ai/jobs/info/68c4bcb07279451d6a037284?utm_campaign=1067&utm_source=git)** | Appleton, WI | On Site | Sep 12 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Intern I](https://jobright.ai/jobs/info/68c48988e471ef3ce16d7409?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Business Operations and Customer Service Internship (Summer 2026)](https://jobright.ai/jobs/info/68c49dd4e396b25cb5c6990e?utm_campaign=1067&utm_source=git)** | Des Moines, IA | Hybrid | Sep 12 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Business Analytics Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c30a7b5001f8077bf6071b?utm_campaign=1067&utm_source=git)** | US, Minnesota, Maplewood | On Site | Sep 11 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst intern](https://jobright.ai/jobs/info/68c2e5fa5adaee6c9bda52d8?utm_campaign=1067&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Sep 11 |
 | **[Wayfair](https://www.wayfair.com)** | **[Operations Analyst Fall Intern](https://jobright.ai/jobs/info/68c2e3dc5adaee6c9bda515a?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 11 |
-| **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst intern](https://jobright.ai/jobs/info/68c2e2fd5001f8077bf5efb8?utm_campaign=1067&utm_source=git)** | Round Rock, TX | On Site | Sep 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c26fd863b706703e115171?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c26e4563b706703e115049?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c26dd163b706703e114fdf?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Sep 10 |
@@ -115,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 10 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a563d3758f2e4ac3fde944?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 10 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c17cae4d652f0447757b49?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
-| **[Veeam Software](http://www.veeam.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c54bb9db52c07d28842376?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 10 |
+| **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[Business Co-op & Internship Opportunities](https://jobright.ai/jobs/info/68c55a407d0db41142733af2?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Sep 10 |
 | **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c52732c96a22563ece7b15?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Business Analytics Summer Intern](https://jobright.ai/jobs/info/68c141a23fd8b059a20ef244?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 09 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c3b4c9b8c22d3828474e03?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 09 |
