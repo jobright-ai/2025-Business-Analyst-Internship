@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 10 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a563d3758f2e4ac3fde944?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 10 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c17cae4d652f0447757b49?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
-| **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[Business Co-op & Internship Opportunities](https://jobright.ai/jobs/info/68c55a407d0db41142733af2?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Sep 10 |
 | **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c52732c96a22563ece7b15?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Business Analytics Summer Intern](https://jobright.ai/jobs/info/68c141a23fd8b059a20ef244?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 09 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c3b4c9b8c22d3828474e03?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[DynaTen Internship](https://jobright.ai/jobs/info/68befa19702aa35207aa1fae?utm_campaign=1067&utm_source=git)** | Fort Worth, TX (DynaTen HQ) | On Site | Sep 08 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship – Corporate Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Sep 08 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68bebe3f702aa35207aa014f?utm_campaign=1067&utm_source=git)** | Tulsa, OK | Hybrid | Sep 08 |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be6920c4c5904ff60063d9?utm_campaign=1067&utm_source=git)** | TX Houston - Sequent | Hybrid | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
