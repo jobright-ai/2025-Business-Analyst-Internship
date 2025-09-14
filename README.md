@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c26fd863b706703e115171?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c26e4563b706703e115049?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c26dd163b706703e114fdf?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Sep 10 |
-| ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c2940eb535a221b153d065?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Enterprise Business Solutions Intern](https://jobright.ai/jobs/info/68c21bd933864f172f9bd023?utm_campaign=1067&utm_source=git)** | UT | On Site | Sep 10 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Business Analyst Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68c206fa4d652f044775c754?utm_campaign=1067&utm_source=git)** | Annapolis, MD | On Site | Sep 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68c1e36c3fd8b059a20f3ac8?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
@@ -133,14 +132,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Intern - IT](https://jobright.ai/jobs/info/68c0420c8e65e77df55bf7de?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 09 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Business Analysis Graduate Intern- Summer 2026](https://jobright.ai/jobs/info/68a37d0e403ad4363b1c19b0?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Sep 09 |
 | ↳ | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a37b581ab5f8579e8a624e?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Sep 09 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68bff986702aa35207aaa73a?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Sep 09 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfdabc702aa35207aa9b7e?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Sep 09 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfb5648e65e77df55bcb01?utm_campaign=1067&utm_source=git)** | US-Texas-Fort Worth | On Site | Sep 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68bfb4a3702aa35207aa8b1b?utm_campaign=1067&utm_source=git)** | 600 Lafayette East, Detroit, MI, 48226, US | On Site | Sep 08 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68c4eea2db52c07d2883e582?utm_campaign=1067&utm_source=git)** | Worcester, MA | On Site | Sep 08 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf98798e65e77df55bbb21?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Sep 08 |
-| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8164?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8165?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 08 |
+| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf94895c5d5f14f46d8164?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Sep 08 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern/Co-op 2026 – Business Technology Analyst](https://jobright.ai/jobs/info/68bf8ece5c5d5f14f46d7fa8?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Sep 08 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68bf8ab48e65e77df55bb3a6?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68bf8a475c5d5f14f46d7e70?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Sep 08 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship – Corporate Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Sep 08 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68bebe3f702aa35207aa014f?utm_campaign=1067&utm_source=git)** | Tulsa, OK | Hybrid | Sep 08 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be6920c4c5904ff60063d9?utm_campaign=1067&utm_source=git)** | TX Houston - Sequent | Hybrid | Sep 07 |
+| ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be690c3d31ec76b7e8a2c0?utm_campaign=1067&utm_source=git)** | TX Houston - Tower | Hybrid | Sep 07 |
+| ↳ | **[Summer 2026 Business Internship - General](https://jobright.ai/jobs/info/68be68f2e57feb02eb0ae474?utm_campaign=1067&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
