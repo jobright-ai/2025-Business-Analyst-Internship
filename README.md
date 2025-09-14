@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - University of Illinois](https://jobright.ai/jobs/info/68c699237d0db4114273ada2?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 14 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - University of Illinois](https://jobright.ai/jobs/info/68c663cbc96a22563ecee1a2?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 13 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68c57539c96a22563ece8f7f?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Sep 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68c64f477d0db41142738626?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 12 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c26dd163b706703e114fdf?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Sep 10 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c65f077d0db411427392fe?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Sep 10 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68c64a8c7d0db41142738116?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Sep 10 |
-| **[Wayfair](https://www.wayfair.com)** | **[Operations Analyst Fall Intern](https://jobright.ai/jobs/info/68c642fc7d0db41142737743?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Enterprise Business Solutions Intern](https://jobright.ai/jobs/info/68c21bd933864f172f9bd023?utm_campaign=1067&utm_source=git)** | UT | On Site | Sep 10 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Business Analyst Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68c206fa4d652f044775c754?utm_campaign=1067&utm_source=git)** | Annapolis, MD | On Site | Sep 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68c1e36c3fd8b059a20f3ac8?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
