@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c65e2e7d0db411427390bb?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Business Systems](https://jobright.ai/jobs/info/68c3b1c0b8c22d3828474a9c?utm_campaign=1067&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c64dd2db52c07d28846d2c?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 11 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68c63305db52c07d288451f9?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/68c370e080e77b1fa6fc925e?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Sep 11 |
 | ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/68c36eb1b8c22d3828471bbc?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Sep 11 |
 | **[Lockton](https://global.lockton.com)** | **[Global Business Intern - Kansas City](https://jobright.ai/jobs/info/68c3669980e77b1fa6fc8e14?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Sep 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RESPEC](http://www.respec.com)** | **[Student Business Analyst Intern](https://jobright.ai/jobs/info/68bf6c50702aa35207aa62eb?utm_campaign=1067&utm_source=git)** | Richardson, TX | On Site | Sep 08 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf62865c5d5f14f46d675c?utm_campaign=1067&utm_source=git)** | Kennett Square, Pennsylvania, USA | On Site | Sep 08 |
 | ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf6226702aa35207aa5e7b?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, USA | On Site | Sep 08 |
+| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68bf60a35c5d5f14f46d6556?utm_campaign=1067&utm_source=git)** | Centennial, Colorado, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
