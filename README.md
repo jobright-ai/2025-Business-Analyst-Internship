@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c86d1a95f5211cd2ce5053?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 15 |
+| **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c86ea795f5211cd2ce5342?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 15 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 SF Fed Summer Internship - BUSINESS SUPPORT Intern](https://jobright.ai/jobs/info/68c86b6a983e6768bc54d514?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 15 |
 | ↳ | **[2026 SF Fed Summer Internship - BUSINESS SUPPORT Intern](https://jobright.ai/jobs/info/68c86974f9c6ff7aedf0e56a?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Sep 15 |
 | ↳ | **[2026 SF Fed Summer Internship - BUSINESS SUPPORT Intern](https://jobright.ai/jobs/info/68c8693595f5211cd2ce48a8?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Sep 15 |
@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Business Analytics Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c30a7b5001f8077bf6071b?utm_campaign=1067&utm_source=git)** | US, Minnesota, Maplewood | On Site | Sep 11 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst intern](https://jobright.ai/jobs/info/68c2e5fa5adaee6c9bda52d8?utm_campaign=1067&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Sep 11 |
 | **[Wayfair](https://www.wayfair.com)** | **[Operations Analyst Fall Intern](https://jobright.ai/jobs/info/68c2e3dc5adaee6c9bda515a?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 11 |
-| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[CTE STUDENT-Business Administration](https://jobright.ai/jobs/info/68c805c5983e6768bc548f1e?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Sep 11 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a530b9758f2e4ac3fdca00?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c7ccfd5c38e536d41a6fec?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 11 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68c7c473f42a830e1c7e7af0?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Business Analyst Coop (Spring/Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68c0656d8e65e77df55c0bbc?utm_campaign=1067&utm_source=git)** | HKS31: US041-Lenexa, KS 15701 W 95th Street  , Lenexa, KS, 66219 USA | On Site | Sep 09 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c05cc98e65e77df55c0689?utm_campaign=1067&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Sep 09 |
 | **[Toyota Motor Corporation](https://dealergeek.com)** | **[Business Co-op & Internship Opportunities](https://jobright.ai/jobs/info/68c05b63702aa35207aac4b5?utm_campaign=1067&utm_source=git)** | Plano, Texas | On Site | Sep 09 |
+| **[SEP](https://sep.com)** | **[Business Intern (Summer 2026, in person)](https://jobright.ai/jobs/info/68c05a928e65e77df55c0427?utm_campaign=1067&utm_source=git)** | Westfield, Indiana | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
