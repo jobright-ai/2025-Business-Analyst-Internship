@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/68c818b795f5211cd2ce1457?utm_campaign=1067&utm_source=git)** | Corporate - Richmond | Hybrid | Sep 15 |
+| **[Cencora](http://www.cencora.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c843aa983e6768bc54b3fa?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | On Site | Sep 15 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Business Management](https://jobright.ai/jobs/info/68c834d4983e6768bc54ad21?utm_campaign=1067&utm_source=git)** | United States-Florida-Saint Augustine | On Site | Sep 15 |
 | ↳ | **[2026 Intern Business Management](https://jobright.ai/jobs/info/68c83499f9c6ff7aedf0be4d?utm_campaign=1067&utm_source=git)** | United States-Florida-Melbourne | On Site | Sep 15 |
-| **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/68c818b795f5211cd2ce1457?utm_campaign=1067&utm_source=git)** | Corporate - Richmond | Hybrid | Sep 15 |
 | **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7eda9f9c6ff7aedf095bc?utm_campaign=1067&utm_source=git)** | Shoemakersville, PA | On Site | Sep 15 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7ec4495f5211cd2cdfeb4?utm_campaign=1067&utm_source=git)** | Mt. Joy, PA | On Site | Sep 15 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/68c1903f233c7d3e64d02426?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Sep 15 |
 | **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7e80795f5211cd2cdfdb1?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | On Site | Sep 15 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7e75a95f5211cd2cdfcf0?utm_campaign=1067&utm_source=git)** | Westminster, MD | On Site | Sep 15 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Business Systems Analyst](https://jobright.ai/jobs/info/68bf607f702aa35207aa5cc3?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 14 |
-| **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - University of Illinois](https://jobright.ai/jobs/info/68c7a5287d0db4114273ef6e?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 14 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - University of Illinois](https://jobright.ai/jobs/info/68c663cbc96a22563ecee1a2?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 13 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68c7b75327f0732240603e9f?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Sep 12 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68c79e537d0db4114273ea6b?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 12 |
@@ -107,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68c7c473f42a830e1c7e7af0?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c26e4563b706703e115049?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c26dd163b706703e114fdf?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Sep 10 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68c7b6865c25e576f7b29f70?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/68c7b52f5c25e576f7b29bae?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Sep 10 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c65f077d0db411427392fe?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Sep 10 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Enterprise Business Solutions Intern](https://jobright.ai/jobs/info/68c21bd933864f172f9bd023?utm_campaign=1067&utm_source=git)** | UT | On Site | Sep 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a37b581ab5f8579e8a624e?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Sep 09 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfdabc702aa35207aa9b7e?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Sep 09 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfb5648e65e77df55bcb01?utm_campaign=1067&utm_source=git)** | US-Texas-Fort Worth | On Site | Sep 08 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68bfb4a3702aa35207aa8b1b?utm_campaign=1067&utm_source=git)** | 600 Lafayette East, Detroit, MI, 48226, US | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
