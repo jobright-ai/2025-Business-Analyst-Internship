@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68c43088e396b25cb5c65ef7?utm_campaign=1067&utm_source=git)** | Mount Joy, PA, United States | On Site | Sep 12 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Business Systems](https://jobright.ai/jobs/info/68c3ded314bb275ce018fae7?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 12 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Business Analytics Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c66b1a7d0db41142739ce6?utm_campaign=1067&utm_source=git)** | Minnesota, United States | On Site | Sep 11 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c65fc47d0db4114273951a?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c65e2e7d0db411427390bb?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Business Systems](https://jobright.ai/jobs/info/68c3b1c0b8c22d3828474a9c?utm_campaign=1067&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c64dd2db52c07d28846d2c?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[DynaTen Corporation](http://dynaten.com)** | **[DynaTen Internship](https://jobright.ai/jobs/info/68bf198a5c5d5f14f46d3b8d?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Sep 08 |
 | **[Veeam Software](http://www.veeam.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bf0c958e65e77df55b66d0?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Sep 08 |
 | **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[DynaTen Internship](https://jobright.ai/jobs/info/68befa19702aa35207aa1fae?utm_campaign=1067&utm_source=git)** | Fort Worth, TX (DynaTen HQ) | On Site | Sep 08 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship – Corporate Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
