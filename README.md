@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Business Management](https://jobright.ai/jobs/info/68c834d4983e6768bc54ad21?utm_campaign=1067&utm_source=git)** | United States-Florida-Saint Augustine | On Site | Sep 15 |
+| ↳ | **[2026 Intern Business Management](https://jobright.ai/jobs/info/68c83499f9c6ff7aedf0be4d?utm_campaign=1067&utm_source=git)** | United States-Florida-Melbourne | On Site | Sep 15 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/68c818b795f5211cd2ce1457?utm_campaign=1067&utm_source=git)** | Corporate - Richmond | Hybrid | Sep 15 |
 | **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7eda9f9c6ff7aedf095bc?utm_campaign=1067&utm_source=git)** | Shoemakersville, PA | On Site | Sep 15 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7ec4495f5211cd2cdfeb4?utm_campaign=1067&utm_source=git)** | Mt. Joy, PA | On Site | Sep 15 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Business Analyst Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68c1e0f03fd8b059a20f3923?utm_campaign=1067&utm_source=git)** | HMD31: Annapolis, MD 2551 Riva Road  , Annapolis, MD, 21401-7435 USA | On Site | Sep 10 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/68b9eb788043103d4f21bd6c?utm_campaign=1067&utm_source=git)** | Olive Branch, MS | On Site | Sep 10 |
 | **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/68c1c6734d652f0447759d65?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 10 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68c1b2cb233c7d3e64d03700?utm_campaign=1067&utm_source=git)** | Lincoln, NE | Hybrid | Sep 10 |
 | **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[Business Applications Intern](https://jobright.ai/jobs/info/68c1ad9d233c7d3e64d0353d?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 10 |
 | **[South Port Square](https://southportseniorliving.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/68c1ac994d652f04477590db?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 10 |
 | **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Business Applications Intern](https://jobright.ai/jobs/info/68c1ac304d652f0447759052?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 10 |
@@ -127,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c1913c233c7d3e64d024db?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c190a84d652f04477581ca?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Sep 10 |
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c1903d4d652f044775814d?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68c18f7d4d652f04477580c1?utm_campaign=1067&utm_source=git)** | Lincoln, NE | Hybrid | Sep 10 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 10 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c17cae4d652f0447757b49?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
 | **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c52732c96a22563ece7b15?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68a37b581ab5f8579e8a624e?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Sep 09 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfdabc702aa35207aa9b7e?utm_campaign=1067&utm_source=git)** | Fort Worth, TX | On Site | Sep 09 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Aftermarket Customer Support - Business Analyst - Fort Worth, TX](https://jobright.ai/jobs/info/68bfb5648e65e77df55bcb01?utm_campaign=1067&utm_source=git)** | US-Texas-Fort Worth | On Site | Sep 08 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68bfb4a3702aa35207aa8b1b?utm_campaign=1067&utm_source=git)** | 600 Lafayette East, Detroit, MI, 48226, US | On Site | Sep 08 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c6484ddb52c07d28846650?utm_campaign=1067&utm_source=git)** | Detroit Metro | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
