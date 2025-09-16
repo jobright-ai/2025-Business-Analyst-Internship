@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c89945f9c6ff7aedf109d1?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Sep 15 |
+| **[The Home Depot](https://www.homedepot.com)** | **[Business Management/Business Administration Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/68c897eb95f5211cd2ce7467?utm_campaign=1067&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 15 |
 | **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c86ea795f5211cd2ce5342?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 15 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 SF Fed Summer Internship - BUSINESS SUPPORT Intern](https://jobright.ai/jobs/info/68c86b6a983e6768bc54d514?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 15 |
 | ↳ | **[2026 SF Fed Summer Internship - BUSINESS SUPPORT Intern](https://jobright.ai/jobs/info/68c86974f9c6ff7aedf0e56a?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Sep 15 |
@@ -140,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c17cae4d652f0447757b49?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
 | **[Santander](https://www.santander.com/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c52732c96a22563ece7b15?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Business Analytics Summer Intern](https://jobright.ai/jobs/info/68c141a23fd8b059a20ef244?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 09 |
-| **[Veeam Software](http://www.veeam.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c7b5765c25e576f7b29c46?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 09 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68c7ae1bdb52c07d2884e346?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Sep 09 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c3b4c9b8c22d3828474e03?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Pequot Lakes, MN](https://jobright.ai/jobs/info/68c0f0d08e65e77df55c5d63?utm_campaign=1067&utm_source=git)** | Pequot Lakes, MN | On Site | Sep 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Business Analyst Coop (Spring/Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68c0656d8e65e77df55c0bbc?utm_campaign=1067&utm_source=git)** | HKS31: US041-Lenexa, KS 15701 W 95th Street  , Lenexa, KS, 66219 USA | On Site | Sep 09 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c05cc98e65e77df55c0689?utm_campaign=1067&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Sep 09 |
 | **[Toyota Motor Corporation](https://dealergeek.com)** | **[Business Co-op & Internship Opportunities](https://jobright.ai/jobs/info/68c05b63702aa35207aac4b5?utm_campaign=1067&utm_source=git)** | Plano, Texas | On Site | Sep 09 |
-| **[SEP](https://sep.com)** | **[Business Intern (Summer 2026, in person)](https://jobright.ai/jobs/info/68c05a928e65e77df55c0427?utm_campaign=1067&utm_source=git)** | Westfield, Indiana | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
