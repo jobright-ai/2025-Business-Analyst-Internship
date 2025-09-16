@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[IT Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/68c9b429a0c52d598ea3a2c4?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 16 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analyst (Intern)](https://jobright.ai/jobs/info/68c9b0eff9c6ff7aedf1c494?utm_campaign=1067&utm_source=git)** | USA LA Bossier City | Hybrid | Sep 16 |
 | **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Business Intern](https://jobright.ai/jobs/info/68c9990995f5211cd2cf1eee?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - Indiana University](https://jobright.ai/jobs/info/68c99267f9c6ff7aedf1ae46?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 16 |
 | ↳ | **[Business Solutions Internship - Indiana University](https://jobright.ai/jobs/info/68c98b88f9c6ff7aedf1ab2d?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 16 |
@@ -75,16 +77,16 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c8b6caf9c6ff7aedf11d2e?utm_campaign=1067&utm_source=git)** | Long Beach, CA | On Site | Sep 15 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c89945f9c6ff7aedf109d1?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Sep 15 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Business Management/Business Administration Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/68c897eb95f5211cd2ce7467?utm_campaign=1067&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 15 |
+| **[Cencora](http://www.cencora.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c9248695f5211cd2cef1cf?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | On Site | Sep 15 |
+| **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c86ea795f5211cd2ce5342?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 15 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 SF Fed Summer Internship - BUSINESS SUPPORT Intern](https://jobright.ai/jobs/info/68c86b6a983e6768bc54d514?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 15 |
 | ↳ | **[2026 SF Fed Summer Internship - BUSINESS SUPPORT Intern](https://jobright.ai/jobs/info/68c86974f9c6ff7aedf0e56a?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Sep 15 |
 | ↳ | **[2026 SF Fed Summer Internship - BUSINESS SUPPORT Intern](https://jobright.ai/jobs/info/68c8693595f5211cd2ce48a8?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Sep 15 |
 | ↳ | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68c861c495f5211cd2ce448e?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Sep 15 |
 | ↳ | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68c86169983e6768bc54c475?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 15 |
 | ↳ | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68c86162f9c6ff7aedf0d6ed?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Sep 15 |
-| **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c95da895f5211cd2cefc53?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 15 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Business Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68c970ddf9c6ff7aedf19d99?utm_campaign=1067&utm_source=git)** | Sheboygan, WI | On Site | Sep 15 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/68c818b795f5211cd2ce1457?utm_campaign=1067&utm_source=git)** | Corporate - Richmond | Hybrid | Sep 15 |
-| **[Cencora](http://www.cencora.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c843aa983e6768bc54b3fa?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | On Site | Sep 15 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Business Management](https://jobright.ai/jobs/info/68c834d4983e6768bc54ad21?utm_campaign=1067&utm_source=git)** | United States-Florida-Saint Augustine | On Site | Sep 15 |
 | ↳ | **[2026 Intern Business Management](https://jobright.ai/jobs/info/68c83499f9c6ff7aedf0be4d?utm_campaign=1067&utm_source=git)** | United States-Florida-Melbourne | On Site | Sep 15 |
 | **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7ec4495f5211cd2cdfeb4?utm_campaign=1067&utm_source=git)** | Mt. Joy, PA | On Site | Sep 15 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - University of Illinois](https://jobright.ai/jobs/info/68c8fa7295f5211cd2cec7b0?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 14 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c8601c95f5211cd2ce40b5?utm_campaign=1067&utm_source=git)** | Austin | On Site | Sep 14 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - University of Illinois](https://jobright.ai/jobs/info/68c663cbc96a22563ecee1a2?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 13 |
+| **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68c779ac7d0db4114273c562?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Sep 13 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68c7b75327f0732240603e9f?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Sep 12 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68c79e537d0db4114273ea6b?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 12 |
 | **[RouteOne](https://www.routeone.com/)** | **[Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/68c64e39c96a22563ecececa?utm_campaign=1067&utm_source=git)** | Farmington, MI | On Site | Sep 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c1913c233c7d3e64d024db?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c190a84d652f04477581ca?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Sep 10 |
 | ↳ | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c1903d4d652f044775814d?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Sep 10 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68c18f7d4d652f04477580c1?utm_campaign=1067&utm_source=git)** | Lincoln, NE | Hybrid | Sep 10 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Sep 10 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Technology & Data Analytics Intern](https://jobright.ai/jobs/info/68c17cae4d652f0447757b49?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
