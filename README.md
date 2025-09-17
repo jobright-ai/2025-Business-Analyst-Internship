@@ -149,6 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68c1e36c3fd8b059a20f3ac8?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
 | **[RTX](http://www.raytheon.com)** | **[Business Analyst Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68c1e0f03fd8b059a20f3923?utm_campaign=1067&utm_source=git)** | HMD31: Annapolis, MD 2551 Riva Road  , Annapolis, MD, 21401-7435 USA | On Site | Sep 10 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/68b9eb788043103d4f21bd6c?utm_campaign=1067&utm_source=git)** | Olive Branch, MS | On Site | Sep 10 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68c9c12895f5211cd2cf3f47?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 10 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/68c1c6734d652f0447759d65?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
