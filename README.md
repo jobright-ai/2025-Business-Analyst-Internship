@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cb0e21d905e25191d9ef45?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Sep 17 |
+| **[Federal](https://www.linkedin.com/company/905970)** | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68cb0a45d905e25191d9ed04?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 17 |
+| **[American Century Investments](https://www.americancentury.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cb090cd905e25191d9eb34?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Sep 17 |
+| **[PwC](http://pwc.com)** | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68cb07d1d905e25191d9e971?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 17 |
+| ↳ | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68cb060befdec76df36b79a0?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 17 |
+| **[ASML](https://www.asml.com)** | **[Co-op - Business Process Analyst - Spring 2026 (Internship)](https://jobright.ai/jobs/info/68cb02929e3a822f5d240f21?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Sep 17 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Business Process Analyst, Service Development (Winter/Spring 2026)](https://jobright.ai/jobs/info/68cafa909e3a822f5d240ad0?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Sep 17 |
 | **[ASML](https://www.asml.com)** | **[Co-op - Business Process Analyst - Spring 2026 (Internship)](https://jobright.ai/jobs/info/68caf2b2d905e25191d9db81?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Sep 17 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - Butler University](https://jobright.ai/jobs/info/68caeda1d905e25191d9d7ec?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 17 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Business Internship](https://jobright.ai/jobs/info/68caed58d905e25191d9d784?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 17 |
@@ -147,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[LCS](https://www.lcsnet.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c3253163829b0a8a500357?utm_campaign=1067&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 11 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Business Analytics Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c30a7b5001f8077bf6071b?utm_campaign=1067&utm_source=git)** | US, Minnesota, Maplewood | On Site | Sep 11 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst intern](https://jobright.ai/jobs/info/68c2e5fa5adaee6c9bda52d8?utm_campaign=1067&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Sep 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cadf81efdec76df36b6324?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/68c7b52f5c25e576f7b29bae?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Sep 10 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c65f077d0db411427392fe?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Sep 10 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68c8f0fe95f5211cd2cebcde?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Sep 10 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68c8e071f9c6ff7aedf13df8?utm_campaign=1067&utm_source=git)** | Lincoln, NE | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
