@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altium Packaging](https://www.containerexperts.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68cb38b1efdec76df36ba4b1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 17 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cb0e21d905e25191d9ef45?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Sep 17 |
 | **[Federal](https://www.linkedin.com/company/905970)** | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68cb0a45d905e25191d9ed04?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 17 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cb090cd905e25191d9eb34?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Sep 17 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Co-op - Business Process Analyst - Spring 2026 (Internship)](https://jobright.ai/jobs/info/68caf2b2d905e25191d9db81?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Sep 17 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - Butler University](https://jobright.ai/jobs/info/68caeda1d905e25191d9d7ec?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 17 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Business Internship](https://jobright.ai/jobs/info/68caed58d905e25191d9d784?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Sep 17 |
-| **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - University of Colorado](https://jobright.ai/jobs/info/68caed51d905e25191d9d778?utm_campaign=1067&utm_source=git)** | United States | On Site | Sep 17 |
+| **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - University of Colorado](https://jobright.ai/jobs/info/68caece4d905e25191d9d711?utm_campaign=1067&utm_source=git)** | United States | On Site | Sep 17 |
 | ↳ | **[Business Solutions Internship - Butler University](https://jobright.ai/jobs/info/68caec5c9e3a822f5d2403fe?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 17 |
 | **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/68caeb369e3a822f5d240268?utm_campaign=1067&utm_source=git)** | Chambersburg, PA | On Site | Sep 17 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae5d8efdec76df36b666f?utm_campaign=1067&utm_source=git)** | Kansas City, Missouri | On Site | Sep 17 |
@@ -76,13 +77,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae4c9efdec76df36b6494?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Sep 17 |
 | **[CAI](http://www.compaid.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae4c79e3a822f5d23fdcf?utm_campaign=1067&utm_source=git)** | PA-CLIENT-STATE | Remote | Sep 17 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae49d9e3a822f5d23fdab?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Sep 17 |
-| **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Digital Business Solutions (IT) Intern - Graduate](https://jobright.ai/jobs/info/68ca97a648d2e97b0d61eb4c?utm_campaign=1067&utm_source=git)** | Winston-Salem, NC | On Site | Sep 17 |
 | **[Refresco](https://www.refresco.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/68ca15c5f61c922772a729be?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Sep 16 |
 | **[Athene](https://www.athene.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68ca1033d4187c55157a5c85?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Sep 16 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68ca768106a34016008c8dde?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Sep 16 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68c9f8a8f16e3266d282168c?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Sep 16 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2026)](https://jobright.ai/jobs/info/68c9e10495f5211cd2cf57bc?utm_campaign=1067&utm_source=git)** | Hayward, CA | On Site | Sep 16 |
 | **[Athene](https://www.athene.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68c9d7b395f5211cd2cf5213?utm_campaign=1067&utm_source=git)** | West Des Moines, Iowa | On Site | Sep 16 |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68cb3367efdec76df36ba28c?utm_campaign=1067&utm_source=git)** | Long Beach, CA | On Site | Sep 16 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[IT Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/68c9b429a0c52d598ea3a2c4?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 16 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analyst (Intern)](https://jobright.ai/jobs/info/68c9b0eff9c6ff7aedf1c494?utm_campaign=1067&utm_source=git)** | USA LA Bossier City | Hybrid | Sep 16 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - Indiana University](https://jobright.ai/jobs/info/68c99267f9c6ff7aedf1ae46?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 16 |
@@ -154,6 +154,4 @@ For a complete list, click the following sortable link below:
 | **[LCS](https://www.lcsnet.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c3253163829b0a8a500357?utm_campaign=1067&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 11 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Business Analytics Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c30a7b5001f8077bf6071b?utm_campaign=1067&utm_source=git)** | US, Minnesota, Maplewood | On Site | Sep 11 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Analyst intern](https://jobright.ai/jobs/info/68c2e5fa5adaee6c9bda52d8?utm_campaign=1067&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Sep 11 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/68c7b52f5c25e576f7b29bae?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Sep 10 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c65f077d0db411427392fe?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
