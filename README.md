@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/68cd950c1ad6b16f0289bcb5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Sep 19 |
 | **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68cd6609b2a74e1837ed68a5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Sep 19 |
 | **[Salesforce](https://www.salesforce.com)** | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cd12a1e23def7af55b4c79?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 18 |
 | ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68ccbc227342c7623ae68c24?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 18 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 18 |
 | **[Salesforce](https://www.salesforce.com)** | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7d2b16d00d2beeb20998?utm_campaign=1067&utm_source=git)** | New York - New York | Hybrid | Sep 18 |
 | ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7c9a7342c7623ae6588d?utm_campaign=1067&utm_source=git)** | California - San Francisco | Hybrid | Sep 18 |
-| **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Business Intelligence Analyst](https://jobright.ai/jobs/info/68ccf7f75954791a1d702012?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Sep 18 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[IT Storm Support Business Analyst - College Intern](https://jobright.ai/jobs/info/68cc5949128dc347fd922e8f?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Sep 18 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/68ccac5716d00d2beeb22b63?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Sep 18 |
+| **[Federal](https://www.linkedin.com/company/905970)** | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68cd93dce23def7af55bbfbe?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 18 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ccf4d877add66568abc84a?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 18 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68af6c7c1f0a2a568a061827?utm_campaign=1067&utm_source=git)** | NYC Metro Area | Hybrid | Sep 18 |
 | **[CAI](http://www.compaid.com)** | **[Business Analyst AI Intern](https://jobright.ai/jobs/info/68cc1b707342c7623ae5f2ac?utm_campaign=1067&utm_source=git)** | PA-CLIENT-STATE | Remote | Sep 18 |
@@ -93,6 +94,8 @@ For a complete list, click the following sortable link below:
 | **[CAI](http://www.compaid.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae4c79e3a822f5d23fdcf?utm_campaign=1067&utm_source=git)** | PA-CLIENT-STATE | Remote | Sep 17 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae49d9e3a822f5d23fdab?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Sep 17 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - Butler University](https://jobright.ai/jobs/info/68cbde479e3a822f5d24c3df?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 17 |
+| **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68cd82961ad6b16f0289aa68?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Sep 17 |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68cd801b1ad6b16f0289a5a5?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Sep 17 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2026)](https://jobright.ai/jobs/info/68cd7a86b2a74e1837ed78f8?utm_campaign=1067&utm_source=git)** | Hayward, CA | On Site | Sep 17 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 17 |
 | **[Refresco](https://www.refresco.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/68cd21b2e23def7af55b5d9d?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Sep 17 |
