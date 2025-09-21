@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Business Management Intern](https://jobright.ai/jobs/info/68d02d83fb49c96ca6eae7a5?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Sep 21 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Management Intern](https://jobright.ai/jobs/info/68d049f7fb49c96ca6eaed98?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Sep 21 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Sep 20 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ce773adbd9fb154eddfec6?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 20 |
@@ -93,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68cefee2dbd9fb154ede42a9?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Sep 17 |
 | **[ASML](https://www.asml.com)** | **[Co-op - Business Process Analyst - Spring 2026 (Internship)](https://jobright.ai/jobs/info/68caf2b2d905e25191d9db81?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Sep 17 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - Butler University](https://jobright.ai/jobs/info/68caeda1d905e25191d9d7ec?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 17 |
-| ↳ | **[Business Solutions Internship - University of Colorado](https://jobright.ai/jobs/info/68caece4d905e25191d9d711?utm_campaign=1067&utm_source=git)** | United States | On Site | Sep 17 |
+| ↳ | **[Business Solutions Internship - University of Colorado](https://jobright.ai/jobs/info/68caed51d905e25191d9d778?utm_campaign=1067&utm_source=git)** | United States | On Site | Sep 17 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae5d8efdec76df36b666f?utm_campaign=1067&utm_source=git)** | Kansas City, Missouri | On Site | Sep 17 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae5a0efdec76df36b65e7?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae53ad905e25191d9d245?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 17 |
