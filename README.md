@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Business Management Intern](https://jobright.ai/jobs/info/68d02d83fb49c96ca6eae7a5?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Sep 21 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Sep 20 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ce773adbd9fb154eddfec6?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 20 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68ccbc227342c7623ae68c24?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 18 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cf6444fb49c96ca6ea8455?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Sep 18 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 18 |
-| **[Salesforce](https://www.salesforce.com)** | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7d2b16d00d2beeb20998?utm_campaign=1067&utm_source=git)** | New York - New York | Hybrid | Sep 18 |
-| ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7c9a7342c7623ae6588d?utm_campaign=1067&utm_source=git)** | California - San Francisco | Hybrid | Sep 18 |
+| **[Salesforce](https://www.salesforce.com)** | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7d677342c7623ae6599a?utm_campaign=1067&utm_source=git)** | California - San Francisco | Hybrid | Sep 18 |
+| ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7d2316d00d2beeb20976?utm_campaign=1067&utm_source=git)** | New York - New York | Hybrid | Sep 18 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[IT Storm Support Business Analyst - College Intern](https://jobright.ai/jobs/info/68cc5949128dc347fd922e8f?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Sep 18 |
 | **[Federal](https://www.linkedin.com/company/905970)** | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68cd93dce23def7af55bbfbe?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7e80795f5211cd2cdfdb1?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | On Site | Sep 15 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7e75a95f5211cd2cdfcf0?utm_campaign=1067&utm_source=git)** | Westminster, MD | On Site | Sep 15 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Business Systems Analyst](https://jobright.ai/jobs/info/68bf607f702aa35207aa5cc3?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 14 |
-| **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c8601c95f5211cd2ce40b5?utm_campaign=1067&utm_source=git)** | Austin | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
