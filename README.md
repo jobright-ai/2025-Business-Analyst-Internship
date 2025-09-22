@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Management Intern](https://jobright.ai/jobs/info/68d049f7fb49c96ca6eaed98?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Sep 21 |
+| **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d0d9767727df7d5a84e2ae?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | Hybrid | Sep 21 |
+| **[BIG Ventures](https://itsbig.vc/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d0e25cf1976376178f034f?utm_campaign=1067&utm_source=git)** | Boise Metropolitan Area | On Site | Sep 20 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Sep 20 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
@@ -68,12 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Business Systems Analyst](https://jobright.ai/jobs/info/68cda7ede23def7af55bd8a7?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Sep 19 |
 | **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68cd6609b2a74e1837ed68a5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Sep 19 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0fb0e6fab621da7b091a1?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 19 |
-| **[Salesforce](https://www.salesforce.com)** | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cd12a1e23def7af55b4c79?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Sep 18 |
-| ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68ccbc227342c7623ae68c24?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 18 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cf6444fb49c96ca6ea8455?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Sep 18 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 18 |
-| **[Salesforce](https://www.salesforce.com)** | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7d677342c7623ae6599a?utm_campaign=1067&utm_source=git)** | California - San Francisco | Hybrid | Sep 18 |
-| ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7d2316d00d2beeb20976?utm_campaign=1067&utm_source=git)** | New York - New York | Hybrid | Sep 18 |
+| **[Salesforce](https://www.salesforce.com)** | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7c9a7342c7623ae6588d?utm_campaign=1067&utm_source=git)** | California - San Francisco | Hybrid | Sep 18 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[IT Storm Support Business Analyst - College Intern](https://jobright.ai/jobs/info/68cc5949128dc347fd922e8f?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Sep 18 |
 | **[Federal](https://www.linkedin.com/company/905970)** | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68cd93dce23def7af55bbfbe?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 18 |
