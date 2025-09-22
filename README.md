@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68ccbc227342c7623ae68c24?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Sep 18 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cf6444fb49c96ca6ea8455?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Sep 18 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 18 |
-| **[Salesforce](https://www.salesforce.com)** | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7d2316d00d2beeb20976?utm_campaign=1067&utm_source=git)** | New York - New York | Hybrid | Sep 18 |
-| ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7c9a7342c7623ae6588d?utm_campaign=1067&utm_source=git)** | California - San Francisco | Hybrid | Sep 18 |
+| **[Salesforce](https://www.salesforce.com)** | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7d677342c7623ae6599a?utm_campaign=1067&utm_source=git)** | California - San Francisco | Hybrid | Sep 18 |
+| ↳ | **[2026 Summer Intern - Heroku Business Operations](https://jobright.ai/jobs/info/68cc7d2316d00d2beeb20976?utm_campaign=1067&utm_source=git)** | New York - New York | Hybrid | Sep 18 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[IT Storm Support Business Analyst - College Intern](https://jobright.ai/jobs/info/68cc5949128dc347fd922e8f?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Sep 18 |
 | **[Federal](https://www.linkedin.com/company/905970)** | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68cd93dce23def7af55bbfbe?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 18 |
@@ -153,8 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Business Management](https://jobright.ai/jobs/info/68c834d4983e6768bc54ad21?utm_campaign=1067&utm_source=git)** | United States-Florida-Saint Augustine | On Site | Sep 15 |
 | ↳ | **[2026 Intern Business Management](https://jobright.ai/jobs/info/68c83499f9c6ff7aedf0be4d?utm_campaign=1067&utm_source=git)** | United States-Florida-Melbourne | On Site | Sep 15 |
 | **[RBC](https://www.rbc.com)** | **[2026 Capital Markets, Operations Summer Analyst](https://jobright.ai/jobs/info/68cd633fb2a74e1837ed653f?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Sep 15 |
-| **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7ec4495f5211cd2cdfeb4?utm_campaign=1067&utm_source=git)** | Mt. Joy, PA | On Site | Sep 15 |
-| **[MORSE Corp](https://www.morsecorp.com)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/68c1903f233c7d3e64d02426?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Sep 15 |
-| **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7e80795f5211cd2cdfdb1?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | On Site | Sep 15 |
-| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68c7e75a95f5211cd2cdfcf0?utm_campaign=1067&utm_source=git)** | Westminster, MD | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
