@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Business Generalist 2026 Internships](https://jobright.ai/jobs/info/68d1a12117554c2d9eedda23?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68cd82961ad6b16f0289aa68?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Sep 22 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Data and Business Technology](https://jobright.ai/jobs/info/68d195b18c62e63bc7fccf8c?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 22 |
-| **[HAI Group](https://www.housingcenter.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68d227e28c62e63bc7fd4d0a?utm_campaign=1067&utm_source=git)** | Cheshire, CT | On Site | Sep 22 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Summer 2026 - IT Business Analyst Intern - Iowa](https://jobright.ai/jobs/info/68d18bf48c62e63bc7fcc90e?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 22 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Data and Business Technology](https://jobright.ai/jobs/info/68d16097cece431f8b58341e?utm_campaign=1067&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
 | ↳ | **[Business Generalist 2026 Internships](https://jobright.ai/jobs/info/68d1601c8c62e63bc7fcac37?utm_campaign=1067&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
@@ -140,5 +139,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68c987e9a0c52d598ea38404?utm_campaign=1067&utm_source=git)** | NY-New York | On Site | Sep 16 |
 | ↳ | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68c985cef9c6ff7aedf1a94d?utm_campaign=1067&utm_source=git)** | MA-Boston | On Site | Sep 16 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Business Network Solution Summer 2026](https://jobright.ai/jobs/info/68acbe6ed627244576e48b9c?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Sep 16 |
-| **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Temporary - Senior IT Business Analyst](https://jobright.ai/jobs/info/68c96662f9c6ff7aedf19911?utm_campaign=1067&utm_source=git)** | Boston, MA (Main Campus) | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
