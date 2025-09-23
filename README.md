@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Sunnyvale CA - R10208653](https://jobright.ai/jobs/info/68d2521417554c2d9eee6f21?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Sep 23 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d1f7598c62e63bc7fd1afe?utm_campaign=1067&utm_source=git)** | Andover, MA | Hybrid | Sep 22 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1e204a54edb3bf3e172bb?utm_campaign=1067&utm_source=git)** | Chesterfield, MO | On Site | Sep 22 |
 | ↳ | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1b61a8c62e63bc7fcee74?utm_campaign=1067&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | On Site | Sep 22 |
@@ -133,10 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68cf14f7dbd9fb154ede4f04?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 16 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analyst (Intern)](https://jobright.ai/jobs/info/68c9b0eff9c6ff7aedf1c494?utm_campaign=1067&utm_source=git)** | USA LA Bossier City | Hybrid | Sep 16 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68cefec2846f0b04af67e43d?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Sep 16 |
-| **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - Indiana University](https://jobright.ai/jobs/info/68c99267f9c6ff7aedf1ae46?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 16 |
-| ↳ | **[Business Solutions Internship - Indiana University](https://jobright.ai/jobs/info/68c98b88f9c6ff7aedf1ab2d?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 16 |
-| **[PwC](http://pwc.com)** | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68c9883495f5211cd2cf141d?utm_campaign=1067&utm_source=git)** | IL-Rosemont | On Site | Sep 16 |
-| ↳ | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68c987e9a0c52d598ea38404?utm_campaign=1067&utm_source=git)** | NY-New York | On Site | Sep 16 |
-| ↳ | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68c985cef9c6ff7aedf1a94d?utm_campaign=1067&utm_source=git)** | MA-Boston | On Site | Sep 16 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Business Network Solution Summer 2026](https://jobright.ai/jobs/info/68acbe6ed627244576e48b9c?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
