@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Data and Business Technology](https://jobright.ai/jobs/info/68d16097cece431f8b58341e?utm_campaign=1067&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
 | ↳ | **[Business Generalist 2026 Internships](https://jobright.ai/jobs/info/68d1601c8c62e63bc7fcac37?utm_campaign=1067&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
 | **[Unity Health Insurance](https://www.QuartzBenefits.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68d115c4eadd8f0b04fab883?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 22 |
-| **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d0d9767727df7d5a84e2ae?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | Hybrid | Sep 21 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Sep 20 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
@@ -111,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68cefee2dbd9fb154ede42a9?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Sep 17 |
 | **[ASML](https://www.asml.com)** | **[Co-op - Business Process Analyst - Spring 2026 (Internship)](https://jobright.ai/jobs/info/68caf2b2d905e25191d9db81?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Sep 17 |
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - Butler University](https://jobright.ai/jobs/info/68caeda1d905e25191d9d7ec?utm_campaign=1067&utm_source=git)** | Chicago, Indianapolis, Denver or Nashville | On Site | Sep 17 |
-| ↳ | **[Business Solutions Internship - University of Colorado](https://jobright.ai/jobs/info/68caed51d905e25191d9d778?utm_campaign=1067&utm_source=git)** | United States | On Site | Sep 17 |
+| ↳ | **[Business Solutions Internship - University of Colorado](https://jobright.ai/jobs/info/68caece4d905e25191d9d711?utm_campaign=1067&utm_source=git)** | United States | On Site | Sep 17 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae5d8efdec76df36b666f?utm_campaign=1067&utm_source=git)** | Kansas City, Missouri | On Site | Sep 17 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae5a0efdec76df36b65e7?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cae53ad905e25191d9d245?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 17 |
@@ -132,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Athene](https://www.athene.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68c9d7b395f5211cd2cf5213?utm_campaign=1067&utm_source=git)** | West Des Moines, Iowa | On Site | Sep 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68cdd3d81ad6b16f0289f491?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Sep 16 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68cf14f7dbd9fb154ede4f04?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 16 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analyst (Intern)](https://jobright.ai/jobs/info/68c9b0eff9c6ff7aedf1c494?utm_campaign=1067&utm_source=git)** | USA LA Bossier City | Hybrid | Sep 16 |
-| **[Oatey Company](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68cefec2846f0b04af67e43d?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
