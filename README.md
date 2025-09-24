@@ -114,6 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68cb6586efdec76df36bc12d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 17 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Enterprise Business Resiliency](https://jobright.ai/jobs/info/68cb588dba798c1a501ce8ba?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Sep 17 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68cb38b1efdec76df36ba4b1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 17 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cb0e21d905e25191d9ef45?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Sep 17 |
-| **[ASML](https://www.asml.com)** | **[Co-op - Business Process Analyst - Spring 2026 (Internship)](https://jobright.ai/jobs/info/68cc5e1a7342c7623ae6393c?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
