@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68d34350f0d9af73038e0704?utm_campaign=1067&utm_source=git)** | US-CA-Irvine | On Site | Sep 23 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[1LMX ERP Business Analyst Intern](https://jobright.ai/jobs/info/68d342f7f0d9af73038e0683?utm_campaign=1067&utm_source=git)** | Florida, Maryland, Pennsylvania | Remote | Sep 23 |
+| **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68d342b98c62e63bc7fdeef1?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 23 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d30458f0d9af73038de248?utm_campaign=1067&utm_source=git)** | Hartsville, SC | On Site | Sep 23 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d300d317554c2d9eeecc76?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 23 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d2ef3ef0d9af73038dcfa1?utm_campaign=1067&utm_source=git)** | Hartsville, SC, USA | On Site | Sep 23 |
@@ -66,7 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Sunnyvale CA - R10208653](https://jobright.ai/jobs/info/68d2521417554c2d9eee6f21?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Sep 23 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d1f7598c62e63bc7fd1afe?utm_campaign=1067&utm_source=git)** | Andover, MA | Hybrid | Sep 22 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1e204a54edb3bf3e172bb?utm_campaign=1067&utm_source=git)** | Chesterfield, MO | On Site | Sep 22 |
-| ↳ | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1b61a8c62e63bc7fcee74?utm_campaign=1067&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | On Site | Sep 22 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/68cec84ffb49c96ca6ea38c8?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Sep 22 |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1b61a8c62e63bc7fcee74?utm_campaign=1067&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | On Site | Sep 22 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Business Analyst Intern (IT)](https://jobright.ai/jobs/info/68d1b4658c62e63bc7fcecdf?utm_campaign=1067&utm_source=git)** | Plymouth, MN | On Site | Sep 22 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/68d1b098a54edb3bf3e151c5?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Sep 22 |
 | ↳ | **[2026 Spring Internship - Junior Business Analyst (Remote)](https://jobright.ai/jobs/info/68d1b046a54edb3bf3e151a1?utm_campaign=1067&utm_source=git)** | US | Remote | Sep 22 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ce773adbd9fb154eddfec6?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 20 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68cd21421ad6b16f02895668?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/68cec84ffb49c96ca6ea38c8?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Sep 19 |
 | **[FTI](http://www.faithtechinc.com)** | **[Business Analyst Internship Summer 2026](https://jobright.ai/jobs/info/68cdcec2e23def7af55bf6ab?utm_campaign=1067&utm_source=git)** | WI - Menasha | On Site | Sep 19 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Business Optimization Intern (Business/Data Analyst) - Spring 2026](https://jobright.ai/jobs/info/68cdab25b2a74e1837edae9f?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Business Systems Analyst](https://jobright.ai/jobs/info/68cda7ede23def7af55bd8a7?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Sep 19 |
@@ -126,6 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Athene](https://www.athene.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68cda052b2a74e1837eda091?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Sep 17 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2026)](https://jobright.ai/jobs/info/68cd7a86b2a74e1837ed78f8?utm_campaign=1067&utm_source=git)** | Hayward, CA | On Site | Sep 17 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 17 |
-| **[Refresco](https://www.refresco.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/68ce7836fb49c96ca6ea0cce?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Sep 17 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[IT Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/68cd181ee23def7af55b517a?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
