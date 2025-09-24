@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Kodiak Solutions](https://www.kodiaksolutions.io)** | **[Business Solutions Internship - Butler University](https://jobright.ai/jobs/info/68cbde479e3a822f5d24c3df?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 17 |
 | **[Athene](https://www.athene.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68cda052b2a74e1837eda091?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Sep 17 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2026)](https://jobright.ai/jobs/info/68cd7a86b2a74e1837ed78f8?utm_campaign=1067&utm_source=git)** | Hayward, CA | On Site | Sep 17 |
-| **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
