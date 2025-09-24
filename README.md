@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 17 |
 | **[Refresco](https://www.refresco.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/68ce7836fb49c96ca6ea0cce?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Sep 17 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[IT Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/68cd181ee23def7af55b517a?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 17 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/68cfa845846f0b04af683a9e?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
