@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vessel Global Capital](https://www.vesselgc.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d463bf77769e778f50879d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 24 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Summer 2026 Intern - Business Insights](https://jobright.ai/jobs/info/68d45a668c62e63bc7fe885e?utm_campaign=1067&utm_source=git)** | Remote (US) | Remote | Sep 24 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analyst Intern (Melbourne, FL)](https://jobright.ai/jobs/info/68d4598217554c2d9eef8aec?utm_campaign=1067&utm_source=git)** | Melbourne, FL | On Site | Sep 24 |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-Business Process Improvement](https://jobright.ai/jobs/info/68d44bba17554c2d9eef8231?utm_campaign=1067&utm_source=git)** | Main Campus, Columbus, OH | On Site | Sep 24 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | Hybrid | Sep 24 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Management Intern - 2026](https://jobright.ai/jobs/info/68d4093f5ae5a90cfd482a23?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Sep 24 |
 | **[CONFLUX SYSTEMS](https://www.confluxsystems.com)** | **[Intern Business Administrator](https://jobright.ai/jobs/info/68d406bd17554c2d9eef5769?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Remote | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Business Systems](https://jobright.ai/jobs/info/68d3f9ba5ae5a90cfd482669?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68c7865edb52c07d2884b49f?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
+| **[Pegasystems](http://www.pega.com)** | **[Pega Ventures and Launchpad Business Analyst Fall Intern](https://jobright.ai/jobs/info/689be19e83d13d1f5b6a424c?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Sep 24 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68d34350f0d9af73038e0704?utm_campaign=1067&utm_source=git)** | US-CA-Irvine | On Site | Sep 23 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[1LMX ERP Business Analyst Intern](https://jobright.ai/jobs/info/68d342f7f0d9af73038e0683?utm_campaign=1067&utm_source=git)** | Florida, Maryland, Pennsylvania | Remote | Sep 23 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68d342b98c62e63bc7fdeef1?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Sep 23 |
@@ -74,8 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Sunnyvale CA - R10208653](https://jobright.ai/jobs/info/68d2521417554c2d9eee6f21?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Sep 23 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d1f7598c62e63bc7fd1afe?utm_campaign=1067&utm_source=git)** | Andover, MA | Hybrid | Sep 22 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1e204a54edb3bf3e172bb?utm_campaign=1067&utm_source=git)** | Chesterfield, MO | On Site | Sep 22 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/68cec84ffb49c96ca6ea38c8?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Sep 22 |
-| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1b61a8c62e63bc7fcee74?utm_campaign=1067&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | On Site | Sep 22 |
+| ↳ | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1b61a8c62e63bc7fcee74?utm_campaign=1067&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | On Site | Sep 22 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Business Analyst Intern (IT)](https://jobright.ai/jobs/info/68d1b4658c62e63bc7fcecdf?utm_campaign=1067&utm_source=git)** | Plymouth, MN | On Site | Sep 22 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/68d1b098a54edb3bf3e151c5?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Sep 22 |
 | ↳ | **[2026 Spring Internship - Junior Business Analyst (Remote)](https://jobright.ai/jobs/info/68d1b046a54edb3bf3e151a1?utm_campaign=1067&utm_source=git)** | US | Remote | Sep 22 |
@@ -114,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68cfc736fb49c96ca6eab581?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/68ccf8c65954791a1d7021d7?utm_campaign=1067&utm_source=git)** | Chambersburg, PA | On Site | Sep 17 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Technical Business Process Analyst, Service Development (Winter/Spring 2026)](https://jobright.ai/jobs/info/68ccfd135954791a1d7024cc?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Sep 17 |
-| **[American Century Investments](https://www.americancentury.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ccd8a2d11b445e0bee2b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
