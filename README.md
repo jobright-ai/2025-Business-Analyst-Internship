@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Federal](https://www.linkedin.com/company/905970)** | **[2026 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/68cd93dce23def7af55bbfbe?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Sep 18 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ccf4d877add66568abc84a?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 18 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68af6c7c1f0a2a568a061827?utm_campaign=1067&utm_source=git)** | NYC Metro Area | Hybrid | Sep 18 |
-| **[PwC](http://pwc.com)** | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68cd7a961ad6b16f0289a2d3?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
