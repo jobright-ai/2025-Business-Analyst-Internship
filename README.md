@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-Business Process Improvement](https://jobright.ai/jobs/info/68d44bba17554c2d9eef8231?utm_campaign=1067&utm_source=git)** | Main Campus, Columbus, OH | On Site | Sep 24 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | Hybrid | Sep 24 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2026 General Business Internship](https://jobright.ai/jobs/info/68b738821ade4306aa6489c6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 24 |
-| **[CONFLUX SYSTEMS](https://www.confluxsystems.com)** | **[Intern Business Administrator](https://jobright.ai/jobs/info/68d406bd17554c2d9eef5769?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Remote | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Business Systems](https://jobright.ai/jobs/info/68d3f9ba5ae5a90cfd482669?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68c7865edb52c07d2884b49f?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Pegasystems](http://www.pega.com)** | **[Pega Ventures and Launchpad Business Analyst Fall Intern](https://jobright.ai/jobs/info/689be19e83d13d1f5b6a424c?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Sep 24 |
@@ -113,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Business Systems Analyst](https://jobright.ai/jobs/info/68cda7ede23def7af55bd8a7?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Sep 19 |
 | **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68cd6609b2a74e1837ed68a5?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Sep 19 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0fb0e6fab621da7b091a1?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 19 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cf6444fb49c96ca6ea8455?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Sep 18 |
-| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
