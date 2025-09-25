@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Savii](https://savii.ai)** | **[Business Analyst & Client Relations Intern](https://jobright.ai/jobs/info/68d4a876fcd3367e8df167d9?utm_campaign=1067&utm_source=git)** | Twin Cities Area | On Site | Sep 24 |
+| ↳ | **[Business Analyst & Client Relations Intern](https://jobright.ai/jobs/info/68d4a66c8c62e63bc7feb3cb?utm_campaign=1067&utm_source=git)** | Minnesota, United States | Remote | Sep 24 |
+| **[Enlyte](https://www.enlyte.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68d4a361fcd3367e8df1666c?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
+| **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Summer 2026 Intern - Business Insights](https://jobright.ai/jobs/info/68d49ff28c62e63bc7feb1e2?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Systems Analyst, Salesforce (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68d49ea6fcd3367e8df164e2?utm_campaign=1067&utm_source=git)** | Findlay, OH | On Site | Sep 24 |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-Business Process Improvement](https://jobright.ai/jobs/info/68d4860a8c62e63bc7fe9fa7?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 24 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Systems Analyst, Salesforce (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68d475d48c62e63bc7fe9838?utm_campaign=1067&utm_source=git)** | Findlay, Ohio | On Site | Sep 24 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Summer 2026 Intern - Business Insights](https://jobright.ai/jobs/info/68d45a668c62e63bc7fe885e?utm_campaign=1067&utm_source=git)** | Remote (US) | Remote | Sep 24 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analyst Intern (Melbourne, FL)](https://jobright.ai/jobs/info/68d4598217554c2d9eef8aec?utm_campaign=1067&utm_source=git)** | Melbourne, FL | On Site | Sep 24 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-Business Process Improvement](https://jobright.ai/jobs/info/68d44bba17554c2d9eef8231?utm_campaign=1067&utm_source=git)** | Main Campus, Columbus, OH | On Site | Sep 24 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | Hybrid | Sep 24 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Management Intern - 2026](https://jobright.ai/jobs/info/68d4093f5ae5a90cfd482a23?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Sep 24 |
 | **[CONFLUX SYSTEMS](https://www.confluxsystems.com)** | **[Intern Business Administrator](https://jobright.ai/jobs/info/68d406bd17554c2d9eef5769?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Remote | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Business Systems](https://jobright.ai/jobs/info/68d3f9ba5ae5a90cfd482669?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/68c7865edb52c07d2884b49f?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
@@ -90,8 +95,7 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Spring Internship - Junior Business Analyst (Remote)](https://jobright.ai/jobs/info/68d1a34517554c2d9eedde0b?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 22 |
 | ↳ | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/68d1a1d08c62e63bc7fcdce3?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Business Generalist 2026 Internships](https://jobright.ai/jobs/info/68d1a12117554c2d9eedda23?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
-| **[Devon Energy](https://www.devonenergy.com)** | **[Business Analysis/Data Analytics Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68cd82961ad6b16f0289aa68?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Sep 22 |
-| **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Data and Business Technology](https://jobright.ai/jobs/info/68d195b18c62e63bc7fccf8c?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 22 |
+| ↳ | **[Data and Business Technology](https://jobright.ai/jobs/info/68d195b18c62e63bc7fccf8c?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Sep 22 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Summer 2026 - IT Business Analyst Intern - Iowa](https://jobright.ai/jobs/info/68d18bf48c62e63bc7fcc90e?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 22 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Data and Business Technology](https://jobright.ai/jobs/info/68d16097cece431f8b58341e?utm_campaign=1067&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
 | ↳ | **[Business Generalist 2026 Internships](https://jobright.ai/jobs/info/68d1601c8c62e63bc7fcac37?utm_campaign=1067&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
@@ -114,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ccf4d877add66568abc84a?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 18 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68af6c7c1f0a2a568a061827?utm_campaign=1067&utm_source=git)** | NYC Metro Area | Hybrid | Sep 18 |
 | **[PwC](http://pwc.com)** | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68cd7a961ad6b16f0289a2d3?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 18 |
-| **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Sep 18 |
-| **[PwC](http://pwc.com)** | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68cfc736fb49c96ca6eab581?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
