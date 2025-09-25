@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cf6444fb49c96ca6ea8455?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Sep 18 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 18 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[IT Storm Support Business Analyst - College Intern](https://jobright.ai/jobs/info/68cc5949128dc347fd922e8f?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 18 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
