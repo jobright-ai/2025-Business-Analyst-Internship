@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Management Intern](https://jobright.ai/jobs/info/68d5451939247e3c807e9911?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 25 |
 | **[Savii](https://savii.ai)** | **[Business Analyst & Client Relations Intern](https://jobright.ai/jobs/info/68d4a876fcd3367e8df167d9?utm_campaign=1067&utm_source=git)** | Twin Cities Area | On Site | Sep 24 |
 | ↳ | **[Business Analyst & Client Relations Intern](https://jobright.ai/jobs/info/68d4a66c8c62e63bc7feb3cb?utm_campaign=1067&utm_source=git)** | Minnesota, United States | Remote | Sep 24 |
 | **[Enlyte](https://www.enlyte.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68d4a361fcd3367e8df1666c?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d2ef3ef0d9af73038dcfa1?utm_campaign=1067&utm_source=git)** | Hartsville, SC, USA | On Site | Sep 23 |
 | **[Tabañero Holdings](https://tabanero.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d2d6768c62e63bc7fdaac3?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | Hybrid | Sep 23 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d2b27817554c2d9eee8fbf?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
+| **[HAI Group](https://www.housingcenter.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68d5644b39247e3c807eab45?utm_campaign=1067&utm_source=git)** | Cheshire, CT | On Site | Sep 23 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68cfd0a7846f0b04af68544d?utm_campaign=1067&utm_source=git)** | Holmdel, NJ | On Site | Sep 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Sunnyvale CA - R10208653](https://jobright.ai/jobs/info/68d2521417554c2d9eee6f21?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Sep 23 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d1f7598c62e63bc7fd1afe?utm_campaign=1067&utm_source=git)** | Andover, MA | Hybrid | Sep 22 |
@@ -113,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Interns (Skin Health Group, Essentials, Urology) - Summer 2026](https://jobright.ai/jobs/info/68b0fb0e6fab621da7b091a1?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 19 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cf6444fb49c96ca6ea8455?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Sep 18 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 18 |
-| **[Florida Power & Light](https://www.fpl.com/)** | **[IT Storm Support Business Analyst - College Intern](https://jobright.ai/jobs/info/68cc5949128dc347fd922e8f?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
