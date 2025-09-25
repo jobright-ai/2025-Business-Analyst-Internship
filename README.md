@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vessel Global Capital](https://www.vesselgc.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d463bf77769e778f50879d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 24 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Systems Analyst, Salesforce (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68d475d48c62e63bc7fe9838?utm_campaign=1067&utm_source=git)** | Findlay, Ohio | On Site | Sep 24 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Summer 2026 Intern - Business Insights](https://jobright.ai/jobs/info/68d45a668c62e63bc7fe885e?utm_campaign=1067&utm_source=git)** | Remote (US) | Remote | Sep 24 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analyst Intern (Melbourne, FL)](https://jobright.ai/jobs/info/68d4598217554c2d9eef8aec?utm_campaign=1067&utm_source=git)** | Melbourne, FL | On Site | Sep 24 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-Business Process Improvement](https://jobright.ai/jobs/info/68d44bba17554c2d9eef8231?utm_campaign=1067&utm_source=git)** | Main Campus, Columbus, OH | On Site | Sep 24 |
@@ -116,6 +116,4 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68cd7a961ad6b16f0289a2d3?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Sep 18 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2026 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6891a920f47efe2113958060?utm_campaign=1067&utm_source=git)** | Brownsville, WI | On Site | Sep 18 |
 | **[PwC](http://pwc.com)** | **[Assurance Innovation & Technology - Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/68cfc736fb49c96ca6eab581?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/68ccf8c65954791a1d7021d7?utm_campaign=1067&utm_source=git)** | Chambersburg, PA | On Site | Sep 17 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Business Process Analyst, Service Development (Winter/Spring 2026)](https://jobright.ai/jobs/info/68ccfd135954791a1d7024cc?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
