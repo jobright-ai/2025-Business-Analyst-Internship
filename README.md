@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68d64904ebcef82ef5cf93a0?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | On Site | Sep 26 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Business Analyst](https://jobright.ai/jobs/info/68d63b6b4736ff202fdd10f6?utm_campaign=1067&utm_source=git)** | Idaho Falls | On Site | Sep 26 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d1f7598c62e63bc7fd1afe?utm_campaign=1067&utm_source=git)** | Andover, MA | Hybrid | Sep 25 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Business Operations](https://jobright.ai/jobs/info/68d615182116ff37ee092b81?utm_campaign=1067&utm_source=git)** | Holtsville, NY | On Site | Sep 25 |
 | **[RESPEC](http://www.respec.com)** | **[Student Business Analyst Intern](https://jobright.ai/jobs/info/68d5e4ec1f7fb2169ab1478f?utm_campaign=1067&utm_source=git)** | Richardson, TX, USA | On Site | Sep 25 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business](https://jobright.ai/jobs/info/68d5d6c31f7fb2169ab141a5?utm_campaign=1067&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Sep 25 |
@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d2b27817554c2d9eee8fbf?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68cfd0a7846f0b04af68544d?utm_campaign=1067&utm_source=git)** | Holmdel, NJ | On Site | Sep 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Sunnyvale CA - R10208653](https://jobright.ai/jobs/info/68d2521417554c2d9eee6f21?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Sep 23 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d1f7598c62e63bc7fd1afe?utm_campaign=1067&utm_source=git)** | Andover, MA | Hybrid | Sep 22 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1e204a54edb3bf3e172bb?utm_campaign=1067&utm_source=git)** | Chesterfield, MO | On Site | Sep 22 |
 | ↳ | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1b61a8c62e63bc7fcee74?utm_campaign=1067&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | On Site | Sep 22 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Business Analyst Intern (IT)](https://jobright.ai/jobs/info/68d1b4658c62e63bc7fcecdf?utm_campaign=1067&utm_source=git)** | Plymouth, MN | On Site | Sep 22 |
@@ -110,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ce773adbd9fb154eddfec6?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 20 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68cd21421ad6b16f02895668?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
-| **[FTI](http://www.faithtechinc.com)** | **[Business Analyst Internship Summer 2026](https://jobright.ai/jobs/info/68cdcec2e23def7af55bf6ab?utm_campaign=1067&utm_source=git)** | WI - Menasha | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
