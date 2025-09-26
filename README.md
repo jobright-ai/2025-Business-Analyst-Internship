@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Analytics Intern (Durable Medical Equipment) - Summer 2026](https://jobright.ai/jobs/info/68cd21421ad6b16f02895668?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
 | **[FTI](http://www.faithtechinc.com)** | **[Business Analyst Internship Summer 2026](https://jobright.ai/jobs/info/68cdcec2e23def7af55bf6ab?utm_campaign=1067&utm_source=git)** | WI - Menasha | On Site | Sep 19 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Business Optimization Intern (Business/Data Analyst) - Spring 2026](https://jobright.ai/jobs/info/68cdab25b2a74e1837edae9f?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
-| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Business Systems Analyst](https://jobright.ai/jobs/info/68cda7ede23def7af55bd8a7?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
