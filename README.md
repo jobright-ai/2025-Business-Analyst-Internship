@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68d64904ebcef82ef5cf93a0?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | On Site | Sep 26 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Business Analyst](https://jobright.ai/jobs/info/68d63b6b4736ff202fdd10f6?utm_campaign=1067&utm_source=git)** | Idaho Falls | On Site | Sep 26 |
 | **[KCC Capital Partners](kcccapitalpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d60c582116ff37ee09207f?utm_campaign=1067&utm_source=git)** | Orange County, CA | On Site | Sep 25 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Business Operations](https://jobright.ai/jobs/info/68d615182116ff37ee092b81?utm_campaign=1067&utm_source=git)** | Holtsville, NY | On Site | Sep 25 |
