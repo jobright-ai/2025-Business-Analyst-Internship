@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Analyst Intern/Co-op (Residential Line of Business)](https://jobright.ai/jobs/info/68d74d7ae5293e3538af3b70?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Sep 26 |
 | **[Health Solutions](https://www.health.solutions/)** | **[Intern - Business/IT (53304)](https://jobright.ai/jobs/info/68d74174894705799a2f19b1?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | Hybrid | Sep 26 |
 | **[NORDAM](https://nordam.com/)** | **[BUSINESS INTERNSHIP](https://jobright.ai/jobs/info/68d7348a894705799a2f153c?utm_campaign=1067&utm_source=git)** | Tulsa, OK, None | On Site | Sep 26 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68d72a4945853d0e39ccd550?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 26 |
@@ -115,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Sep 20 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Sep 20 |
-| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ce773adbd9fb154eddfec6?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
