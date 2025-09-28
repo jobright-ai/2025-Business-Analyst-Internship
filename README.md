@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb7b4c8043103d4f228f41?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68d8021b7796a83635f0e3f0?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68d7f5ae7a37c712687d75d6?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | On Site | Sep 27 |
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd124b1ad6b16f0289462b?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Business Analyst Student Experience](https://jobright.ai/jobs/info/68cd6d5cb2a74e1837ed6b8e?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68d6406eebcef82ef5cf8780?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
