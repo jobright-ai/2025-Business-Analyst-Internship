@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Business Analyst Intern (IT)](https://jobright.ai/jobs/info/68daa4aa6df7b8311bb10883?utm_campaign=1067&utm_source=git)** | Plymouth, MN | On Site | Sep 29 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 28 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 28 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68d80463295f8e37655e4c90?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d300d317554c2d9eeecc76?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 23 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d2ef3ef0d9af73038dcfa1?utm_campaign=1067&utm_source=git)** | Hartsville, SC, USA | On Site | Sep 23 |
 | **[Tabañero Holdings](https://tabanero.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d2d6768c62e63bc7fdaac3?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | Hybrid | Sep 23 |
+| **[HAI Group](https://www.housingcenter.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68daa03a0b832179ca4af0c9?utm_campaign=1067&utm_source=git)** | Cheshire, CT | On Site | Sep 23 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d2b27817554c2d9eee8fbf?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
-| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68cfd0a7846f0b04af68544d?utm_campaign=1067&utm_source=git)** | Holmdel, NJ | On Site | Sep 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Sunnyvale CA - R10208653](https://jobright.ai/jobs/info/68d2521417554c2d9eee6f21?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Sep 23 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1e204a54edb3bf3e172bb?utm_campaign=1067&utm_source=git)** | Chesterfield, MO | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
