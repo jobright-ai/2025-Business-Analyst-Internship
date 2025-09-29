@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Google](https://www.google.com)** | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabe4f07c157682e56d0a1?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Sep 29 |
+| ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabe2307c157682e56cfe8?utm_campaign=1067&utm_source=git)** | San Bruno, CA, USA | On Site | Sep 29 |
+| ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc316df7b8311bb11981?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Sep 29 |
+| ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc310b832179ca4b05d3?utm_campaign=1067&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 29 |
+| ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc310b832179ca4b05d4?utm_campaign=1067&utm_source=git)** | Mountain View, CA, USA | On Site | Sep 29 |
+| ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc126df7b8311bb1193c?utm_campaign=1067&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 29 |
+| ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc000b832179ca4b056e?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 29 |
+| **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Business Intern](https://jobright.ai/jobs/info/68dab16807c157682e56c743?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Sep 29 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Business Analyst Intern (IT)](https://jobright.ai/jobs/info/68daa4aa6df7b8311bb10883?utm_campaign=1067&utm_source=git)** | Plymouth, MN | On Site | Sep 29 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 28 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 28 |
@@ -82,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Amway](http://www.amway.com)** | **[Analytics Intern- ABO Business Management, Summer 2026 (42265)](https://jobright.ai/jobs/info/68c9ad60f9c6ff7aedf1c1b2?utm_campaign=1067&utm_source=git)** | Ada, MI | On Site | Sep 26 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Business Analyst](https://jobright.ai/jobs/info/68d7fd0e295f8e37655e4849?utm_campaign=1067&utm_source=git)** | Idaho Falls | On Site | Sep 25 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d1f7598c62e63bc7fd1afe?utm_campaign=1067&utm_source=git)** | Andover, MA | Hybrid | Sep 25 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Business Operations](https://jobright.ai/jobs/info/68d615182116ff37ee092b81?utm_campaign=1067&utm_source=git)** | Holtsville, NY | On Site | Sep 25 |
 | **[RESPEC](http://www.respec.com)** | **[Student Business Analyst Intern](https://jobright.ai/jobs/info/68d5e4ec1f7fb2169ab1478f?utm_campaign=1067&utm_source=git)** | Richardson, TX, USA | On Site | Sep 25 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business](https://jobright.ai/jobs/info/68d5d6c31f7fb2169ab141a5?utm_campaign=1067&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Sep 25 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68cd3832b2a74e1837ed3f2e?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 25 |
@@ -110,8 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d300d317554c2d9eeecc76?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 23 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d2ef3ef0d9af73038dcfa1?utm_campaign=1067&utm_source=git)** | Hartsville, SC, USA | On Site | Sep 23 |
 | **[Tabañero Holdings](https://tabanero.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d2d6768c62e63bc7fdaac3?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | Hybrid | Sep 23 |
-| **[HAI Group](https://www.housingcenter.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68daa03a0b832179ca4af0c9?utm_campaign=1067&utm_source=git)** | Cheshire, CT | On Site | Sep 23 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d2b27817554c2d9eee8fbf?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Sunnyvale CA - R10208653](https://jobright.ai/jobs/info/68d2521417554c2d9eee6f21?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Sep 23 |
-| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Global Technology - Business Analyst](https://jobright.ai/jobs/info/68d1e204a54edb3bf3e172bb?utm_campaign=1067&utm_source=git)** | Chesterfield, MO | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
