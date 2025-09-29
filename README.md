@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 28 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68d80463295f8e37655e4c90?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68d802d57a37c712687d7b52?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb7b4c8043103d4f228f41?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd124b1ad6b16f0289462b?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Business Analyst Student Experience](https://jobright.ai/jobs/info/68cd6d5cb2a74e1837ed6b8e?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68d6406eebcef82ef5cf8780?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
+| **[FCS Financial](http://myfcsfinancial.com)** | **[Latina/Latino Business Internship](https://jobright.ai/jobs/info/68d9ffb43c03cd3270942150?utm_campaign=1067&utm_source=git)** | Jefferson City, MO | On Site | Sep 26 |
 | **[Health Solutions](https://www.health.solutions/)** | **[Intern - Business/IT (53304)](https://jobright.ai/jobs/info/68d74174894705799a2f19b1?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | Hybrid | Sep 26 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68d72a4945853d0e39ccd550?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 26 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[2026 Business Associate Intern](https://jobright.ai/jobs/info/68d714b2894705799a2f08f0?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
@@ -124,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Summer 2026 - IT Business Analyst Intern - Iowa](https://jobright.ai/jobs/info/68d18bf48c62e63bc7fcc90e?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 22 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Data and Business Technology](https://jobright.ai/jobs/info/68d16097cece431f8b58341e?utm_campaign=1067&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
 | ↳ | **[Business Generalist 2026 Internships](https://jobright.ai/jobs/info/68d1601c8c62e63bc7fcac37?utm_campaign=1067&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
-| **[Unity Health Insurance](https://www.QuartzBenefits.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68d115c4eadd8f0b04fab883?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
