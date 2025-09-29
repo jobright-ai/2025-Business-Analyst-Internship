@@ -123,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Spring Internship - Junior Business Analyst (Remote)](https://jobright.ai/jobs/info/68d1a34517554c2d9eedde0b?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 22 |
 | ↳ | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/68d1a1d08c62e63bc7fcdce3?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Business Generalist 2026 Internships](https://jobright.ai/jobs/info/68d1a12117554c2d9eedda23?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
-| ↳ | **[Data and Business Technology](https://jobright.ai/jobs/info/68d195b18c62e63bc7fccf8c?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
-| **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Summer 2026 - IT Business Analyst Intern - Iowa](https://jobright.ai/jobs/info/68d18bf48c62e63bc7fcc90e?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
