@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d30458f0d9af73038de248?utm_campaign=1067&utm_source=git)** | Hartsville, SC | On Site | Sep 23 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d300d317554c2d9eeecc76?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 23 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d2ef3ef0d9af73038dcfa1?utm_campaign=1067&utm_source=git)** | Hartsville, SC, USA | On Site | Sep 23 |
-| **[Tabañero Holdings](https://tabanero.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d2d6768c62e63bc7fdaac3?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
