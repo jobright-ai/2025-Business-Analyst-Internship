@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primus Aerospace](http://primusaero.com)** | **[Expression of Interest – Business Majors (Co-Ops & Internships)](https://jobright.ai/jobs/info/68db34539f13662d20e48830?utm_campaign=1067&utm_source=git)** | Reisterstown, MD | On Site | Sep 29 |
+| **[StandardAero](http://www.standardaero.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68db2b340dffed6f83d2cf5e?utm_campaign=1067&utm_source=git)** | 16101 Saticoy ST - 901, Van Nuys, CA, 91406, US | On Site | Sep 29 |
+| **[Primus Aerospace](http://primusaero.com)** | **[Expression of Interest – Business Majors (Co-Ops & Internships)](https://jobright.ai/jobs/info/68db29ae6df7b8311bb166ef?utm_campaign=1067&utm_source=git)** | Reisterstown, Maryland, United States | On Site | Sep 29 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68db07446df7b8311bb15847?utm_campaign=1067&utm_source=git)** | Findlay, OH | On Site | Sep 29 |
 | ↳ | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68db02e90dffed6f83d2bdd5?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Sep 29 |
 | ↳ | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68dafe9be9b48513789b0d9b?utm_campaign=1067&utm_source=git)** | Denver, Colorado | On Site | Sep 29 |
@@ -69,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Florida Power & Light](https://www.fpl.com/)** | **[IT Storm Support Business Analyst - College Intern](https://jobright.ai/jobs/info/68dad6270b832179ca4b172a?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 29 |
 | **[Google](https://www.google.com)** | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabe4f07c157682e56d0a1?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Sep 29 |
 | ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabe2307c157682e56cfe8?utm_campaign=1067&utm_source=git)** | San Bruno, CA, USA | On Site | Sep 29 |
+| ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc316df7b8311bb11981?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Sep 29 |
 | ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc310b832179ca4b05d3?utm_campaign=1067&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 29 |
 | ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc310b832179ca4b05d4?utm_campaign=1067&utm_source=git)** | Mountain View, CA, USA | On Site | Sep 29 |
-| ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc316df7b8311bb11981?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Sep 29 |
 | ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc126df7b8311bb1193c?utm_campaign=1067&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 29 |
 | ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc000b832179ca4b056e?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 29 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 28 |
@@ -126,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d2ef3ef0d9af73038dcfa1?utm_campaign=1067&utm_source=git)** | Hartsville, SC, USA | On Site | Sep 23 |
 | **[Tabañero Holdings](https://tabanero.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d2d6768c62e63bc7fdaac3?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | Hybrid | Sep 23 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d2b27817554c2d9eee8fbf?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Sunnyvale CA - R10208653](https://jobright.ai/jobs/info/68d2521417554c2d9eee6f21?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
