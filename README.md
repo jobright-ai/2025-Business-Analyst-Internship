@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc316df7b8311bb11981?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Sep 29 |
 | ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc126df7b8311bb1193c?utm_campaign=1067&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 29 |
 | ↳ | **[Business Undergraduate Intern, Summer 2026](https://jobright.ai/jobs/info/68dabc000b832179ca4b056e?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 29 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/68c641b4db52c07d28845f76?utm_campaign=1067&utm_source=git)** | Austin, CA | On Site | Sep 28 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Sep 28 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Summer Analyst 2026 - Business Analyst](https://jobright.ai/jobs/info/68662073574f68996bf6db0a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 28 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68d80463295f8e37655e4c90?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
