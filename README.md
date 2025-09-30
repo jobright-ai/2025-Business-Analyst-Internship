@@ -129,7 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Pegasystems](http://www.pega.com)** | **[Pega Ventures and Launchpad Business Analyst Fall Intern](https://jobright.ai/jobs/info/689be19e83d13d1f5b6a424c?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Sep 24 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68d34350f0d9af73038e0704?utm_campaign=1067&utm_source=git)** | US-CA-Irvine | On Site | Sep 23 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[1LMX ERP Business Analyst Intern](https://jobright.ai/jobs/info/68d7db8d7a37c712687d6092?utm_campaign=1067&utm_source=git)** | Florida, Maryland, Pennsylvania | Remote | Sep 23 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d30458f0d9af73038de248?utm_campaign=1067&utm_source=git)** | Hartsville, SC | On Site | Sep 23 |
-| **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d300d317554c2d9eeecc76?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 23 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d2ef3ef0d9af73038dcfa1?utm_campaign=1067&utm_source=git)** | Hartsville, SC, USA | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
