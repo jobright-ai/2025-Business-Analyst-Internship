@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68dafe9be9b48513789b0d9b?utm_campaign=1067&utm_source=git)** | Denver, Colorado | On Site | Sep 29 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68db07446df7b8311bb15847?utm_campaign=1067&utm_source=git)** | Findlay, OH | On Site | Sep 29 |
+| ↳ | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68db02e90dffed6f83d2bdd5?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Sep 29 |
+| ↳ | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68dafe9be9b48513789b0d9b?utm_campaign=1067&utm_source=git)** | Denver, Colorado | On Site | Sep 29 |
 | ↳ | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68dafd7b6df7b8311bb1523d?utm_campaign=1067&utm_source=git)** | Findlay, Ohio | On Site | Sep 29 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dae72207c157682e56f3dc?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[GlobalFoundries](https://gf.com/)** | **[GFIT PMO IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68dae3200b832179ca4b27be?utm_campaign=1067&utm_source=git)** | Malta, NY | On Site | Sep 29 |
+| ↳ | **[GFIT PMO IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68dae15d6df7b8311bb13828?utm_campaign=1067&utm_source=git)** | Malta, NY | On Site | Sep 29 |
 | **[i3-Milestone](https://www.musiusa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dadd7c0b832179ca4b20fd?utm_campaign=1067&utm_source=git)** | Danville, KY | On Site | Sep 29 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[IT Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/68dad9a66df7b8311bb13139?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 29 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[IT Storm Support Business Analyst - College Intern](https://jobright.ai/jobs/info/68dad6270b832179ca4b172a?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 29 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68d8021b7796a83635f0e3f0?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd124b1ad6b16f0289462b?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Sep 27 |
-| **[FCS Financial](http://myfcsfinancial.com)** | **[Latina/Latino Business Internship](https://jobright.ai/jobs/info/68da8cc307c157682e56afef?utm_campaign=1067&utm_source=git)** | Jefferson City, MO | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68d23b4917554c2d9eee5e8c?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Business Analyst Student Experience](https://jobright.ai/jobs/info/68cd6d5cb2a74e1837ed6b8e?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68d6406eebcef82ef5cf8780?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
