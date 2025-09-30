@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68dafd7b6df7b8311bb1523d?utm_campaign=1067&utm_source=git)** | Findlay, Ohio | On Site | Sep 29 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dae72207c157682e56f3dc?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[GlobalFoundries](https://gf.com/)** | **[GFIT PMO IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68dae3200b832179ca4b27be?utm_campaign=1067&utm_source=git)** | Malta, NY | On Site | Sep 29 |
-| ↳ | **[GFIT PMO IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68dae15d6df7b8311bb13828?utm_campaign=1067&utm_source=git)** | Malta, NY | On Site | Sep 29 |
 | **[i3-Milestone](https://www.musiusa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dadd7c0b832179ca4b20fd?utm_campaign=1067&utm_source=git)** | Danville, KY | On Site | Sep 29 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[IT Salesforce Business Analyst - College Intern](https://jobright.ai/jobs/info/68dad9a66df7b8311bb13139?utm_campaign=1067&utm_source=git)** | Juno Beach, FL | On Site | Sep 29 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[IT Storm Support Business Analyst - College Intern](https://jobright.ai/jobs/info/68dad6270b832179ca4b172a?utm_campaign=1067&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 29 |
@@ -92,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Business Analyst Student Experience](https://jobright.ai/jobs/info/68cd6d5cb2a74e1837ed6b8e?utm_campaign=1067&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68d6406eebcef82ef5cf8780?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | **[FCS Financial](http://myfcsfinancial.com)** | **[Latina/Latino Business Internship](https://jobright.ai/jobs/info/68db589a9f13662d20e4a5d0?utm_campaign=1067&utm_source=git)** | Jefferson City, MO | On Site | Sep 26 |
-| **[Health Solutions](https://www.health.solutions/)** | **[Intern - Business/IT (53304)](https://jobright.ai/jobs/info/68d74174894705799a2f19b1?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | Hybrid | Sep 26 |
 | **[NORDAM](https://nordam.com/)** | **[BUSINESS INTERNSHIP](https://jobright.ai/jobs/info/68dad7f60b832179ca4b1b91?utm_campaign=1067&utm_source=git)** | Tulsa, OK, None | On Site | Sep 26 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68d72a4945853d0e39ccd550?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 26 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[2026 Business Associate Intern](https://jobright.ai/jobs/info/68d714b2894705799a2f08f0?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
@@ -134,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d300d317554c2d9eeecc76?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Sep 23 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Business Process Management](https://jobright.ai/jobs/info/68d2ef3ef0d9af73038dcfa1?utm_campaign=1067&utm_source=git)** | Hartsville, SC, USA | On Site | Sep 23 |
 | **[Tabañero Holdings](https://tabanero.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68d2d6768c62e63bc7fdaac3?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | Hybrid | Sep 23 |
-| **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d2b27817554c2d9eee8fbf?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
