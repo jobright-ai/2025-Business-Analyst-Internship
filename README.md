@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dc297a66059a42a715c225?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Sep 30 |
+| ↳ | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/68dc1c5e66059a42a715bb76?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Sep 30 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/68dc123097329f2f77322712?utm_campaign=1067&utm_source=git)** | Appleton, WI | On Site | Sep 30 |
 | **[i3 Verticals](http://www.i3verticals.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dbae2397329f2f7731afa3?utm_campaign=1067&utm_source=git)** | Kentucky, United States | Remote | Sep 29 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[2026 J&J Orthopedics Internship – Business Insights](https://jobright.ai/jobs/info/68d49ff28c62e63bc7feb1e2?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 25 |
