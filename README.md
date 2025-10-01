@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68dc5167a125e75c4229fac8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/68dc4bd4ddc10244dd673e0d?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 30 |
+| **[POET](http://www.poet.com)** | **[Business Support Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dc4b0faccfd24b67e53e72?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 30 |
 | **[Sentry](https://www.sentry.com/)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68dc45b1a125e75c4229f063?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Sep 30 |
 | ↳ | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68dc4050a125e75c4229ed4c?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 30 |
 | ↳ | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68dc3f4ba125e75c4229eb09?utm_campaign=1067&utm_source=git)** | Stevens Point, WI | Hybrid | Sep 30 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Sep 30 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dc297a66059a42a715c225?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Sep 30 |
-| ↳ | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/68dc1c5e66059a42a715bb76?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Sep 30 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/68dc1c5e66059a42a715bb76?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Sep 30 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/68dc123097329f2f77322712?utm_campaign=1067&utm_source=git)** | Appleton, WI | On Site | Sep 30 |
+| **[ITW](http://www.itw.com/)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/68dc4f54accfd24b67e54242?utm_campaign=1067&utm_source=git)** | Appleton-1635 W Spencer | On Site | Sep 30 |
 | **[i3 Verticals](http://www.i3verticals.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dbae2397329f2f7731afa3?utm_campaign=1067&utm_source=git)** | Kentucky, United States | Remote | Sep 29 |
+| **[Peraton](https://www.peraton.com/)** | **[Part-time Business Information Technology Intern](https://jobright.ai/jobs/info/68dc66acddc10244dd675076?utm_campaign=1067&utm_source=git)** | US | Remote | Sep 25 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[2026 J&J Orthopedics Internship – Business Insights](https://jobright.ai/jobs/info/68d49ff28c62e63bc7feb1e2?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 25 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c964f7f9c6ff7aedf1975c?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 16 |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/68dc4be0a125e75c4229f5d3?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
