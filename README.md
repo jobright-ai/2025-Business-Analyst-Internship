@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68dcec21accfd24b67e5ba9c?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 01 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dc8f32ddc10244dd676c40?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 30 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 30 |
 | **[ Georgia Pacific](gp.com)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc7fb9accfd24b67e56275?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Sep 30 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Summer 2026 Intern - Business Insights](https://jobright.ai/jobs/info/68d49ff28c62e63bc7feb1e2?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/68dcb0a2accfd24b67e58b03?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Sep 16 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c964f7f9c6ff7aedf1975c?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Sep 16 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcea21a125e75c422a6c44?utm_campaign=1067&utm_source=git)** | New York,New York,United States | Hybrid | Sep 10 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/68dc4be0a125e75c4229f5d3?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Sep 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68dc96d1a125e75c422a27c0?utm_campaign=1067&utm_source=git)** | Saint Louis, Missouri | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
