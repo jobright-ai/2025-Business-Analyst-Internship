@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Information Systems ERP Business Analyst](https://jobright.ai/jobs/info/68dd7b33a125e75c422ab2e0?utm_campaign=1067&utm_source=git)** | Omaha MBC Building | On Site | Oct 01 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68dd680444d32141e0bf67ae?utm_campaign=1067&utm_source=git)** | Remote-MO | Remote | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[HRIS Business Analyst Intern - Winter 2025](https://jobright.ai/jobs/info/68dd67ed44d32141e0bf674c?utm_campaign=1067&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 01 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68dd5fe0a125e75c422aa364?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Oct 01 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c964f7f9c6ff7aedf1975c?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Oct 01 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68dcec21accfd24b67e5ba9c?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 01 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dc8f32ddc10244dd676c40?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 30 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 30 |
 | **[ Georgia Pacific](gp.com)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc7fb9accfd24b67e56275?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Sep 30 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
