@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Business Intern](https://jobright.ai/jobs/info/68de94ab44d32141e0c00dc3?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Analyst Intern - Elkton MD - R10209211](https://jobright.ai/jobs/info/68de66b844d32141e0bfff08?utm_campaign=1067&utm_source=git)** | Elkton, MD | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ddba3444d32141e0bfa940?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[o9 Solutions, Inc.](https://www.o9solutions.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dd9f9dddc10244dd6821d1?utm_campaign=1067&utm_source=git)** | Dallas, Texas, United States | On Site | Oct 01 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dd9f8f44d32141e0bf94f6?utm_campaign=1067&utm_source=git)** | Works From Home - California | On Site | Oct 01 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68dd966fa125e75c422acc59?utm_campaign=1067&utm_source=git)** | Florida, United States | Remote | Oct 01 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Analyst Intern - Elkton MD](https://jobright.ai/jobs/info/68dd93edddc10244dd6810fd?utm_campaign=1067&utm_source=git)** | United States-Maryland-Elkton | On Site | Oct 01 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Analyst Intern - Elkton MD](https://jobright.ai/jobs/info/68dd93eaddc10244dd6810f5?utm_campaign=1067&utm_source=git)** | United States-Maryland-Elkton | On Site | Oct 01 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68dd9231a125e75c422ac5c8?utm_campaign=1067&utm_source=git)** | Remote-FL | Remote | Oct 01 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dd9218a125e75c422ac57e?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[HRIS Business Analyst Intern - Winter 2025](https://jobright.ai/jobs/info/68dd870da125e75c422abad9?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
