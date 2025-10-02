@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern - HR Time and Attendance](https://jobright.ai/jobs/info/68deb01544d32141e0c019fb?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 02 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Business Intern](https://jobright.ai/jobs/info/68de94ab44d32141e0c00dc3?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
+| **[Imperium Dynamics](https://imperiumdynamics.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68de9ef809bda65a4b62c43d?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Analyst Intern - Elkton MD - R10209211](https://jobright.ai/jobs/info/68de66b844d32141e0bfff08?utm_campaign=1067&utm_source=git)** | Elkton, MD | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ddba3444d32141e0bfa940?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[o9 Solutions, Inc.](https://www.o9solutions.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dd9f9dddc10244dd6821d1?utm_campaign=1067&utm_source=git)** | Dallas, Texas, United States | On Site | Oct 01 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Information Systems ERP Business Analyst](https://jobright.ai/jobs/info/68dd7b33a125e75c422ab2e0?utm_campaign=1067&utm_source=git)** | Omaha MBC Building | On Site | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[HRIS Business Analyst Intern - Winter 2025](https://jobright.ai/jobs/info/68dd67ed44d32141e0bf674c?utm_campaign=1067&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 01 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68dd5fe0a125e75c422aa364?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Oct 01 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68dead4209bda65a4b62cbe3?utm_campaign=1067&utm_source=git)** | Remote-MO | Remote | Oct 01 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c964f7f9c6ff7aedf1975c?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Oct 01 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc8393accfd24b67e563b1?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 01 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 01 |
