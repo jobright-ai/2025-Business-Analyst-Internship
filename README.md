@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roche](http://www.roche.com)** | **[2026 Spring Intern - Business Analyst](https://jobright.ai/jobs/info/68ded47509bda65a4b62e1a5?utm_campaign=1067&utm_source=git)** | Hillsboro | On Site | Oct 02 |
+| **[Norfolk Southern](https://www.nscorp.com)** | **[Business Optimization Intern (Business/Data Analyst) - Summer 2026](https://jobright.ai/jobs/info/68ded1c844d32141e0c02b40?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68deccc209bda65a4b62dd17?utm_campaign=1067&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 02 |
 | **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern - HR Time and Attendance](https://jobright.ai/jobs/info/68deb01544d32141e0c019fb?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 02 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Business Intern](https://jobright.ai/jobs/info/68de94ab44d32141e0c00dc3?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[Imperium Dynamics](https://imperiumdynamics.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68de9ef809bda65a4b62c43d?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
@@ -77,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc8393accfd24b67e563b1?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 01 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68dcec21accfd24b67e5ba9c?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 01 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dc8f32ddc10244dd676c40?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Sep 30 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc7c87a125e75c422a1227?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Sep 30 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 30 |
 | **[ Georgia Pacific](gp.com)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc7fb9accfd24b67e56275?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
 | **[HF Sinclair](http://www.hfsinclair.com)** | **[Intern, Business Analytics - Branded Fuels](https://jobright.ai/jobs/info/68dda0bf44d32141e0bf97d7?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 30 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Sep 30 |
