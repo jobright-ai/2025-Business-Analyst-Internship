@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cirrus](http://cirrusaircraft.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68e00b09b99ec3563b0cb4dd?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Oct 03 |
 | **[Genentech](http://gene.com)** | **[2026 Spring Intern - Business Analyst](https://jobright.ai/jobs/info/68df30dc5ab4977c2e95157a?utm_campaign=1067&utm_source=git)** | Hillsboro, OR | On Site | Oct 02 |
 | **[Venture Global LNG](https://ventureglobal.com)** | **[Internship - Business](https://jobright.ai/jobs/info/68defcfda125e75c422b8ee8?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Oct 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dedf9b09bda65a4b62e6ea?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[HF Sinclair](http://www.hfsinclair.com)** | **[Intern, Business Analytics - Branded Fuels](https://jobright.ai/jobs/info/68dda0bf44d32141e0bf97d7?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 30 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Sep 30 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc7c8fa125e75c422a1261?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 30 |
-| ↳ | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc7cd8ddc10244dd675e1b?utm_campaign=1067&utm_source=git)** | Denver HQ T3 | On Site | Sep 30 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc7cd8ddc10244dd675e1b?utm_campaign=1067&utm_source=git)** | Denver HQ T3 | On Site | Sep 30 |
+| ↳ | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc7c8fa125e75c422a1261?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 30 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68dc5167a125e75c4229fac8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/68dc4bd4ddc10244dd673e0d?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 30 |
 | **[POET](http://www.poet.com)** | **[Business Support Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dc4b0faccfd24b67e53e72?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 30 |
