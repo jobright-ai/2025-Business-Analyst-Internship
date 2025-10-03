@@ -57,19 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Venture Global LNG](https://ventureglobal.com)** | **[Internship - Business](https://jobright.ai/jobs/info/68defcfda125e75c422b8ee8?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Oct 02 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS](https://jobright.ai/jobs/info/68deefd4a125e75c422b86da?utm_campaign=1067&utm_source=git)** | Elizabethtown, KY | On Site | Oct 02 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68dee62ba125e75c422b7d1f?utm_campaign=1067&utm_source=git)** | Missouri, United States | Remote | Oct 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dedf9b09bda65a4b62e6ea?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
+| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68df0a3f5ab4977c2e94d566?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Oct 02 |
 | **[Roche](http://www.roche.com)** | **[2026 Spring Intern - Business Analyst](https://jobright.ai/jobs/info/68ded47509bda65a4b62e1a5?utm_campaign=1067&utm_source=git)** | Hillsboro | On Site | Oct 02 |
-| **[Norfolk Southern](https://www.nscorp.com)** | **[Business Optimization Intern (Business/Data Analyst) - Summer 2026](https://jobright.ai/jobs/info/68ded1c844d32141e0c02b40?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68deccc209bda65a4b62dd17?utm_campaign=1067&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 02 |
 | **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern - HR Time and Attendance](https://jobright.ai/jobs/info/68deb01544d32141e0c019fb?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 02 |
-| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Business Intern](https://jobright.ai/jobs/info/68de94ab44d32141e0c00dc3?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[Imperium Dynamics](https://imperiumdynamics.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68de9ef809bda65a4b62c43d?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Analyst Intern - Elkton MD - R10209211](https://jobright.ai/jobs/info/68de66b844d32141e0bfff08?utm_campaign=1067&utm_source=git)** | Elkton, MD | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ddba3444d32141e0bfa940?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
-| **[o9 Solutions, Inc.](https://www.o9solutions.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dd9f9dddc10244dd6821d1?utm_campaign=1067&utm_source=git)** | Dallas, Texas, United States | On Site | Oct 01 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dd9f8f44d32141e0bf94f6?utm_campaign=1067&utm_source=git)** | Works From Home - California | On Site | Oct 01 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68dd966fa125e75c422acc59?utm_campaign=1067&utm_source=git)** | Florida, United States | Remote | Oct 01 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Analyst Intern - Elkton MD](https://jobright.ai/jobs/info/68dd93edddc10244dd6810fd?utm_campaign=1067&utm_source=git)** | United States-Maryland-Elkton | On Site | Oct 01 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68dd9231a125e75c422ac5c8?utm_campaign=1067&utm_source=git)** | Remote-FL | Remote | Oct 01 |
@@ -94,15 +92,10 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/68dc4bd4ddc10244dd673e0d?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Sep 30 |
 | **[POET](http://www.poet.com)** | **[Business Support Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dc4b0faccfd24b67e53e72?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Sep 30 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dc7d30ddc10244dd675f35?utm_campaign=1067&utm_source=git)** | US - WI - Milwaukee HQ | On Site | Sep 30 |
-| **[Sentry](https://www.sentry.com/)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68dc45b1a125e75c4229f063?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Sep 30 |
-| ↳ | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68dc4050a125e75c4229ed4c?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 30 |
-| ↳ | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68dc3f4ba125e75c4229eb09?utm_campaign=1067&utm_source=git)** | Stevens Point, WI | Hybrid | Sep 30 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc7da7accfd24b67e56143?utm_campaign=1067&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | On Site | Sep 30 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Sep 30 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/68dc123097329f2f77322712?utm_campaign=1067&utm_source=git)** | Appleton, WI | On Site | Sep 30 |
 | **[ITW](http://www.itw.com/)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/68dc4f54accfd24b67e54242?utm_campaign=1067&utm_source=git)** | Appleton-1635 W Spencer | On Site | Sep 30 |
 | **[i3 Verticals](http://www.i3verticals.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dbae2397329f2f7731afa3?utm_campaign=1067&utm_source=git)** | Kentucky, United States | Remote | Sep 29 |
-| **[FCS Financial](http://myfcsfinancial.com)** | **[Latina/Latino Business Internship](https://jobright.ai/jobs/info/68de480944d32141e0bff040?utm_campaign=1067&utm_source=git)** | Jefferson City, MO | On Site | Sep 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern:  Business Analyst](https://jobright.ai/jobs/info/68dcb878a125e75c422a4759?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Sep 26 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/68de3f6c09bda65a4b62864c?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
