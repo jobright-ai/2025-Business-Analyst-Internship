@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTS Consulting Automation](http://www.rtsperfectplant.com/)** | **[Business Analyst Intern – Client Research & Practice Support](https://jobright.ai/jobs/info/68df3b5d5ab4977c2e951d2f?utm_campaign=1067&utm_source=git)** | Ontario, CA | On Site | Oct 02 |
+| **[Genentech](http://gene.com)** | **[2026 Spring Intern - Business Analyst](https://jobright.ai/jobs/info/68df30dc5ab4977c2e95157a?utm_campaign=1067&utm_source=git)** | Hillsboro, OR | On Site | Oct 02 |
 | **[Venture Global LNG](https://ventureglobal.com)** | **[Internship - Business](https://jobright.ai/jobs/info/68defcfda125e75c422b8ee8?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Oct 02 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS](https://jobright.ai/jobs/info/68deefd4a125e75c422b86da?utm_campaign=1067&utm_source=git)** | Elizabethtown, KY | On Site | Oct 02 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68dee62ba125e75c422b7d1f?utm_campaign=1067&utm_source=git)** | Missouri, United States | Remote | Oct 02 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dc7d30ddc10244dd675f35?utm_campaign=1067&utm_source=git)** | US - WI - Milwaukee HQ | On Site | Sep 30 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc7da7accfd24b67e56143?utm_campaign=1067&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | On Site | Sep 30 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Sep 30 |
-| **[Sentry](https://www.sentry.com/)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68df1b446be63b6ec996be0d?utm_campaign=1067&utm_source=git)** | Stevens Point, WI | Hybrid | Sep 30 |
-| ↳ | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68df1afa5ab4977c2e9505f3?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 30 |
+| **[Sentry](https://www.sentry.com/)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68df1afa5ab4977c2e9505f3?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Sep 30 |
+| ↳ | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68df1b446be63b6ec996be0d?utm_campaign=1067&utm_source=git)** | Stevens Point, WI | Hybrid | Sep 30 |
 | ↳ | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/68df18b2fe896042b0b768ba?utm_campaign=1067&utm_source=git)** | Nashville Office | Hybrid | Sep 30 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/68dc123097329f2f77322712?utm_campaign=1067&utm_source=git)** | Appleton, WI | On Site | Sep 30 |
 | **[ITW](http://www.itw.com/)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/68dc4f54accfd24b67e54242?utm_campaign=1067&utm_source=git)** | Appleton-1635 W Spencer | On Site | Sep 30 |
