@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e3334fb99ec3563b0ddd69?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - San Diego CA - R10210134](https://jobright.ai/jobs/info/68e0f787b99ec3563b0d571a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
+| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68e33d51f758fe1f97e5c230?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 03 |
+| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[1LMX ERP Business Analyst Intern](https://jobright.ai/jobs/info/68e339dff758fe1f97e5c08a?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Oct 03 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Winter 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/68e04f3f1852e62f007e9f96?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Winter 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/68e01bfbb99ec3563b0cc128?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | Hybrid | Oct 03 |
 | **[Synoptek](https://synoptek.com/)** | **[Intern, Business Analysis](https://jobright.ai/jobs/info/68e01be8b99ec3563b0cc0f5?utm_campaign=1067&utm_source=git)** | Las Vegas, NV | Remote | Oct 03 |
