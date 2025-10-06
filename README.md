@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SEPHORA](https://www.sephora.com)** | **[Intern, Business Planning and Analysis](https://jobright.ai/jobs/info/68e41301f758fe1f97e634fe?utm_campaign=1067&utm_source=git)** | California, United States | On Site | Oct 06 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) in the area of Business Improvement, Performance Measurement and Operational Business Support](https://jobright.ai/jobs/info/68e3bb21b99ec3563b0e212c?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Oct 06 |
 | **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e3334fb99ec3563b0ddd69?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - San Diego CA - R10210134](https://jobright.ai/jobs/info/68e0f787b99ec3563b0d571a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
