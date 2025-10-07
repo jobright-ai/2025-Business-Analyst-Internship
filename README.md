@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Business Suite CSM Operations](https://jobright.ai/jobs/info/68e4bcb3b99ec3563b0ed61a?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Risk & Research Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68e47dc6b99ec3563b0eae27?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Cologuard Monitoring and Response Intern - Summer 2026](https://jobright.ai/jobs/info/68e472201852e62f0080605a?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | ↳ | **[Cologuard Monitoring and Response Intern - Summer 2026](https://jobright.ai/jobs/info/68e439c0f758fe1f97e65b5c?utm_campaign=1067&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
@@ -105,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc7da7accfd24b67e56143?utm_campaign=1067&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | On Site | Sep 30 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Sep 30 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/68dc123097329f2f77322712?utm_campaign=1067&utm_source=git)** | Appleton, WI | On Site | Sep 30 |
-| **[ITW](http://www.itw.com/)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/68dc4f54accfd24b67e54242?utm_campaign=1067&utm_source=git)** | Appleton-1635 W Spencer | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
