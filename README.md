@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[We Insure](https://weinsuregroup.com/)** | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e5489cae2b894b1d70ce36?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Oct 07 |
+| ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e548761852e62f0080dc51?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 07 |
+| ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e548431852e62f0080dbec?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 07 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst Intern (Undergraduate - Part Time)](https://jobright.ai/jobs/info/68e54780b99ec3563b0f22f1?utm_campaign=1067&utm_source=git)** | Remote-MO | Remote | Oct 07 |
+| **[We Insure](https://weinsuregroup.com/)** | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e546bfb99ec3563b0f225e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Oct 07 |
+| ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e54664ae2b894b1d70ca1b?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Oct 07 |
+| **[Stratify Edge](stratifyedge.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/68e53b1bb99ec3563b0f1c1b?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Oct 07 |
 | **[RxSense](https://rxsense.com/)** | **[Business Analyst - Summer Internship](https://jobright.ai/jobs/info/68e52855b99ec3563b0f0917?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Oct 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68e4eb07b99ec3563b0ef48a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68e4de371852e62f0080a8ee?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Oct 07 |
@@ -64,9 +71,11 @@ For a complete list, click the following sortable link below:
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Business Suite CSM Operations](https://jobright.ai/jobs/info/68e4bcb3b99ec3563b0ed61a?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Risk & Research Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68e47dc6b99ec3563b0eae27?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Cologuard Monitoring and Response Intern - Summer 2026](https://jobright.ai/jobs/info/68e472201852e62f0080605a?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Oct 06 |
-| ↳ | **[Cologuard Monitoring and Response Intern - Summer 2026](https://jobright.ai/jobs/info/68e439c0f758fe1f97e65b5c?utm_campaign=1067&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
+| **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Oct 06 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Cologuard Monitoring and Response Intern - Summer 2026](https://jobright.ai/jobs/info/68e439c0f758fe1f97e65b5c?utm_campaign=1067&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Risk & Research Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68e4385df758fe1f97e6588f?utm_campaign=1067&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68e42d0f1852e62f0080293f?utm_campaign=1067&utm_source=git)** | Boston | Hybrid | Oct 06 |
+| **[SEPHORA](https://www.sephora.com)** | **[Intern, Business Planning and Analysis](https://jobright.ai/jobs/info/68e41301f758fe1f97e634fe?utm_campaign=1067&utm_source=git)** | California, United States | On Site | Oct 06 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) in the area of Business Improvement, Performance Measurement and Operational Business Support](https://jobright.ai/jobs/info/68e3bb21b99ec3563b0e212c?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Oct 06 |
 | **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e3334fb99ec3563b0ddd69?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Business Dev & Proposal Mgmt, Onsite](https://jobright.ai/jobs/info/68e486531852e62f00806b56?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Oct 04 |
@@ -100,7 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc7c87a125e75c422a1227?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Oct 01 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 30 |
 | **[ Georgia Pacific](gp.com)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc7fb9accfd24b67e56275?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
-| **[HF Sinclair](http://www.hfsinclair.com)** | **[Intern, Business Analytics - Branded Fuels](https://jobright.ai/jobs/info/68dda0bf44d32141e0bf97d7?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Sep 30 |
-| **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Sep 30 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
