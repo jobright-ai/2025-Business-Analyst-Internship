@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Technology Business Analyst - IT](https://jobright.ai/jobs/info/68e56219b99ec3563b0f384d?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Oct 07 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5604fb99ec3563b0f35a1?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68e553cfae2b894b1d70d84e?utm_campaign=1067&utm_source=git)** | San Antonio, Texas | On Site | Oct 07 |
+| **[Cencora](http://www.cencora.com)** | **[Business Solutions Analyst Intern](https://jobright.ai/jobs/info/68e553921852e62f0080e6f8?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | On Site | Oct 07 |
 | **[We Insure](https://weinsuregroup.com/)** | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e5489cae2b894b1d70ce36?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Oct 07 |
 | ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e548761852e62f0080dc51?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 07 |
 | ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e548431852e62f0080dbec?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 07 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst Intern (Undergraduate - Part Time)](https://jobright.ai/jobs/info/68e54780b99ec3563b0f22f1?utm_campaign=1067&utm_source=git)** | Remote-MO | Remote | Oct 07 |
 | **[We Insure](https://weinsuregroup.com/)** | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e546bfb99ec3563b0f225e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Oct 07 |
 | ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e54664ae2b894b1d70ca1b?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Oct 07 |
-| **[Stratify Edge](stratifyedge.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/68e53b1bb99ec3563b0f1c1b?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Oct 07 |
 | **[RxSense](https://rxsense.com/)** | **[Business Analyst - Summer Internship](https://jobright.ai/jobs/info/68e52855b99ec3563b0f0917?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Oct 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68e4eb07b99ec3563b0ef48a?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68e4de371852e62f0080a8ee?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Oct 07 |
@@ -101,12 +104,11 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68dd9218a125e75c422ac57e?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[HRIS Business Analyst Intern - Winter 2025](https://jobright.ai/jobs/info/68dd870da125e75c422abad9?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Information Systems ERP Business Analyst](https://jobright.ai/jobs/info/68dd7b33a125e75c422ab2e0?utm_campaign=1067&utm_source=git)** | Omaha MBC Building | On Site | Oct 01 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc8393accfd24b67e563b1?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[HRIS Business Analyst Intern - Winter 2025](https://jobright.ai/jobs/info/68dd67ed44d32141e0bf674c?utm_campaign=1067&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 01 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analyst/AI Intern](https://jobright.ai/jobs/info/68dc8f32ddc10244dd676c40?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 01 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c964f7f9c6ff7aedf1975c?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Oct 01 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68dcec21accfd24b67e5ba9c?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc7c87a125e75c422a1227?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Oct 01 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Sep 30 |
-| **[ Georgia Pacific](gp.com)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc7fb9accfd24b67e56275?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
