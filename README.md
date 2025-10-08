@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5604fb99ec3563b0f35a1?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
+| ↳ | **[Intern- Business](https://jobright.ai/jobs/info/68e5b1c3e8daec61499a3a4d?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
+| ↳ | **[Intern- Business](https://jobright.ai/jobs/info/68e5b157ae2b894b1d712a0f?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 07 |
 | **[ePS](https://www.eps-one.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e59e30b99ec3563b0f74df?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Oct 07 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68e59e201852e62f00812d72?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68e59760b99ec3563b0f6f0d?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Oct 07 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e57c211852e62f00810963?utm_campaign=1067&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Oct 07 |
 | ↳ | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e57bf0b99ec3563b0f536b?utm_campaign=1067&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Oct 07 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Technology Business Analyst - IT](https://jobright.ai/jobs/info/68e56219b99ec3563b0f384d?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Oct 07 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5604fb99ec3563b0f35a1?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Business Systems Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68e553cfae2b894b1d70d84e?utm_campaign=1067&utm_source=git)** | San Antonio, Texas | On Site | Oct 07 |
 | **[Cencora](http://www.cencora.com)** | **[Business Solutions Analyst Intern](https://jobright.ai/jobs/info/68e553921852e62f0080e6f8?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | On Site | Oct 07 |
 | **[We Insure](https://weinsuregroup.com/)** | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e5489cae2b894b1d70ce36?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Oct 07 |
@@ -111,7 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analyst/AI Intern](https://jobright.ai/jobs/info/68dc8f32ddc10244dd676c40?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 01 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68c964f7f9c6ff7aedf1975c?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Oct 01 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 01 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68dcec21accfd24b67e5ba9c?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68dc7c87a125e75c422a1227?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Oct 01 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
