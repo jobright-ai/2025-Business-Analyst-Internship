@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6da47ae2b894b1d71ec36?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
+| **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6cf35ae2b894b1d71e115?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 08 |
+| **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c6061852e62f0081e780?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
+| **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c561ae2b894b1d71d810?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c5201852e62f0081e609?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68e6a2d0ae2b894b1d71c20c?utm_campaign=1067&utm_source=git)** | Headquarters, NJ | Hybrid | Oct 08 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68e237281852e62f007f738e?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Oct 08 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e5e484ae2b894b1d714ed4?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 07 |
@@ -84,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Cologuard Monitoring and Response Intern - Summer 2026](https://jobright.ai/jobs/info/68e439c0f758fe1f97e65b5c?utm_campaign=1067&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Risk & Research Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68e4385df758fe1f97e6588f?utm_campaign=1067&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68e42d0f1852e62f0080293f?utm_campaign=1067&utm_source=git)** | Boston | Hybrid | Oct 06 |
+| **[SEPHORA](https://www.sephora.com)** | **[Intern, Business Planning and Analysis](https://jobright.ai/jobs/info/68e41301f758fe1f97e634fe?utm_campaign=1067&utm_source=git)** | California, United States | On Site | Oct 06 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) in the area of Business Improvement, Performance Measurement and Operational Business Support](https://jobright.ai/jobs/info/68e3bb21b99ec3563b0e212c?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Oct 06 |
 | **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e3334fb99ec3563b0ddd69?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - San Diego CA - R10210134](https://jobright.ai/jobs/info/68e0f787b99ec3563b0d571a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
