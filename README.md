@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e5e484ae2b894b1d714ed4?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 07 |
-| ↳ | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e5d7061852e62f00814e2f?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Oct 07 |
+| **[Cencora](http://www.cencora.com)** | **[Business Solutions Analyst Intern](https://jobright.ai/jobs/info/68e63265e8daec61499a9f7f?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | On Site | Oct 07 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e5d7061852e62f00814e2f?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Oct 07 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5604fb99ec3563b0f35a1?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | ↳ | **[Intern- Business](https://jobright.ai/jobs/info/68e5b1c3e8daec61499a3a4d?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | ↳ | **[Intern- Business](https://jobright.ai/jobs/info/68e5b157ae2b894b1d712a0f?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 07 |
