@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68e7d3c009580a2fe57efe4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 09 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7818e60ad860a1dc7f9d2?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Oct 09 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e75e55e8daec61499b4ef9?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68e77adc60ad860a1dc7f492?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Oct 08 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e5d7061852e62f00814e2f?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Oct 07 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/68e5b1c3e8daec61499a3a4d?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | ↳ | **[Intern- Business](https://jobright.ai/jobs/info/68e5b157ae2b894b1d712a0f?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 07 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68e59e201852e62f00812d72?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 07 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e57c211852e62f00810963?utm_campaign=1067&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Oct 07 |
 | ↳ | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e57bf0b99ec3563b0f536b?utm_campaign=1067&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Oct 07 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Technology Business Analyst - IT](https://jobright.ai/jobs/info/68e56219b99ec3563b0f384d?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Oct 07 |
