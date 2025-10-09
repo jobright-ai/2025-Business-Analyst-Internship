@@ -108,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[1LMX ERP Business Analyst Intern](https://jobright.ai/jobs/info/68e74f2dae2b894b1d7234f7?utm_campaign=1067&utm_source=git)** | Florida, Maryland, Pennsylvania | Remote | Oct 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dedf9b09bda65a4b62e6ea?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
 | **[Roche](http://www.roche.com)** | **[2026 Spring Intern - Business Analyst](https://jobright.ai/jobs/info/68ded47509bda65a4b62e1a5?utm_campaign=1067&utm_source=git)** | Hillsboro | On Site | Oct 02 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Oct 02 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68deccc209bda65a4b62dd17?utm_campaign=1067&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
