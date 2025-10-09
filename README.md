@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e75e55e8daec61499b4ef9?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 09 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/68e733e41852e62f0082324e?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Oct 08 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6ecac1852e62f008206b2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6dbdeae2b894b1d71ed58?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
+| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6da47ae2b894b1d71ec36?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c6061852e62f0081e780?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
 | **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c561ae2b894b1d71d810?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c5201852e62f0081e609?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e3334fb99ec3563b0ddd69?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - San Diego CA - R10210134](https://jobright.ai/jobs/info/68e0f787b99ec3563b0d571a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
 | **[POET](http://www.poet.com)** | **[Business Support Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dc4b0faccfd24b67e53e72?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 03 |
-| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/68e74b4cae2b894b1d723447?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 03 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[1LMX ERP Business Analyst Intern](https://jobright.ai/jobs/info/68e339dff758fe1f97e5c08a?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Oct 03 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Winter 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/68e04f3f1852e62f007e9f96?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Winter 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/68e01bfbb99ec3563b0cc128?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | Hybrid | Oct 03 |
@@ -103,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Sheetz](https://www.sheetz.com)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/68e01a33b99ec3563b0cbbcb?utm_campaign=1067&utm_source=git)** | CLAYSBURG, Pennsylvania | Remote | Oct 03 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68e00b09b99ec3563b0cb4dd?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Oct 03 |
 | **[Genentech](http://gene.com)** | **[2026 Spring Intern - Business Analyst](https://jobright.ai/jobs/info/68df30dc5ab4977c2e95157a?utm_campaign=1067&utm_source=git)** | Hillsboro, OR | On Site | Oct 02 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[1LMX ERP Business Analyst Intern](https://jobright.ai/jobs/info/68e74f2dae2b894b1d7234f7?utm_campaign=1067&utm_source=git)** | Florida, Maryland, Pennsylvania | Remote | Oct 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dedf9b09bda65a4b62e6ea?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
 | **[Roche](http://www.roche.com)** | **[2026 Spring Intern - Business Analyst](https://jobright.ai/jobs/info/68ded47509bda65a4b62e1a5?utm_campaign=1067&utm_source=git)** | Hillsboro | On Site | Oct 02 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a5319d758f2e4ac3fdcbec?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Oct 02 |
