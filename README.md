@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tech World Networking](techworldnetworking.us)** | **[Business Analyst, Innovation Internship](https://jobright.ai/jobs/info/68e800dbc4895107182c0a04?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Oct 09 |
+| **[RxSense](https://rxsense.com/)** | **[Business Analyst - Summer Internship](https://jobright.ai/jobs/info/68e818e7c4895107182c234a?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Oct 09 |
 | **[Cicero®, a part of MGT](http://www.cicerogroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7e6e6cc49a84b7e0ff1dd?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68e7d3c009580a2fe57efe4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 09 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7818e60ad860a1dc7f9d2?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Oct 09 |
