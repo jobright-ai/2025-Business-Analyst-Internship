@@ -59,8 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6ecac1852e62f008206b2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6cf35ae2b894b1d71e115?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 08 |
-| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6da47ae2b894b1d71ec36?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
+| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6dbdeae2b894b1d71ed58?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c6061852e62f0081e780?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
 | **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c561ae2b894b1d71d810?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c5201852e62f0081e609?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
