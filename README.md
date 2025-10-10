@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84644c72beb74cb31d17e?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | On Site | Oct 09 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84bf8c72beb74cb31d57c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 09 |
+| ↳ | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84644c72beb74cb31d17e?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | On Site | Oct 09 |
 | **[RxSense](https://rxsense.com/)** | **[Business Analyst - Summer Internship](https://jobright.ai/jobs/info/68e818e7c4895107182c234a?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Oct 09 |
 | **[Cicero®, a part of MGT](http://www.cicerogroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7e6e6cc49a84b7e0ff1dd?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68e7d3c009580a2fe57efe4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 09 |
