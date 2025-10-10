@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68e935279020b95add6a4b04?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 10 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68e925530930fe0bc46228ba?utm_campaign=1067&utm_source=git)** | Remote_United States | Remote | Oct 10 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84bf8c72beb74cb31d57c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 09 |
 | ↳ | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84644c72beb74cb31d17e?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | On Site | Oct 09 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7818e60ad860a1dc7f9d2?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Oct 09 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6ecac1852e62f008206b2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6dbdeae2b894b1d71ed58?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
+| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6da47ae2b894b1d71ec36?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c6061852e62f0081e780?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
 | **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c561ae2b894b1d71d810?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c5201852e62f0081e609?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
