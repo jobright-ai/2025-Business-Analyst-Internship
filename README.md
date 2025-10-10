@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e96c8265768b6412b1be99?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern- Summer 2026](https://jobright.ai/jobs/info/68e95ed565768b6412b1b42a?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Oct 10 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e959cc0930fe0bc4624707?utm_campaign=1067&utm_source=git)** | Chicago IL USA | On Site | Oct 10 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Systems Intern  - Summer 2026](https://jobright.ai/jobs/info/68e958be65768b6412b1ab96?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Oct 10 |
