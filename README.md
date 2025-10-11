@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/68e980a20930fe0bc46268f7?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Oct 10 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e96c8265768b6412b1be99?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern- Summer 2026](https://jobright.ai/jobs/info/68e95ed565768b6412b1b42a?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Oct 10 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e959cc0930fe0bc4624707?utm_campaign=1067&utm_source=git)** | Chicago IL USA | On Site | Oct 10 |
@@ -108,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Business Planning and Analysis](https://jobright.ai/jobs/info/68e41301f758fe1f97e634fe?utm_campaign=1067&utm_source=git)** | California, United States | On Site | Oct 06 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) in the area of Business Improvement, Performance Measurement and Operational Business Support](https://jobright.ai/jobs/info/68e3bb21b99ec3563b0e212c?utm_campaign=1067&utm_source=git)** | Hamburg Area | Hybrid | Oct 06 |
 | **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e3334fb99ec3563b0ddd69?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
-| **[POET](http://www.poet.com)** | **[Business Support Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dc4b0faccfd24b67e53e72?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
