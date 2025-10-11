@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Rotational Business Analyst](https://jobright.ai/jobs/info/68e9a5190930fe0bc4627ef8?utm_campaign=1067&utm_source=git)** | White Plains, NY | On Site | Oct 10 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/68e99f90feeb0006c1a5614e?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Oct 10 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/68e980a20930fe0bc46268f7?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Oct 10 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e96c8265768b6412b1be99?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Applications Intern- Summer 2026](https://jobright.ai/jobs/info/68e95ed565768b6412b1b42a?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Oct 10 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7818e60ad860a1dc7f9d2?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Oct 09 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6ecac1852e62f008206b2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6dbdeae2b894b1d71ed58?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
+| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6da47ae2b894b1d71ec36?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c6061852e62f0081e780?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
 | **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c561ae2b894b1d71d810?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e6c5201852e62f0081e609?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
