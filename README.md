@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68ea76562f64880ca0b531fc?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 11 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea711d8369791ef7821ea8?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 11 |
 | **[Zyric Grid](https://www.linkedin.com/company/88692952)** | **[Business Internship](https://jobright.ai/jobs/info/68ea798d76a1db7c5985b3a8?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Oct 11 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ea16b0cfc08e4908915ac8?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Remote | Oct 11 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Rotational Business Analyst](https://jobright.ai/jobs/info/68e9a5190930fe0bc4627ef8?utm_campaign=1067&utm_source=git)** | White Plains, NY | On Site | Oct 10 |
