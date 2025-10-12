@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68ea76562f64880ca0b531fc?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 11 |
-| **[Zyric Grid](https://www.linkedin.com/company/88692952)** | **[Business Internship](https://jobright.ai/jobs/info/68ea798d76a1db7c5985b3a8?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Oct 11 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ea16b0cfc08e4908915ac8?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Remote | Oct 11 |
 | **[ASML](https://www.asml.com)** | **[Co-op - Business Process Analyst - Spring 2026 (Internship)](https://jobright.ai/jobs/info/68eb37b72f64880ca0b56350?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Oct 10 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Rotational Business Analyst](https://jobright.ai/jobs/info/68e9a5190930fe0bc4627ef8?utm_campaign=1067&utm_source=git)** | White Plains, NY | On Site | Oct 10 |
@@ -77,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Cicero™, part of MGT](http://www.cicerogroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7e6e6cc49a84b7e0ff1dd?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68e7d3c009580a2fe57efe4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 09 |
 | **[Compass Digital](https://www.compassdigital.io/)** | **[Business Process Analyst Intern (Summer 2026, Charlotte, NC)](https://jobright.ai/jobs/info/68e9167d65768b6412b187f0?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 09 |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eb6ec12f64880ca0b58107?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Oct 09 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7818e60ad860a1dc7f9d2?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Oct 09 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea3d3eb677c5018c6b8e56?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
