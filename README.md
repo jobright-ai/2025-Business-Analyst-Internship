@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[AgriBusiness IT Intern - Summer 2026](https://jobright.ai/jobs/info/68ee7694d078b81ad160a418?utm_campaign=1067&utm_source=git)** | Salisbury, MD | On Site | Oct 14 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ee767cd078b81ad160a3f2?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 14 |
+| **[Select Medical](http://www.selectmedical.com/)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68ee70ffe0db9242258060df?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | On Site | Oct 14 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[IT Service Delivery - Business Analysis Intern](https://jobright.ai/jobs/info/68ee28aee0db9242257fda9c?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/68e99f90feeb0006c1a5614e?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Oct 13 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Oct 13 |
@@ -87,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6ecac1852e62f008206b2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6dbdeae2b894b1d71ed58?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
-| **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea529c8369791ef7820d8a?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea52522f64880ca0b51e6a?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
+| **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea52522f64880ca0b51e6a?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea529c8369791ef7820d8a?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68e6a2d0ae2b894b1d71c20c?utm_campaign=1067&utm_source=git)** | Headquarters, NJ | Hybrid | Oct 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68e7e66609580a2fe57f0b36?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 08 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[2026 Undergrad Business Internship United States](https://jobright.ai/jobs/info/68ecf45770b66e2345d397dd?utm_campaign=1067&utm_source=git)** | 10951 White Rock Rd, Rancho Cordova, CA | On Site | Oct 08 |
@@ -98,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Cencora](http://www.cencora.com)** | **[Business Solutions Analyst Intern](https://jobright.ai/jobs/info/68e63265e8daec61499a9f7f?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | On Site | Oct 07 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68e5d7061852e62f00814e2f?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Oct 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68e8934ac72beb74cb3203fa?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5604fb99ec3563b0f35a1?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
