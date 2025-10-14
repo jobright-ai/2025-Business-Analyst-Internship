@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6ecac1852e62f008206b2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6dbdeae2b894b1d71ed58?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
-| **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea529c8369791ef7820d8a?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea52522f64880ca0b51e6a?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
+| **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea52522f64880ca0b51e6a?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea529c8369791ef7820d8a?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68e6a2d0ae2b894b1d71c20c?utm_campaign=1067&utm_source=git)** | Headquarters, NJ | Hybrid | Oct 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68e7e66609580a2fe57f0b36?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 08 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[2026 Undergrad Business Internship United States](https://jobright.ai/jobs/info/68ecf45770b66e2345d397dd?utm_campaign=1067&utm_source=git)** | 10951 White Rock Rd, Rancho Cordova, CA | On Site | Oct 08 |
@@ -106,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[We Insure](https://weinsuregroup.com/)** | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e5489cae2b894b1d70ce36?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Oct 07 |
 | ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e548761852e62f0080dc51?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 07 |
 | ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e548431852e62f0080dbec?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Oct 07 |
-| ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e546bfb99ec3563b0f225e?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Oct 07 |
-| ↳ | **[2026 AFS Business Internship Program](https://jobright.ai/jobs/info/68e54664ae2b894b1d70ca1b?utm_campaign=1067&utm_source=git)** | New York City, NY | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
