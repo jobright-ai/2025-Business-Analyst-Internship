@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea77cd078b81ad160d460?utm_campaign=1067&utm_source=git)** | MA Boston | Hybrid | Oct 14 |
+| ↳ | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea6b246e5b153e5a5dbe4?utm_campaign=1067&utm_source=git)** | WI Madison | Hybrid | Oct 14 |
+| **[Prime Nest Solutions](https://www.linkedin.com/company/100044646)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/68eea4cde0db92422580913f?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | On Site | Oct 14 |
+| **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68eea4b0e0db924225809129?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 14 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ee9d7bd078b81ad160c498?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
+| **[Visa](https://www.visa.com)** | **[Business Process Analyst Intern, NA Deal Ops - Summer 2026](https://jobright.ai/jobs/info/68ee8e83d078b81ad160b9c5?utm_campaign=1067&utm_source=git)** | Foster City, CA | Hybrid | Oct 14 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[AgriBusiness IT Intern - Summer 2026](https://jobright.ai/jobs/info/68ee7694d078b81ad160a418?utm_campaign=1067&utm_source=git)** | Salisbury, MD | On Site | Oct 14 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ee767cd078b81ad160a3f2?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 14 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68ee70ffe0db9242258060df?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | On Site | Oct 14 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[IT Service Delivery - Business Analysis Intern](https://jobright.ai/jobs/info/68ee28aee0db9242257fda9c?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/68e99f90feeb0006c1a5614e?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Oct 13 |
@@ -89,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea3d3eb677c5018c6b8e56?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6ecac1852e62f008206b2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6dbdeae2b894b1d71ed58?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
+| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6da47ae2b894b1d71ec36?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
 | **[SAS](http://www.sas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea52522f64880ca0b51e6a?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea529c8369791ef7820d8a?utm_campaign=1067&utm_source=git)** | Minnesota | On Site | Oct 08 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68e6a2d0ae2b894b1d71c20c?utm_campaign=1067&utm_source=git)** | Headquarters, NJ | Hybrid | Oct 08 |
