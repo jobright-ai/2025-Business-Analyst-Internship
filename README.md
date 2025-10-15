@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/68efc17278ba1621431e02c9?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Oct 15 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/68efade3de50091dbfa4f963?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 15 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83ede50091dbfa509b8?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef4b8878ba1621431dcb14?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef26b620456578d5eb5e07?utm_campaign=1067&utm_source=git)** | Remote, XX, 99999, United States | Remote | Oct 14 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/68eebc7546e5b153e5a5f175?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Oct 14 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68eea9fae0db9242258095a4?utm_campaign=1067&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 14 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea77cd078b81ad160d460?utm_campaign=1067&utm_source=git)** | MA Boston | Hybrid | Oct 14 |
 | ↳ | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea6b246e5b153e5a5dbe4?utm_campaign=1067&utm_source=git)** | WI Madison | Hybrid | Oct 14 |
-| **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68eea4b0e0db924225809129?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 14 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ee9d7bd078b81ad160c498?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
 | **[Visa](https://www.visa.com)** | **[Business Process Analyst Intern, NA Deal Ops - Summer 2026](https://jobright.ai/jobs/info/68ee8e83d078b81ad160b9c5?utm_campaign=1067&utm_source=git)** | Foster City, CA | Hybrid | Oct 14 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[AgriBusiness IT Intern - Summer 2026](https://jobright.ai/jobs/info/68ee7694d078b81ad160a418?utm_campaign=1067&utm_source=git)** | Salisbury, MD | On Site | Oct 14 |
@@ -97,6 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Compass Digital](https://www.compassdigital.io/)** | **[Business Process Analyst Intern (Summer 2026, Charlotte, NC)](https://jobright.ai/jobs/info/68e9167d65768b6412b187f0?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 09 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eb6ec12f64880ca0b58107?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Oct 09 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7818e60ad860a1dc7f9d2?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Oct 09 |
-| **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea3d3eb677c5018c6b8e56?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
