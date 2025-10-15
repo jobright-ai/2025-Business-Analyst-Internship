@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/68efc17278ba1621431e02c9?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Oct 15 |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/68efade3de50091dbfa4f963?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 15 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef4b8878ba1621431dcb14?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef26b620456578d5eb5e07?utm_campaign=1067&utm_source=git)** | Remote, XX, 99999, United States | Remote | Oct 14 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/68eebc7546e5b153e5a5f175?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Oct 14 |
@@ -97,6 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7818e60ad860a1dc7f9d2?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Oct 09 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ea3d3eb677c5018c6b8e56?utm_campaign=1067&utm_source=git)** | US-MN-Bloomington | On Site | Oct 08 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 08 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6ecac1852e62f008206b2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| **[BMO](http://www.bmo.com)** | **[Analyst, Winter 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/68e6dbdeae2b894b1d71ed58?utm_campaign=1067&utm_source=git)** | New York, NY, USA | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
