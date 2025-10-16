@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst](https://jobright.ai/jobs/info/68f13189ef766b3f0fd09833?utm_campaign=1067&utm_source=git)** | Dayton WFH | Hybrid | Oct 16 |
-| **[uiAgent](uiagent.co)** | **[Intern, Startup](https://jobright.ai/jobs/info/68f107e2ef766b3f0fd07ea4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 16 |
+| **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Oct 16 |
+| ↳ | **[2026 Summer Internship - Operations Business Analyst](https://jobright.ai/jobs/info/68f13189ef766b3f0fd09833?utm_campaign=1067&utm_source=git)** | Dayton WFH | Hybrid | Oct 16 |
+| **[uiAgent](uiagent.co)** | **[Business Intern, Startup](https://jobright.ai/jobs/info/68f107e2ef766b3f0fd07ea4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - Rolling Meadows IL](https://jobright.ai/jobs/info/68f1324def766b3f0fd099c1?utm_campaign=1067&utm_source=git)** | United States-Illinois-Rolling Meadows | On Site | Oct 16 |
 | **[Volvo Car Manufacturing Malaysia](https://www.volvocars.com/my/)** | **[Business Intern](https://jobright.ai/jobs/info/68f0755c1f624a7ec1cf311c?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Oct 15 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Enterprise Operations Business Analyst Intern](https://jobright.ai/jobs/info/68f1064ef462172a5a7d2478?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Oct 15 |
