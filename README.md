@@ -57,24 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68f0a9afa6b9004b5e323124?utm_campaign=1067&utm_source=git)** | Mason, OH | Hybrid | Oct 16 |
 | **[Volvo Car Manufacturing Malaysia](https://www.volvocars.com/my/)** | **[Business Intern](https://jobright.ai/jobs/info/68f0755c1f624a7ec1cf311c?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Oct 15 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68f02b889821486c423c988f?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 15 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2026 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/68eff6b89821486c423c8399?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 15 |
 | ↳ | **[Summer 2026 Intern - Business Majors - ex. Business Administration , Finance](https://jobright.ai/jobs/info/68efed3ade50091dbfa50e59?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2026 Intern - Business Majors - ex. Business Administration , Finance](https://jobright.ai/jobs/info/68f0e584e6870116b1f5183f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83ede50091dbfa509b8?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 15 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef4b8878ba1621431dcb14?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef26b620456578d5eb5e07?utm_campaign=1067&utm_source=git)** | Remote, XX, 99999, United States | Remote | Oct 14 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/68eebc7546e5b153e5a5f175?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Oct 14 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68eea9fae0db9242258095a4?utm_campaign=1067&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 14 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea77cd078b81ad160d460?utm_campaign=1067&utm_source=git)** | MA Boston | Hybrid | Oct 14 |
 | ↳ | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea6b246e5b153e5a5dbe4?utm_campaign=1067&utm_source=git)** | WI Madison | Hybrid | Oct 14 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
-| ↳ | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ee9d7bd078b81ad160c498?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ee9d7bd078b81ad160c498?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
 | **[Visa](https://www.visa.com)** | **[Business Process Analyst Intern, NA Deal Ops - Summer 2026](https://jobright.ai/jobs/info/68ee8e83d078b81ad160b9c5?utm_campaign=1067&utm_source=git)** | Foster City, CA | Hybrid | Oct 14 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[AgriBusiness IT Intern - Summer 2026](https://jobright.ai/jobs/info/68ee7694d078b81ad160a418?utm_campaign=1067&utm_source=git)** | Salisbury, MD | On Site | Oct 14 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68ee70ffe0db9242258060df?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | On Site | Oct 14 |
@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68e925530930fe0bc46228ba?utm_campaign=1067&utm_source=git)** | Remote_United States | Remote | Oct 10 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84bf8c72beb74cb31d57c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 09 |
 | ↳ | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84644c72beb74cb31d17e?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | On Site | Oct 09 |
-| **[RxSense](https://rxsense.com/)** | **[Business Analyst - Summer Internship](https://jobright.ai/jobs/info/68e818e7c4895107182c234a?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
