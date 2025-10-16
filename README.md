@@ -98,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84bf8c72beb74cb31d57c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 09 |
 | ↳ | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84644c72beb74cb31d17e?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | On Site | Oct 09 |
 | **[RxSense](https://rxsense.com/)** | **[Business Analyst - Summer Internship](https://jobright.ai/jobs/info/68e818e7c4895107182c234a?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Oct 09 |
-| **[American Century Investments](https://www.americancentury.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ccd8a2d11b445e0bee2b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
