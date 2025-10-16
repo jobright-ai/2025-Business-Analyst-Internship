@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68f0a9afa6b9004b5e323124?utm_campaign=1067&utm_source=git)** | Mason, OH | Hybrid | Oct 16 |
 | **[Volvo Car Manufacturing Malaysia](https://www.volvocars.com/my/)** | **[Business Intern](https://jobright.ai/jobs/info/68f0755c1f624a7ec1cf311c?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Oct 15 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68f02b889821486c423c988f?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 15 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2026 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/68eff6b89821486c423c8399?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 15 |
@@ -98,6 +99,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84644c72beb74cb31d17e?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | On Site | Oct 09 |
 | **[RxSense](https://rxsense.com/)** | **[Business Analyst - Summer Internship](https://jobright.ai/jobs/info/68e818e7c4895107182c234a?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Oct 09 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ccd8a2d11b445e0bee2b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Oct 09 |
-| **[Cicero™, part of MGT](http://www.cicerogroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7e6e6cc49a84b7e0ff1dd?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Oct 09 |
-| **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68e7d3c009580a2fe57efe4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
