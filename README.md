@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68f02b889821486c423c988f?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 15 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2026 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/68eff6b89821486c423c8399?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 15 |
 | ↳ | **[Summer 2026 Intern - Business Majors - ex. Business Administration , Finance](https://jobright.ai/jobs/info/68efed3ade50091dbfa50e59?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Artificial Intelligence Business Analyst Intern -2026](https://jobright.ai/jobs/info/68f021c6de50091dbfa52052?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Oct 15 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
