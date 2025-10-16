@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volvo Car Manufacturing Malaysia](https://www.volvocars.com/my/)** | **[Business Intern](https://jobright.ai/jobs/info/68f0755c1f624a7ec1cf311c?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Oct 15 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68f02b889821486c423c988f?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 15 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2026 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/68eff6b89821486c423c8399?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 15 |
 | ↳ | **[Summer 2026 Intern - Business Majors - ex. Business Administration , Finance](https://jobright.ai/jobs/info/68efed3ade50091dbfa50e59?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef4b8878ba1621431dcb14?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef26b620456578d5eb5e07?utm_campaign=1067&utm_source=git)** | Remote, XX, 99999, United States | Remote | Oct 14 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/68eebc7546e5b153e5a5f175?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Oct 14 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68eea9fae0db9242258095a4?utm_campaign=1067&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 14 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea77cd078b81ad160d460?utm_campaign=1067&utm_source=git)** | MA Boston | Hybrid | Oct 14 |
 | ↳ | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea6b246e5b153e5a5dbe4?utm_campaign=1067&utm_source=git)** | WI Madison | Hybrid | Oct 14 |
@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[American Century Investments](https://www.americancentury.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ccd8a2d11b445e0bee2b12?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Oct 09 |
 | **[Cicero™, part of MGT](http://www.cicerogroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68e7e6e6cc49a84b7e0ff1dd?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68e7d3c009580a2fe57efe4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 09 |
-| **[Compass Digital](https://www.compassdigital.io/)** | **[Business Process Analyst Intern (Summer 2026, Charlotte, NC)](https://jobright.ai/jobs/info/68e9167d65768b6412b187f0?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
