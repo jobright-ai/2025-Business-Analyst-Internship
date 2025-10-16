@@ -98,6 +98,4 @@ For a complete list, click the following sortable link below:
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Business Systems Intern  - Summer 2026](https://jobright.ai/jobs/info/68e958be65768b6412b1ab96?utm_campaign=1067&utm_source=git)** | Keene, NH | Hybrid | Oct 10 |
 | **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68e935279020b95add6a4b04?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 10 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68e925530930fe0bc46228ba?utm_campaign=1067&utm_source=git)** | Remote_United States | Remote | Oct 10 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84bf8c72beb74cb31d57c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 09 |
-| ↳ | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84644c72beb74cb31d17e?utm_campaign=1067&utm_source=git)** | WI-Milwaukee | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
