@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Rolling Meadows IL - R10211372](https://jobright.ai/jobs/info/68f1bc6aef766b3f0fd11767?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 16 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Oct 16 |
 | ↳ | **[2026 Summer Internship - Operations Business Analyst](https://jobright.ai/jobs/info/68f13189ef766b3f0fd09833?utm_campaign=1067&utm_source=git)** | Dayton WFH | Hybrid | Oct 16 |
-| **[uiAgent](uiagent.co)** | **[Business Intern, Startup](https://jobright.ai/jobs/info/68f107e2ef766b3f0fd07ea4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 16 |
+| **[uiAgent](uiagent.co)** | **[Intern, Startup](https://jobright.ai/jobs/info/68f107e2ef766b3f0fd07ea4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - Rolling Meadows IL](https://jobright.ai/jobs/info/68f1324def766b3f0fd099c1?utm_campaign=1067&utm_source=git)** | United States-Illinois-Rolling Meadows | On Site | Oct 16 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[2026 J&J Orthopedics Internship – Business Insights](https://jobright.ai/jobs/info/68d49ff28c62e63bc7feb1e2?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Volvo Car Manufacturing Malaysia](https://www.volvocars.com/my/)** | **[Business Intern](https://jobright.ai/jobs/info/68f0755c1f624a7ec1cf311c?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Oct 15 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83ede50091dbfa509b8?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 15 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef4b8878ba1621431dcb14?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef26b620456578d5eb5e07?utm_campaign=1067&utm_source=git)** | Remote, XX, 99999, United States | Remote | Oct 14 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/68eebc7546e5b153e5a5f175?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Oct 14 |
