@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ea16b0cfc08e4908915ac8?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Remote | Oct 11 |
 | **[ASML](https://www.asml.com)** | **[Co-op - Business Process Analyst - Spring 2026 (Internship)](https://jobright.ai/jobs/info/68eb37b72f64880ca0b56350?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Oct 10 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Rotational Business Analyst](https://jobright.ai/jobs/info/68e9a5190930fe0bc4627ef8?utm_campaign=1067&utm_source=git)** | White Plains, NY | On Site | Oct 10 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/68e980a20930fe0bc46268f7?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
