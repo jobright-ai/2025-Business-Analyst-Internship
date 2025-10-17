@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cover Genius](http://www.covergenius.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/68f2a6d976a51a4307bc5e09?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/68f24cd665ce784c102f016c?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Oct 17 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Analyst Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/68b9a89e8043103d4f2195fa?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Oct 17 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - Rolling Meadows IL](https://jobright.ai/jobs/info/68f1324def766b3f0fd099c1?utm_campaign=1067&utm_source=git)** | United States-Illinois-Rolling Meadows | On Site | Oct 16 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[2026 J&J Orthopedics Internship – Business Insights](https://jobright.ai/jobs/info/68d49ff28c62e63bc7feb1e2?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Oct 16 |
-| **[The RuzzFuzz, LLC](https://www.linkedin.com/company/95684813)** | **[Business Analyst Internship (Career Bootcamp Program)](https://jobright.ai/jobs/info/68f2800e9a65fd345857d2d9?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Volvo Car Manufacturing Malaysia](https://www.volvocars.com/my/)** | **[Business Intern](https://jobright.ai/jobs/info/68f0755c1f624a7ec1cf311c?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Oct 15 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Enterprise Operations Business Analyst Intern](https://jobright.ai/jobs/info/68f1064ef462172a5a7d2478?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Oct 15 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68f02b889821486c423c988f?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 15 |
