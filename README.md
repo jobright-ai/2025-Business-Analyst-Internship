@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68d72a4945853d0e39ccd550?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 18 |
+| **[Amway](http://www.amway.com)** | **[Analytics Intern- ABO Business Management, Summer 2026 (42265)](https://jobright.ai/jobs/info/68c9ad60f9c6ff7aedf1c1b2?utm_campaign=1067&utm_source=git)** | Ada, MI | On Site | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[Business Communication Intern](https://jobright.ai/jobs/info/68f358809a63986de7571a76?utm_campaign=1067&utm_source=git)** | Location, WV | On Site | Oct 18 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f31ab69a63986de756f06d?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f2fd3b76a51a4307bc9ba3?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | Hybrid | Oct 17 |
