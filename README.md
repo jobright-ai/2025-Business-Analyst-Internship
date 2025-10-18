@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Business Communication Intern](https://jobright.ai/jobs/info/68f358809a63986de7571a76?utm_campaign=1067&utm_source=git)** | Location, WV | On Site | Oct 18 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f31ab69a63986de756f06d?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f2fd3b76a51a4307bc9ba3?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | Hybrid | Oct 17 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f2e48c76a51a4307bc8fc5?utm_campaign=1067&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68eea9fae0db9242258095a4?utm_campaign=1067&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 14 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea77cd078b81ad160d460?utm_campaign=1067&utm_source=git)** | MA Boston | Hybrid | Oct 14 |
 | ↳ | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea6b246e5b153e5a5dbe4?utm_campaign=1067&utm_source=git)** | WI Madison | Hybrid | Oct 14 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ee9d7bd078b81ad160c498?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
 | **[Visa](https://www.visa.com)** | **[Business Process Analyst Intern, NA Deal Ops - Summer 2026](https://jobright.ai/jobs/info/68ee8e83d078b81ad160b9c5?utm_campaign=1067&utm_source=git)** | Foster City, CA | Hybrid | Oct 14 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[AgriBusiness IT Intern - Summer 2026](https://jobright.ai/jobs/info/68ee7694d078b81ad160a418?utm_campaign=1067&utm_source=git)** | Salisbury, MD | On Site | Oct 14 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68ee70ffe0db9242258060df?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | On Site | Oct 14 |
@@ -105,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[2026 Summer Technical Business Analyst Internship](https://jobright.ai/jobs/info/68ed101881fdd1626d398892?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Oct 13 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f17bd6e6870116b1f59a3c?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 12 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/68ec093476a1db7c59861bfe?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Oct 12 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68ea76562f64880ca0b531fc?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
