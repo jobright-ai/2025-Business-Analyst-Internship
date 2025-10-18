@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f2fd3b76a51a4307bc9ba3?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | Hybrid | Oct 17 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f2e48c76a51a4307bc8fc5?utm_campaign=1067&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/68f2ded59a63986de756ccd9?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 17 |
 | **[Cover Genius](http://www.covergenius.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/68f2a6d976a51a4307bc5e09?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
