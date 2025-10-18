@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb7b4c8043103d4f228f41?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f39fa59a63986de7572f74?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 18 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/68f34f1176a51a4307bcd651?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Oct 18 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68cf16b7fb49c96ca6ea5c20?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Oct 18 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68d72a4945853d0e39ccd550?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 18 |
 | **[Amway](http://www.amway.com)** | **[Analytics Intern- ABO Business Management, Summer 2026 (42265)](https://jobright.ai/jobs/info/68c9ad60f9c6ff7aedf1c1b2?utm_campaign=1067&utm_source=git)** | Ada, MI | On Site | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[Business Communication Intern](https://jobright.ai/jobs/info/68f358809a63986de7571a76?utm_campaign=1067&utm_source=git)** | Location, WV | On Site | Oct 18 |
