@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f31ab69a63986de756f06d?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f2fd3b76a51a4307bc9ba3?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | Hybrid | Oct 17 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f2e48c76a51a4307bc8fc5?utm_campaign=1067&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/68f2ded59a63986de756ccd9?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 17 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Analyst Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/68b9a89e8043103d4f2195fa?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Oct 17 |
 | **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Oct 17 |
-| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cc32d816d00d2beeb1b7d7?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Oct 17 |
 | **[Crest Vale](crestvale.us)** | **[Business Internship](https://jobright.ai/jobs/info/68f24f86cb0abf15612f6b8f?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Oct 17 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Rolling Meadows IL - R10211372](https://jobright.ai/jobs/info/68f1bc6aef766b3f0fd11767?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 16 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Oct 16 |
@@ -90,8 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d300d317554c2d9eeecc76?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Oct 15 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 15 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68d877bf7796a83635f1163c?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Oct 15 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef4b8878ba1621431dcb14?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 15 |
-| **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68ef26b620456578d5eb5e07?utm_campaign=1067&utm_source=git)** | Remote, XX, 99999, United States | Remote | Oct 14 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/68eebc7546e5b153e5a5f175?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Oct 14 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68eea9fae0db9242258095a4?utm_campaign=1067&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 14 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea77cd078b81ad160d460?utm_campaign=1067&utm_source=git)** | MA Boston | Hybrid | Oct 14 |
