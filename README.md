@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f2e48c76a51a4307bc8fc5?utm_campaign=1067&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/68f2ded59a63986de756ccd9?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 17 |
 | **[Cover Genius](http://www.covergenius.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/68f2a6d976a51a4307bc5e09?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/68f24cd665ce784c102f016c?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Oct 17 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
@@ -105,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f17bd6e6870116b1f59a3c?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 12 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/68ec093476a1db7c59861bfe?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Oct 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68ea76562f64880ca0b531fc?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 11 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ea16b0cfc08e4908915ac8?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Remote | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
