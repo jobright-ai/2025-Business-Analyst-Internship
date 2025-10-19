@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/68f4c1c676a51a4307bd36c3?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Oct 19 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[2026 Business Associate Intern](https://jobright.ai/jobs/info/68f3ba6076a51a4307bcf69c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/68bb7b4c8043103d4f228f41?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68f45f2676a51a4307bd0fe0?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Program 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/68ed459481fdd1626d39a7c1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[2026 Summer Technical Business Analyst Internship](https://jobright.ai/jobs/info/68ed101881fdd1626d398892?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Oct 13 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f17bd6e6870116b1f59a3c?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 12 |
-| **[Skyworks LLC](http://skyworksllc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/68ec093476a1db7c59861bfe?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
