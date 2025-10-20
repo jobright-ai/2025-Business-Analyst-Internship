@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/68f6545e9a63986de757d69b?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Oct 20 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/68f6508476a51a4307bd93f2?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Oct 20 |
+| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Oct 20 |
+| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Oct 20 |
+| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Oct 20 |
 | **[Badger](http://badgerlax.com)** | **[Business Analyst/AI Intern](https://jobright.ai/jobs/info/68f5fed776a51a4307bd7f27?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 20 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/68f5db969a65fd345858f7ec?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Oct 19 |
 | ↳ | **[Intern- Business](https://jobright.ai/jobs/info/68f5db3e9a65fd345858f760?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 19 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Amway](http://www.amway.com)** | **[Analytics Intern- ABO Business Management, Summer 2026 (42265)](https://jobright.ai/jobs/info/68c9ad60f9c6ff7aedf1c1b2?utm_campaign=1067&utm_source=git)** | Ada, MI | On Site | Oct 18 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f31ab69a63986de756f06d?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f45d349a63986de7574da4?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Oct 17 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f2e48c76a51a4307bc8fc5?utm_campaign=1067&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
 | **[Cover Genius](http://www.covergenius.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/68f2a6d976a51a4307bc5e09?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/68f24cd665ce784c102f016c?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Oct 17 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
