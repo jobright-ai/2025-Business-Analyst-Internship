@@ -119,5 +119,5 @@ For a complete list, click the following sortable link below:
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68eea9fae0db9242258095a4?utm_campaign=1067&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 14 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea77cd078b81ad160d460?utm_campaign=1067&utm_source=git)** | MA Boston | Hybrid | Oct 14 |
 | ↳ | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea6b246e5b153e5a5dbe4?utm_campaign=1067&utm_source=git)** | WI Madison | Hybrid | Oct 14 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ee9d7bd078b81ad160c498?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
