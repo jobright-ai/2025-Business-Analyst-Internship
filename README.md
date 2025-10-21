@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68ca3b6ed4187c55157a893d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 21 |
+| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Business Analytics](https://jobright.ai/jobs/info/68db68c49f13662d20e4b076?utm_campaign=1067&utm_source=git)** | Providence, RI | On Site | Oct 21 |
+| **[Textron](http://textron.com)** | **[2026 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/68f77611ec6dbe7073fc31ca?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 21 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Business Analyst (Remote)](https://jobright.ai/jobs/info/68f701789a63986de75844c2?utm_campaign=1067&utm_source=git)** | Reston, VA | Remote | Oct 20 |
 | **[EcoFlow](https://ecoflow.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f6e8bd76a51a4307bdf4ef?utm_campaign=1067&utm_source=git)** | California, United States | Remote | Oct 20 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Business Analyst (Remote)](https://jobright.ai/jobs/info/68f6b05f76a51a4307bdd5bb?utm_campaign=1067&utm_source=git)** | Reston, VA | Remote | Oct 20 |
@@ -93,12 +96,11 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Analyst Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/68b9a89e8043103d4f2195fa?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Oct 17 |
 | **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Oct 17 |
+| **[uiAgent](uiagent.co)** | **[Business Intern, Startup](https://jobright.ai/jobs/info/68f107e2ef766b3f0fd07ea4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Rolling Meadows IL - R10211372](https://jobright.ai/jobs/info/68f1bc6aef766b3f0fd11767?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 16 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Oct 16 |
 | ↳ | **[2026 Summer Internship - Operations Business Analyst](https://jobright.ai/jobs/info/68f13189ef766b3f0fd09833?utm_campaign=1067&utm_source=git)** | Dayton WFH | Hybrid | Oct 16 |
-| **[uiAgent](uiagent.co)** | **[Intern, Startup](https://jobright.ai/jobs/info/68f107e2ef766b3f0fd07ea4?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68cb246defdec76df36b96fa?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Oct 16 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - Rolling Meadows IL](https://jobright.ai/jobs/info/68f1324def766b3f0fd099c1?utm_campaign=1067&utm_source=git)** | United States-Illinois-Rolling Meadows | On Site | Oct 16 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[2026 J&J Orthopedics Internship – Business Insights](https://jobright.ai/jobs/info/68d49ff28c62e63bc7feb1e2?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Oct 16 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68f75574ec6dbe7073fbd61d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Oct 16 |
@@ -114,10 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83ede50091dbfa509b8?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68e55283ae2b894b1d70d6be?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 15 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 15 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d300d317554c2d9eeecc76?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Oct 15 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/68eebc7546e5b153e5a5f175?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Oct 14 |
-| **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Technical Business Analyst Internship 2025](https://jobright.ai/jobs/info/68eea9fae0db9242258095a4?utm_campaign=1067&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 14 |
-| **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea77cd078b81ad160d460?utm_campaign=1067&utm_source=git)** | MA Boston | Hybrid | Oct 14 |
-| ↳ | **[Summer 2026 Intern - Business Insights & Enablement](https://jobright.ai/jobs/info/68eea6b246e5b153e5a5dbe4?utm_campaign=1067&utm_source=git)** | WI Madison | Hybrid | Oct 14 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
