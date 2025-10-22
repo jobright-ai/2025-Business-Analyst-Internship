@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Undergraduate - Business and Corporate Functions Intern](https://jobright.ai/jobs/info/68f7ffa7ec6dbe7073fd0020?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 21 |
+| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f805015dc1be6012820396?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Oct 21 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 21 |
 | **[Checkmate IT Tech](https://checkmateittech.com/)** | **[Business Analyst Intern (Onsite – South Brunswick, NJ)](https://jobright.ai/jobs/info/68f7f52db0edcf159dc8cb03?utm_campaign=1067&utm_source=git)** | South Brunswick, NJ | On Site | Oct 21 |
 | **[Navistar Inc](http://www.navistar.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f7eaf7ec6dbe7073fce710?utm_campaign=1067&utm_source=git)** | Lisle, Illinois | On Site | Oct 21 |
