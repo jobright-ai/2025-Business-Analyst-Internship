@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Oct 22 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f8f89da628d10664e86f82?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Oct 22 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68f8f1efa628d10664e8666c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 22 |
+| ↳ | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68f8e3b94bafad6d2d765fb2?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Oct 22 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ce2da11ad6b16f028a2a6e?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Oct 22 |
-| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68ccfcce5954791a1d702429?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Oct 22 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
+| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ccfcce5954791a1d702429?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Oct 22 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68dc5167a125e75c4229fac8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Oct 22 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Oct 22 |
