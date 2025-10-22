@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f805015dc1be6012820396?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Oct 21 |
+| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f848224bafad6d2d7611fd?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Oct 21 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f805015dc1be6012820396?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Oct 21 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 21 |
-| **[Checkmate IT Tech](https://checkmateittech.com/)** | **[Business Analyst Intern (Onsite – South Brunswick, NJ)](https://jobright.ai/jobs/info/68f7f52db0edcf159dc8cb03?utm_campaign=1067&utm_source=git)** | South Brunswick, NJ | On Site | Oct 21 |
-| **[Navistar Inc](http://www.navistar.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f7ec45ec6dbe7073fce8ef?utm_campaign=1067&utm_source=git)** | Lisle, Illinois | On Site | Oct 21 |
+| **[Navistar Inc](http://www.navistar.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f7eaf7ec6dbe7073fce710?utm_campaign=1067&utm_source=git)** | Lisle, Illinois | On Site | Oct 21 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Transformation and Innovation Intern / Summer 2026](https://jobright.ai/jobs/info/68f7b615b0edcf159dc873bc?utm_campaign=1067&utm_source=git)** | Melville, NY | On Site | Oct 21 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Oct 21 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68ca3b6ed4187c55157a893d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 21 |
@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Analyst Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/68b9a89e8043103d4f2195fa?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Oct 17 |
 | **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Oct 17 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Rolling Meadows IL - R10211372](https://jobright.ai/jobs/info/68f1bc6aef766b3f0fd11767?utm_campaign=1067&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 16 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Oct 16 |
 | ↳ | **[2026 Summer Internship - Operations Business Analyst](https://jobright.ai/jobs/info/68f13189ef766b3f0fd09833?utm_campaign=1067&utm_source=git)** | Dayton WFH | Hybrid | Oct 16 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68cb246defdec76df36b96fa?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Oct 16 |
@@ -125,5 +124,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83ede50091dbfa509b8?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68e55283ae2b894b1d70d6be?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Oct 15 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eeb0d2e0db924225809b9b?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 15 |
-| **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d300d317554c2d9eeecc76?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
