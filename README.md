@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68ce99c7fb49c96ca6ea1fb3?utm_campaign=1067&utm_source=git)** | Detroit Metro | Hybrid | Oct 22 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68c7ae1bdb52c07d2884e346?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 22 |
 | **[International](https://www.international.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f8a7976de2db04dc3e13c0?utm_campaign=1067&utm_source=git)** | Lisle, IL | On Site | Oct 22 |
 | **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f848224bafad6d2d7611fd?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Oct 21 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f805015dc1be6012820396?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Oct 21 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 21 |
-| **[Navistar Inc](http://www.navistar.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f7eaf7ec6dbe7073fce710?utm_campaign=1067&utm_source=git)** | Lisle, Illinois | On Site | Oct 21 |
+| **[Navistar Inc](http://www.navistar.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f7ec45ec6dbe7073fce8ef?utm_campaign=1067&utm_source=git)** | Lisle, Illinois | On Site | Oct 21 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Transformation and Innovation Intern / Summer 2026](https://jobright.ai/jobs/info/68f7b615b0edcf159dc873bc?utm_campaign=1067&utm_source=git)** | Melville, NY | On Site | Oct 21 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Oct 21 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68ca3b6ed4187c55157a893d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 21 |
@@ -117,11 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Enterprise Operations Business Analyst Intern](https://jobright.ai/jobs/info/68f1064ef462172a5a7d2478?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Oct 15 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Commercial Sales](https://jobright.ai/jobs/info/68f02b889821486c423c988f?utm_campaign=1067&utm_source=git)** | Cary, NC | On Site | Oct 15 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2026 Intern (Detroit Branch) - Business Undergrad Majors](https://jobright.ai/jobs/info/68eff6b89821486c423c8399?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 15 |
-| ↳ | **[Summer 2026 Intern - Business Majors - ex. Business Administration , Finance](https://jobright.ai/jobs/info/68efed3ade50091dbfa50e59?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2026 Intern - Business Majors - ex. Business Administration , Finance](https://jobright.ai/jobs/info/68f0e584e6870116b1f5183f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
-| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
-| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
-| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
-| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83ede50091dbfa509b8?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
