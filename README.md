@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 23 |
+| **[LM Restaurants](https://www.lmrest.com)** | **[Business Intern](https://jobright.ai/jobs/info/68fa3ff1edd190144238a223?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 23 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Technology Operations Intern](https://jobright.ai/jobs/info/68dc8e87a125e75c422a215d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
 | ↳ | **[Business Analyst/AI Intern](https://jobright.ai/jobs/info/68dc8f32ddc10244dd676c40?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ddba3444d32141e0bfa940?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Wawa, Inc.](https://www.wawa.com)** | **[EV Charging & New Fuels Business Analyst Intern](https://jobright.ai/jobs/info/68f69f3f76a51a4307bdc676?utm_campaign=1067&utm_source=git)** | Media, PA | On Site | Oct 20 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f69d3d9a63986de758044f?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Business Analytics, Sales, Service, Delivery and Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f6991c9a63986de7580177?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Oct 20 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68f3377376a51a4307bcc0dc?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Golub Capital](http://golubcapital.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/68f68fac9a63986de757f862?utm_campaign=1067&utm_source=git)** | Chicago | Hybrid | Oct 20 |
 | **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/68f6545e9a63986de757d69b?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Oct 20 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Oct 20 |
@@ -125,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Analyst Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/68b9a89e8043103d4f2195fa?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Oct 17 |
 | **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Oct 17 |
-| **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
