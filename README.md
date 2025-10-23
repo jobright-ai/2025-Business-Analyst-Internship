@@ -125,6 +125,4 @@ For a complete list, click the following sortable link below:
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Oct 16 |
 | ↳ | **[2026 Summer Internship - Operations Business Analyst](https://jobright.ai/jobs/info/68f13189ef766b3f0fd09833?utm_campaign=1067&utm_source=git)** | Dayton WFH | Hybrid | Oct 16 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68cb246defdec76df36b96fa?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Oct 16 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[2026 J&J Orthopedics Internship – Business Insights](https://jobright.ai/jobs/info/68d49ff28c62e63bc7feb1e2?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 16 |
-| **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
