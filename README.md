@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/68f95b90a628d10664e8c6bf?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Oct 22 |
 | **[Fresh Mark Inc.](http://freshmark.com)** | **[2026 Agribusiness Intern](https://jobright.ai/jobs/info/68f94a9fa628d10664e8ba3d?utm_campaign=1067&utm_source=git)** | Massillon, OH | On Site | Oct 22 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Business Systems Analyst](https://jobright.ai/jobs/info/68f93290a628d10664e8a408?utm_campaign=1067&utm_source=git)** | Raleigh, North Carolina | On Site | Oct 22 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/68dc4bd4ddc10244dd673e0d?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 22 |
