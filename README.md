@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Festival Foods](http://career.festfoods.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad1528d32c164778cbb15?utm_campaign=1067&utm_source=git)** | 54115 | On Site | Oct 23 |
+| **[Festival Foods](http://career.festfoods.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fb171d9e8e925ac6c88ac2?utm_campaign=1067&utm_source=git)** | De Pere, WI | On Site | Oct 23 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fadaad9e8e925ac6c86df1?utm_campaign=1067&utm_source=git)** | 54115 | On Site | Oct 23 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad5088d32c164778cbc89?utm_campaign=1067&utm_source=git)** | 1724 Lawrence Drive | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad0fa9e8e925ac6c868bd?utm_campaign=1067&utm_source=git)** | De Pere | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad0e33c99cc1d96026878?utm_campaign=1067&utm_source=git)** | 1724 Lawrence Drive | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68facf8c9e8e925ac6c8670e?utm_campaign=1067&utm_source=git)** | US-WI-De Pere | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68facea83c99cc1d960265c5?utm_campaign=1067&utm_source=git)** | WI | On Site | Oct 23 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8e3367272b29af730d19?utm_campaign=1067&utm_source=git)** | US-TN-Brentwood | Hybrid | Oct 23 |
@@ -89,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f848224bafad6d2d7611fd?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Oct 21 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f805015dc1be6012820396?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Oct 21 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 21 |
-| **[Navistar Inc](http://www.navistar.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f7eaf7ec6dbe7073fce710?utm_campaign=1067&utm_source=git)** | Lisle, Illinois | On Site | Oct 21 |
+| **[Navistar Inc](http://www.navistar.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f7ec45ec6dbe7073fce8ef?utm_campaign=1067&utm_source=git)** | Lisle, Illinois | On Site | Oct 21 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Transformation and Innovation Intern / Summer 2026](https://jobright.ai/jobs/info/68f7b615b0edcf159dc873bc?utm_campaign=1067&utm_source=git)** | Melville, NY | On Site | Oct 21 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Oct 21 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68ca3b6ed4187c55157a893d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 21 |
@@ -129,7 +130,4 @@ For a complete list, click the following sortable link below:
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f6fe679a63986de758410c?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Oct 17 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f6882076a51a4307bdb2e5?utm_campaign=1067&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 17 |
 | **[Cover Genius](http://www.covergenius.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/68f2a6d976a51a4307bc5e09?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Oct 17 |
-| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Analyst Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/68b9a89e8043103d4f2195fa?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Oct 17 |
-| **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
