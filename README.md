@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEMIA](https://www.idemia.com/)** | **[Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8e3367272b29af730d19?utm_campaign=1067&utm_source=git)** | US-TN-Brentwood | Hybrid | Oct 23 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68fa8af1b2c86843bf20f0ab?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Oct 23 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Intern](https://jobright.ai/jobs/info/68fa728aedd190144238c8dc?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Oct 23 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 23 |
 | **[LM Restaurants](https://www.lmrest.com)** | **[Business Intern](https://jobright.ai/jobs/info/68fa3ff1edd190144238a223?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 23 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Technology Operations Intern](https://jobright.ai/jobs/info/68dc8e87a125e75c422a215d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68f8f1efa628d10664e8666c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 22 |
 | ↳ | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68f8e3b94bafad6d2d765fb2?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Oct 22 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ce2da11ad6b16f028a2a6e?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Oct 22 |
-| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68ccfcce5954791a1d702429?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Oct 22 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
+| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ccfcce5954791a1d702429?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Oct 22 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68dc5167a125e75c4229fac8?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Oct 22 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Oct 22 |
