@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbd309f55bb021a889ce5f?utm_campaign=1067&utm_source=git)** | US-KS-Overland Park | On Site | Oct 24 |
+| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbf0664129dd33cd136901?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Oct 24 |
+| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbd309f55bb021a889ce5f?utm_campaign=1067&utm_source=git)** | US-KS-Overland Park | On Site | Oct 24 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbd0f5f55bb021a889cc6d?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Oct 24 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- Business Analyst](https://jobright.ai/jobs/info/68fbce0d93c49825ab105e43?utm_campaign=1067&utm_source=git)** | Wilmington, MA | On Site | Oct 24 |
 | ↳ | **[Intern- Business Analyst](https://jobright.ai/jobs/info/68fba19793c49825ab104495?utm_campaign=1067&utm_source=git)** | USA Wilmington,  MA - HQ | On Site | Oct 24 |
@@ -67,11 +68,11 @@ For a complete list, click the following sortable link below:
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Oct 24 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Enterprise Operations Business Analyst Intern](https://jobright.ai/jobs/info/68fb78e893c49825ab1034c8?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Oct 24 |
 | **[Festival Foods](http://career.festfoods.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fb171d9e8e925ac6c88ac2?utm_campaign=1067&utm_source=git)** | De Pere, WI | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad57e8d32c164778cbce7?utm_campaign=1067&utm_source=git)** | WI | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad1528d32c164778cbb15?utm_campaign=1067&utm_source=git)** | 54115 | On Site | Oct 23 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fadaad9e8e925ac6c86df1?utm_campaign=1067&utm_source=git)** | 54115 | On Site | Oct 23 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad1889e8e925ac6c86955?utm_campaign=1067&utm_source=git)** | US-WI-De Pere | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad0fa9e8e925ac6c868bd?utm_campaign=1067&utm_source=git)** | De Pere | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad0e33c99cc1d96026878?utm_campaign=1067&utm_source=git)** | 1724 Lawrence Drive | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68facf8c9e8e925ac6c8670e?utm_campaign=1067&utm_source=git)** | US-WI-De Pere | On Site | Oct 23 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68facea83c99cc1d960265c5?utm_campaign=1067&utm_source=git)** | WI | On Site | Oct 23 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 23 |
 | **[LM Restaurants](https://www.lmrest.com)** | **[Business Intern](https://jobright.ai/jobs/info/68fa3ff1edd190144238a223?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 23 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Technology Operations Intern](https://jobright.ai/jobs/info/68dc8e87a125e75c422a215d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68f8f1efa628d10664e8666c?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Oct 22 |
 | ↳ | **[Mass Market Solar Delivery Business Intern - Minneapolis, MN or Denver, CO](https://jobright.ai/jobs/info/68f8e3b94bafad6d2d765fb2?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Oct 22 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ce2da11ad6b16f028a2a6e?utm_campaign=1067&utm_source=git)** | Kennett Square, PA | On Site | Oct 22 |
-| ↳ | **[2026 Business Intern](https://jobright.ai/jobs/info/68ccfcce5954791a1d702429?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Oct 22 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
+| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ccfcce5954791a1d702429?utm_campaign=1067&utm_source=git)** | Centennial, CO | On Site | Oct 22 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Oct 22 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Oct 22 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 22 |
@@ -132,6 +133,4 @@ For a complete list, click the following sortable link below:
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/68d72a4945853d0e39ccd550?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 18 |
 | **[Amway](http://www.amway.com)** | **[Analytics Intern- ABO Business Management, Summer 2026 (42265)](https://jobright.ai/jobs/info/68c9ad60f9c6ff7aedf1c1b2?utm_campaign=1067&utm_source=git)** | Ada, MI | On Site | Oct 18 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/68f886506de2db04dc3dfeda?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | On Site | Oct 17 |
-| **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f31ab69a63986de756f06d?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
-| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f6fe679a63986de758410c?utm_campaign=1067&utm_source=git)** | Spartanburg, SC | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
