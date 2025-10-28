@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stratify Edge](stratifyedge.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/6900f2534539ea1f2141adf3?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Oct 28 |
+| **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/68dc4bd4ddc10244dd673e0d?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 28 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern - 2026](https://jobright.ai/jobs/info/69011b484539ea1f2141c91c?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Oct 28 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6900e253f8ce7a040fdba06a?utm_campaign=1067&utm_source=git)** | United States-California-Palmdale | On Site | Oct 28 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69010190d5259a1b3cff067f?utm_campaign=1067&utm_source=git)** | Richmond, CA | Remote | Oct 28 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Risk Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68fabfd967272b29af73340a?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 28 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 28 |
@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ffd522e0c73b3a1119f017?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 27 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ffc600e04ac838fb5bb168?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 27 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Oct 27 |
+| **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Business Analyst Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/690105cb4539ea1f2141bab0?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ff9e8b0ab3b222462ac7f1?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, USA | On Site | Oct 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68ff8d330ab3b222462abe85?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 27 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cccea0fa466330fef9198f?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 26 |
@@ -85,18 +86,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbd309f55bb021a889ce5f?utm_campaign=1067&utm_source=git)** | US-KS-Overland Park | On Site | Oct 24 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbd0f5f55bb021a889cc6d?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Oct 24 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- Business Analyst](https://jobright.ai/jobs/info/68fbce0d93c49825ab105e43?utm_campaign=1067&utm_source=git)** | Wilmington, MA | On Site | Oct 24 |
-| **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/68dc4bd4ddc10244dd673e0d?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 24 |
-| **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- Business Analyst](https://jobright.ai/jobs/info/68fba19793c49825ab104495?utm_campaign=1067&utm_source=git)** | USA Wilmington,  MA - HQ | On Site | Oct 24 |
+| ↳ | **[Intern- Business Analyst](https://jobright.ai/jobs/info/68fba19793c49825ab104495?utm_campaign=1067&utm_source=git)** | USA Wilmington,  MA - HQ | On Site | Oct 24 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 24 |
 | **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern - HR Time and Attendance](https://jobright.ai/jobs/info/68deb01544d32141e0c019fb?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Oct 24 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Winter 2026 (Co-op/internship) - 4 months](https://jobright.ai/jobs/info/68fb86374129dd33cd132916?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Oct 24 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Oct 24 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Enterprise Operations Business Analyst Intern](https://jobright.ai/jobs/info/68fb78e893c49825ab1034c8?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Oct 24 |
 | **[Festival Foods](http://career.festfoods.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fb171d9e8e925ac6c88ac2?utm_campaign=1067&utm_source=git)** | De Pere, WI | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad1889e8e925ac6c86955?utm_campaign=1067&utm_source=git)** | US-WI-De Pere | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad1528d32c164778cbb15?utm_campaign=1067&utm_source=git)** | 54115 | On Site | Oct 23 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fadaad9e8e925ac6c86df1?utm_campaign=1067&utm_source=git)** | 54115 | On Site | Oct 23 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad5088d32c164778cbc89?utm_campaign=1067&utm_source=git)** | 1724 Lawrence Drive | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad0fa9e8e925ac6c868bd?utm_campaign=1067&utm_source=git)** | De Pere | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad0e33c99cc1d96026878?utm_campaign=1067&utm_source=git)** | 1724 Lawrence Drive | On Site | Oct 23 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68facf8c9e8e925ac6c8670e?utm_campaign=1067&utm_source=git)** | US-WI-De Pere | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68facea83c99cc1d960265c5?utm_campaign=1067&utm_source=git)** | WI | On Site | Oct 23 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 23 |
 | **[LM Restaurants](https://www.lmrest.com)** | **[Business Intern](https://jobright.ai/jobs/info/68fa3ff1edd190144238a223?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 23 |
@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68ce99c7fb49c96ca6ea1fb3?utm_campaign=1067&utm_source=git)** | Detroit Metro | Hybrid | Oct 22 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/68c7ae1bdb52c07d2884e346?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 22 |
 | **[International](https://www.international.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f8a7976de2db04dc3e13c0?utm_campaign=1067&utm_source=git)** | Lisle, IL | On Site | Oct 22 |
-| **[DigiKey](https://www.digikey.ca)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68f848224bafad6d2d7611fd?utm_campaign=1067&utm_source=git)** | Thief River Falls, MN | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
