@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ffee790ab3b222462b02eb?utm_campaign=1067&utm_source=git)** | Detroit, MI | On Site | Oct 27 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ffd522e0c73b3a1119f017?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 27 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ffc600e04ac838fb5bb168?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 27 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Oct 27 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Business Intern](https://jobright.ai/jobs/info/68ff9e8b0ab3b222462ac7f1?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, USA | On Site | Oct 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68ff8d330ab3b222462abe85?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 27 |
-| **[ePS](https://www.eps-one.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ff78c5e0c73b3a1119ba75?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Oct 27 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cccea0fa466330fef9198f?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68f73832ec6dbe7073fb7d99?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 26 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 25 |
@@ -83,11 +83,11 @@ For a complete list, click the following sortable link below:
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Oct 24 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Enterprise Operations Business Analyst Intern](https://jobright.ai/jobs/info/68fb78e893c49825ab1034c8?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Oct 24 |
 | **[Festival Foods](http://career.festfoods.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fb171d9e8e925ac6c88ac2?utm_campaign=1067&utm_source=git)** | De Pere, WI | On Site | Oct 23 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad57e8d32c164778cbce7?utm_campaign=1067&utm_source=git)** | WI | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad1528d32c164778cbb15?utm_campaign=1067&utm_source=git)** | 54115 | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad0fa9e8e925ac6c868bd?utm_campaign=1067&utm_source=git)** | De Pere | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad0e33c99cc1d96026878?utm_campaign=1067&utm_source=git)** | 1724 Lawrence Drive | On Site | Oct 23 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68facf8c9e8e925ac6c8670e?utm_campaign=1067&utm_source=git)** | US-WI-De Pere | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68facea83c99cc1d960265c5?utm_campaign=1067&utm_source=git)** | WI | On Site | Oct 23 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Oct 23 |
 | **[LM Restaurants](https://www.lmrest.com)** | **[Business Intern](https://jobright.ai/jobs/info/68fa3ff1edd190144238a223?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 23 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Technology Operations Intern](https://jobright.ai/jobs/info/68dc8e87a125e75c422a215d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
