@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/6903badcd64a22104aa9238f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
+| **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6903a95fff462851fefed3bb?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Oct 30 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Relationship Management & FinOps Intern, Summer 2026](https://jobright.ai/jobs/info/69035f3fff462851fefeacc7?utm_campaign=1067&utm_source=git)** | Bristol, CT | On Site | Oct 30 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eb6ec12f64880ca0b58107?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Oct 30 |
@@ -104,8 +106,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Winter 2026 (Co-op/internship) - 4 months](https://jobright.ai/jobs/info/68fb86374129dd33cd132916?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Oct 24 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Oct 24 |
 | **[Festival Foods](http://career.festfoods.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fb171d9e8e925ac6c88ac2?utm_campaign=1067&utm_source=git)** | De Pere, WI | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fadaad9e8e925ac6c86df1?utm_campaign=1067&utm_source=git)** | 54115 | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad5088d32c164778cbc89?utm_campaign=1067&utm_source=git)** | 1724 Lawrence Drive | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad1889e8e925ac6c86955?utm_campaign=1067&utm_source=git)** | US-WI-De Pere | On Site | Oct 23 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/68fad0fa9e8e925ac6c868bd?utm_campaign=1067&utm_source=git)** | De Pere | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
