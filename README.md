@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP](http://www.hp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6903cce9d64a22104aa93451?utm_campaign=1067&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Oct 30 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/6903badcd64a22104aa9238f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6903a95fff462851fefed3bb?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Oct 30 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
