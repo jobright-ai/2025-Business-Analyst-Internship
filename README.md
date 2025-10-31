@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69019ccd4539ea1f21421cbc?utm_campaign=1067&utm_source=git)** | Spring, TX | Hybrid | Oct 28 |
 | ↳ | **[Business Transformation Intern](https://jobright.ai/jobs/info/69018100f8ce7a040fdc0410?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Oct 28 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[Technical Business Analyst Internship (Knowledge Enablement) – Summer 2026](https://jobright.ai/jobs/info/690264f000a1816c41e9d925?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 28 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - R10212505](https://jobright.ai/jobs/info/69013c494539ea1f2141e57a?utm_campaign=1067&utm_source=git)** | Palmdale, CA | On Site | Oct 28 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/690137b4f8ce7a040fdbdabe?utm_campaign=1067&utm_source=git)** | TX - Richardson | Hybrid | Oct 28 |
 | ↳ | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/69012ff9d5259a1b3cff294c?utm_campaign=1067&utm_source=git)** | IL - Chicago | Hybrid | Oct 28 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Oct 28 |
@@ -104,6 +103,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbd309f55bb021a889ce5f?utm_campaign=1067&utm_source=git)** | US-KS-Overland Park | On Site | Oct 24 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbd0f5f55bb021a889cc6d?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Oct 24 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- Business Analyst](https://jobright.ai/jobs/info/68fbce0d93c49825ab105e43?utm_campaign=1067&utm_source=git)** | Wilmington, MA | On Site | Oct 24 |
-| ↳ | **[Intern- Business Analyst](https://jobright.ai/jobs/info/68fba19793c49825ab104495?utm_campaign=1067&utm_source=git)** | USA Wilmington,  MA - HQ | On Site | Oct 24 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
