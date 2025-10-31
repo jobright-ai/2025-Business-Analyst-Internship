@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 31 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Oct 31 |
+| **[Arvento A](arventoa.us)** | **[Business Analyst](https://jobright.ai/jobs/info/69049f4d63502c0aded743fa?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Oct 30 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69041a6bd64a22104aa96f1f?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Oct 30 |
 | ↳ | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69041896ff462851feff2b2e?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Oct 30 |
