@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69056d1b122e8474c78d8df2?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Oct 31 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business Analyst Internship, Summer 2026](https://jobright.ai/jobs/info/69056c1a122e8474c78d8d97?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 31 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/690559bf63502c0aded7a770?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6905566c122e8474c78d85c1?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 31 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Business Analytics Intern - Spring 2026](https://jobright.ai/jobs/info/6905412063502c0aded79f08?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
@@ -107,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68f73832ec6dbe7073fb7d99?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Oct 26 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Oct 25 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Intern I](https://jobright.ai/jobs/info/68cf633f846f0b04af681af8?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Oct 25 |
-| **[Lockton](https://global.lockton.com)** | **[Global Business Intern - Kansas City](https://jobright.ai/jobs/info/68cc5cac16d00d2beeb1e06a?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
