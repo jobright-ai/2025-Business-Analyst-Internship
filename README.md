@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 01 |
 | **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68e935279020b95add6a4b04?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ea16b0cfc08e4908915ac8?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Remote | Nov 01 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business Analyst Internship, Summer 2026](https://jobright.ai/jobs/info/69056c1a122e8474c78d8d97?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 31 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68e6a2d0ae2b894b1d71c20c?utm_campaign=1067&utm_source=git)** | Headquarters, NJ | Hybrid | Oct 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68ff8d330ab3b222462abe85?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 29 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6902e9d3ff462851fefe78aa?utm_campaign=1067&utm_source=git)** | North Highlands, CA | On Site | Oct 29 |
+| **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Technical Business Analyst Internship 2026](https://jobright.ai/jobs/info/69061922122e8474c78ded7d?utm_campaign=1067&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Relationship Management & FinOps Intern, Summer 2026](https://jobright.ai/jobs/info/69025bd698707b2b0fe6e9c0?utm_campaign=1067&utm_source=git)** | Bristol, CT, USA | On Site | Oct 29 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6905f98aff462851fe002079?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Oct 29 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6905b635ff462851fefffa43?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Oct 29 |
