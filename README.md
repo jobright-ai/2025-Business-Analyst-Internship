@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Business Analytics Intern - Spring 2026](https://jobright.ai/jobs/info/6905412063502c0aded79f08?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Business Analytics Intern - Spring 2026](https://jobright.ai/jobs/info/69053298122e8474c78d74fa?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Business Operations - Data Analytics Intern](https://jobright.ai/jobs/info/6905250e63502c0aded78ac6?utm_campaign=1067&utm_source=git)** | Chesapeake, VA | On Site | Oct 31 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business Analyst Internship, Summer 2026](https://jobright.ai/jobs/info/6905207063502c0aded7860f?utm_campaign=1067&utm_source=git)** | Milwaukee, WI Corporate | On Site | Oct 31 |
+| **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690540f0ff462851feffc48a?utm_campaign=1067&utm_source=git)** | Herndon, VA, US | Hybrid | Oct 31 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/69050755ff462851feff99f0?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 31 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/6905005dff462851feff9743?utm_campaign=1067&utm_source=git)** | US | MA | Boston | 33 Arch Street | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68e7d3c009580a2fe57efe4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 31 |
