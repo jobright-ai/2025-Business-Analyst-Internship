@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ffd522e0c73b3a1119f017?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 27 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Business Analyst Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/690105cb4539ea1f2141bab0?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Oct 27 |
-| **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cccea0fa466330fef9198f?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
