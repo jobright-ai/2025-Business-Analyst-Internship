@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/69068dae122e8474c78e0393?utm_campaign=1067&utm_source=git)** | Holmdel, NJ | Hybrid | Nov 01 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Business Intern](https://jobright.ai/jobs/info/69065dfa63502c0aded82164?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Nov 01 |
 | **[Zyric Grid](https://www.linkedin.com/company/88692952)** | **[Business Internship](https://jobright.ai/jobs/info/69065d9863502c0aded82126?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Nov 01 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 01 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Business Operations - Data Analytics Intern](https://jobright.ai/jobs/info/6905250e63502c0aded78ac6?utm_campaign=1067&utm_source=git)** | Chesapeake, VA | On Site | Oct 31 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Oct 31 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business Analyst Internship, Summer 2026](https://jobright.ai/jobs/info/6905207063502c0aded7860f?utm_campaign=1067&utm_source=git)** | Milwaukee, WI Corporate | On Site | Oct 31 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Oct 31 |
 | **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690540f0ff462851feffc48a?utm_campaign=1067&utm_source=git)** | Herndon, VA, US | Hybrid | Oct 31 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/69050755ff462851feff99f0?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 31 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/6905005dff462851feff9743?utm_campaign=1067&utm_source=git)** | US | MA | Boston | 33 Arch Street | On Site | Oct 31 |
