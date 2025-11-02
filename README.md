@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Internship Program](https://jobright.ai/jobs/info/69078ef6122e8474c78e5ac7?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Systems Intern, US TV Production - Spring 2026](https://jobright.ai/jobs/info/69077d2a122e8474c78e5580?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69076f6f122e8474c78e4d5e?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 02 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Internship Program](https://jobright.ai/jobs/info/6907694463502c0aded86dd4?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Nov 02 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690768bc63502c0aded86d8c?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Nov 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Nov 02 |
