@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68fb6a7f93c49825ab1030d7?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Business Intern](https://jobright.ai/jobs/info/69065dfa63502c0aded82164?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Nov 01 |
 | **[Zyric Grid](https://www.linkedin.com/company/88692952)** | **[Business Internship](https://jobright.ai/jobs/info/69065d9863502c0aded82126?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Nov 01 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 01 |
