@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68fb6a7f93c49825ab1030d7?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Business Intern](https://jobright.ai/jobs/info/69065dfa63502c0aded82164?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Nov 01 |
 | **[Zyric Grid](https://www.linkedin.com/company/88692952)** | **[Business Internship](https://jobright.ai/jobs/info/69065d9863502c0aded82126?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Nov 01 |
@@ -106,11 +107,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/69012ff9d5259a1b3cff294c?utm_campaign=1067&utm_source=git)** | IL - Chicago | Hybrid | Oct 28 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Oct 28 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/68dc4bd4ddc10244dd673e0d?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 28 |
+| **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Oct 28 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Risk Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68fabfd967272b29af73340a?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 28 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 28 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/68f95b90a628d10664e8c6bf?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Oct 27 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ffd522e0c73b3a1119f017?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Oct 27 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Business Analyst Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/690105cb4539ea1f2141bab0?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
-| **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
