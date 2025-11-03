@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arvento A](arventoa.us)** | **[Business Analyst, Innovation Internship](https://jobright.ai/jobs/info/6908ea0dd046ab6061ccefad?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 03 |
+| **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69090012d046ab6061cd0028?utm_campaign=1067&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 03 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Business Operations - Analytics Intern](https://jobright.ai/jobs/info/6908fb9abcccf20de59d5891?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
+| ↳ | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6908f0e74a1b456627afa637?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
+| ↳ | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/6908ec23bcccf20de59d4c8a?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/69087e804a1b456627af5eba?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69019ccd4539ea1f21421cbc?utm_campaign=1067&utm_source=git)** | Spring, TX | On Site | Nov 02 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 02 |
+| **[Jack Henry](http://www.jackhenry.com)** | **[Business Analyst, Intern - 2026](https://jobright.ai/jobs/info/690904674a1b456627afb3e1?utm_campaign=1067&utm_source=git)** | Monett, MO | On Site | Nov 02 |
+| ↳ | **[Business Process Analyst, Intern - Summer 2026](https://jobright.ai/jobs/info/69090145bcccf20de59d5c94?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Systems Intern, US TV Production - Spring 2026](https://jobright.ai/jobs/info/69077d2a122e8474c78e5580?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Nov 02 |
@@ -74,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Business Operations - Data Analytics Intern](https://jobright.ai/jobs/info/6905250e63502c0aded78ac6?utm_campaign=1067&utm_source=git)** | Chesapeake, VA | On Site | Oct 31 |
 | **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690540f0ff462851feffc48a?utm_campaign=1067&utm_source=git)** | Herndon, VA, US | Hybrid | Oct 31 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/69050755ff462851feff99f0?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 31 |
+| **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6908f074d046ab6061ccf364?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Oct 31 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/6905005dff462851feff9743?utm_campaign=1067&utm_source=git)** | US | MA | Boston | 33 Arch Street | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[IT Business Partner and UseIT Intern](https://jobright.ai/jobs/info/68e7d3c009580a2fe57efe4b?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 31 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[IT Service Delivery - Business Analysis Intern](https://jobright.ai/jobs/info/6904f44263502c0aded76952?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
@@ -84,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6904185663502c0aded70497?utm_campaign=1067&utm_source=git)** | VA, Manassas | On Site | Oct 30 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69040f76ff462851feff2465?utm_campaign=1067&utm_source=git)** | US-VA-Manassas | On Site | Oct 30 |
 | **[Ericsson](https://www.ericsson.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6903e8eaff462851feff08fc?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Oct 30 |
-| **[HP](http://www.hp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6903cce9d64a22104aa93451?utm_campaign=1067&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Oct 30 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/6903badcd64a22104aa9238f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6903a95fff462851fefed3bb?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Oct 30 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/68e6ef4c1852e62f00820985?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
