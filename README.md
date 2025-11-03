@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CR Equity Ai, Inc.](https://crequitypartnersinvestgrp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6907fdb363502c0aded89ba3?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 02 |
+| **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Systems Intern, US TV Production - Spring 2026](https://jobright.ai/jobs/info/69077d2a122e8474c78e5580?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68fb6a7f93c49825ab1030d7?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
-| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Business Intern](https://jobright.ai/jobs/info/69065dfa63502c0aded82164?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Nov 01 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 01 |
 | **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68e935279020b95add6a4b04?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/68ea16b0cfc08e4908915ac8?utm_campaign=1067&utm_source=git)** | North Carolina, United States | Remote | Nov 01 |
@@ -72,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Business Analytics Intern - Spring 2026](https://jobright.ai/jobs/info/6905412063502c0aded79f08?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Business Analytics Intern - Spring 2026](https://jobright.ai/jobs/info/69053298122e8474c78d74fa?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Business Operations - Data Analytics Intern](https://jobright.ai/jobs/info/6905250e63502c0aded78ac6?utm_campaign=1067&utm_source=git)** | Chesapeake, VA | On Site | Oct 31 |
-| **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Oct 31 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business Analyst Internship, Summer 2026](https://jobright.ai/jobs/info/6905207063502c0aded7860f?utm_campaign=1067&utm_source=git)** | Milwaukee, WI Corporate | On Site | Oct 31 |
 | **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690540f0ff462851feffc48a?utm_campaign=1067&utm_source=git)** | Herndon, VA, US | Hybrid | Oct 31 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/69050755ff462851feff99f0?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 31 |
