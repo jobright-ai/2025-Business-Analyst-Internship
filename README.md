@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/69087e804a1b456627af5eba?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69019ccd4539ea1f21421cbc?utm_campaign=1067&utm_source=git)** | Spring, TX | On Site | Nov 02 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Systems Intern, US TV Production - Spring 2026](https://jobright.ai/jobs/info/69077d2a122e8474c78e5580?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 02 |
