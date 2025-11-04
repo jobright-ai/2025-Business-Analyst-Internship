@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6909e003bcccf20de59de04d?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Nov 04 |
+| **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/6909d5e74a1b456627b033fc?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Nov 04 |
 | **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6908b8cc4a1b456627af8771?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 03 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/69096099d046ab6061cd4be1?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Nov 03 |
 | ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
@@ -67,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Systems Intern, US TV Production - Spring 2026](https://jobright.ai/jobs/info/6909105ebcccf20de59d6ad9?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Business Operations - Analytics Intern](https://jobright.ai/jobs/info/69090ef34a1b456627afbe05?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
+| ↳ | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/6909b1b9d046ab6061cd75c4?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
+| ↳ | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6909ae49bcccf20de59dd19c?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69090012d046ab6061cd0028?utm_campaign=1067&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Business Operations - Analytics Intern](https://jobright.ai/jobs/info/6908fb9abcccf20de59d5891?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
 | ↳ | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6908f0e74a1b456627afa637?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
