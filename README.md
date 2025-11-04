@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/690a1675bcccf20de59dedcf?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 04 |
-| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/68ed459481fdd1626d39a7c1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Internship Program](https://jobright.ai/jobs/info/690a3597bcccf20de59dfd88?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 04 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Nov 04 |
+| ↳ | **[Summer Internship Program 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/68ed459481fdd1626d39a7c1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/690a3174bcccf20de59dfa97?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Nov 04 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/6909d5e74a1b456627b033fc?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Nov 04 |
 | **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6908b8cc4a1b456627af8771?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 03 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
@@ -116,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6905b635ff462851fefffa43?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Oct 29 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6905932563502c0aded7c4e1?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Oct 28 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69018100f8ce7a040fdc0410?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Oct 28 |
-| **[Jack Henry](http://www.jackhenry.com)** | **[Technical Business Analyst Internship (Knowledge Enablement) – Summer 2026](https://jobright.ai/jobs/info/690264f000a1816c41e9d925?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
