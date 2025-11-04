@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Schneider](https://schneider.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922a4d046ab6061cd1e84?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Nov 03 |
+| **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
+| ↳ | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/69091715bcccf20de59d6ef4?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
+| **[Schneider](https://schneider.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922a4d046ab6061cd1e84?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Nov 03 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Systems Intern, US TV Production - Spring 2026](https://jobright.ai/jobs/info/6909105ebcccf20de59d6ad9?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/69091030d046ab6061cd0e36?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84bf8c72beb74cb31d57c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 31 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Oct 31 |
-| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Oct 30 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6904185663502c0aded70497?utm_campaign=1067&utm_source=git)** | VA, Manassas | On Site | Oct 30 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69040f76ff462851feff2465?utm_campaign=1067&utm_source=git)** | US-VA-Manassas | On Site | Oct 30 |
 | **[Ericsson](https://www.ericsson.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6903e8eaff462851feff08fc?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Oct 30 |
@@ -117,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 28 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Oct 28 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Oct 28 |
-| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/68f95b90a628d10664e8c6bf?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
