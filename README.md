@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/690a6328d046ab6061cdbd25?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
+| ↳ | **[Intern, Business Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/690a6f724a1b456627b07b29?utm_campaign=1067&utm_source=git)** | US GA ATL 201 STE 900 | On Site | Nov 04 |
 | **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Business Intern](https://jobright.ai/jobs/info/690a4d03bcccf20de59e0a03?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Nov 04 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Nov 04 |
 | ↳ | **[Summer Internship Program 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/68ed459481fdd1626d39a7c1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
@@ -115,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Relationship Management & FinOps Intern, Summer 2026](https://jobright.ai/jobs/info/69025bd698707b2b0fe6e9c0?utm_campaign=1067&utm_source=git)** | Bristol, CT, USA | On Site | Oct 29 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6905f98aff462851fe002079?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Oct 29 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6905b635ff462851fefffa43?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Oct 29 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6905932563502c0aded7c4e1?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
