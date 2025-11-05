@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/690b36e74a1b456627b0e6a0?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 05 |
+| **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68f75574ec6dbe7073fbd61d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 05 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Nov 05 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Internship](https://jobright.ai/jobs/info/690afc9fd046ab6061ce1d84?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Nov 04 |
@@ -120,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/68ff8d330ab3b222462abe85?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 29 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6902e9d3ff462851fefe78aa?utm_campaign=1067&utm_source=git)** | North Highlands, CA | On Site | Oct 29 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Technical Business Analyst Internship 2026](https://jobright.ai/jobs/info/69061922122e8474c78ded7d?utm_campaign=1067&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 29 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Relationship Management & FinOps Intern, Summer 2026](https://jobright.ai/jobs/info/69025bd698707b2b0fe6e9c0?utm_campaign=1067&utm_source=git)** | Bristol, CT, USA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
