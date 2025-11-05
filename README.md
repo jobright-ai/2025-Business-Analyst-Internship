@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/690b6f394a1b456627b0f73d?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Nov 05 |
+| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/6906d529122e8474c78e129f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 05 |
+| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/68e55283ae2b894b1d70d6be?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6908192263502c0aded8a1e8?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Nov 05 |
 | **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/690b36e74a1b456627b0e6a0?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 05 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68f75574ec6dbe7073fbd61d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 05 |
@@ -95,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Systems Intern, US TV Production - Spring 2026](https://jobright.ai/jobs/info/69077d2a122e8474c78e5580?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Nov 02 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern, MRT](https://jobright.ai/jobs/info/68ce0bda1ad6b16f028a16c4?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68fb6a7f93c49825ab1030d7?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 01 |
 | **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68e935279020b95add6a4b04?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
