@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68cb246defdec76df36b96fa?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Nov 06 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Nov 06 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 06 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/690c2ba7221b890c277fc207?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 05 |
 | ↳ | **[Intern - Business](https://jobright.ai/jobs/info/690c2b154a1b456627b16bf0?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Nov 05 |
 | **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/690c21add046ab6061ceb417?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
@@ -72,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Tenet Healthcare](http://tenethealth.com)** | **[IT Corporate Systems Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690bbf1d221b890c277f7a66?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/690bb07a4a1b456627b11a28?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 05 |
-| **[Rothschild Wealth Partners](http://rothschildinv.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690bac95d046ab6061ce6520?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 | **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690b8310221b890c277f5631?utm_campaign=1067&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 05 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/6906d529122e8474c78e129f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6908192263502c0aded8a1e8?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Nov 05 |
@@ -112,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Systems Intern, US TV Production - Spring 2026](https://jobright.ai/jobs/info/69077d2a122e8474c78e5580?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Business Systems Analyst Intern – Spring 2026](https://jobright.ai/jobs/info/68cec2aefb49c96ca6ea3438?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Nov 02 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern, MRT](https://jobright.ai/jobs/info/68ce0bda1ad6b16f028a16c4?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68fb6a7f93c49825ab1030d7?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 01 |
 | **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68e935279020b95add6a4b04?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
@@ -127,7 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/68e84bf8c72beb74cb31d57c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Oct 31 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Oct 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Oct 31 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/690ac37c4a1b456627b0b1f2?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6904185663502c0aded70497?utm_campaign=1067&utm_source=git)** | VA, Manassas | On Site | Oct 30 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69040f76ff462851feff2465?utm_campaign=1067&utm_source=git)** | US-VA-Manassas | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
