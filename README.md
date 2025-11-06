@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d133a221b890c27802d4d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Nov 06 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68cb246defdec76df36b96fa?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Nov 06 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Nov 06 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 06 |
+| **[Dayforce](https://www.dayforce.com)** | **[Business Analyst Intern 4 or 8 Months - Winter 2026](https://jobright.ai/jobs/info/6906d1db63502c0aded83334?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/690d1209221b890c27802c18?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 06 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/690c2ba7221b890c277fc207?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 05 |
 | ↳ | **[Intern - Business](https://jobright.ai/jobs/info/690c2b154a1b456627b16bf0?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Nov 05 |
 | **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/690c21add046ab6061ceb417?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
@@ -91,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Nov 04 |
 | ↳ | **[Summer Internship Program 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/68ed459481fdd1626d39a7c1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/690c40f8d046ab6061cec0bb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/69096099d046ab6061cd4be1?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Nov 03 |
-| ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
+| ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/69096099d046ab6061cd4be1?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Nov 03 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
 | ↳ | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Nov 03 |
