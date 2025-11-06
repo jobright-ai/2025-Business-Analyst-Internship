@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST INTERNSHIP 2026](https://jobright.ai/jobs/info/690ac37c4a1b456627b0b1f2?utm_campaign=1067&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6904185663502c0aded70497?utm_campaign=1067&utm_source=git)** | VA, Manassas | On Site | Oct 30 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69040f76ff462851feff2465?utm_campaign=1067&utm_source=git)** | US-VA-Manassas | On Site | Oct 30 |
-| **[Ericsson](https://www.ericsson.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6903e8eaff462851feff08fc?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
