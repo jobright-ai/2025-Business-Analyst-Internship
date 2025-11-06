@@ -133,6 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Ericsson](https://www.ericsson.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6903e8eaff462851feff08fc?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Oct 30 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/6903badcd64a22104aa9238f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6903a95fff462851fefed3bb?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Oct 30 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Relationship Management & FinOps Intern, Summer 2026](https://jobright.ai/jobs/info/69035f3fff462851fefeacc7?utm_campaign=1067&utm_source=git)** | Bristol, CT | On Site | Oct 30 |
-| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/68eb6ec12f64880ca0b58107?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
