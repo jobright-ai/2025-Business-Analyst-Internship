@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobgether](https://jobgether.com/)** | **[Intern, Data & Business Operations-Remote (US)](https://jobright.ai/jobs/info/690dcbac44146d3b6ec4fd7f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/690d1ef5d046ab6061cf310d?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/690d1eac221b890c278037f3?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d1d67d046ab6061cf2f8a?utm_campaign=1067&utm_source=git)** | Texas-Irving | On Site | Nov 06 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Nov 04 |
 | ↳ | **[Summer Internship Program 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/68ed459481fdd1626d39a7c1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/690c40f8d046ab6061cec0bb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
-| ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/69096099d046ab6061cd4be1?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Nov 03 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/69096099d046ab6061cd4be1?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Nov 03 |
+| ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
 | ↳ | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/68bb751d8043103d4f228c04?utm_campaign=1067&utm_source=git)** | North Las Vegas, NV | Hybrid | Nov 03 |
@@ -128,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Business Analytics Intern - Spring 2026](https://jobright.ai/jobs/info/69053298122e8474c78d74fa?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Business Operations - Data Analytics Intern](https://jobright.ai/jobs/info/6905250e63502c0aded78ac6?utm_campaign=1067&utm_source=git)** | Chesapeake, VA | On Site | Oct 31 |
 | **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690540f0ff462851feffc48a?utm_campaign=1067&utm_source=git)** | Herndon, VA, US | Hybrid | Oct 31 |
-| **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/69050755ff462851feff99f0?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
