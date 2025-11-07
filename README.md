@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevare Consulting](elevareconsulting.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/690e3b5444146d3b6ec52235?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 07 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 07 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Intern, Data & Business Operations-Remote (US)](https://jobright.ai/jobs/info/690dcbac44146d3b6ec4fd7f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
