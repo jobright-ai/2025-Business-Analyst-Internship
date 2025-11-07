@@ -57,21 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Checkmate IT Tech](https://checkmateittech.com/)** | **[Business Analyst Intern (Onsite – South Brunswick, NJ)](https://jobright.ai/jobs/info/690e646e221b890c2780d747?utm_campaign=1067&utm_source=git)** | Dayton, NJ | On Site | Nov 07 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/690e3b5444146d3b6ec52235?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 07 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 07 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 07 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Internship](https://jobright.ai/jobs/info/690e526a44146d3b6ec52e5f?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Intern, Data & Business Operations-Remote (US)](https://jobright.ai/jobs/info/690dcbac44146d3b6ec4fd7f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/690d1ef5d046ab6061cf310d?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/690d1eac221b890c278037f3?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d1d67d046ab6061cf2f8a?utm_campaign=1067&utm_source=git)** | Texas-Irving | On Site | Nov 06 |
 | ↳ | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d133a221b890c27802d4d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Nov 06 |
+| **[Dayforce](https://www.dayforce.com)** | **[Business Analyst Intern 4 or 8 months - Winter 2026](https://jobright.ai/jobs/info/6906d1db63502c0aded83334?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68cb246defdec76df36b96fa?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Nov 06 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 06 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83ede50091dbfa509b8?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 06 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Nov 06 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 06 |
-| **[Dayforce](https://www.dayforce.com)** | **[Business Analyst Intern 4 or 8 Months - Winter 2026](https://jobright.ai/jobs/info/6906d1db63502c0aded83334?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/690c2ba7221b890c277fc207?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 05 |
 | ↳ | **[Intern - Business](https://jobright.ai/jobs/info/690c2b154a1b456627b16bf0?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Nov 05 |
 | **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/690c21add046ab6061ceb417?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
