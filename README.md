@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/6906488bff462851fe00432a?utm_campaign=1067&utm_source=git)** | Egg Harbor, NJ | On Site | Nov 08 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
+| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690f456dd046ab6061d0450a?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 08 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Aviation Business Analytics and Development Internship - Summer 2026](https://jobright.ai/jobs/info/690eb0fdd046ab6061d00316?utm_campaign=1067&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
 | **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690eb01fd046ab6061d00245?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 07 |
 | **[Zel Technologies LLC](https://www.zeltech.com/)** | **[Business Analyst Specialist Skill Bridge Intern](https://jobright.ai/jobs/info/690e8f8bd046ab6061cfecf4?utm_campaign=1067&utm_source=git)** | Hampton, VA | On Site | Nov 07 |
-| **[Checkmate IT Tech](https://checkmateittech.com/)** | **[Business Analyst Intern (Onsite – South Brunswick, NJ)](https://jobright.ai/jobs/info/690e646e221b890c2780d747?utm_campaign=1067&utm_source=git)** | Dayton, NJ | On Site | Nov 07 |
-| **[Zel Technologies LLC](https://www.zeltech.com/)** | **[Business Analyst Specialist Skill Bridge Intern](https://jobright.ai/jobs/info/690e79d7d046ab6061cfe072?utm_campaign=1067&utm_source=git)** | Hampton, VA, Hampton, VA, US | On Site | Nov 07 |
+| ↳ | **[Business Analyst Specialist Skill Bridge Intern](https://jobright.ai/jobs/info/690e79d7d046ab6061cfe072?utm_campaign=1067&utm_source=git)** | Hampton, VA, Hampton, VA, US | On Site | Nov 07 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 07 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Intern, Data & Business Operations-Remote (US)](https://jobright.ai/jobs/info/690dcbac44146d3b6ec4fd7f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
