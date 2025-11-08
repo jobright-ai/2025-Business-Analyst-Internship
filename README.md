@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Aviation Business Analytics and Development Internship - Summer 2026](https://jobright.ai/jobs/info/690eb0fdd046ab6061d00316?utm_campaign=1067&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
 | **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690eb01fd046ab6061d00245?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 07 |
 | **[Zel Technologies LLC](https://www.zeltech.com/)** | **[Business Analyst Specialist Skill Bridge Intern](https://jobright.ai/jobs/info/690e8f8bd046ab6061cfecf4?utm_campaign=1067&utm_source=git)** | Hampton, VA | On Site | Nov 07 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 05 |
 | **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690b8310221b890c277f5631?utm_campaign=1067&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 05 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6908192263502c0aded8a1e8?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Nov 05 |
-| **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68f75574ec6dbe7073fbd61d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 05 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Nov 05 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/69040dead64a22104aa96685?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Nov 04 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/690aa71d4a1b456627b0a01b?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Nov 04 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Program 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/68ed459481fdd1626d39a7c1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Business Operations - Analytics Intern](https://jobright.ai/jobs/info/690ef35b44146d3b6ec58d42?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | ↳ | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/690c40f8d046ab6061cec0bb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/69096099d046ab6061cd4be1?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Nov 03 |
-| ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
+| ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/69096099d046ab6061cd4be1?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Nov 03 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
 | ↳ | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
 | **[Schneider](https://schneider.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922a4d046ab6061cd1e84?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Nov 03 |
