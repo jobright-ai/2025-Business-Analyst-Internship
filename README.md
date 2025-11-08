@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68f45f2676a51a4307bd0fe0?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Business Internship Program](https://jobright.ai/jobs/info/690f6ae437acd2126472ec1c?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/6907ad0863502c0aded883fb?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68cf16b7fb49c96ca6ea5c20?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 08 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Intern](https://jobright.ai/jobs/info/690f4e3c44146d3b6ec5b2ed?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[2026 J&J Orthopedics Internship – Business Insights](https://jobright.ai/jobs/info/690f4c20d046ab6061d04766?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 08 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690eb01fd046ab6061d00245?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 07 |
 | **[Zel Technologies LLC](https://www.zeltech.com/)** | **[Business Analyst Specialist Skill Bridge Intern](https://jobright.ai/jobs/info/690e8f8bd046ab6061cfecf4?utm_campaign=1067&utm_source=git)** | Hampton, VA | On Site | Nov 07 |
 | ↳ | **[Business Analyst Specialist Skill Bridge Intern](https://jobright.ai/jobs/info/690e79d7d046ab6061cfe072?utm_campaign=1067&utm_source=git)** | Hampton, VA, Hampton, VA, US | On Site | Nov 07 |
+| **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Nov 07 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 07 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Intern, Data & Business Operations-Remote (US)](https://jobright.ai/jobs/info/690dcbac44146d3b6ec4fd7f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
@@ -108,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Program 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/68ed459481fdd1626d39a7c1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Business Operations - Analytics Intern](https://jobright.ai/jobs/info/690ef35b44146d3b6ec58d42?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | ↳ | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/690c40f8d046ab6061cec0bb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
-| ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/69096099d046ab6061cd4be1?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Nov 03 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/69096099d046ab6061cd4be1?utm_campaign=1067&utm_source=git)** | California, Colorado, Connecticut, Florida, Georgia, New Jersey, New York, South Carolina, Texas | Remote | Nov 03 |
+| ↳ | **[Oracle EPM Business Admin Intern](https://jobright.ai/jobs/info/690960d6bcccf20de59da8b7?utm_campaign=1067&utm_source=git)** | Possible | Remote | Nov 03 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
 | ↳ | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 03 |
 | **[Schneider](https://schneider.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922a4d046ab6061cd1e84?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Nov 03 |
