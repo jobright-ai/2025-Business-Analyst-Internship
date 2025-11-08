@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Iridium](http://www.iridium.com/)** | **[Iridium Aviation Business Analytics and Development Internship - Summer 2026](https://jobright.ai/jobs/info/690eb0fdd046ab6061d00316?utm_campaign=1067&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
+| **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690eb01fd046ab6061d00245?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 07 |
 | **[Zel Technologies LLC](https://www.zeltech.com/)** | **[Business Analyst Specialist Skill Bridge Intern](https://jobright.ai/jobs/info/690e8f8bd046ab6061cfecf4?utm_campaign=1067&utm_source=git)** | Hampton, VA | On Site | Nov 07 |
 | **[Checkmate IT Tech](https://checkmateittech.com/)** | **[Business Analyst Intern (Onsite – South Brunswick, NJ)](https://jobright.ai/jobs/info/690e646e221b890c2780d747?utm_campaign=1067&utm_source=git)** | Dayton, NJ | On Site | Nov 07 |
 | **[Zel Technologies LLC](https://www.zeltech.com/)** | **[Business Analyst Specialist Skill Bridge Intern](https://jobright.ai/jobs/info/690e79d7d046ab6061cfe072?utm_campaign=1067&utm_source=git)** | Hampton, VA, Hampton, VA, US | On Site | Nov 07 |
@@ -128,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68fb6a7f93c49825ab1030d7?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/68b1aa4f1ade4306aa631184?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 01 |
-| **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Sustainability/Business Acceleration Intern](https://jobright.ai/jobs/info/68e935279020b95add6a4b04?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
