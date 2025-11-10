@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/69116039183be660d267b8e0?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/690872594a1b456627af4dd5?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68f4ace276a51a4307bd30d6?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 07 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Intern, Data & Business Operations-Remote (US)](https://jobright.ai/jobs/info/690dcbac44146d3b6ec4fd7f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
+| **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/69115f3e183be660d267b859?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/690d1eac221b890c278037f3?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d1d67d046ab6061cf2f8a?utm_campaign=1067&utm_source=git)** | Texas-Irving | On Site | Nov 06 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/690e8e3e44146d3b6ec556bb?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 06 |
@@ -132,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/6908ec23bcccf20de59d4c8a?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
 | **[Payrailz](https://www.payrailz.com/curailz/)** | **[Business Analyst, Intern - 2026](https://jobright.ai/jobs/info/690b9486d046ab6061ce56b9?utm_campaign=1067&utm_source=git)** | Monett, MO | On Site | Nov 03 |
 | ↳ | **[Business Analyst, Intern - 2026](https://jobright.ai/jobs/info/690f625d44146d3b6ec5b9d1?utm_campaign=1067&utm_source=git)** | Springfield, MO | On Site | Nov 03 |
-| **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/69087e804a1b456627af5eba?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
