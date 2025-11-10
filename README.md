@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Internship](https://jobright.ai/jobs/info/6910f94a183be660d267a891?utm_campaign=1067&utm_source=git)** | Dallas, TX | Remote | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/690872594a1b456627af4dd5?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68f4ace276a51a4307bd30d6?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
@@ -135,5 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Intern - 2026](https://jobright.ai/jobs/info/690f625d44146d3b6ec5b9d1?utm_campaign=1067&utm_source=git)** | Springfield, MO | On Site | Nov 03 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/69087e804a1b456627af5eba?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[Business Process Analyst, Intern - Summer 2026](https://jobright.ai/jobs/info/690b107154fb8145904e6e5e?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 03 |
-| **[Jack Henry](http://www.jackhenry.com)** | **[Business Analyst, Intern - 2026](https://jobright.ai/jobs/info/690b0bbd4a1b456627b0d68a?utm_campaign=1067&utm_source=git)** | Monett, MO | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
