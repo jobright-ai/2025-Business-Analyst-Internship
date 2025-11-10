@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/69116039183be660d267b8e0?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/690872594a1b456627af4dd5?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68f4ace276a51a4307bd30d6?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
