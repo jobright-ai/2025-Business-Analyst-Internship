@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 10 |
 | **[VertoTech](vertotech.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/69118ff3bb519377733efe29?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/690872594a1b456627af4dd5?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
@@ -108,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[International](https://www.international.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f8a7976de2db04dc3e13c0?utm_campaign=1067&utm_source=git)** | Lisle, IL | On Site | Nov 05 |
 | **[SESCO Cement Corp.](https://www.sescocement.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690bc5b64a1b456627b12973?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/690bb07a4a1b456627b11a28?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 05 |
-| **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 05 |
 | **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690b8310221b890c277f5631?utm_campaign=1067&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 05 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6908192263502c0aded8a1e8?utm_campaign=1067&utm_source=git)** | Greater Indianapolis | On Site | Nov 05 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Nov 05 |
@@ -127,7 +127,4 @@ For a complete list, click the following sortable link below:
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Systems Intern, US TV Production - Spring 2026](https://jobright.ai/jobs/info/6909105ebcccf20de59d6ad9?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6909ae49bcccf20de59dd19c?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
-| **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69090012d046ab6061cd0028?utm_campaign=1067&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 03 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Business Operations - Analytics Intern](https://jobright.ai/jobs/info/6908fb9abcccf20de59d5891?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
-| ↳ | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6908f0e74a1b456627afa637?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
