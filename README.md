@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912538dc98948514c47a8ad?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691235c1ea9ab01b82bf062d?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 10 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Nov 10 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Nov 10 |
