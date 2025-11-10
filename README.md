@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Nov 10 |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Intern - Banking & Investing](https://jobright.ai/jobs/info/69121ee0ea9ab01b82befafb?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Nov 10 |
+| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Nov 10 |
+| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Nov 10 |
+| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Nov 10 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691206dac98948514c4782b1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 10 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6911e805c98948514c47796f?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Nov 10 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Internship](https://jobright.ai/jobs/info/69121ea4c98948514c478cac?utm_campaign=1067&utm_source=git)** | Dallas, TX | Remote | Nov 10 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 10 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/690872594a1b456627af4dd5?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
