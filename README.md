@@ -133,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Payrailz](https://www.payrailz.com/curailz/)** | **[Business Analyst, Intern - 2026](https://jobright.ai/jobs/info/690b9486d046ab6061ce56b9?utm_campaign=1067&utm_source=git)** | Monett, MO | On Site | Nov 03 |
 | ↳ | **[Business Analyst, Intern - 2026](https://jobright.ai/jobs/info/690f625d44146d3b6ec5b9d1?utm_campaign=1067&utm_source=git)** | Springfield, MO | On Site | Nov 03 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/69087e804a1b456627af5eba?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
-| **[Jack Henry](http://www.jackhenry.com)** | **[Business Process Analyst, Intern - Summer 2026](https://jobright.ai/jobs/info/690b107154fb8145904e6e5e?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
