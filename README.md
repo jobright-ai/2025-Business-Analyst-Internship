@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912b6d0d1047e3565cfe4a4?utm_campaign=1067&utm_source=git)** | Centennial, CO | Hybrid | Nov 10 |
+| ↳ | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912c0e1d1047e3565cfe897?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
+| ↳ | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912c572d1047e3565cfea14?utm_campaign=1067&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
+| **[Delmarva Power](http://www.delmarva.com)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912c983ea9ab01b82bf4f58?utm_campaign=1067&utm_source=git)** | OAKBROOK TERRACE, Illinois | Hybrid | Nov 10 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912bfe3d1047e3565cfe829?utm_campaign=1067&utm_source=git)** | OAKBROOK TERRACE, Illinois | Hybrid | Nov 10 |
+| **[ComEd](https://www.comed.com)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912c952d1047e3565cfebc6?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Nov 10 |
 | **[Hard Rock Digital](https://www.hardrockdigital.com/)** | **[INTERN - EMPLOYEE](https://jobright.ai/jobs/info/6912765dc98948514c47bf11?utm_campaign=1067&utm_source=git)** | Davie, FL | Hybrid | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/691260c9ea9ab01b82bf20af?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Nov 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912538dc98948514c47a8ad?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691235c1ea9ab01b82bf062d?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/69126a9cd1047e3565cfc64e?utm_campaign=1067&utm_source=git)** | Oakland, CA, United States | On Site | Nov 10 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Management Intern](https://jobright.ai/jobs/info/69127fbcd1047e3565cfd214?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Nov 10 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Nov 10 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Nov 10 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Nov 10 |
