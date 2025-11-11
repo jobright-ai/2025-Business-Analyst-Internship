@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Nov 10 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Nov 10 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691206dac98948514c4782b1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 10 |
-| **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/68d9e8ee061b716fa295b099?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 10 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68bb78de6105227d118a63bc?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/690872594a1b456627af4dd5?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/68f4ace276a51a4307bd30d6?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
