@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Rothschild Wealth Partners](http://rothschildinv.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690c09354a1b456627b15684?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/690a6328d046ab6061cdbd25?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Data & Business Operations-Remote](https://jobright.ai/jobs/info/690a8034bcccf20de59e32ec?utm_campaign=1067&utm_source=git)** | Dallas, TX | Remote | Nov 04 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/690a6f724a1b456627b07b29?utm_campaign=1067&utm_source=git)** | US GA ATL 201 STE 900 | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
