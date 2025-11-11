@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/69040dead64a22104aa96685?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Nov 11 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business internship program](https://jobright.ai/jobs/info/6913a514d1047e3565d04be0?utm_campaign=1067&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Nov 11 |
+| **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/6913a229d1047e3565d0498f?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 11 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Nov 11 |
-| **[Stratify Edge](stratifyedge.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/691366a4d1047e3565d02e78?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68ca3b6ed4187c55157a893d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 11 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Business Analytics](https://jobright.ai/jobs/info/68db68c49f13662d20e4b076?utm_campaign=1067&utm_source=git)** | Providence, RI | On Site | Nov 11 |
 | **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69134bd3d1047e3565d024d7?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 07 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Intern, Data & Business Operations-Remote (US)](https://jobright.ai/jobs/info/690dcbac44146d3b6ec4fd7f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
-| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/69040dead64a22104aa96685?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Nov 06 |
 | **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/69115f3e183be660d267b859?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/690d1eac221b890c278037f3?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d1d67d046ab6061cf2f8a?utm_campaign=1067&utm_source=git)** | Texas-Irving | On Site | Nov 06 |
