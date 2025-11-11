@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Business Analytics](https://jobright.ai/jobs/info/68db68c49f13662d20e4b076?utm_campaign=1067&utm_source=git)** | Providence, RI | On Site | Nov 11 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/69130214c98948514c48015e?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912b6d0d1047e3565cfe4a4?utm_campaign=1067&utm_source=git)** | Centennial, CO | Hybrid | Nov 10 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2026)](https://jobright.ai/jobs/info/6912e71eea9ab01b82bf63c3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Nov 10 |
@@ -124,6 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Nov 05 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/690aa71d4a1b456627b0a01b?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Nov 04 |
 | **[Rothschild Wealth Partners](http://rothschildinv.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690c09354a1b456627b15684?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/690a6328d046ab6061cdbd25?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Data & Business Operations-Remote](https://jobright.ai/jobs/info/690a8034bcccf20de59e32ec?utm_campaign=1067&utm_source=git)** | Dallas, TX | Remote | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
