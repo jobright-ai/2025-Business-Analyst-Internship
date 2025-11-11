@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/69135a6a1465e02904e943b7?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 11 |
+| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Nov 11 |
+| **[Stratify Edge](stratifyedge.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/691366a4d1047e3565d02e78?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68ca3b6ed4187c55157a893d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 11 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Business Analytics](https://jobright.ai/jobs/info/68db68c49f13662d20e4b076?utm_campaign=1067&utm_source=git)** | Providence, RI | On Site | Nov 11 |
 | **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69134bd3d1047e3565d024d7?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Business Analytics](https://jobright.ai/jobs/info/68db6bde9f13662d20e4b22a?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Nov 11 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/6913480fd1047e3565d02362?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/69130214c98948514c48015e?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912b6d0d1047e3565cfe4a4?utm_campaign=1067&utm_source=git)** | Centennial, CO | Hybrid | Nov 10 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2026)](https://jobright.ai/jobs/info/6912e71eea9ab01b82bf63c3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912c0e1d1047e3565cfe897?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
@@ -127,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/690bb07a4a1b456627b11a28?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690b8310221b890c277f5631?utm_campaign=1067&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 05 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Nov 05 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/690aa71d4a1b456627b0a01b?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
