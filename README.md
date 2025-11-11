@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lids](https://www.lids.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/68ca3b6ed4187c55157a893d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 11 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Business Analytics](https://jobright.ai/jobs/info/68db68c49f13662d20e4b076?utm_campaign=1067&utm_source=git)** | Providence, RI | On Site | Nov 11 |
+| **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69134bd3d1047e3565d024d7?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
+| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Business Analytics](https://jobright.ai/jobs/info/68db6bde9f13662d20e4b22a?utm_campaign=1067&utm_source=git)** | Stamford, CT | On Site | Nov 11 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/6913480fd1047e3565d02362?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/69130214c98948514c48015e?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912b6d0d1047e3565cfe4a4?utm_campaign=1067&utm_source=git)** | Centennial, CO | Hybrid | Nov 10 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2026)](https://jobright.ai/jobs/info/6912e71eea9ab01b82bf63c3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Nov 10 |
@@ -66,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Delmarva Power](http://www.delmarva.com)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912c983ea9ab01b82bf4f58?utm_campaign=1067&utm_source=git)** | OAKBROOK TERRACE, Illinois | Hybrid | Nov 10 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912bfe3d1047e3565cfe829?utm_campaign=1067&utm_source=git)** | OAKBROOK TERRACE, Illinois | Hybrid | Nov 10 |
 | **[ComEd](https://www.comed.com)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912c952d1047e3565cfebc6?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Nov 10 |
-| **[Hard Rock Digital](https://www.hardrockdigital.com/)** | **[INTERN - EMPLOYEE](https://jobright.ai/jobs/info/6912765dc98948514c47bf11?utm_campaign=1067&utm_source=git)** | Davie, FL | Hybrid | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/691260c9ea9ab01b82bf20af?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Nov 10 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691235c1ea9ab01b82bf062d?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/69126a9cd1047e3565cfc64e?utm_campaign=1067&utm_source=git)** | Oakland, CA, United States | On Site | Nov 10 |
@@ -97,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/69115f3e183be660d267b859?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/690d1eac221b890c278037f3?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d1d67d046ab6061cf2f8a?utm_campaign=1067&utm_source=git)** | Texas-Irving | On Site | Nov 06 |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Technology Enterprise Business Programs Internship](https://jobright.ai/jobs/info/690d2239d046ab6061cf33f0?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/690e8e3e44146d3b6ec556bb?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d133a221b890c27802d4d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Nov 06 |
 | **[Dayforce](https://www.dayforce.com)** | **[Business Analyst Intern 4 or 8 months - Winter 2026](https://jobright.ai/jobs/info/69123e77d1047e3565cfa966?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
@@ -124,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690b8310221b890c277f5631?utm_campaign=1067&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 05 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/68d42dc38c62e63bc7fe6735?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Nov 05 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/690aa71d4a1b456627b0a01b?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Nov 04 |
-| **[Rothschild Wealth Partners](http://rothschildinv.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690c09354a1b456627b15684?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
