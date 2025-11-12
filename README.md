@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[International](https://www.international.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f8a7976de2db04dc3e13c0?utm_campaign=1067&utm_source=git)** | Lisle, IL | On Site | Nov 12 |
+| **[Hard Rock Digital](https://www.hardrockdigital.com/)** | **[INTERN - EMPLOYEE](https://jobright.ai/jobs/info/6914676e6f36db06ef0471bc?utm_campaign=1067&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 12 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691407d2e344172248f7620c?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 11 |
 | ↳ | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/69140eede344172248f767a2?utm_campaign=1067&utm_source=git)** | Arizona, United States | On Site | Nov 11 |
 | **[Holocron Technologies](https://www.holocron.tech)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6913d5d1e344172248f7496c?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Exelon](http://www.exeloncorp.com/)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912bfe3d1047e3565cfe829?utm_campaign=1067&utm_source=git)** | OAKBROOK TERRACE, Illinois | Hybrid | Nov 10 |
 | **[ComEd](https://www.comed.com)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912c952d1047e3565cfebc6?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/691260c9ea9ab01b82bf20af?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/691459e0286ccf0a151267b1?utm_campaign=1067&utm_source=git)** | Centennial, CO | Hybrid | Nov 10 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691235c1ea9ab01b82bf062d?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/69126a9cd1047e3565cfc64e?utm_campaign=1067&utm_source=git)** | Oakland, CA, United States | On Site | Nov 10 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Nov 10 |
