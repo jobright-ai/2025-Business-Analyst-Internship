@@ -58,6 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Stratify Edge](stratifyedge.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/6914e2609c388539cbdee423?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 12 |
+| **[FlexWork Sports Management](https://www.flexworksports.com)** | **[Business Analytics Intern (Sports Industry)](https://jobright.ai/jobs/info/6914ffa8286ccf0a1512a2f1?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 12 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6914f83c6f36db06ef04a2d4?utm_campaign=1067&utm_source=git)** | Waite Park Service Center | On Site | Nov 12 |
+| **[CoreVista Strategies](corevistastrategies.us)** | **[Business Internship](https://jobright.ai/jobs/info/6914e85d6f36db06ef04997b?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Nov 12 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68fc9434664c6f162a9527ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Nov 12 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[IT – Business Operations Intern- Spring 2026- CIPHER](https://jobright.ai/jobs/info/68f280019a65fd345857d2d0?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Aviation Business Analytics and Development Internship - Summer 2026](https://jobright.ai/jobs/info/690eb0fdd046ab6061d00316?utm_campaign=1067&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
 | **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690eb01fd046ab6061d00245?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 07 |
-| **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/690c0bdf4a1b456627b1578f?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 07 |
 | **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Nov 07 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 07 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 07 |
@@ -126,6 +128,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 06 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69105b9d183be660d267887d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 06 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[IT Corporate Systems Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6910549fbb519377733eb931?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business](https://jobright.ai/jobs/info/690c2b154a1b456627b16bf0?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Nov 05 |
-| **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/690c21add046ab6061ceb417?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
