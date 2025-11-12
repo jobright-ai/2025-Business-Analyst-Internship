@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691407d2e344172248f7620c?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 11 |
+| ↳ | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/69140eede344172248f767a2?utm_campaign=1067&utm_source=git)** | Arizona, United States | On Site | Nov 11 |
 | **[Holocron Technologies](https://www.holocron.tech)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6913d5d1e344172248f7496c?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/69040dead64a22104aa96685?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Nov 11 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/6913a229d1047e3565d0498f?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 11 |
@@ -99,7 +101,8 @@ For a complete list, click the following sortable link below:
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 07 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Intern, Data & Business Operations-Remote (US)](https://jobright.ai/jobs/info/690dcbac44146d3b6ec4fd7f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
-| **[Insight](https://www.insight.com)** | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/6913f86fe344172248f75867?utm_campaign=1067&utm_source=git)** | Arizona,United States | Hybrid | Nov 06 |
+| **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69141478d1047e3565d08b31?utm_campaign=1067&utm_source=git)** | Charlotte,United States | On Site | Nov 06 |
+| ↳ | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/6913f86fe344172248f75867?utm_campaign=1067&utm_source=git)** | Arizona,United States | Hybrid | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/690d1eac221b890c278037f3?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d1d67d046ab6061cf2f8a?utm_campaign=1067&utm_source=git)** | Texas-Irving | On Site | Nov 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Technology Enterprise Business Programs Internship](https://jobright.ai/jobs/info/690d2239d046ab6061cf33f0?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
