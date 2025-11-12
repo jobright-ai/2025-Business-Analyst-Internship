@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International](https://www.international.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f8a7976de2db04dc3e13c0?utm_campaign=1067&utm_source=git)** | Lisle, IL | On Site | Nov 12 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691407d2e344172248f7620c?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 11 |
 | ↳ | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/69140eede344172248f767a2?utm_campaign=1067&utm_source=git)** | Arizona, United States | On Site | Nov 11 |
 | **[Holocron Technologies](https://www.holocron.tech)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6913d5d1e344172248f7496c?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
@@ -126,8 +127,6 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Business Operations Analyst  Intern](https://jobright.ai/jobs/info/690d4b13221b890c278059a5?utm_campaign=1067&utm_source=git)** | 4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Nov 05 |
 | **[Clarity Partners](http://claritypartners.com)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/690c120ed046ab6061ceaa7b?utm_campaign=1067&utm_source=git)** | Chicago,IL,US | On Site | Nov 05 |
 | **[Roche](http://www.roche.com)** | **[2026 Spring Intern - Business Analyst](https://jobright.ai/jobs/info/690be0104a1b456627b13ebc?utm_campaign=1067&utm_source=git)** | Hillsboro | On Site | Nov 05 |
-| **[International](https://www.international.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f8a7976de2db04dc3e13c0?utm_campaign=1067&utm_source=git)** | Lisle, IL | On Site | Nov 05 |
 | **[SESCO Cement Corp.](https://www.sescocement.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690bc5b64a1b456627b12973?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/690bb07a4a1b456627b11a28?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 05 |
-| **[China Telecom Americas](http://www.ctamericas.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/690b8310221b890c277f5631?utm_campaign=1067&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
