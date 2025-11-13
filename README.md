@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6915a5c5286ccf0a1512faa9?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 13 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/69155e65286ccf0a1512db12?utm_campaign=1067&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Nov 12 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Management Intern](https://jobright.ai/jobs/info/691558e36f36db06ef04e0b4?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Nov 12 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/691550939c388539cbdf2732?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 12 |
-| **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 12 |
 | **[GreenSky®](https://www.greensky.com/)** | **[Operations Analytics Intern](https://jobright.ai/jobs/info/69150703286ccf0a1512a76e?utm_campaign=1067&utm_source=git)** | US-GA-Atlanta | Hybrid | Nov 12 |
 | **[Stratify Edge](stratifyedge.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/6914e2609c388539cbdee423?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 12 |
 | **[FlexWork Sports Management](https://www.flexworksports.com)** | **[Business Analytics Intern (Sports Industry)](https://jobright.ai/jobs/info/6914ffa8286ccf0a1512a2f1?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 12 |
@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/690e8e3e44146d3b6ec556bb?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d133a221b890c27802d4d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Nov 06 |
 | **[Dayforce](https://www.dayforce.com)** | **[Business Analyst Intern 4 or 8 months - Winter 2026](https://jobright.ai/jobs/info/69123e77d1047e3565cfa966?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 06 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
