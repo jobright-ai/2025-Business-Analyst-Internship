@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/691550939c388539cbdf2732?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 12 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6900ddb9f8ce7a040fdb9e05?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 12 |
 | **[GreenSky®](https://www.greensky.com/)** | **[Operations Analytics Intern](https://jobright.ai/jobs/info/69150703286ccf0a1512a76e?utm_campaign=1067&utm_source=git)** | US-GA-Atlanta | Hybrid | Nov 12 |
 | **[Stratify Edge](stratifyedge.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/6914e2609c388539cbdee423?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 12 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Hard Rock Digital](https://www.hardrockdigital.com/)** | **[INTERN - EMPLOYEE](https://jobright.ai/jobs/info/6914676e6f36db06ef0471bc?utm_campaign=1067&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 12 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691407d2e344172248f7620c?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 11 |
 | ↳ | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/69140eede344172248f767a2?utm_campaign=1067&utm_source=git)** | Arizona, United States | On Site | Nov 11 |
-| **[Holocron Technologies](https://www.holocron.tech)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6913d5d1e344172248f7496c?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Business Systems](https://jobright.ai/jobs/info/69040dead64a22104aa96685?utm_campaign=1067&utm_source=git)** | Aiken, SC | On Site | Nov 11 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/6913a229d1047e3565d0498f?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 11 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Business Systems Analyst Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/6913d2ec1465e02904e97de9?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 11 |
