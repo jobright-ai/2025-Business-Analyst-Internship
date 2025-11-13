@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/691629846f36db06ef0535ba?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69162c60286ccf0a151330d5?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Nov 13 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6915f8ca6f36db06ef05209c?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/6915223f286ccf0a1512b8c6?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Nov 13 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/6916093e6f36db06ef052653?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Nov 13 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Management Intern](https://jobright.ai/jobs/info/6915e35e286ccf0a15131385?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Nov 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ddba3444d32141e0bfa940?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/690cf2994a1b456627b1bb8d?utm_campaign=1067&utm_source=git)** | Brentwood, TN | Hybrid | Nov 13 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Technology Operations Intern](https://jobright.ai/jobs/info/68dc8e87a125e75c422a215d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
 | **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6915a5c5286ccf0a1512faa9?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 13 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Business Internship](https://jobright.ai/jobs/info/6915c51b286ccf0a15130851?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Nov 13 |
