@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ddba3444d32141e0bfa940?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/690cf2994a1b456627b1bb8d?utm_campaign=1067&utm_source=git)** | Brentwood, TN | Hybrid | Nov 13 |
+| **[Badger Meter](http://badgermeter.com)** | **[Business Technology Operations Intern](https://jobright.ai/jobs/info/68dc8e87a125e75c422a215d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
 | **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6915a5c5286ccf0a1512faa9?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Nov 13 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Business Internship](https://jobright.ai/jobs/info/6915c51b286ccf0a15130851?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Nov 13 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Information Systems ERP Business Analyst](https://jobright.ai/jobs/info/6915c0836f36db06ef050f33?utm_campaign=1067&utm_source=git)** | Omaha, NE | On Site | Nov 12 |
@@ -66,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Artificial Intelligence Business Analyst Intern](https://jobright.ai/jobs/info/691550939c388539cbdf2732?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Remote | Nov 12 |
 | **[GreenSky®](https://www.greensky.com/)** | **[Operations Analytics Intern](https://jobright.ai/jobs/info/69150703286ccf0a1512a76e?utm_campaign=1067&utm_source=git)** | US-GA-Atlanta | Hybrid | Nov 12 |
 | **[Stratify Edge](stratifyedge.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/6914e2609c388539cbdee423?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 12 |
-| **[FlexWork Sports Management](https://www.flexworksports.com)** | **[Business Analytics Intern (Sports Industry)](https://jobright.ai/jobs/info/6914ffa8286ccf0a1512a2f1?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 12 |
+| **[FlexWork Sports Management ](https://www.flexworksports.com)** | **[Business Analytics Intern (Sports Industry)](https://jobright.ai/jobs/info/6914ffa8286ccf0a1512a2f1?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6914f83c6f36db06ef04a2d4?utm_campaign=1067&utm_source=git)** | Waite Park Service Center | On Site | Nov 12 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Business Internship](https://jobright.ai/jobs/info/6914e85d6f36db06ef04997b?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Nov 12 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Nov 12 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | **[International](https://www.international.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f8a7976de2db04dc3e13c0?utm_campaign=1067&utm_source=git)** | Lisle, IL | On Site | Nov 12 |
-| **[Hard Rock Digital](https://www.hardrockdigital.com/)** | **[INTERN - EMPLOYEE](https://jobright.ai/jobs/info/6914676e6f36db06ef0471bc?utm_campaign=1067&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 12 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691407d2e344172248f7620c?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 11 |
 | ↳ | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/69140eede344172248f767a2?utm_campaign=1067&utm_source=git)** | Arizona, United States | On Site | Nov 11 |
 | **[American Electric Power](http://aep.com)** | **[Intern Student Business](https://jobright.ai/jobs/info/6913a229d1047e3565d0498f?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Nov 11 |
@@ -121,6 +123,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IPS Business Analyst Intern](https://jobright.ai/jobs/info/6913f86fe344172248f75867?utm_campaign=1067&utm_source=git)** | Arizona,United States | Hybrid | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/690d1eac221b890c278037f3?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d1d67d046ab6061cf2f8a?utm_campaign=1067&utm_source=git)** | Texas-Irving | On Site | Nov 06 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/690e8e3e44146d3b6ec556bb?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 06 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d133a221b890c27802d4d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
