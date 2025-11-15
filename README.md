@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analyst - Business Process Management](https://jobright.ai/jobs/info/6918475cbcdbf3560c9d0fb6?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | On Site | Nov 15 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69183698bcdbf3560c9cfb80?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Business Analyst (Cash)](https://jobright.ai/jobs/info/6917d13045fb6f5ead89ee0d?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 14 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Business Process Optimization (Andover, MA)](https://jobright.ai/jobs/info/6917b5d115b415636717ab9a?utm_campaign=1067&utm_source=git)** | Andover, MA | On Site | Nov 14 |
+| ↳ | **[Intern Business Process Optimization (Andover, MA)](https://jobright.ai/jobs/info/6917da8445fb6f5ead89f434?utm_campaign=1067&utm_source=git)** | Andover, MA | On Site | Nov 14 |
 | **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6917925845fb6f5ead89c2a0?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - Business Analyst (Cash)](https://jobright.ai/jobs/info/6917b9a1bcdbf3560c9caa8e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 14 |
 | **[Horizon Lane](horizonlane.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/691768c03ea85638ae1ca5ff?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Nov 14 |
@@ -74,10 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691698ee9c388539cbdfd106?utm_campaign=1067&utm_source=git)** | Chandler, AZ | Hybrid | Nov 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6916acc16f36db06ef058e6b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69166bc86f36db06ef0562ed?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Nov 13 |
+| **[Avanade](http://www.avanade.com)** | **[Intern, Advisory Business Analyst- Jan 2026](https://jobright.ai/jobs/info/6918490015b415636718124b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6916468d9c388539cbdf9648?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/691668429c388539cbdfaea0?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 13 |
-| **[VertoTech](vertotech.us)** | **[Business Internship](https://jobright.ai/jobs/info/6916772d9c388539cbdfbb12?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Nov 13 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/691629846f36db06ef0535ba?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
+| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/691629846f36db06ef0535ba?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69162c60286ccf0a151330d5?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Nov 13 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6915f8ca6f36db06ef05209c?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
@@ -108,7 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Exelon](http://www.exeloncorp.com/)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912bfe3d1047e3565cfe829?utm_campaign=1067&utm_source=git)** | OAKBROOK TERRACE, Illinois | Hybrid | Nov 10 |
 | **[ComEd](https://www.comed.com)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912c952d1047e3565cfebc6?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/691260c9ea9ab01b82bf20af?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Nov 10 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/69170f43bcdbf3560c9c4ab1?utm_campaign=1067&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Nov 10 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/69183211bcdbf3560c9cf8a0?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 10 |
+| ↳ | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/69170f43bcdbf3560c9c4ab1?utm_campaign=1067&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Nov 10 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691235c1ea9ab01b82bf062d?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/69126a9cd1047e3565cfc64e?utm_campaign=1067&utm_source=git)** | Oakland, CA, United States | On Site | Nov 10 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Nov 10 |
@@ -121,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst Intern - Store Operations —Summer 2026](https://jobright.ai/jobs/info/68f347989a65fd3458585ddb?utm_campaign=1067&utm_source=git)** | Burlington, NJ | On Site | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Transformation Analyst)](https://jobright.ai/jobs/info/69082f2a122e8474c78e84c3?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c7b9cc9ee94dc9120847?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 09 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/68f45f2676a51a4307bd0fe0?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
