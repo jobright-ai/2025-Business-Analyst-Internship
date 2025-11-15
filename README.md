@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arvento A](arventoa.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/6918a43015b415636718336f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/690bdbddd046ab6061ce89e7?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | Nov 15 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/68f1cee2f462172a5a7dc9a8?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 15 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbf0664129dd33cd136901?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Nov 15 |
@@ -73,11 +72,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Business Process Optimization (Andover, MA)](https://jobright.ai/jobs/info/6917da8445fb6f5ead89f434?utm_campaign=1067&utm_source=git)** | Andover, MA | On Site | Nov 14 |
 | **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6917925845fb6f5ead89c2a0?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - Business Analyst (Cash)](https://jobright.ai/jobs/info/6917b9a1bcdbf3560c9caa8e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 14 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/69178bb045fb6f5ead89bf53?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern - HR Time and Attendance](https://jobright.ai/jobs/info/68deb01544d32141e0c019fb?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Nov 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 14 |
 | **[International](https://www.international.com)** | **[Business Process Transformation Intern](https://jobright.ai/jobs/info/68f8a7976de2db04dc3e13c0?utm_campaign=1067&utm_source=git)** | Lisle, IL | On Site | Nov 14 |
-| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Business Intern](https://jobright.ai/jobs/info/691717b7370fde633d07d2f2?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Nov 14 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Artificial Intelligence Business Analyst](https://jobright.ai/jobs/info/6917252e370fde633d07dbc9?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Nov 14 |
 | **[Concurrent Technologies Corporation](http://www.ctc.com)** | **[Business Intern](https://jobright.ai/jobs/info/6916a6ef286ccf0a151383d3?utm_campaign=1067&utm_source=git)** | Johnstown, PA | On Site | Nov 13 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Nov 13 |
@@ -87,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69166bc86f36db06ef0562ed?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6916468d9c388539cbdf9648?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/691668429c388539cbdfaea0?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 13 |
-| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/691629846f36db06ef0535ba?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
+| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/69162acb286ccf0a15132fec?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69162c60286ccf0a151330d5?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Nov 13 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6915f8ca6f36db06ef05209c?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
@@ -100,9 +97,9 @@ For a complete list, click the following sortable link below:
 | **[GreenSky®](https://www.greensky.com/)** | **[Operations Analytics Intern](https://jobright.ai/jobs/info/69150703286ccf0a1512a76e?utm_campaign=1067&utm_source=git)** | US-GA-Atlanta | Hybrid | Nov 12 |
 | **[FlexWork Sports Management ](https://www.flexworksports.com)** | **[Business Analytics Intern (Sports Industry)](https://jobright.ai/jobs/info/6914ffa8286ccf0a1512a2f1?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6914f83c6f36db06ef04a2d4?utm_campaign=1067&utm_source=git)** | Waite Park Service Center | On Site | Nov 12 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68fc9434664c6f162a9527ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Nov 12 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Nov 12 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691407d2e344172248f7620c?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 11 |
