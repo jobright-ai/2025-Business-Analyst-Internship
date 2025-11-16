@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cccea0fa466330fef9198f?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Nov 16 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/6919da8b15b4156367187824?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Nov 16 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/6919d94415b41563671877b4?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Nov 16 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/690bdbddd046ab6061ce89e7?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | Nov 15 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/68f1cee2f462172a5a7dc9a8?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 15 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbf0664129dd33cd136901?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Nov 15 |
