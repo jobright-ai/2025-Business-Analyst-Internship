@@ -84,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69166bc86f36db06ef0562ed?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6916468d9c388539cbdf9648?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/691668429c388539cbdfaea0?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 13 |
-| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/69162acb286ccf0a15132fec?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
+| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/691629846f36db06ef0535ba?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69162c60286ccf0a151330d5?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Nov 13 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6915f8ca6f36db06ef05209c?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
