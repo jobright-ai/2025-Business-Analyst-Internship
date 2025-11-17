@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management & Construction (PMC) – Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/691b512f22a2cb4b9bd116d7?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Nov 17 |
+| **[Novelis](http://novelis.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691b484115b415636718dd0b?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Nov 17 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/691b467e15b415636718dc43?utm_campaign=1067&utm_source=git)** | US-GA-Kennesaw | On Site | Nov 17 |
+| **[Stratagem One](stratagemone.us)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/691b52ffbcdbf3560c9ddeab?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 17 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cccea0fa466330fef9198f?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Nov 16 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/690bdbddd046ab6061ce89e7?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | Nov 15 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/68f1cee2f462172a5a7dc9a8?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 15 |
@@ -84,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69166bc86f36db06ef0562ed?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6916468d9c388539cbdf9648?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/691668429c388539cbdfaea0?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 13 |
-| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/691629846f36db06ef0535ba?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
+| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/69162acb286ccf0a15132fec?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69162c60286ccf0a151330d5?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Nov 13 |
 | **[State Street](http://www.statestreet.com)** | **[IT Strategy and Change Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6915f8ca6f36db06ef05209c?utm_campaign=1067&utm_source=git)** | Quincy, MA | On Site | Nov 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
@@ -113,5 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Tech – Business Solutions/Technical Operations Internships – Summer 2026](https://jobright.ai/jobs/info/6912c572d1047e3565cfea14?utm_campaign=1067&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912c983ea9ab01b82bf4f58?utm_campaign=1067&utm_source=git)** | OAKBROOK TERRACE, Illinois | Hybrid | Nov 10 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912bfe3d1047e3565cfe829?utm_campaign=1067&utm_source=git)** | OAKBROOK TERRACE, Illinois | Hybrid | Nov 10 |
-| **[ComEd](https://www.comed.com)** | **[Business Analyst Intern (GIS)](https://jobright.ai/jobs/info/6912c952d1047e3565cfebc6?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
