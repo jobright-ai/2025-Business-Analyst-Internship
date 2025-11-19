@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Top Secret Clearance Required](https://jobright.ai/jobs/info/691e2ea009cc522e877370de?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Nov 19 |
 | **[LM Restaurants](https://www.lmrest.com)** | **[Business Intern](https://jobright.ai/jobs/info/68fa3ff1edd190144238a223?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 19 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Management Intern](https://jobright.ai/jobs/info/691df9a73f782d2f1afaf3b7?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Nov 19 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 | **[Sheetz](https://www.sheetz.com)** | **[Strategic Research Intern - Business Insights](https://jobright.ai/jobs/info/691df2603f782d2f1afaeed7?utm_campaign=1067&utm_source=git)** | CLAYSBURG, Pennsylvania | Remote | Nov 19 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/691e0cd2a49a885af9a24265?utm_campaign=1067&utm_source=git)** | Toledo, Ohio Metropolitan Area | Remote | Nov 19 |
 | **[Valorantum](valorantum.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/691e118ba49a885af9a246e4?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 19 |
-| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Business Operations Intern](https://jobright.ai/jobs/info/691e0833a49a885af9a23dc6?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Nov 19 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Internship](https://jobright.ai/jobs/info/691e186f09cc522e87736340?utm_campaign=1067&utm_source=git)** | Dallas, TX | Remote | Nov 19 |
 | **[Kenvue](https://www.kenvue.com)** | **[Business Analyst Intern (8-month)](https://jobright.ai/jobs/info/691d90830b7dff734150458f?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 18 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analyst - Business Process Management](https://jobright.ai/jobs/info/6918475cbcdbf3560c9d0fb6?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | On Site | Nov 18 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Nov 18 |
@@ -115,7 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69166bc86f36db06ef0562ed?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6916468d9c388539cbdf9648?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/691668429c388539cbdfaea0?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 13 |
-| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/691629846f36db06ef0535ba?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
+| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/69162acb286ccf0a15132fec?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69162c60286ccf0a151330d5?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Nov 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Nov 13 |
