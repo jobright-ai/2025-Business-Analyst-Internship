@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stratagem One](stratagemone.us)** | **[Business Strategy Intern](https://jobright.ai/jobs/info/691d9bc4bcdbf3560c9f1e7c?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | Remote | Nov 19 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Management Intern](https://jobright.ai/jobs/info/691df9a73f782d2f1afaf3b7?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Nov 19 |
+| **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 19 |
+| **[Sheetz](https://www.sheetz.com)** | **[Strategic Research Intern - Business Insights](https://jobright.ai/jobs/info/691df2603f782d2f1afaeed7?utm_campaign=1067&utm_source=git)** | CLAYSBURG, Pennsylvania | Remote | Nov 19 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/691dff23a49a885af9a2368a?utm_campaign=1067&utm_source=git)** | Columbus, Ohio Metropolitan Area | Remote | Nov 19 |
 | **[Kenvue](https://www.kenvue.com)** | **[Business Analyst Intern (8-month)](https://jobright.ai/jobs/info/691d90830b7dff734150458f?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 18 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analyst - Business Process Management](https://jobright.ai/jobs/info/6918475cbcdbf3560c9d0fb6?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | On Site | Nov 18 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Nov 18 |
@@ -78,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/691b8be815b415636719016e?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Nov 17 |
 | ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/691b88be22a2cb4b9bd1350a?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Nov 17 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management & Construction (PMC) – Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/691bbbadbcdbf3560c9e1f23?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - IT Business Analyst (Memphis TN)](https://jobright.ai/jobs/info/691b9bdfbcdbf3560c9e0b2f?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - IT Business Analyst (Memphis TN)](https://jobright.ai/jobs/info/691b9e1922a2cb4b9bd1448c?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/691b957715b415636719088c?utm_campaign=1067&utm_source=git)** | United States-Oklahoma-Oklahoma City | On Site | Nov 17 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management & Construction (PMC) – Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/691b512f22a2cb4b9bd116d7?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Nov 17 |
 | **[Novelis](http://novelis.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691b484115b415636718dd0b?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Nov 17 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/68f1cee2f462172a5a7dc9a8?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 15 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbf0664129dd33cd136901?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso- Business Analytics Internship](https://jobright.ai/jobs/info/6918922945fb6f5ead8a5f10?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
+| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/691e00a9a49a885af9a23849?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 15 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Global Business Intern - Kansas City](https://jobright.ai/jobs/info/68cc5cac16d00d2beeb1e06a?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2026)](https://jobright.ai/jobs/info/69187ecebcdbf3560c9d258f?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Nov 15 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69183698bcdbf3560c9cfb80?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
@@ -108,12 +112,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69166bc86f36db06ef0562ed?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6916468d9c388539cbdf9648?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/691668429c388539cbdfaea0?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 13 |
-| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/69162acb286ccf0a15132fec?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
+| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/691629846f36db06ef0535ba?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69162c60286ccf0a151330d5?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Nov 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/6915223f286ccf0a1512b8c6?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Nov 13 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Nov 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ddba3444d32141e0bfa940?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/690cf2994a1b456627b1bb8d?utm_campaign=1067&utm_source=git)** | Brentwood, TN | Hybrid | Nov 13 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Technology Operations Intern](https://jobright.ai/jobs/info/68dc8e87a125e75c422a215d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
