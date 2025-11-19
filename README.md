@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/691ce89d22a2cb4b9bd1e916?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Nov 18 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Internship](https://jobright.ai/jobs/info/691cc05c22a2cb4b9bd1cd09?utm_campaign=1067&utm_source=git)** | Greensboro, NC | Remote | Nov 18 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Nov 18 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 18 |
@@ -65,9 +64,8 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Risk Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68fabfd967272b29af73340a?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6913b944e344172248f738b3?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 18 |
-| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca70bff70244984169202?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 18 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca48c22a2cb4b9bd1be51?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/691c4588bcdbf3560c9e6831?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 18 |
+| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca70bff70244984169202?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 18 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - R10214783](https://jobright.ai/jobs/info/691bfb8abcdbf3560c9e4b55?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Nov 17 |
 | ↳ | **[2026 Business Management Intern - R10214773-2](https://jobright.ai/jobs/info/691beb77bcdbf3560c9e3f3b?utm_campaign=1067&utm_source=git)** | El Segundo, CA | On Site | Nov 17 |
 | ↳ | **[2026 Business Management Intern - R10214773](https://jobright.ai/jobs/info/691be9a822a2cb4b9bd17728?utm_campaign=1067&utm_source=git)** | Redondo Beach, CA | On Site | Nov 17 |
