@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 18 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6913b944e344172248f738b3?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 18 |
-| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca70bff70244984169202?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 18 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca48c22a2cb4b9bd1be51?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
+| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca70bff70244984169202?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 18 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - R10214783](https://jobright.ai/jobs/info/691bfb8abcdbf3560c9e4b55?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Nov 17 |
 | ↳ | **[2026 Business Management Intern - R10214773-2](https://jobright.ai/jobs/info/691beb77bcdbf3560c9e3f3b?utm_campaign=1067&utm_source=git)** | El Segundo, CA | On Site | Nov 17 |
 | ↳ | **[2026 Business Management Intern - R10214773](https://jobright.ai/jobs/info/691be9a822a2cb4b9bd17728?utm_campaign=1067&utm_source=git)** | Redondo Beach, CA | On Site | Nov 17 |
@@ -106,7 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69166bc86f36db06ef0562ed?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6916468d9c388539cbdf9648?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/691668429c388539cbdfaea0?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 13 |
-| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/69162acb286ccf0a15132fec?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
+| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/691629846f36db06ef0535ba?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69162c60286ccf0a151330d5?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Nov 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/6915223f286ccf0a1512b8c6?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Nov 13 |
@@ -116,7 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Badger Meter](http://badgermeter.com)** | **[Business Technology Operations Intern](https://jobright.ai/jobs/info/68dc8e87a125e75c422a215d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
 | **[GreenSky®](https://www.greensky.com/)** | **[Operations Analytics Intern](https://jobright.ai/jobs/info/69150703286ccf0a1512a76e?utm_campaign=1067&utm_source=git)** | US-GA-Atlanta | Hybrid | Nov 12 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6914f83c6f36db06ef04a2d4?utm_campaign=1067&utm_source=git)** | Waite Park Service Center | On Site | Nov 12 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
-| **[Insight](https://www.insight.com)** | **[Insight Public Sector Business Analyst Intern](https://jobright.ai/jobs/info/69140eede344172248f767a2?utm_campaign=1067&utm_source=git)** | Arizona, United States | Hybrid | Nov 12 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68fc9434664c6f162a9527ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
