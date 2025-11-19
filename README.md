@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LM Restaurants](https://www.lmrest.com)** | **[Business Intern](https://jobright.ai/jobs/info/68fa3ff1edd190144238a223?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 19 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Management Intern](https://jobright.ai/jobs/info/691df9a73f782d2f1afaf3b7?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Nov 19 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 | **[Sheetz](https://www.sheetz.com)** | **[Strategic Research Intern - Business Insights](https://jobright.ai/jobs/info/691df2603f782d2f1afaeed7?utm_campaign=1067&utm_source=git)** | CLAYSBURG, Pennsylvania | Remote | Nov 19 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/691dff23a49a885af9a2368a?utm_campaign=1067&utm_source=git)** | Columbus, Ohio Metropolitan Area | Remote | Nov 19 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/691e0cd2a49a885af9a24265?utm_campaign=1067&utm_source=git)** | Toledo, Ohio Metropolitan Area | Remote | Nov 19 |
+| **[Valorantum](valorantum.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/691e118ba49a885af9a246e4?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 19 |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Business Operations Intern](https://jobright.ai/jobs/info/691e0833a49a885af9a23dc6?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Nov 19 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Internship](https://jobright.ai/jobs/info/691e186f09cc522e87736340?utm_campaign=1067&utm_source=git)** | Dallas, TX | Remote | Nov 19 |
 | **[Kenvue](https://www.kenvue.com)** | **[Business Analyst Intern (8-month)](https://jobright.ai/jobs/info/691d90830b7dff734150458f?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 18 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analyst - Business Process Management](https://jobright.ai/jobs/info/6918475cbcdbf3560c9d0fb6?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | On Site | Nov 18 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Nov 18 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/68f1cee2f462172a5a7dc9a8?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 15 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbf0664129dd33cd136901?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso- Business Analytics Internship](https://jobright.ai/jobs/info/6918922945fb6f5ead8a5f10?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/691e00a9a49a885af9a23849?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 15 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Global Business Intern - Kansas City](https://jobright.ai/jobs/info/68cc5cac16d00d2beeb1e06a?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2026)](https://jobright.ai/jobs/info/69187ecebcdbf3560c9d258f?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Nov 15 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69183698bcdbf3560c9cfb80?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
