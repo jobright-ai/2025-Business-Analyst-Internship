@@ -112,9 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69166bc86f36db06ef0562ed?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6916468d9c388539cbdf9648?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/691668429c388539cbdfaea0?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 13 |
-| **[OneStream Software](https://www.onestream.com/)** | **[Enterprise Enablement Intern](https://jobright.ai/jobs/info/691670ed6f36db06ef0568c4?utm_campaign=1067&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business](https://jobright.ai/jobs/info/69162acb286ccf0a15132fec?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
+| ↳ | **[Intern - Business](https://jobright.ai/jobs/info/69162acb286ccf0a15132fec?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | Nov 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69162c60286ccf0a151330d5?utm_campaign=1067&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Nov 13 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
