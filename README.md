@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f80ba09cc522e877422c5?utm_campaign=1067&utm_source=git)** | New York City, New York, NY, US | Hybrid | Nov 20 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f93f409cc522e877433a6?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Nov 20 |
 | **[Tech Verses](techverses.us)** | **[Business Efficiency Intern](https://jobright.ai/jobs/info/691f95563f782d2f1afbe3c2?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Remote | Nov 20 |
-| **[TalentSphere Global](talentsphereglobal.us)** | **[Business Operations intern](https://jobright.ai/jobs/info/691f469009cc522e8773eee2?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Remote | Nov 20 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Nov 20 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 20 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/691024ee988c2b7b4ec5044c?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Nov 20 |
@@ -109,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Global Business Intern - Kansas City](https://jobright.ai/jobs/info/68cc5cac16d00d2beeb1e06a?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2026)](https://jobright.ai/jobs/info/69187ecebcdbf3560c9d258f?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Nov 15 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69183698bcdbf3560c9cfb80?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
-| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Business Analyst (Cash)](https://jobright.ai/jobs/info/6917d13045fb6f5ead89ee0d?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
