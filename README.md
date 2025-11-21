@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Business Internship](https://jobright.ai/jobs/info/692004733f782d2f1afc2324?utm_campaign=1067&utm_source=git)** | Hartford, CT | Remote | Nov 20 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Business Performance Insights Intern](https://jobright.ai/jobs/info/691fed1209cc522e87746b09?utm_campaign=1067&utm_source=git)** | Providence, RI | Remote | Nov 20 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/691feb8da49a885af9a3567d?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Nov 20 |
 | ↳ | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/691fcd4f09cc522e877458f2?utm_campaign=1067&utm_source=git)** | Oakland, CA, United States | On Site | Nov 20 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Business Operations intern](https://jobright.ai/jobs/info/691f469009cc522e8773eee2?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Remote | Nov 20 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Nov 20 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 20 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 - (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/691f2c283f782d2f1afb8e42?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Nov 20 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Planning Intern](https://jobright.ai/jobs/info/691f33a83f782d2f1afb91c0?utm_campaign=1067&utm_source=git)** | Tampa, FL | Remote | Nov 20 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/691024ee988c2b7b4ec5044c?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Nov 20 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/691d3831bcdbf3560c9ee44a?utm_campaign=1067&utm_source=git)** | Headquarters, NJ | Hybrid | Nov 20 |
@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6917925845fb6f5ead89c2a0?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - Business Analyst (Cash)](https://jobright.ai/jobs/info/6917b9a1bcdbf3560c9caa8e?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 14 |
 | **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern - HR Time and Attendance](https://jobright.ai/jobs/info/68deb01544d32141e0c019fb?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Nov 14 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
