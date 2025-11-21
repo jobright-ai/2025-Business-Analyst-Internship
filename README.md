@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6920a843a49a885af9a3dca2?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Nov 21 |
+| ↳ | **[Spring 2026 Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6920b41a00c9ee50eaec7039?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Nov 21 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 21 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Business Process Improvement Intern](https://jobright.ai/jobs/info/69207b7d3f782d2f1afc7ce2?utm_campaign=1067&utm_source=git)** | Mobile, AL | On Site | Nov 20 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/691feb8da49a885af9a3567d?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Nov 20 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Nov 20 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 20 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/691024ee988c2b7b4ec5044c?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Nov 20 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Business Analyst](https://jobright.ai/jobs/info/691d3831bcdbf3560c9ee44a?utm_campaign=1067&utm_source=git)** | Headquarters, NJ | Hybrid | Nov 20 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691e658fa49a885af9a28312?utm_campaign=1067&utm_source=git)** | San Jose, California | Hybrid | Nov 19 |
 | **[Montana Department of Transportation](http://mdt.mt.gov)** | **[Business Process Improvement MDT Internship](https://jobright.ai/jobs/info/691e49d83f782d2f1afb36c3?utm_campaign=1067&utm_source=git)** | Helena, MT | On Site | Nov 19 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691e44f109cc522e877384b0?utm_campaign=1067&utm_source=git)** | Andover, MA | Hybrid | Nov 19 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Global Business Insights & Operations](https://jobright.ai/jobs/info/691bc150bcdbf3560c9e23bc?utm_campaign=1067&utm_source=git)** | South San Francisco | On Site | Nov 17 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/691b88be22a2cb4b9bd1350a?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Nov 17 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management & Construction (PMC) – Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/691bbbadbcdbf3560c9e1f23?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - IT Business Analyst (Memphis TN)](https://jobright.ai/jobs/info/691b9e1922a2cb4b9bd1448c?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - IT Business Analyst (Memphis TN)](https://jobright.ai/jobs/info/691b9bdfbcdbf3560c9e0b2f?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management & Construction (PMC) – Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/691b512f22a2cb4b9bd116d7?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Nov 17 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cccea0fa466330fef9198f?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Nov 16 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/691ff1303f782d2f1afc1bac?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 15 |
