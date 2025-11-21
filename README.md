@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/691fcd4f09cc522e877458f2?utm_campaign=1067&utm_source=git)** | Oakland, CA, United States | On Site | Nov 20 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Business Intelligence Summer 2026 Intern](https://jobright.ai/jobs/info/691f912c09cc522e877430db?utm_campaign=1067&utm_source=git)** | McDonough, GA | On Site | Nov 20 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f88c109cc522e87742964?utm_campaign=1067&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Nov 20 |
 | ↳ | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f88123f782d2f1afbd63e?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 20 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 18 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6913b944e344172248f738b3?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 18 |
-| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca70bff70244984169202?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 18 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca48c22a2cb4b9bd1be51?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
+| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca70bff70244984169202?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 18 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - R10214783](https://jobright.ai/jobs/info/691bfb8abcdbf3560c9e4b55?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Nov 17 |
 | ↳ | **[2026 Business Management Intern - R10214773-2](https://jobright.ai/jobs/info/691beb77bcdbf3560c9e3f3b?utm_campaign=1067&utm_source=git)** | El Segundo, CA | On Site | Nov 17 |
 | ↳ | **[2026 Business Management Intern - R10214773](https://jobright.ai/jobs/info/691be9a822a2cb4b9bd17728?utm_campaign=1067&utm_source=git)** | Redondo Beach, CA | On Site | Nov 17 |
