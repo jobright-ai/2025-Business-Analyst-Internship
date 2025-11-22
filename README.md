@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 22 |
 | **[Tech Verses](techverses.us)** | **[Business Efficiency Intern](https://jobright.ai/jobs/info/69216b25d1ec2c3565c44136?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Remote | Nov 21 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Business Transformation Support Intern](https://jobright.ai/jobs/info/692166d8a49a885af9a45951?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Nov 21 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Internship Program](https://jobright.ai/jobs/info/69219aadd1ec2c3565c453fd?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 21 |
 | **[Kenvue](https://www.kenvue.com)** | **[Business Analyst Intern (8-month)](https://jobright.ai/jobs/info/691d90830b7dff734150458f?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 21 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Business Internship](https://jobright.ai/jobs/info/69218fbfa49a885af9a46b23?utm_campaign=1067&utm_source=git)** | Hartford, CT | Remote | Nov 21 |
 | **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6921409b3f782d2f1afd0982?utm_campaign=1067&utm_source=git)** | Columbus, IN, 47201, United States | Hybrid | Nov 21 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6920a843a49a885af9a3dca2?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Nov 21 |
 | **[LM Restaurants](https://www.lmrest.com)** | **[Business Intern](https://jobright.ai/jobs/info/6920cad8a49a885af9a3f39b?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 21 |
