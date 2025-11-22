@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Business Technology Analyst](https://jobright.ai/jobs/info/6920db223f782d2f1afcc40d?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Nov 21 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6920a843a49a885af9a3dca2?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Nov 21 |
 | **[LM Restaurants](https://www.lmrest.com)** | **[Business Intern](https://jobright.ai/jobs/info/6920cad8a49a885af9a3f39b?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Nov 21 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Spring 2026 Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6920b41a00c9ee50eaec7039?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Nov 21 |
@@ -90,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 18 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6913b944e344172248f738b3?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 18 |
-| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca70bff70244984169202?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 18 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca48c22a2cb4b9bd1be51?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
+| ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/691ca70bff70244984169202?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 18 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - R10214783](https://jobright.ai/jobs/info/691bfb8abcdbf3560c9e4b55?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Nov 17 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Global Business Insights & Operations](https://jobright.ai/jobs/info/691bdf3ebcdbf3560c9e3779?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Nov 17 |
 | **[Concurrent Technologies Corporation](http://www.ctc.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bff4e22a2cb4b9bd18557?utm_campaign=1067&utm_source=git)** | Johnstown, PA | On Site | Nov 17 |
@@ -106,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbf0664129dd33cd136901?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso- Business Analytics Internship](https://jobright.ai/jobs/info/6918922945fb6f5ead8a5f10?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Global Business Intern - Kansas City](https://jobright.ai/jobs/info/68cc5cac16d00d2beeb1e06a?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Spring 2026)](https://jobright.ai/jobs/info/69187ecebcdbf3560c9d258f?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Nov 15 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69183698bcdbf3560c9cfb80?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
