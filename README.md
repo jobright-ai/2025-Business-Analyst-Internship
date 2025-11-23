@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Operations Intern](https://jobright.ai/jobs/info/692326ed7795cd460c83821f?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Remote | Nov 23 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 23 |
+| **[Valorantum](valorantum.us)** | **[Business Internship](https://jobright.ai/jobs/info/6923138a38cd5478a8d56029?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Remote | Nov 23 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Nov 23 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/692306647795cd460c837e99?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 23 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Business Internship](https://jobright.ai/jobs/info/692301a27795cd460c837dbe?utm_campaign=1067&utm_source=git)** | Dallas, TX | Remote | Nov 23 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Office of CDIO (Chief Digital and Information Officer)](https://jobright.ai/jobs/info/69222d7aa49a885af9a48939?utm_campaign=1067&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
@@ -64,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[IT Service Delivery - Business Analysis Intern](https://jobright.ai/jobs/info/6904f44263502c0aded76952?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 22 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6921f8ac3f782d2f1afd43f3?utm_campaign=1067&utm_source=git)** | Columbus, IN | Hybrid | Nov 22 |
-| **[Tech Verses](techverses.us)** | **[Business Efficiency Intern](https://jobright.ai/jobs/info/69216b25d1ec2c3565c44136?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Remote | Nov 21 |
 | **[Kenvue](https://www.kenvue.com)** | **[Business Analyst Intern (8-month)](https://jobright.ai/jobs/info/691d90830b7dff734150458f?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 21 |
 | **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6921409b3f782d2f1afd0982?utm_campaign=1067&utm_source=git)** | Columbus, IN, 47201, United States | Hybrid | Nov 21 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/6922793dc0cefa13343d7dc7?utm_campaign=1067&utm_source=git)** | California, United States | On Site | Nov 21 |
