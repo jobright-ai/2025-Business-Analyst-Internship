@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Business Internship](https://jobright.ai/jobs/info/692340a67795cd460c8384cd?utm_campaign=1067&utm_source=git)** | Hartford, VT | Remote | Nov 23 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Operations Intern](https://jobright.ai/jobs/info/692326ed7795cd460c83821f?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Remote | Nov 23 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 23 |
 | **[Valorantum](valorantum.us)** | **[Business Internship](https://jobright.ai/jobs/info/6923138a38cd5478a8d56029?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Remote | Nov 23 |
@@ -109,6 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6916acc16f36db06ef058e6b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Global Business Insights & Operations](https://jobright.ai/jobs/info/691bc150bcdbf3560c9e23bc?utm_campaign=1067&utm_source=git)** | South San Francisco | On Site | Nov 17 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management & Construction (PMC) – Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/691bbbadbcdbf3560c9e1f23?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - IT Business Analyst (Memphis TN)](https://jobright.ai/jobs/info/691b9bdfbcdbf3560c9e0b2f?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - IT Business Analyst (Memphis TN)](https://jobright.ai/jobs/info/691b9e1922a2cb4b9bd1448c?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management & Construction (PMC) – Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/691b512f22a2cb4b9bd116d7?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
