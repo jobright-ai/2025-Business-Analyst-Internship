@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/6924976e38cd5478a8d5b9da?utm_campaign=1067&utm_source=git)** | Titusville, NJ | Hybrid | Nov 24 |
+| **[Stratify Edge](stratifyedge.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/69248d5338cd5478a8d5b4a7?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Nov 24 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/692462efc0cefa13343de6ab?utm_campaign=1067&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Nov 24 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/692428e338cd5478a8d5965e?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Nov 24 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Internship Program](https://jobright.ai/jobs/info/6924223538cd5478a8d59449?utm_campaign=1067&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Nov 24 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6923ef1038cd5478a8d58274?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 23 |
 | **[Kenvue](https://www.kenvue.com)** | **[Business Analyst Intern (8-month)](https://jobright.ai/jobs/info/6923ba6f38cd5478a8d57090?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 23 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 23 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/68b1fd4c1ade4306aa633a3a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Nov 23 |
@@ -105,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - R10214783](https://jobright.ai/jobs/info/691bfb8abcdbf3560c9e4b55?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Nov 17 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Global Business Insights & Operations](https://jobright.ai/jobs/info/691bdf3ebcdbf3560c9e3779?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Nov 17 |
 | **[Concurrent Technologies Corporation](http://www.ctc.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bff4e22a2cb4b9bd18557?utm_campaign=1067&utm_source=git)** | Johnstown, PA | On Site | Nov 17 |
-| **[Solidigm](https://www.solidigmtechnology.com)** | **[2026 Undergrad Business Internship United States](https://jobright.ai/jobs/info/691bfa0322a2cb4b9bd182a5?utm_campaign=1067&utm_source=git)** | 10951 White Rock Rd, Rancho Cordova, CA | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
