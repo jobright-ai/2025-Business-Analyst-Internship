@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jaris Technologies](https://jaristechnologies.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6925feb4f0beb07232620f80?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 25 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6919342e45fb6f5ead8a78eb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Internship Program - 2026](https://jobright.ai/jobs/info/6925e86b27bf2f41a2c417d0?utm_campaign=1067&utm_source=git)** | Austin, TX | Hybrid | Nov 25 |
+| **[Telesat](https://www.telesat.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6925e86027bf2f41a2c417c4?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario | Hybrid | Nov 25 |
 | **[CPower Energy](https://cpowerenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6925e75d27bf2f41a2c41718?utm_campaign=1067&utm_source=git)** | Baltimore, MD | Hybrid | Nov 25 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/68ed459481fdd1626d39a7c1?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/6925e098d47de4798ecd2646?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Nov 25 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Business Operations - Analytics Intern](https://jobright.ai/jobs/info/690ef35b44146d3b6ec58d42?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | ↳ | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/690c40f8d046ab6061cec0bb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Kreativstorm Recruitment](https://kreativstorm.de/)** | **[Business Analyst \- Intern (Remote Internship)](https://jobright.ai/jobs/info/6925b89327bf2f41a2c40053?utm_campaign=1067&utm_source=git)** | Remote job | Remote | Nov 25 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Internship](https://jobright.ai/jobs/info/6925beabd47de4798ecd1540?utm_campaign=1067&utm_source=git)** | Dallas, TX | Remote | Nov 25 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 25 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 25 |
@@ -111,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Montana Technological University](https://mtech.edu)** | **[Business Process Improvement MDT Internship](https://jobright.ai/jobs/info/691e3914a49a885af9a26793?utm_campaign=1067&utm_source=git)** | HelenaOther Locations | Hybrid | Nov 19 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 | **[Sheetz](https://www.sheetz.com)** | **[Strategic Research Intern - Business Insights](https://jobright.ai/jobs/info/691df2603f782d2f1afaeed7?utm_campaign=1067&utm_source=git)** | CLAYSBURG, Pennsylvania | Remote | Nov 19 |
-| **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analyst - Business Process Management](https://jobright.ai/jobs/info/6918475cbcdbf3560c9d0fb6?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
