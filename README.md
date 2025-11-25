@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CN](http://www.cn.ca)** | **[Intern, I&T Business Analyst (PMO)- EN](https://jobright.ai/jobs/info/6924e6b9c0cefa13343e3b18?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
+| **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Intermodal Operations)- EN](https://jobright.ai/jobs/info/6924ecc9c0cefa13343e42de?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 24 |
+| ↳ | **[Intern, I&T Business Analyst (PMO)- EN](https://jobright.ai/jobs/info/6924e6b9c0cefa13343e3b18?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | ↳ | **[Intern, I&T Business Analyst (VPO)- EN](https://jobright.ai/jobs/info/6924dd7fec574f4265bb7eeb?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924e0deec574f4265bb82d2?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
+| ↳ | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924ef9ec0cefa13343e4650?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | **[Tech Verses](techverses.us)** | **[Business Efficiency Intern](https://jobright.ai/jobs/info/6924c7d4ec574f4265bb6f07?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Remote | Nov 24 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/69087e804a1b456627af5eba?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 24 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/6924976e38cd5478a8d5b9da?utm_campaign=1067&utm_source=git)** | Titusville, NJ | Hybrid | Nov 24 |
-| **[Ededge Groups](http://www.ededgelearning.com)** | **[Business  Analyst  Internship and  Training  Program](https://jobright.ai/jobs/info/6924b74238cd5478a8d5ceca?utm_campaign=1067&utm_source=git)** | Canada | On Site | Nov 24 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/692462efc0cefa13343de6ab?utm_campaign=1067&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Nov 24 |
 | **[Kenvue](https://www.kenvue.com)** | **[Business Analyst Intern (8-month)](https://jobright.ai/jobs/info/6923ba6f38cd5478a8d57090?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 23 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 23 |
