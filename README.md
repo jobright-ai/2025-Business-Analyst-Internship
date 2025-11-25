@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6925c384d47de4798ecd1745?utm_campaign=1067&utm_source=git)** | Buffalo, NY | On Site | Nov 25 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Business Operations - Analytics Intern](https://jobright.ai/jobs/info/690ef35b44146d3b6ec58d42?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
+| ↳ | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/690c40f8d046ab6061cec0bb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
+| **[Kreativstorm Recruitment](https://kreativstorm.de/)** | **[Business Analyst \- Intern (Remote Internship)](https://jobright.ai/jobs/info/6925b89327bf2f41a2c40053?utm_campaign=1067&utm_source=git)** | Remote job | Remote | Nov 25 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Internship](https://jobright.ai/jobs/info/6925beabd47de4798ecd1540?utm_campaign=1067&utm_source=git)** | Dallas, TX | Remote | Nov 25 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 25 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 25 |
