@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbf0664129dd33cd136901?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Nov 24 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Intermodal Operations)- EN](https://jobright.ai/jobs/info/6924ecc9c0cefa13343e42de?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 24 |
 | ↳ | **[Intern, I&T Business Analyst (PMO)- EN](https://jobright.ai/jobs/info/6924e6b9c0cefa13343e3b18?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | ↳ | **[Intern, I&T Business Analyst (VPO)- EN](https://jobright.ai/jobs/info/6924dd7fec574f4265bb7eeb?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
@@ -99,7 +100,4 @@ For a complete list, click the following sortable link below:
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 | **[Sheetz](https://www.sheetz.com)** | **[Strategic Research Intern - Business Insights](https://jobright.ai/jobs/info/691df2603f782d2f1afaeed7?utm_campaign=1067&utm_source=git)** | CLAYSBURG, Pennsylvania | Remote | Nov 19 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Business Analyst - Business Process Management](https://jobright.ai/jobs/info/6918475cbcdbf3560c9d0fb6?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | On Site | Nov 18 |
-| **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Nov 18 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 18 |
-| **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
