@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 25 |
+| **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 25 |
+| **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 25 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6925782bd47de4798ecd0275?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Remote | Nov 25 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbf0664129dd33cd136901?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Nov 24 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Intermodal Operations)- EN](https://jobright.ai/jobs/info/6924ecc9c0cefa13343e42de?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 24 |
