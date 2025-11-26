@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6927323191ceeb2e8a53d303?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 26 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Business Analyst, Innovation Internship](https://jobright.ai/jobs/info/692732db91ceeb2e8a53d365?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Nov 26 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/6926dc4291ceeb2e8a53b845?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
 | **[Ededge Learn](www.ededgelearning.com)** | **[Business  Analyst  Training  &  Internship Program](https://jobright.ai/jobs/info/6926f978f0beb07232626e00?utm_campaign=1067&utm_source=git)** | Canada | Remote | Nov 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Business Process Analyst Intern](https://jobright.ai/jobs/info/69269641d47de4798ecd836c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Nov 25 |
@@ -107,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Nov 20 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 20 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Top Secret Clearance Required](https://jobright.ai/jobs/info/6923eede7795cd460c83a0a9?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Nov 19 |
-| **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691e658fa49a885af9a28312?utm_campaign=1067&utm_source=git)** | San Jose, California | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
