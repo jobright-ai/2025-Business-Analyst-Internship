@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moelis & Company](http://moelis.com)** | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/6927556e91ceeb2e8a53e1e2?utm_campaign=1067&utm_source=git)** | New York | On Site | Nov 26 |
+| **[CADAR Fine Jewelry](http://www.cadar.com)** | **[Business Analyst Intern-- CADAR (New York Headquarters)](https://jobright.ai/jobs/info/69274b23f0beb07232628cc2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 26 |
+| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69100726bb519377733ea436?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6927323191ceeb2e8a53d303?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 26 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Business Analyst, Innovation Internship](https://jobright.ai/jobs/info/692732db91ceeb2e8a53d365?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Nov 26 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/6926dc4291ceeb2e8a53b845?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
-| **[Ededge Learn](www.ededgelearning.com)** | **[Business  Analyst  Training  &  Internship Program](https://jobright.ai/jobs/info/6926f978f0beb07232626e00?utm_campaign=1067&utm_source=git)** | Canada | Remote | Nov 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Business Process Analyst Intern](https://jobright.ai/jobs/info/69269641d47de4798ecd836c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Nov 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Business and Competitive Intelligence (BCI), Onsite](https://jobright.ai/jobs/info/6916a2ea6f36db06ef05889f?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 25 |
-| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6926124827bf2f41a2c431ac?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6919342e45fb6f5ead8a78eb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Telesat](https://www.telesat.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6925e86027bf2f41a2c417c4?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario | Hybrid | Nov 25 |
 | **[CPower Energy](https://cpowerenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6925e75d27bf2f41a2c41718?utm_campaign=1067&utm_source=git)** | Baltimore, MD | Hybrid | Nov 25 |
