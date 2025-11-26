@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69276444f0beb07232629b5a?utm_campaign=1067&utm_source=git)** | Columbus, IN | Hybrid | Nov 26 |
 | **[Moelis & Company](http://moelis.com)** | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/6927556e91ceeb2e8a53e1e2?utm_campaign=1067&utm_source=git)** | New York | On Site | Nov 26 |
 | **[CADAR Fine Jewelry](http://www.cadar.com)** | **[Business Analyst Intern-- CADAR (New York Headquarters)](https://jobright.ai/jobs/info/69274b23f0beb07232628cc2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69100726bb519377733ea436?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 26 |
@@ -110,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f93f409cc522e877433a6?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Nov 20 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Nov 20 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 20 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Top Secret Clearance Required](https://jobright.ai/jobs/info/6923eede7795cd460c83a0a9?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
