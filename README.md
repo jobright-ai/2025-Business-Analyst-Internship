@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/6926dc4291ceeb2e8a53b845?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Business Process Analyst Intern](https://jobright.ai/jobs/info/69269641d47de4798ecd836c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Nov 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Business and Competitive Intelligence (BCI), Onsite](https://jobright.ai/jobs/info/6916a2ea6f36db06ef05889f?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 25 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6926124827bf2f41a2c431ac?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 25 |
