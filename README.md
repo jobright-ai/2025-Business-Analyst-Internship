@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Top Secret Clearance Required](https://jobright.ai/jobs/info/6923eede7795cd460c83a0a9?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Nov 19 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691e658fa49a885af9a28312?utm_campaign=1067&utm_source=git)** | San Jose, California | Hybrid | Nov 19 |
 | **[Montana Department of Transportation](http://mdt.mt.gov)** | **[Business Process Improvement MDT Internship](https://jobright.ai/jobs/info/691e49d83f782d2f1afb36c3?utm_campaign=1067&utm_source=git)** | Helena, MT | On Site | Nov 19 |
-| **[Montana Technological University](https://mtech.edu)** | **[Business Process Improvement MDT Internship](https://jobright.ai/jobs/info/691e3914a49a885af9a26793?utm_campaign=1067&utm_source=git)** | HelenaOther Locations | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
