@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Business and Competitive Intelligence (BCI), Onsite](https://jobright.ai/jobs/info/6916a2ea6f36db06ef05889f?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 25 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6926124827bf2f41a2c431ac?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6919342e45fb6f5ead8a78eb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Telesat](https://www.telesat.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6925e86027bf2f41a2c417c4?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario | Hybrid | Nov 25 |
