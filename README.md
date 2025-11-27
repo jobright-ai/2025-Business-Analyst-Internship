@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Sustainability Business Analyst](https://jobright.ai/jobs/info/691013c5988c2b7b4ec5006a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
+| **[Arvento A](arventoa.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/69286e9191ceeb2e8a54577e?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Nov 27 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Business Operations Analyst  Intern](https://jobright.ai/jobs/info/6910061c988c2b7b4ec4facc?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 27 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[IT Corporate Systems Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/69202cc409cc522e87748815?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69105b9d183be660d267887d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 27 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 25 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fbf0664129dd33cd136901?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Nov 24 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Intermodal Operations)- EN](https://jobright.ai/jobs/info/6924ecc9c0cefa13343e42de?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 24 |
-| ↳ | **[Intern, I&T Business Analyst (PMO)- EN](https://jobright.ai/jobs/info/6924e6b9c0cefa13343e3b18?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | ↳ | **[Intern, I&T Business Analyst (VPO)- EN](https://jobright.ai/jobs/info/6924dd7fec574f4265bb7eeb?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924e0deec574f4265bb82d2?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | ↳ | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924ef9ec0cefa13343e4650?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
