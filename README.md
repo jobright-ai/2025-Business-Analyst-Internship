@@ -57,17 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
+| **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Capacity Management)- EN](https://jobright.ai/jobs/info/692884dbd47de4798ece3106?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 27 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Nov 27 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83ede50091dbfa509b8?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 27 |
+| ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Sustainability Business Analyst](https://jobright.ai/jobs/info/691013c5988c2b7b4ec5006a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 | **[Arvento A](arventoa.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/69286e9191ceeb2e8a54577e?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Nov 27 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Business Operations Analyst  Intern](https://jobright.ai/jobs/info/6910061c988c2b7b4ec4facc?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 27 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[IT Corporate Systems Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/69202cc409cc522e87748815?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69105b9d183be660d267887d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 27 |
+| **[Ededge Learn](www.ededgelearning.com)** | **[Business Analyst Training  &  Internship](https://jobright.ai/jobs/info/692870abf0beb07232630655?utm_campaign=1067&utm_source=git)** | Canada | Remote | Nov 26 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
 | **[Moelis & Company](http://moelis.com)** | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/69277cead47de4798ecdd38a?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/6927556e91ceeb2e8a53e1e2?utm_campaign=1067&utm_source=git)** | New York | On Site | Nov 26 |
 | **[CADAR Fine Jewelry](http://www.cadar.com)** | **[Business Analyst Intern-- CADAR (New York Headquarters)](https://jobright.ai/jobs/info/69274b23f0beb07232628cc2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69100726bb519377733ea436?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 26 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6927323191ceeb2e8a53d303?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 26 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/6926dc4291ceeb2e8a53b845?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Business Process Analyst Intern](https://jobright.ai/jobs/info/69269641d47de4798ecd836c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Nov 25 |
@@ -104,5 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6920b41a00c9ee50eaec7039?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Nov 21 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 21 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/6922d0e4c0cefa13343d963d?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Nov 21 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/69217c0dd1ec2c3565c4470a?utm_campaign=1067&utm_source=git)** | Oakland, CA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
