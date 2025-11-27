@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenet Healthcare](http://tenethealth.com)** | **[IT Corporate Systems Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/69202cc409cc522e87748815?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69105b9d183be660d267887d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 27 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
 | **[Moelis & Company](http://moelis.com)** | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/69277cead47de4798ecdd38a?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 26 |
@@ -102,10 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68ccf50f5954791a1d7019d0?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Nov 21 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/6922d0e4c0cefa13343d963d?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Nov 21 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/69217c0dd1ec2c3565c4470a?utm_campaign=1067&utm_source=git)** | Oakland, CA, United States | On Site | Nov 20 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f88c109cc522e87742964?utm_campaign=1067&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Nov 20 |
-| ↳ | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f88123f782d2f1afbd63e?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f84cda49a885af9a3113c?utm_campaign=1067&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Nov 20 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f82ff3f782d2f1afbd33f?utm_campaign=1067&utm_source=git)** | New York City, New York, NY, US | Hybrid | Nov 20 |
-| **[ORIX Corporation USA](http://www.orix.com/orix-finance/venture-finance.aspx)** | **[Intern](https://jobright.ai/jobs/info/691f81fc3f782d2f1afbd239?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
-| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f80ba09cc522e877422c5?utm_campaign=1067&utm_source=git)** | New York City, New York, NY, US | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
