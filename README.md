@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6927d865f0beb0723262e831?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Nov 26 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
 | **[Moelis & Company](http://moelis.com)** | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/69277cead47de4798ecdd38a?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/6927556e91ceeb2e8a53e1e2?utm_campaign=1067&utm_source=git)** | New York | On Site | Nov 26 |
@@ -109,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[ORIX Corporation USA](http://www.orix.com/orix-finance/venture-finance.aspx)** | **[Intern](https://jobright.ai/jobs/info/691f81fc3f782d2f1afbd239?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f80ba09cc522e877422c5?utm_campaign=1067&utm_source=git)** | New York City, New York, NY, US | Hybrid | Nov 20 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/691f93f409cc522e877433a6?utm_campaign=1067&utm_source=git)** | Albany, NY | On Site | Nov 20 |
-| **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
