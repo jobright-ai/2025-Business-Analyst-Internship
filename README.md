@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6928a5cb91ceeb2e8a5460d4?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 27 |
+| **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Capacity Management)](https://jobright.ai/jobs/info/6928a2bcd47de4798ece3597?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, CA | On Site | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Capacity Management)- EN](https://jobright.ai/jobs/info/692884dbd47de4798ece3106?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Nov 27 |
