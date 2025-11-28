@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6929ff2b4c474121999cb129?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 28 |
+| **[LumoraX](lumorax.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6929fda84c474121999cb091?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Remote | Nov 28 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d133a221b890c27802d4d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Nov 28 |
@@ -105,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Office of CDIO (Chief Digital and Information Officer)](https://jobright.ai/jobs/info/69222d7aa49a885af9a48939?utm_campaign=1067&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern, MRT](https://jobright.ai/jobs/info/691a889215b4156367188a14?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Nov 22 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 22 |
-| **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6921409b3f782d2f1afd0982?utm_campaign=1067&utm_source=git)** | Columbus, IN, 47201, United States | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
