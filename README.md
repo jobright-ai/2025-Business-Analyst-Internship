@@ -105,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6921409b3f782d2f1afd0982?utm_campaign=1067&utm_source=git)** | Columbus, IN, 47201, United States | Hybrid | Nov 21 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/6922793dc0cefa13343d7dc7?utm_campaign=1067&utm_source=git)** | California, United States | On Site | Nov 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691e44f109cc522e877384b0?utm_campaign=1067&utm_source=git)** | Andover, MA | Hybrid | Nov 21 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6920a843a49a885af9a3dca2?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Nov 21 |
-| ↳ | **[Spring 2026 Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6920b41a00c9ee50eaec7039?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
