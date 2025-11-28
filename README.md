@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 28 |
+| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/6929bb0066796e3028f8cfd5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Nov 28 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d133a221b890c27802d4d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Nov 28 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68cb246defdec76df36b96fa?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Nov 28 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6928a5cb91ceeb2e8a5460d4?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Capacity Management)](https://jobright.ai/jobs/info/6928a2bcd47de4798ece3597?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, CA | On Site | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
@@ -94,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, I&T Business Analyst (VPO)- EN](https://jobright.ai/jobs/info/6924dd7fec574f4265bb7eeb?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924e0deec574f4265bb82d2?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | ↳ | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924ef9ec0cefa13343e4650?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
-| **[Kenvue](https://www.kenvue.com)** | **[Business Analyst Intern (8-month)](https://jobright.ai/jobs/info/6927b177d47de4798ecdfa44?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 24 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/69087e804a1b456627af5eba?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 24 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/6924976e38cd5478a8d5b9da?utm_campaign=1067&utm_source=git)** | Titusville, NJ | Hybrid | Nov 24 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/692462efc0cefa13343de6ab?utm_campaign=1067&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Nov 24 |
