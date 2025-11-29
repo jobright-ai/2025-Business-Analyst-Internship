@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68cf16b7fb49c96ca6ea5c20?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 29 |
 | **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691adaeabcdbf3560c9db270?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 29 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6929ff2b4c474121999cb129?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 28 |
 | **[LumoraX](lumorax.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6929fda84c474121999cb091?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Remote | Nov 28 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Sustainability Business Analyst](https://jobright.ai/jobs/info/691013c5988c2b7b4ec5006a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Business Operations Analyst  Intern](https://jobright.ai/jobs/info/6910061c988c2b7b4ec4facc?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Nov 27 |
+| **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (Co-op)](https://jobright.ai/jobs/info/692af85b66796e3028f8fd95?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Nov 27 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[IT Corporate Systems Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/69202cc409cc522e87748815?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69105b9d183be660d267887d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 27 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
