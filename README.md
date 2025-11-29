@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/692462efc0cefa13343de6ab?utm_campaign=1067&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Nov 24 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 23 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Office of CDIO (Chief Digital and Information Officer)](https://jobright.ai/jobs/info/69222d7aa49a885af9a48939?utm_campaign=1067&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Analyst Intern, MRT](https://jobright.ai/jobs/info/691a889215b4156367188a14?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
