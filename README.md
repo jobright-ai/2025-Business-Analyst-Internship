@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/692b450b66796e3028f905d0?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 29 |
+| **[Valorantum](valorantum.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/692b3b8d66796e3028f90524?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Nov 29 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/692b229c4c474121999cd4f4?utm_campaign=1067&utm_source=git)** | Miami, FL | Remote | Nov 29 |
 | **[Synerga Partners](synergapartners.us)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/692b1eed4c474121999cd4ab?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/691d5becbcdbf3560c9f0319?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 29 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68cf16b7fb49c96ca6ea5c20?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 29 |
 | **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691adaeabcdbf3560c9db270?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 29 |
-| **[LumoraX](lumorax.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6929fda84c474121999cb091?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Remote | Nov 28 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d133a221b890c27802d4d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Nov 28 |
