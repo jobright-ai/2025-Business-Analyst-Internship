@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691adaeabcdbf3560c9db270?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 29 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/6929ff2b4c474121999cb129?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 28 |
 | **[LumoraX](lumorax.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6929fda84c474121999cb091?utm_campaign=1067&utm_source=git)** | Buffalo, NY | Remote | Nov 28 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 28 |
