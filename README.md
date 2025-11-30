@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tech World Networking](techworldnetworking.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/692b450b66796e3028f905d0?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Nov 29 |
 | **[Valorantum](valorantum.us)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/692b3b8d66796e3028f90524?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Nov 29 |
 | **[Synerga Partners](synergapartners.us)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/692b1eed4c474121999cd4ab?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/691d5becbcdbf3560c9f0319?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 29 |
