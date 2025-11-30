@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Synerga Partners](synergapartners.us)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/692b1eed4c474121999cd4ab?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/691d5becbcdbf3560c9f0319?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 29 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68cf16b7fb49c96ca6ea5c20?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 29 |
 | **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691adaeabcdbf3560c9db270?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 29 |
@@ -65,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/690d133a221b890c27802d4d?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Nov 28 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68cb246defdec76df36b96fa?utm_campaign=1067&utm_source=git)** | Dublin, OH | On Site | Nov 28 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Business and Competitive Intelligence (BCI), Onsite](https://jobright.ai/jobs/info/6916a2ea6f36db06ef05889f?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Capacity Management)](https://jobright.ai/jobs/info/6928a2bcd47de4798ece3597?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, CA | On Site | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Capacity Management)- EN](https://jobright.ai/jobs/info/692884dbd47de4798ece3106?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 27 |
@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/6926dc4291ceeb2e8a53b845?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Business Process Analyst Intern](https://jobright.ai/jobs/info/69269641d47de4798ecd836c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Nov 25 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/692bb1f9fa28370be2699070?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 25 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Business and Competitive Intelligence (BCI), Onsite](https://jobright.ai/jobs/info/6916a2ea6f36db06ef05889f?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6919342e45fb6f5ead8a78eb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Telesat](https://www.telesat.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6925e86027bf2f41a2c417c4?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario | Hybrid | Nov 25 |
 | **[CPower Energy](https://cpowerenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6925e75d27bf2f41a2c41718?utm_campaign=1067&utm_source=git)** | Baltimore, MD | Hybrid | Nov 25 |
@@ -106,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/69087e804a1b456627af5eba?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 24 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/6924976e38cd5478a8d5b9da?utm_campaign=1067&utm_source=git)** | Titusville, NJ | Hybrid | Nov 24 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/692462efc0cefa13343de6ab?utm_campaign=1067&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Nov 24 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
