@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Dec 01 |
+| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Dec 01 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/6922c1b538cd5478a8d54f99?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Dec 01 |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Reporting Intern](https://jobright.ai/jobs/info/692dc88f66796e3028f963ab?utm_campaign=1067&utm_source=git)** | Toledo, OH | Remote | Dec 01 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/6922dca87795cd460c837851?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/6922b94ec0cefa13343d9061?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c7b9cc9ee94dc9120847?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 30 |
@@ -89,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[CADAR Fine Jewelry](http://www.cadar.com)** | **[Business Analyst Intern-- CADAR (New York Headquarters)](https://jobright.ai/jobs/info/69274b23f0beb07232628cc2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69100726bb519377733ea436?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 26 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Business](https://jobright.ai/jobs/info/6926dc4291ceeb2e8a53b845?utm_campaign=1067&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Business Process Analyst Intern](https://jobright.ai/jobs/info/69269641d47de4798ecd836c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Nov 25 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/692bb1f9fa28370be2699070?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/6919342e45fb6f5ead8a78eb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
