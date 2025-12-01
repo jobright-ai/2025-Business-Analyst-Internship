@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924e0deec574f4265bb82d2?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | ↳ | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924ef9ec0cefa13343e4650?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - spring 2026](https://jobright.ai/jobs/info/69087e804a1b456627af5eba?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Nov 24 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[PES Business Transformation Intern](https://jobright.ai/jobs/info/6924976e38cd5478a8d5b9da?utm_campaign=1067&utm_source=git)** | Titusville, NJ | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
