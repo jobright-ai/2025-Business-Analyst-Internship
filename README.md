@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692dfd55fa28370be26a007f?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Dec 01 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Business Transformation Analyst](https://jobright.ai/jobs/info/692df9da4c474121999d4d78?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692de2da66796e3028f96f35?utm_campaign=1067&utm_source=git)** | Austin, Texas, US | Remote | Dec 01 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2025 - Business Analytics Intern](https://jobright.ai/jobs/info/692de025fa28370be269f115?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692dd769fa28370be269ecd7?utm_campaign=1067&utm_source=git)** | RTP, North Carolina, US | Remote | Dec 01 |
