@@ -58,12 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f25cefa28370be26a7be5?utm_campaign=1067&utm_source=git)** | Remote-GA | Remote | Dec 02 |
-| **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692f25564c474121999dc9b8?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f24c7fa28370be26a7b4c?utm_campaign=1067&utm_source=git)** | Remote-NY | Remote | Dec 02 |
-| ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f2278fa28370be26a79f9?utm_campaign=1067&utm_source=git)** | Remote-ID | Remote | Dec 02 |
-| ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f2278fa28370be26a79f8?utm_campaign=1067&utm_source=git)** | Remote-ND | Remote | Dec 02 |
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f2008ef4b48533d142e8f?utm_campaign=1067&utm_source=git)** | Remote-TN | Remote | Dec 02 |
-| ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1f7e4c474121999dc71d?utm_campaign=1067&utm_source=git)** | Remote-NE | Remote | Dec 02 |
+| ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f2278fa28370be26a79f8?utm_campaign=1067&utm_source=git)** | Remote-ND | Remote | Dec 02 |
+| ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f2278fa28370be26a79f9?utm_campaign=1067&utm_source=git)** | Remote-ID | Remote | Dec 02 |
+| ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f24c7fa28370be26a7b4c?utm_campaign=1067&utm_source=git)** | Remote-NY | Remote | Dec 02 |
+| **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692f25564c474121999dc9b8?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1f7e4c474121999dc71d?utm_campaign=1067&utm_source=git)** | Remote-NE | Remote | Dec 02 |
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1f44fa28370be26a7882?utm_campaign=1067&utm_source=git)** | Remote-MN | Remote | Dec 02 |
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1eacfa28370be26a7841?utm_campaign=1067&utm_source=git)** | Remote-AL | Remote | Dec 02 |
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1e9afa28370be26a7836?utm_campaign=1067&utm_source=git)** | Remote-NJ | Remote | Dec 02 |
@@ -76,12 +76,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1c2fef4b48533d142c8c?utm_campaign=1067&utm_source=git)** | Remote-IA | Remote | Dec 02 |
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1bfcef4b48533d142c74?utm_campaign=1067&utm_source=git)** | Remote-FL | Remote | Dec 02 |
 | ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1bee4c474121999dc5a6?utm_campaign=1067&utm_source=git)** | Remote-WY | Remote | Dec 02 |
-| ↳ | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1af9fa28370be26a7646?utm_campaign=1067&utm_source=git)** | Remote-VA | Remote | Dec 02 |
+| **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/692f401cef4b48533d143a76?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 02 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f1af9fa28370be26a7646?utm_campaign=1067&utm_source=git)** | Remote-VA | Remote | Dec 02 |
 | ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f10e7ef4b48533d142850?utm_campaign=1067&utm_source=git)** | Remote-IN | Remote | Dec 02 |
 | ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f0febef4b48533d142822?utm_campaign=1067&utm_source=git)** | Remote-RI | Remote | Dec 02 |
 | ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f0f80ef4b48533d1427ff?utm_campaign=1067&utm_source=git)** | Remote-IA | Remote | Dec 02 |
 | ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f0f38fa28370be26a729a?utm_campaign=1067&utm_source=git)** | Remote-VA | Remote | Dec 02 |
-| ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f0ec6fa28370be26a725b?utm_campaign=1067&utm_source=git)** | Remote-MT | Remote | Dec 02 |
+| **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/692f2fce4c474121999dce6d?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f0ec6fa28370be26a725b?utm_campaign=1067&utm_source=git)** | Remote-MT | Remote | Dec 02 |
 | ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f0e1aef4b48533d14273e?utm_campaign=1067&utm_source=git)** | Remote-ND | Remote | Dec 02 |
 | ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f0d4cfa28370be26a7198?utm_campaign=1067&utm_source=git)** | Remote-WY | Remote | Dec 02 |
 | ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f0cd0ef4b48533d1426a0?utm_campaign=1067&utm_source=git)** | Remote-UT | Remote | Dec 02 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f07474c474121999dbdd1?utm_campaign=1067&utm_source=git)** | Remote-NC | Remote | Dec 02 |
 | ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f07434c474121999dbdce?utm_campaign=1067&utm_source=git)** | Remote-NV | Remote | Dec 02 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Dec 02 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Associate Intern](https://jobright.ai/jobs/info/692f0140ef4b48533d142277?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/692e4437ef4b48533d13e270?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Dec 01 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Business Transformation Analyst](https://jobright.ai/jobs/info/692e3b6c4c474121999d7755?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Agile Occupational Medicine](https://agileoccmed.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e5270fa28370be26a37e4?utm_campaign=1067&utm_source=git)** | Agile Headquarters, Costa Mesa, CA, US | On Site | Dec 01 |
@@ -143,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69100726bb519377733ea436?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 26 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Business Process Analyst Intern](https://jobright.ai/jobs/info/69269641d47de4798ecd836c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Nov 25 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern - IT Business Analyst (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/692bb1f9fa28370be2699070?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
