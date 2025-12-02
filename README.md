@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Business Transformation Analyst](https://jobright.ai/jobs/info/692e3b6c4c474121999d7755?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Agile Occupational Medicine](https://agileoccmed.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e5270fa28370be26a37e4?utm_campaign=1067&utm_source=git)** | Agile Headquarters, Costa Mesa, CA, US | On Site | Dec 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/692e20e24c474121999d66b4?utm_campaign=1067&utm_source=git)** | Boise, ID - Main Site | On Site | Dec 01 |
-| **[MGT](http://www.mgtconsulting.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e5f0bef4b48533d13f363?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/692e2dd5fa28370be26a211e?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692dfd55fa28370be26a007f?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Dec 01 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e1f8cef4b48533d13cc92?utm_campaign=1067&utm_source=git)** | Triangle, NC | On Site | Dec 01 |
@@ -74,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Dec 01 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Dec 01 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/6922c1b538cd5478a8d54f99?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Dec 01 |
+| **[Agile Occupational Medicine](https://agileoccmed.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e6bde4c474121999d9612?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/6922dca87795cd460c837851?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/6922b94ec0cefa13343d9061?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c7b9cc9ee94dc9120847?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 30 |
@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Business Operations - Analytics Intern](https://jobright.ai/jobs/info/690ef35b44146d3b6ec58d42?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | ↳ | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/690c40f8d046ab6061cec0bb?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Kreativstorm Recruitment](https://kreativstorm.de/)** | **[Business Analyst \- Intern (Remote Internship)](https://jobright.ai/jobs/info/6925b89327bf2f41a2c40053?utm_campaign=1067&utm_source=git)** | Remote job | Remote | Nov 25 |
-| **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
