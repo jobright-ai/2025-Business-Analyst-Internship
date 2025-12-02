@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Business Transformation Analyst](https://jobright.ai/jobs/info/692e3b6c4c474121999d7755?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/692e20e24c474121999d66b4?utm_campaign=1067&utm_source=git)** | Boise, ID - Main Site | On Site | Dec 01 |
-| **[MGT](http://www.mgtconsulting.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e2570ef4b48533d13d03b?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 01 |
+| **[MGT](http://www.mgtconsulting.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e3d7def4b48533d13de12?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 01 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/692e2dd5fa28370be26a211e?utm_campaign=1067&utm_source=git)** | Dayton, OH | Remote | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692dfd55fa28370be26a007f?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Dec 01 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Business Transformation Analyst](https://jobright.ai/jobs/info/692df9da4c474121999d4d78?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e1f8cef4b48533d13cc92?utm_campaign=1067&utm_source=git)** | Triangle, NC | On Site | Dec 01 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e1f8cef4b48533d13cc92?utm_campaign=1067&utm_source=git)** | Triangle, NC | On Site | Dec 01 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e0e78ef4b48533d13c235?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 01 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e26434c474121999d6a40?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/692e23a4ef4b48533d13cf64?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 01 |
