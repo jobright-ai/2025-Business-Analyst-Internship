@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f09984c474121999dbf05?utm_campaign=1067&utm_source=git)** | Remote-CT | Remote | Dec 02 |
+| ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f07b74c474121999dbe0a?utm_campaign=1067&utm_source=git)** | Remote-AZ | Remote | Dec 02 |
+| ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f07474c474121999dbdd1?utm_campaign=1067&utm_source=git)** | Remote-NC | Remote | Dec 02 |
+| ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f07434c474121999dbdce?utm_campaign=1067&utm_source=git)** | Remote-NV | Remote | Dec 02 |
+| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Dec 02 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Associate Intern](https://jobright.ai/jobs/info/692f0140ef4b48533d142277?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Business Process Analyst](https://jobright.ai/jobs/info/692e4437ef4b48533d13e270?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Dec 01 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Business Transformation Analyst](https://jobright.ai/jobs/info/692e3b6c4c474121999d7755?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Agile Occupational Medicine](https://agileoccmed.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e5270fa28370be26a37e4?utm_campaign=1067&utm_source=git)** | Agile Headquarters, Costa Mesa, CA, US | On Site | Dec 01 |
