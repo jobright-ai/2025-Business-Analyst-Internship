@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - R10216025](https://jobright.ai/jobs/info/69300a99fa28370be26aec2f?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Dec 03 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692fa3074c474121999e146f?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
 | ↳ | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692f97d4fa28370be26abdc7?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
 | ↳ | **[IT Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/692fab2bef4b48533d14800d?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/692f401cef4b48533d143a76?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 02 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/692f2fce4c474121999dce6d?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Dec 02 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/6930234ffa28370be26af1a6?utm_campaign=1067&utm_source=git)** | Remote-DE | Remote | Dec 02 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Business Transformation Analyst](https://jobright.ai/jobs/info/692e3b6c4c474121999d7755?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Agile Occupational Medicine](https://agileoccmed.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e5270fa28370be26a37e4?utm_campaign=1067&utm_source=git)** | Agile Headquarters, Costa Mesa, CA, US | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692dfd55fa28370be26a007f?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Dec 01 |
@@ -107,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69105b9d183be660d267887d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Nov 27 |
 | **[Nutanix](http://www.nutanix.com)** | **[IT Business Process Intern - Local  undergrads ONLY (model/IT process improvement, API/Web Svcs, SaaS)](https://jobright.ai/jobs/info/691f6d2809cc522e8774117a?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
 | **[Moelis & Company](http://moelis.com)** | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/69277cead47de4798ecdd38a?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/6927556e91ceeb2e8a53e1e2?utm_campaign=1067&utm_source=git)** | New York | On Site | Nov 26 |
-| **[CADAR Fine Jewelry](http://www.cadar.com)** | **[Business Analyst Intern-- CADAR (New York Headquarters)](https://jobright.ai/jobs/info/69274b23f0beb07232628cc2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
