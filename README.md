@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68fc9434664c6f162a9527ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 03 |
+| **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691407d2e344172248f7620c?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 03 |
 | **[Ededge Learn](www.ededgelearning.com)** | **[Business  Analyst Training &  Internship Program](https://jobright.ai/jobs/info/69304953fa28370be26af9d7?utm_campaign=1067&utm_source=git)** | Canada | Remote | Dec 03 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Dec 03 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - R10216025](https://jobright.ai/jobs/info/69300a99fa28370be26aec2f?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Dec 03 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692fa3074c474121999e146f?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
 | ↳ | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692f97d4fa28370be26abdc7?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
