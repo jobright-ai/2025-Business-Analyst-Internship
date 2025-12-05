@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6933241bf131d96e48460138?utm_campaign=1067&utm_source=git)** | Minneapolis | On Site | Dec 05 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Dec 05 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2026](https://jobright.ai/jobs/info/6933150ef131d96e4845fa59?utm_campaign=1067&utm_source=git)** | Omaha, NE | On Site | Dec 05 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Dec 04 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dcd76eddc10244dd67a93b?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
-| **[Precision Castparts](http://precast.com)** | **[2026 Business internship/Co-op](https://jobright.ai/jobs/info/68dc717ea125e75c422a0e24?utm_campaign=1067&utm_source=git)** | Toronto, OH | On Site | Dec 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6921844ed1ec2c3565c44ca8?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 | **[Viasat](http://www.viasat.com)** | **[Operations Business Process Intern](https://jobright.ai/jobs/info/69310009ef4b48533d1517f4?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | Hybrid | Dec 03 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/69310284fa28370be26b6218?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 03 |
