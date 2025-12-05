@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Cycle - Schwinn & Mongoose](http://www.pacific-cycle.com/)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69325708f131d96e4845b4ea?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Dec 04 |
 | **[Zscaler](https://www.zscaler.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69324f83764507023d1acf17?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Dec 04 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69324757f131d96e4845a869?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Dec 04 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/693245dea0dde7020e2e504e?utm_campaign=1067&utm_source=git)** | St Cloud, MN | On Site | Dec 04 |
-| ↳ | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/693232cc948dde73ff90667f?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | Dec 04 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/69326726a0dde7020e2e68c8?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Dec 04 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/693232cc948dde73ff90667f?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | Dec 04 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/6932411ebc6af7687d9f43a3?utm_campaign=1067&utm_source=git)** | Memphis, TN | Hybrid | Dec 04 |
-| **[Pacific Cycle - Schwinn & Mongoose](http://www.pacific-cycle.com/)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/693220464c474121999f738d?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Dec 04 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/69323deaf131d96e4845a063?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 04 |
+| ↳ | **[Intern- Business](https://jobright.ai/jobs/info/69323deaf131d96e4845a063?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 04 |
 | **[Pacific Cycle - Schwinn & Mongoose](http://www.pacific-cycle.com/)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69322c29d0010831497c0518?utm_campaign=1067&utm_source=git)** | Madison, Wisconsin, United States | On Site | Dec 04 |
 | **[Zscaler](https://www.zscaler.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693226bed0010831497c01e8?utm_campaign=1067&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 04 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6931d6404c474121999f3791?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 04 |
@@ -104,8 +105,6 @@ For a complete list, click the following sortable link below:
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/692f401cef4b48533d143a76?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 02 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/692f2fce4c474121999dce6d?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Dec 02 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69323050d0010831497c0789?utm_campaign=1067&utm_source=git)** | Remote-NY | Remote | Dec 02 |
-| ↳ | **[Business Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69322c71948dde73ff9061f1?utm_campaign=1067&utm_source=git)** | Remote-NC | Remote | Dec 02 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Business Analytics Intern](https://jobright.ai/jobs/info/692de025fa28370be269f115?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Dec 02 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Business Transformation Analyst](https://jobright.ai/jobs/info/692e3b6c4c474121999d7755?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Agile Occupational Medicine](https://agileoccmed.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e5270fa28370be26a37e4?utm_campaign=1067&utm_source=git)** | Agile Headquarters, Costa Mesa, CA, US | On Site | Dec 01 |
