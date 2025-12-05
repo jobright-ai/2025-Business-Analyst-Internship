@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Haigh-Farr, Inc.](http://www.haigh-farr.com)** | **[Business Analyst Intern-St. Anselm College Students Only](https://jobright.ai/jobs/info/6931f9b0fa28370be26c00c4?utm_campaign=1067&utm_source=git)** | Bedford, NH | On Site | Dec 04 |
 | **[Comtech Group](http://www.teamcomtech.com)** | **[Business Process Analyst, Intern](https://jobright.ai/jobs/info/6931f8054c474121999f4f78?utm_campaign=1067&utm_source=git)** | Richmond Hill, ON L4B 3N9 CA (Primary) | On Site | Dec 04 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693202e44c474121999f5aa9?utm_campaign=1067&utm_source=git)** | Fort Wayne,  IN | On Site | Dec 04 |
+| ↳ | **[Business Intern](https://jobright.ai/jobs/info/6931f78dd0010831497bd89e?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 04 |
 | **[Parker Development, Inc.](http://www.pdifoods.com)** | **[Business - Entrepreneurial Studies Intern](https://jobright.ai/jobs/info/6932059c4c474121999f5de6?utm_campaign=1067&utm_source=git)** | Franklin, NJ | On Site | Dec 04 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6931ec564c474121999f463d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 04 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 04 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/69310284fa28370be26b6218?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 03 |
 | ↳ | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/6930e03cef4b48533d150367?utm_campaign=1067&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 03 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/6931137bef4b48533d152378?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 03 |
-| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693204874c474121999f5cb0?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6930c459ef4b48533d14ede3?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Dec 03 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6930b9ca4c474121999e8132?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Dec 03 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/6922793dc0cefa13343d7dc7?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Dec 03 |
@@ -96,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - R10216025](https://jobright.ai/jobs/info/69300a99fa28370be26aec2f?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Dec 03 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692fa3074c474121999e146f?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
-| ↳ | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692f97d4fa28370be26abdc7?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
 | ↳ | **[IT Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/692fab2bef4b48533d14800d?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
 | **[Workday](http://www.workday.com)** | **[Enterprise Performance Intern](https://jobright.ai/jobs/info/692f816fef4b48533d146284?utm_campaign=1067&utm_source=git)** | USA, CA, Pleasanton | Hybrid | Dec 02 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/692f68aaef4b48533d144fa3?utm_campaign=1067&utm_source=git)** | United States-Oklahoma-Oklahoma City | On Site | Dec 02 |
@@ -112,8 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e0e78ef4b48533d13c235?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 01 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e26434c474121999d6a40?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/692e23a4ef4b48533d13cf64?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 01 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692de2da66796e3028f96f35?utm_campaign=1067&utm_source=git)** | Austin, Texas, US | Remote | Dec 01 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692dd769fa28370be269ecd7?utm_campaign=1067&utm_source=git)** | RTP, North Carolina, US | Remote | Dec 01 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2025 - Business Analytics Intern](https://jobright.ai/jobs/info/692de025fa28370be269f115?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Dec 01 |
 | ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Dec 01 |
@@ -125,6 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/691d5becbcdbf3560c9f0319?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Nov 29 |
 | **[American Water](http://amwater.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/691adaeabcdbf3560c9db270?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 29 |
 | **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Nov 29 |
-| **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Operations Business Analyst - R10598](https://jobright.ai/jobs/info/68f16087f462172a5a7d74b5?utm_campaign=1067&utm_source=git)** | Dayton, OH | Hybrid | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
