@@ -66,8 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338b47764507023d1b6ae5?utm_campaign=1067&utm_source=git)** | US | On Site | Dec 05 |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/6933b2e3a0dde7020e2f0b25?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 05 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/6933a77a764507023d1b7b43?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Dec 05 |
-| **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339852a0dde7020e2ef808?utm_campaign=1067&utm_source=git)** | TX | On Site | Dec 05 |
-| ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338ee9764507023d1b6ceb?utm_campaign=1067&utm_source=git)** | San Antonio | On Site | Dec 05 |
+| **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338ee9764507023d1b6ceb?utm_campaign=1067&utm_source=git)** | San Antonio | On Site | Dec 05 |
+| ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339852a0dde7020e2ef808?utm_campaign=1067&utm_source=git)** | TX | On Site | Dec 05 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/693355d0f131d96e484621bd?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Dec 05 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/6933241bf131d96e48460138?utm_campaign=1067&utm_source=git)** | Minneapolis | On Site | Dec 05 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/6922c1b538cd5478a8d54f99?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Dec 01 |
 | ↳ | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/69354be3764507023d1bff1d?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Dec 01 |
 | **[Agile Occupational Medicine](https://agileoccmed.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e6bde4c474121999d9612?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA | On Site | Nov 30 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/6922b94ec0cefa13343d9061?utm_campaign=1067&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
