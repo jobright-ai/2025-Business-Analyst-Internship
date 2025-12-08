@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/6936b21344eb324fb785d085?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Dec 08 |
+| **[Absa Group](http://absa.co.za/)** | **[Intern (M) - Business](https://jobright.ai/jobs/info/6936aec944eb324fb785cf04?utm_campaign=1067&utm_source=git)** | Acacia House Ex Chemonics (KE) | On Site | Dec 08 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6916acc16f36db06ef058e6b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6935048ff131d96e4846c856?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Business Affairs Intern](https://jobright.ai/jobs/info/6934d114f131d96e4846bb92?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Haigh-Farr, Inc.](http://www.haigh-farr.com)** | **[Business Analyst Intern-St. Anselm College Students Only](https://jobright.ai/jobs/info/6931f9b0fa28370be26c00c4?utm_campaign=1067&utm_source=git)** | Bedford, NH | On Site | Dec 04 |
 | **[Comtech Group](http://www.teamcomtech.com)** | **[Business Process Analyst, Intern](https://jobright.ai/jobs/info/6931f8054c474121999f4f78?utm_campaign=1067&utm_source=git)** | Richmond Hill, ON L4B 3N9 CA (Primary) | On Site | Dec 04 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693202e44c474121999f5aa9?utm_campaign=1067&utm_source=git)** | Fort Wayne,  IN | On Site | Dec 04 |
-| ↳ | **[Business Intern](https://jobright.ai/jobs/info/6931f78dd0010831497bd89e?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 04 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6931ec564c474121999f463d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 04 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 04 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Dec 04 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6921844ed1ec2c3565c44ca8?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/69310284fa28370be26b6218?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 03 |
 | ↳ | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/6930e03cef4b48533d150367?utm_campaign=1067&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 03 |
+| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693204874c474121999f5cb0?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6930c459ef4b48533d14ede3?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Dec 03 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6930b9ca4c474121999e8132?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Dec 03 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/6922793dc0cefa13343d7dc7?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Dec 03 |
@@ -119,8 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Business Transformation Analyst](https://jobright.ai/jobs/info/692e3b6c4c474121999d7755?utm_campaign=1067&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Agile Occupational Medicine](https://agileoccmed.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/692e5270fa28370be26a37e4?utm_campaign=1067&utm_source=git)** | Agile Headquarters, Costa Mesa, CA, US | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692dfd55fa28370be26a007f?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Dec 01 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e1f8cef4b48533d13cc92?utm_campaign=1067&utm_source=git)** | Triangle, NC | On Site | Dec 01 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e0e78ef4b48533d13c235?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 01 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e26434c474121999d6a40?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/692e23a4ef4b48533d13cf64?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
