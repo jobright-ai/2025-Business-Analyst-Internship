@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6931d6404c474121999f3791?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 04 |
 | **[Haigh-Farr, Inc.](http://www.haigh-farr.com)** | **[Business Analyst Intern-St. Anselm College Students Only](https://jobright.ai/jobs/info/6931f9b0fa28370be26c00c4?utm_campaign=1067&utm_source=git)** | Bedford, NH | On Site | Dec 04 |
 | **[Comtech Group](http://www.teamcomtech.com)** | **[Business Process Analyst, Intern](https://jobright.ai/jobs/info/6931f8054c474121999f4f78?utm_campaign=1067&utm_source=git)** | Richmond Hill, ON L4B 3N9 CA (Primary) | On Site | Dec 04 |
-| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6931f78dd0010831497bd89e?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 04 |
-| ↳ | **[Business Intern](https://jobright.ai/jobs/info/693202e44c474121999f5aa9?utm_campaign=1067&utm_source=git)** | Fort Wayne,  IN | On Site | Dec 04 |
+| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693202e44c474121999f5aa9?utm_campaign=1067&utm_source=git)** | Fort Wayne,  IN | On Site | Dec 04 |
+| ↳ | **[Business Intern](https://jobright.ai/jobs/info/6931f78dd0010831497bd89e?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 04 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6931ec564c474121999f463d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 04 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 04 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Dec 04 |
@@ -123,7 +123,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e0e78ef4b48533d13c235?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 01 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/692e26434c474121999d6a40?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/692e23a4ef4b48533d13cf64?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 01 |
-| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2025 - Business Analytics Intern](https://jobright.ai/jobs/info/692de025fa28370be269f115?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
-| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Dec 01 |
-| ↳ | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
