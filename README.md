@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[ServiceNow Business Systems Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/693897c4a0dde7020e312c05?utm_campaign=1067&utm_source=git)** | Missouri, United States | Remote | Dec 09 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Dec 09 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 09 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69380080aabec14a727cfb25?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Dec 09 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6937ff7db95c305f206d4849?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Dec 09 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6937ac161c1c2161c13f70c1?utm_campaign=1067&utm_source=git)** | North Highlands, CA | On Site | Dec 08 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6937a087a0dde7020e30500e?utm_campaign=1067&utm_source=git)** | Richfield, OH | On Site | Dec 08 |
 | **[Texas Permanent School Fund Corporation](https://texaspsf.org)** | **[Corporate Research Intern](https://jobright.ai/jobs/info/69376199a0dde7020e302203?utm_campaign=1067&utm_source=git)** | Innovation Tower | On Site | Dec 08 |
 | **[Hansen Commercial Services](https://hansencommercialservices.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693834f5aabec14a727d1dfa?utm_campaign=1067&utm_source=git)** | Statesboro, GA | Hybrid | Dec 08 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/6932411ebc6af7687d9f43a3?utm_campaign=1067&utm_source=git)** | Memphis, TN | Hybrid | Dec 08 |
