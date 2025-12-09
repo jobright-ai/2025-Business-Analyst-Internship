@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 09 |
+| **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Global Business Insights & Operations](https://jobright.ai/jobs/info/691bdf3ebcdbf3560c9e3779?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Dec 09 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69380080aabec14a727cfb25?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO | On Site | Dec 09 |
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6937ff7db95c305f206d4849?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Dec 09 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6937ac161c1c2161c13f70c1?utm_campaign=1067&utm_source=git)** | North Highlands, CA | On Site | Dec 08 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6937a087a0dde7020e30500e?utm_campaign=1067&utm_source=git)** | Richfield, OH | On Site | Dec 08 |
 | **[Texas Permanent School Fund Corporation](https://texaspsf.org)** | **[Corporate Research Intern](https://jobright.ai/jobs/info/69376199a0dde7020e302203?utm_campaign=1067&utm_source=git)** | Innovation Tower | On Site | Dec 08 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/6932411ebc6af7687d9f43a3?utm_campaign=1067&utm_source=git)** | Memphis, TN | Hybrid | Dec 08 |
-| **[Absa Group](http://absa.co.za/)** | **[Intern (M) - Business](https://jobright.ai/jobs/info/6936aec944eb324fb785cf04?utm_campaign=1067&utm_source=git)** | Acacia House Ex Chemonics (KE) | On Site | Dec 08 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6916acc16f36db06ef058e6b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6935048ff131d96e4846c856?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Business Affairs Intern](https://jobright.ai/jobs/info/6934d114f131d96e4846bb92?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
