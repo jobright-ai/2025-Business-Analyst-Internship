@@ -118,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Insight](https://www.insight.com)** | **[Insight Public Sector Business Analyst Intern](https://jobright.ai/jobs/info/69140eede344172248f767a2?utm_campaign=1067&utm_source=git)** | Arizona, United States | Hybrid | Dec 03 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Dec 03 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
-| **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692fa3074c474121999e146f?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
-| ↳ | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/6933a5c5f131d96e48465693?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
