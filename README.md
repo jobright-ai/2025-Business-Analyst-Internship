@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Permanent School Fund Corporation](https://texaspsf.org)** | **[Corporate Research Intern](https://jobright.ai/jobs/info/69376199a0dde7020e302203?utm_campaign=1067&utm_source=git)** | Innovation Tower | On Site | Dec 08 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/6932411ebc6af7687d9f43a3?utm_campaign=1067&utm_source=git)** | Memphis, TN | Hybrid | Dec 08 |
 | **[Absa Group](http://absa.co.za/)** | **[Intern (M) - Business](https://jobright.ai/jobs/info/6936aec944eb324fb785cf04?utm_campaign=1067&utm_source=git)** | Acacia House Ex Chemonics (KE) | On Site | Dec 08 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6916acc16f36db06ef058e6b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338b47764507023d1b6ae5?utm_campaign=1067&utm_source=git)** | US | On Site | Dec 05 |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/6933b2e3a0dde7020e2f0b25?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 05 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/6933a77a764507023d1b7b43?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Dec 05 |
-| **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339852a0dde7020e2ef808?utm_campaign=1067&utm_source=git)** | TX | On Site | Dec 05 |
-| ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338ee9764507023d1b6ceb?utm_campaign=1067&utm_source=git)** | San Antonio | On Site | Dec 05 |
+| **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338ee9764507023d1b6ceb?utm_campaign=1067&utm_source=git)** | San Antonio | On Site | Dec 05 |
+| ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339852a0dde7020e2ef808?utm_campaign=1067&utm_source=git)** | TX | On Site | Dec 05 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/693355d0f131d96e484621bd?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Dec 05 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/6933241bf131d96e48460138?utm_campaign=1067&utm_source=git)** | Minneapolis | On Site | Dec 05 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
