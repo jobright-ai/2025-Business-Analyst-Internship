@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Dec 09 |
+| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 09 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Global Business Insights & Operations](https://jobright.ai/jobs/info/691bdf3ebcdbf3560c9e3779?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Dec 09 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Dec 09 |
@@ -98,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693226bed0010831497c01e8?utm_campaign=1067&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 04 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6931d6404c474121999f3791?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 04 |
 | **[Haigh-Farr, Inc.](http://www.haigh-farr.com)** | **[Business Analyst Intern-St. Anselm College Students Only](https://jobright.ai/jobs/info/6931f9b0fa28370be26c00c4?utm_campaign=1067&utm_source=git)** | Bedford, NH | On Site | Dec 04 |
-| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6931f78dd0010831497bd89e?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 04 |
-| ↳ | **[Business Intern](https://jobright.ai/jobs/info/693202e44c474121999f5aa9?utm_campaign=1067&utm_source=git)** | Fort Wayne,  IN | On Site | Dec 04 |
+| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693202e44c474121999f5aa9?utm_campaign=1067&utm_source=git)** | Fort Wayne,  IN | On Site | Dec 04 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6931ec564c474121999f463d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 04 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 04 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Dec 04 |
@@ -108,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6921844ed1ec2c3565c44ca8?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/69310284fa28370be26b6218?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 03 |
 | ↳ | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/6930e03cef4b48533d150367?utm_campaign=1067&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 03 |
+| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693204874c474121999f5cb0?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6930c459ef4b48533d14ede3?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Dec 03 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6930b9ca4c474121999e8132?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Dec 03 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/6922793dc0cefa13343d7dc7?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Dec 03 |
@@ -119,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/692fa3074c474121999e146f?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
 | ↳ | **[IT Business Continuity Management Internship](https://jobright.ai/jobs/info/6933a5c5f131d96e48465693?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
-| ↳ | **[IT Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/692fab2bef4b48533d14800d?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
