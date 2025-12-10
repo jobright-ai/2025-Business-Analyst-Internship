@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yazaki North America](http://www.yazaki-na.com/en/)** | **[Intern, Business Management](https://jobright.ai/jobs/info/6938e010aabec14a727dd04b?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Dec 09 |
 | **[Centene Corporation](http://www.centene.com)** | **[ServiceNow Business Systems Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/693897c4a0dde7020e312c05?utm_campaign=1067&utm_source=git)** | Missouri, United States | Remote | Dec 09 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2026](https://jobright.ai/jobs/info/6933150ef131d96e4845fa59?utm_campaign=1067&utm_source=git)** | Omaha, NE | On Site | Dec 09 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Intern](https://jobright.ai/jobs/info/6938b507a0dde7020e31505d?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Dec 09 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693226bed0010831497c01e8?utm_campaign=1067&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 04 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6931d6404c474121999f3791?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 04 |
 | **[Haigh-Farr, Inc.](http://www.haigh-farr.com)** | **[Business Analyst Intern-St. Anselm College Students Only](https://jobright.ai/jobs/info/6931f9b0fa28370be26c00c4?utm_campaign=1067&utm_source=git)** | Bedford, NH | On Site | Dec 04 |
-| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693202e44c474121999f5aa9?utm_campaign=1067&utm_source=git)** | Fort Wayne,  IN | On Site | Dec 04 |
-| ↳ | **[Business Intern](https://jobright.ai/jobs/info/6931f78dd0010831497bd89e?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 04 |
+| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6931f78dd0010831497bd89e?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Dec 04 |
+| ↳ | **[Business Intern](https://jobright.ai/jobs/info/693202e44c474121999f5aa9?utm_campaign=1067&utm_source=git)** | Fort Wayne,  IN | On Site | Dec 04 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6931ec564c474121999f463d?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 04 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 04 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Dec 04 |
