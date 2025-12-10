@@ -120,6 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68fc9434664c6f162a9527ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c79383d13d1f5b6d1a06?utm_campaign=1067&utm_source=git)** | Olathe, KS | Hybrid | Dec 03 |
 | **[Insight](https://www.insight.com)** | **[Insight Public Sector Business Analyst Intern](https://jobright.ai/jobs/info/69140eede344172248f767a2?utm_campaign=1067&utm_source=git)** | Arizona, United States | Hybrid | Dec 03 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Dec 03 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68dc8690a125e75c422a1939?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
