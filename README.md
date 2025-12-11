@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6939b22348a8ce22990daad4?utm_campaign=1067&utm_source=git)** | ATLANTA, GA, USA | On Site | Dec 10 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Dec 10 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Dec 10 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Internship](https://jobright.ai/jobs/info/6939838d48a8ce22990d90d7?utm_campaign=1067&utm_source=git)** | Dallas County, TX | On Site | Dec 10 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6916acc16f36db06ef058e6b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
 | **[Yazaki North America](http://www.yazaki-na.com/en/)** | **[Intern, Business Management](https://jobright.ai/jobs/info/6938e010aabec14a727dd04b?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Dec 09 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2026](https://jobright.ai/jobs/info/6933150ef131d96e4845fa59?utm_campaign=1067&utm_source=git)** | Omaha, NE | On Site | Dec 09 |
@@ -98,8 +97,5 @@ For a complete list, click the following sortable link below:
 | **[Pacific Cycle - Schwinn & Mongoose](http://www.pacific-cycle.com/)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69325708f131d96e4845b4ea?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Dec 04 |
 | **[Zscaler](https://www.zscaler.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69324f83764507023d1acf17?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Dec 04 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69324757f131d96e4845a869?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Dec 04 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/693245dea0dde7020e2e504e?utm_campaign=1067&utm_source=git)** | St Cloud, MN | On Site | Dec 04 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/69326726a0dde7020e2e68c8?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Dec 04 |
-| **[Pacific Cycle - Schwinn & Mongoose](http://www.pacific-cycle.com/)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69322c29d0010831497c0518?utm_campaign=1067&utm_source=git)** | Madison, Wisconsin, United States | On Site | Dec 04 |
-| **[Zscaler](https://www.zscaler.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693226bed0010831497c01e8?utm_campaign=1067&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
