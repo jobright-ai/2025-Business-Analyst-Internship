@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PurposedPartners](https://www.PurposedPartners.com)** | **[Internship](https://jobright.ai/jobs/info/6939db5b48a8ce22990dd7ef?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 10 |
+| **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/693a1ba748a8ce22990e1998?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Dec 10 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/69323deaf131d96e4845a063?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 10 |
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6939b99856b68f3dc4e714bc?utm_campaign=1067&utm_source=git)** | TEXAS VIRTUAL, USA | On Site | Dec 10 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6939b22348a8ce22990daad4?utm_campaign=1067&utm_source=git)** | ATLANTA, GA, USA | On Site | Dec 10 |
@@ -65,12 +65,10 @@ For a complete list, click the following sortable link below:
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Dec 10 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Internship](https://jobright.ai/jobs/info/6939838d48a8ce22990d90d7?utm_campaign=1067&utm_source=git)** | Dallas County, TX | On Site | Dec 10 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6916acc16f36db06ef058e6b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
-| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Business Associate](https://jobright.ai/jobs/info/69394c2256b68f3dc4e6c92f?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Dec 10 |
 | **[Yazaki North America](http://www.yazaki-na.com/en/)** | **[Intern, Business Management](https://jobright.ai/jobs/info/6938e010aabec14a727dd04b?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Dec 09 |
 | **[Centene Corporation](http://www.centene.com)** | **[ServiceNow Business Systems Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/693897c4a0dde7020e312c05?utm_campaign=1067&utm_source=git)** | Missouri, United States | Remote | Dec 09 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2026](https://jobright.ai/jobs/info/6933150ef131d96e4845fa59?utm_campaign=1067&utm_source=git)** | Omaha, NE | On Site | Dec 09 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Business and Competitive Intelligence (BCI), Onsite](https://jobright.ai/jobs/info/6916a2ea6f36db06ef05889f?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 09 |
-| **[Leggett & Platt](http://www.leggett.com/)** | **[Business Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68ffad870ab3b222462ad05a?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Dec 09 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 09 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Global Business Insights & Operations](https://jobright.ai/jobs/info/691bdf3ebcdbf3560c9e3779?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Dec 09 |
@@ -91,10 +89,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338b47764507023d1b6ae5?utm_campaign=1067&utm_source=git)** | US | On Site | Dec 05 |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/6933b2e3a0dde7020e2f0b25?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 05 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/6933a77a764507023d1b7b43?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Dec 05 |
-| **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339852a0dde7020e2ef808?utm_campaign=1067&utm_source=git)** | TX | On Site | Dec 05 |
-| ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338ee9764507023d1b6ceb?utm_campaign=1067&utm_source=git)** | San Antonio | On Site | Dec 05 |
-| **[Element Fleet Management](https://www.elementfleet.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/693355d0f131d96e484621bd?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Dec 05 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/6933241bf131d96e48460138?utm_campaign=1067&utm_source=git)** | Minneapolis | On Site | Dec 05 |
+| **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338ee9764507023d1b6ceb?utm_campaign=1067&utm_source=git)** | San Antonio | On Site | Dec 05 |
+| ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339852a0dde7020e2ef808?utm_campaign=1067&utm_source=git)** | TX | On Site | Dec 05 |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6933241bf131d96e48460138?utm_campaign=1067&utm_source=git)** | Minneapolis | On Site | Dec 05 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Dec 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ddba3444d32141e0bfa940?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
