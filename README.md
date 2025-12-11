@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693a9dbad4054a2bc024aa5f?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Dec 11 |
-| **[Velastra](velastra.us)** | **[Business Internship](https://jobright.ai/jobs/info/693a50a048a8ce22990e5d11?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 10 |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/6922d0e4c0cefa13343d963d?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Dec 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/693a4c4548a8ce22990e4815?utm_campaign=1067&utm_source=git)** | Lake Mary, FL | Hybrid | Dec 10 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/693a1ba748a8ce22990e1998?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Dec 10 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/69323deaf131d96e4845a063?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 10 |
@@ -95,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6933241bf131d96e48460138?utm_campaign=1067&utm_source=git)** | Minneapolis | On Site | Dec 05 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Dec 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ddba3444d32141e0bfa940?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/693281d7f131d96e4845cba0?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Dec 04 |
 | **[Pacific Cycle - Schwinn & Mongoose](http://www.pacific-cycle.com/)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69325708f131d96e4845b4ea?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Dec 04 |
 | **[Zscaler](https://www.zscaler.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69324f83764507023d1acf17?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Dec 04 |
