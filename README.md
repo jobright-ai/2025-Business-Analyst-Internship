@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Dec 11 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/6922d0e4c0cefa13343d963d?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Dec 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/693a4c4548a8ce22990e4815?utm_campaign=1067&utm_source=git)** | Lake Mary, FL | Hybrid | Dec 10 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/693a1ba748a8ce22990e1998?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Dec 10 |
@@ -84,12 +85,13 @@ For a complete list, click the following sortable link below:
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/691ff1303f782d2f1afc1bac?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 06 |
 | **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern - HR Time and Attendance](https://jobright.ai/jobs/info/68deb01544d32141e0c019fb?utm_campaign=1067&utm_source=git)** | Wichita, KS | On Site | Dec 06 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 06 |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/693aeebc5f2c001987ece976?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Dec 06 |
 | **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/693387b8f131d96e48464227?utm_campaign=1067&utm_source=git)** | 78201 | On Site | Dec 05 |
 | ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338b47764507023d1b6ae5?utm_campaign=1067&utm_source=git)** | US | On Site | Dec 05 |
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/6933b2e3a0dde7020e2f0b25?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 05 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern (Source2Pay) - Summer 2026](https://jobright.ai/jobs/info/6933a77a764507023d1b7b43?utm_campaign=1067&utm_source=git)** | Northbrook, IL | On Site | Dec 05 |
-| **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338ee9764507023d1b6ceb?utm_campaign=1067&utm_source=git)** | San Antonio | On Site | Dec 05 |
-| ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339852a0dde7020e2ef808?utm_campaign=1067&utm_source=git)** | TX | On Site | Dec 05 |
+| **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339852a0dde7020e2ef808?utm_campaign=1067&utm_source=git)** | TX | On Site | Dec 05 |
+| ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338ee9764507023d1b6ceb?utm_campaign=1067&utm_source=git)** | San Antonio | On Site | Dec 05 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6933241bf131d96e48460138?utm_campaign=1067&utm_source=git)** | Minneapolis | On Site | Dec 05 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Dec 05 |
