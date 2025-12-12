@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Analyst Innovation Internship](https://jobright.ai/jobs/info/693c457daa598a08c3ed2219?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Dec 12 |
+| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/693c837caa598a08c3ed5ac8?utm_campaign=1067&utm_source=git)** | Dulles, VA | On Site | Dec 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c4442aa598a08c3ed218e?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3ddaaa598a08c3ed1ec2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3838aa598a08c3ed1d09?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
