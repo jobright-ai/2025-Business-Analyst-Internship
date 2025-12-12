@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/693b39f85f2c001987ed3666?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Dec 05 |
-| **[Intuitive](https://www.intuitive.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/693281d7f131d96e4845cba0?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
