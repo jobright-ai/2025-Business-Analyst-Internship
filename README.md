@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/693c164849a7695fbd02e461?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Dec 12 |
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Business Analytics Intern (Limited Term)](https://jobright.ai/jobs/info/693b30cb5f2c001987ed318e?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 11 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Dec 11 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Executive](https://jobright.ai/jobs/info/693b0cc9b309e3780086bf9b?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Dec 11 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6937ff7db95c305f206d4849?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO | On Site | Dec 09 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6937ac161c1c2161c13f70c1?utm_campaign=1067&utm_source=git)** | North Highlands, CA | On Site | Dec 08 |
 | **[Texas Permanent School Fund Corporation](https://texaspsf.org)** | **[Corporate Research Intern](https://jobright.ai/jobs/info/69376199a0dde7020e302203?utm_campaign=1067&utm_source=git)** | Innovation Tower | On Site | Dec 08 |
-| **[Hansen Commercial Services](https://hansencommercialservices.com/)** | **[Business Intern](https://jobright.ai/jobs/info/693834f5aabec14a727d1dfa?utm_campaign=1067&utm_source=git)** | Statesboro, GA | Hybrid | Dec 08 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/6932411ebc6af7687d9f43a3?utm_campaign=1067&utm_source=git)** | Memphis, TN | Hybrid | Dec 08 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6935048ff131d96e4846c856?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Business Affairs Intern](https://jobright.ai/jobs/info/6934d114f131d96e4846bb92?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
@@ -92,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[RWE](https://www.group.rwe/)** | **[Business Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/6933b2e3a0dde7020e2f0b25?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 05 |
 | **[Daymon](https://www.daymon.com/)** | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338ee9764507023d1b6ceb?utm_campaign=1067&utm_source=git)** | San Antonio | On Site | Dec 05 |
 | ↳ | **[Daymon Business Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339852a0dde7020e2ef808?utm_campaign=1067&utm_source=git)** | TX | On Site | Dec 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/693b39f85f2c001987ed3666?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
