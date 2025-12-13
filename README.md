@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/693d2d5249a7695fbd03e2b4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 13 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693d0037aa598a08c3edd00b?utm_campaign=1067&utm_source=git)** | Richfield, OH | On Site | Dec 12 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/69323deaf131d96e4845a063?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 12 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/693cbc3350bbaf76504ff494?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Dec 12 |
@@ -66,9 +67,9 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/693c837caa598a08c3ed5ac8?utm_campaign=1067&utm_source=git)** | Dulles, VA | On Site | Dec 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c4442aa598a08c3ed218e?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3ddaaa598a08c3ed1ec2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c369149a7695fbd030599?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
+| ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3838aa598a08c3ed1d09?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 | **[EOSYS](https://eosysgroup.com)** | **[Summer Business Analyst (Intern) - ATL/CHI/NYC](https://jobright.ai/jobs/info/693c3274aa598a08c3ed1ab2?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c29ffaa598a08c3ed1880?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c2a7eaa598a08c3ed18cc?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Business Analytics Intern (Limited Term)](https://jobright.ai/jobs/info/693b30cb5f2c001987ed318e?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 11 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Dec 11 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/6922d0e4c0cefa13343d963d?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Dec 11 |
