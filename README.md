@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 13 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/693d635850bbaf7650506f1f?utm_campaign=1067&utm_source=git)** | Dulles Town Center, VA | On Site | Dec 13 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Spring 2026 Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6920b41a00c9ee50eaec7039?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Dec 13 |
 | ↳ | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6920a843a49a885af9a3dca2?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Dec 13 |
