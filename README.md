@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693da15faa598a08c3ee433b?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[First Finish | A Shawmut Company](https://www.firstfinish.net)** | **[Intern/Coop- Business Analyst](https://jobright.ai/jobs/info/693dbed449a7695fbd043007?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693da2fe49a7695fbd042c8e?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Stratify Edge](stratifyedge.us)** | **[Business Internships](https://jobright.ai/jobs/info/693da0e0aa598a08c3ee431a?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CDO, Data Operations Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693d9836aa598a08c3ee28c4?utm_campaign=1067&utm_source=git)** | HALIFAX, Nova Scotia, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CDO, Data Operations Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693d97ef50bbaf7650508adc?utm_campaign=1067&utm_source=git)** | HALIFAX, Nova Scotia, Canada | Hybrid | Dec 13 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 13 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/693d635850bbaf7650506f1f?utm_campaign=1067&utm_source=git)** | Dulles Town Center, VA | On Site | Dec 13 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Spring 2026 Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6920b41a00c9ee50eaec7039?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Dec 13 |
@@ -67,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/693d2d5249a7695fbd03e2b4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 13 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693d0037aa598a08c3edd00b?utm_campaign=1067&utm_source=git)** | Richfield, OH | On Site | Dec 12 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern- Business](https://jobright.ai/jobs/info/69323deaf131d96e4845a063?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 12 |
-| **[NXP Semiconductors](https://www.nxp.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/693c9cddaa598a08c3ed82d9?utm_campaign=1067&utm_source=git)** | San Diego (Treena St) | On Site | Dec 12 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/693db30350bbaf765050a6a8?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Dec 12 |
+| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/693c9cddaa598a08c3ed82d9?utm_campaign=1067&utm_source=git)** | San Diego (Treena St) | On Site | Dec 12 |
 | **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop- Business Analyst](https://jobright.ai/jobs/info/693ca47faa598a08c3ed8854?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/693c837caa598a08c3ed5ac8?utm_campaign=1067&utm_source=git)** | Dulles, VA | On Site | Dec 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c4442aa598a08c3ed218e?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
