@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tech World Networking](techworldnetworking.us)** | **[Business Internships](https://jobright.ai/jobs/info/693edafb49a7695fbd04dc67?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Dec 14 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Associate Intern](https://jobright.ai/jobs/info/693ed14050bbaf76505158a5?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Intern](https://jobright.ai/jobs/info/693ebd56aa598a08c3eef2cf?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Dec 14 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Intern](https://jobright.ai/jobs/info/693e890650bbaf76505137e2?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Dec 14 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693de1fbaa598a08c3ee6499?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
