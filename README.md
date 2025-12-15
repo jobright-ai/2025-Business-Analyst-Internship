@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 15 |
+| **[Ededge Learn](www.ededgelearning.com)** | **[Business Analyst  Training  &  Internship](https://jobright.ai/jobs/info/6940330daa598a08c3efd3f2?utm_campaign=1067&utm_source=git)** | Canada | Remote | Dec 15 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/692de7584c474121999d4285?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Dec 15 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Business Analytics (Corporate Technology)](https://jobright.ai/jobs/info/693fef81aa598a08c3efa8c1?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Dec 15 |
 | ↳ | **[Summer Intern, Business Analytics (Corporate Technology)](https://jobright.ai/jobs/info/693fcda4aa598a08c3ef9857?utm_campaign=1067&utm_source=git)** | New York, NY, US | Hybrid | Dec 15 |
@@ -76,8 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6920a843a49a885af9a3dca2?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Dec 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/693d2d5249a7695fbd03e2b4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 13 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693d0037aa598a08c3edd00b?utm_campaign=1067&utm_source=git)** | Richfield, OH | On Site | Dec 12 |
-| **[NXP Semiconductors](https://www.nxp.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/693db30350bbaf765050a6a8?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Dec 12 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/693c9cddaa598a08c3ed82d9?utm_campaign=1067&utm_source=git)** | San Diego (Treena St) | On Site | Dec 12 |
 | **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop- Business Analyst](https://jobright.ai/jobs/info/693ca47faa598a08c3ed8854?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/693c837caa598a08c3ed5ac8?utm_campaign=1067&utm_source=git)** | Dulles, VA | On Site | Dec 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c4442aa598a08c3ed218e?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
@@ -94,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6939b22348a8ce22990daad4?utm_campaign=1067&utm_source=git)** | ATLANTA, GA, USA | On Site | Dec 10 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Dec 10 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Dec 10 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6916acc16f36db06ef058e6b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
 | **[Yazaki North America](http://www.yazaki-na.com/en/)** | **[Intern, Business Management](https://jobright.ai/jobs/info/6938e010aabec14a727dd04b?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Dec 09 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2026](https://jobright.ai/jobs/info/6933150ef131d96e4845fa59?utm_campaign=1067&utm_source=git)** | Omaha, NE | On Site | Dec 09 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Business and Competitive Intelligence (BCI), Onsite](https://jobright.ai/jobs/info/6916a2ea6f36db06ef05889f?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Dec 09 |
