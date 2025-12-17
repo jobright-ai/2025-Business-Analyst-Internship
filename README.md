@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6942d23750bbaf765054b042?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Dec 17 |
+| **[Ohio Mutual Insurance Group](https://public.omig.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6942edc594730b739875ef4f?utm_campaign=1067&utm_source=git)** | US | On Site | Dec 17 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/694300f0dd382f5f5668f999?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Dec 17 |
+| **[Ohio Mutual Insurance Group](https://public.omig.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6943015d50bbaf765054d9d7?utm_campaign=1067&utm_source=git)** | Bucyrus, OH, US | On Site | Dec 17 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Dec 17 |
 | **[Pegasystems](http://www.pega.com)** | **[Pega Ventures and Launchpad Business Analyst Spring Intern](https://jobright.ai/jobs/info/6942cd8150bbaf765054ad1a?utm_campaign=1067&utm_source=git)** | Waltham, MA | Hybrid | Dec 17 |
-| **[Ededge Learn](www.ededgelearning.com)** | **[Business  Analyst  Training & Internship Program](https://jobright.ai/jobs/info/6942ce68dd382f5f5668c9d1?utm_campaign=1067&utm_source=git)** | Canada | Remote | Dec 17 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69093495d046ab6061cd2de1?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 17 |
 | ↳ | **[Business Systems Analyst Internship - Spring 2026](https://jobright.ai/jobs/info/690930ae4a1b456627afdc75?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 17 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/694078c950bbaf7650527890?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | On Site | Dec 15 |
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Real Estate Business Analyst Intern](https://jobright.ai/jobs/info/69408a4649a7695fbd061be0?utm_campaign=1067&utm_source=git)** | Columbus, IN | Remote | Dec 15 |
 | ↳ | **[Real Estate Business Analyst Intern](https://jobright.ai/jobs/info/694086fa50bbaf76505293c7?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | Remote | Dec 15 |
-| ↳ | **[Real Estate Business Analyst Intern](https://jobright.ai/jobs/info/6940833349a7695fbd060c90?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Dec 15 |
 | ↳ | **[Real Estate Business Analyst Intern](https://jobright.ai/jobs/info/69408a99aa598a08c3f03a27?utm_campaign=1067&utm_source=git)** | Southfield, MI | Remote | Dec 15 |
+| ↳ | **[Real Estate Business Analyst Intern](https://jobright.ai/jobs/info/6940833349a7695fbd060c90?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Dec 15 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - San Diego CA](https://jobright.ai/jobs/info/69407ad749a7695fbd05facf?utm_campaign=1067&utm_source=git)** | United States-California-San Diego | On Site | Dec 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 15 |
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Real Estate Business Analyst Intern](https://jobright.ai/jobs/info/69404a4449a7695fbd05da9b?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 15 |
@@ -97,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693de1fbaa598a08c3ee6499?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | ↳ | **[2026 Summer - CDO, Data Operations Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693ddfdb50bbaf765050c5dc?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Dec 13 |
 | **[First Finish | A Shawmut Company](https://www.firstfinish.net)** | **[Intern/Coop- Business Analyst](https://jobright.ai/jobs/info/693dbed449a7695fbd043007?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693da15faa598a08c3ee433b?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693da2fe49a7695fbd042c8e?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | ↳ | **[2026 Summer - CDO, Data Operations Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693d9836aa598a08c3ee28c4?utm_campaign=1067&utm_source=git)** | HALIFAX, Nova Scotia, Canada | Hybrid | Dec 13 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 13 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/693d635850bbaf7650506f1f?utm_campaign=1067&utm_source=git)** | Dulles Town Center, VA | On Site | Dec 13 |
@@ -115,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Business Analytics Intern (Limited Term)](https://jobright.ai/jobs/info/693b30cb5f2c001987ed318e?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 11 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Dec 11 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/6922d0e4c0cefa13343d963d?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Dec 11 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BT&A Americas](https://jobright.ai/jobs/info/693a4c4548a8ce22990e4815?utm_campaign=1067&utm_source=git)** | Lake Mary, FL | Hybrid | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
