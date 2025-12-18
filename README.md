@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/693e2d0daa598a08c3ee8899?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 18 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Intern](https://jobright.ai/jobs/info/6943f021dd382f5f566a047e?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Dec 18 |
 | **[Moelis & Company](http://moelis.com)** | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/69277cead47de4798ecdd38a?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Dec 18 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, EPMO Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6943760e94730b73987695e5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 17 |
 | **[Ohio Mutual Insurance Group](https://public.omig.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69431e7194730b7398761ef1?utm_campaign=1067&utm_source=git)** | Bucyrus, OH | On Site | Dec 17 |
@@ -112,5 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3838aa598a08c3ed1d09?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 | **[EOSYS](https://eosysgroup.com)** | **[Summer Business Analyst (Intern) - ATL/CHI/NYC](https://jobright.ai/jobs/info/693c3274aa598a08c3ed1ab2?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | On Site | Dec 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c2a7eaa598a08c3ed18cc?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
-| **[Washington Nationals](https://nationals.mlb.com)** | **[Business Analytics Intern (Limited Term)](https://jobright.ai/jobs/info/693b30cb5f2c001987ed318e?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
