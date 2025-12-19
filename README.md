@@ -114,5 +114,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3ddaaa598a08c3ed1ec2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c369149a7695fbd030599?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 | **[EOSYS](https://eosysgroup.com)** | **[Summer Business Analyst (Intern) - ATL/CHI/NYC](https://jobright.ai/jobs/info/693c3274aa598a08c3ed1ab2?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c2a7eaa598a08c3ed18cc?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c29ffaa598a08c3ed1880?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
