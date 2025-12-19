@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/6944f3b750bbaf76505709a7?utm_campaign=1067&utm_source=git)** | Dulles, VA | Hybrid | Dec 18 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Business Analyst Intern](https://jobright.ai/jobs/info/6944e36494730b7398781800?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Dec 18 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Business Resilience Intern](https://jobright.ai/jobs/info/69448bcedd382f5f566ab498?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | **[Verve, a Credit Union](https://www.verveacu.com/)** | **[Business Banking Intern (51893)](https://jobright.ai/jobs/info/6944885694730b739877c21b?utm_campaign=1067&utm_source=git)** | Oshkosh, WI | On Site | Dec 18 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/6943015d50bbaf765054d9d7?utm_campaign=1067&utm_source=git)** | Bucyrus, OH, US | On Site | Dec 17 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Dec 17 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 17 |
-| **[The Bennett Companies](www.thebennettcos.com)** | **[Business Intern](https://jobright.ai/jobs/info/69422c5114ee092a69005b69?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 16 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/6944c02450bbaf765056d6bc?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Dec 16 |
+| **[The Bennett Companies](www.thebennettcos.com)** | **[Business Intern](https://jobright.ai/jobs/info/69422c5114ee092a69005b69?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 16 |
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Technology Business Analyst Intern](https://jobright.ai/jobs/info/6941fa5f14ee092a69001a78?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[Velera](https://www.velera.com)** | **[Business Intellignce Intern](https://jobright.ai/jobs/info/6941da5e50bbaf7650539ecd?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 16 |
 | ↳ | **[Business Intellignce Intern](https://jobright.ai/jobs/info/6941ba7e50bbaf7650538d2c?utm_campaign=1067&utm_source=git)** | Remote-USA | Remote | Dec 16 |
@@ -108,12 +109,10 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Spring 2026 Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6920b41a00c9ee50eaec7039?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Dec 13 |
 | ↳ | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6920a843a49a885af9a3dca2?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Dec 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/693d2d5249a7695fbd03e2b4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 13 |
+| **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop- Business Analyst](https://jobright.ai/jobs/info/694501d794730b7398783d9e?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 12 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693d0037aa598a08c3edd00b?utm_campaign=1067&utm_source=git)** | Richfield, OH | On Site | Dec 12 |
 | **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop- Business Analyst](https://jobright.ai/jobs/info/69439619dd382f5f5669b5dc?utm_campaign=1067&utm_source=git)** | US-MA-Boston | On Site | Dec 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/693c837caa598a08c3ed5ac8?utm_campaign=1067&utm_source=git)** | Dulles, VA | On Site | Dec 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c4442aa598a08c3ed218e?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3ddaaa598a08c3ed1ec2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c369149a7695fbd030599?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
-| **[EOSYS](https://eosysgroup.com)** | **[Summer Business Analyst (Intern) - ATL/CHI/NYC](https://jobright.ai/jobs/info/693c3274aa598a08c3ed1ab2?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c2a7eaa598a08c3ed18cc?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
