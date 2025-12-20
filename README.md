@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6947171463141d188456d33d?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Dec 20 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6946decdd1953b5d11c00b97?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6946ca2463141d1884567beb?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Dec 20 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/693a1ba748a8ce22990e1998?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Dec 19 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6945d8509516540735380943?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Hybrid | Dec 19 |
@@ -76,9 +76,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Dec 19 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Capacity Management)- EN](https://jobright.ai/jobs/info/69437ca1dd382f5f56698d18?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Dec 19 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Sustainability Business Analyst](https://jobright.ai/jobs/info/691013c5988c2b7b4ec5006a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456977d1953b5d11be57fb?utm_campaign=1067&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Dec 19 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456d5463141d188454eb85?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Dec 19 |
 | ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
-| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456d5463141d188454eb85?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Dec 19 |
+| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456977d1953b5d11be57fb?utm_campaign=1067&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/69452fe29516540735374644?utm_campaign=1067&utm_source=git)** | Campbell, CA | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6945041794730b7398783fa8?utm_campaign=1067&utm_source=git)** | Campbell, California | Hybrid | Dec 18 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/6944f3b750bbaf76505709a7?utm_campaign=1067&utm_source=git)** | Dulles, VA | Hybrid | Dec 18 |
@@ -91,9 +91,10 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/693e2d0daa598a08c3ee8899?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 18 |
 | **[Moelis & Company](http://moelis.com)** | **[Summer 2026 Intern, Business Analyst, Information Technology - New York](https://jobright.ai/jobs/info/69277cead47de4798ecdd38a?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Dec 18 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, EPMO Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6943760e94730b73987695e5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 17 |
+| ↳ | **[2026 Summer - ECCO, EPMO Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69432b3594730b7398762c70?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
 | **[Ohio Mutual Insurance Group](https://public.omig.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69431e7194730b7398761ef1?utm_campaign=1067&utm_source=git)** | Bucyrus, OH | On Site | Dec 17 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b73f7e1ade4306aa64912b?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Dec 17 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, EPMO Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6943400a94730b7398764c67?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
+| **[Velera](https://www.velera.com)** | **[Business Intellignce Intern](https://jobright.ai/jobs/info/694711047d506e3808f27139?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 17 |
 | **[CHAMP](http://www.champtitles.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6943315f94730b7398763376?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Dec 17 |
 | **[Ohio Mutual Insurance Group](https://public.omig.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6942edc594730b739875ef4f?utm_campaign=1067&utm_source=git)** | US | On Site | Dec 17 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/6943015d50bbaf765054d9d7?utm_campaign=1067&utm_source=git)** | Bucyrus, OH, US | On Site | Dec 17 |
