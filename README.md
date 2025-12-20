@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/693a1ba748a8ce22990e1998?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Dec 19 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6945d8509516540735380943?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Hybrid | Dec 19 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6945d064951654073537f8ff?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 19 |
 | **[USG](https://www.usg.com/)** | **[Finance Transformation Intern](https://jobright.ai/jobs/info/69459dcad1953b5d11be9c51?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
 | **[Ededge Learn](www.ededgelearning.com)** | **[Business  Analyst Training & Internship Program](https://jobright.ai/jobs/info/6945b54663141d1884554414?utm_campaign=1067&utm_source=git)** | Canada | Remote | Dec 19 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/6945919bd1953b5d11be8e2c?utm_campaign=1067&utm_source=git)** | Spring, TX | On Site | Dec 19 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6945885ad1953b5d11be86ef?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 19 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6945898f951654073537a30d?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 19 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69458499d1953b5d11be8403?utm_campaign=1067&utm_source=git)** | Fort Collins Area | On Site | Dec 19 |
 | ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457f8b63141d1884550d5f?utm_campaign=1067&utm_source=git)** | Milpitas, CA | On Site | Dec 19 |
 | **[Concurrent Technologies Corporation](http://www.ctc.com)** | **[Business Intern](https://jobright.ai/jobs/info/694571b395165407353783f2?utm_campaign=1067&utm_source=git)** | Johnstown, PA | On Site | Dec 19 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Dec 19 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Capacity Management)- EN](https://jobright.ai/jobs/info/69437ca1dd382f5f56698d18?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Dec 19 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Sustainability Business Analyst](https://jobright.ai/jobs/info/691013c5988c2b7b4ec5006a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456977d1953b5d11be57fb?utm_campaign=1067&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Dec 19 |
-| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456d5463141d188454eb85?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Dec 19 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456d5463141d188454eb85?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Dec 19 |
+| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456977d1953b5d11be57fb?utm_campaign=1067&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Dec 19 |
 | ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/69452fe29516540735374644?utm_campaign=1067&utm_source=git)** | Campbell, CA | Hybrid | Dec 19 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69105b9d183be660d267887d?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Dec 19 |
@@ -128,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/693d635850bbaf7650506f1f?utm_campaign=1067&utm_source=git)** | Dulles Town Center, VA | On Site | Dec 13 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Spring 2026 Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6920b41a00c9ee50eaec7039?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Dec 13 |
 | ↳ | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6920a843a49a885af9a3dca2?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Dec 13 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/693d2d5249a7695fbd03e2b4?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
