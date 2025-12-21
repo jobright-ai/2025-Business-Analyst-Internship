@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Systems Analyst)](https://jobright.ai/jobs/info/691d5becbcdbf3560c9f0319?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Dec 21 |
 | **[Arvento A](arventoa.us)** | **[Business Internships](https://jobright.ai/jobs/info/6947d96b7d506e3808f32ebd?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Dec 21 |
+| **[Horizon Lane](horizonlane.us)** | **[Business Internships](https://jobright.ai/jobs/info/6947ee03d1953b5d11c10619?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Dec 21 |
 | **[Ededge Learn](www.ededgelearning.com)** | **[Business Analyst  Training  &  Internship Program](https://jobright.ai/jobs/info/6947cb917d506e3808f32bb8?utm_campaign=1067&utm_source=git)** | Canada | Remote | Dec 21 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6947171463141d188456d33d?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | Hybrid | Dec 20 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6946decdd1953b5d11c00b97?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/6943015d50bbaf765054d9d7?utm_campaign=1067&utm_source=git)** | Bucyrus, OH, US | On Site | Dec 17 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Service Now Business Analyst Intern](https://jobright.ai/jobs/info/68ed45ee81fdd1626d39a81a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Dec 17 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 17 |
-| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/6944c02450bbaf765056d6bc?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Dec 16 |
 | **[The Bennett Companies](www.thebennettcos.com)** | **[Business Intern](https://jobright.ai/jobs/info/69422c5114ee092a69005b69?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 16 |
+| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/6944c02450bbaf765056d6bc?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Dec 16 |
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Technology Business Analyst Intern](https://jobright.ai/jobs/info/6941fa5f14ee092a69001a78?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[Velera](https://www.velera.com)** | **[Business Intellignce Intern](https://jobright.ai/jobs/info/6941ba7e50bbaf7650538d2c?utm_campaign=1067&utm_source=git)** | Remote-USA | Remote | Dec 16 |
 | **[Crane Company](http://www.craneco.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/694191e1bdcf884a5add4a49?utm_campaign=1067&utm_source=git)** | The Woodlands, Texas | On Site | Dec 16 |
