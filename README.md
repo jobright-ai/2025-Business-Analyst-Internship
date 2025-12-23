@@ -80,11 +80,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd97c78ba1621431e0d72?utm_campaign=1067&utm_source=git)** | Kenosha, WI | On Site | Dec 19 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Dec 19 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Dec 19 |
-| **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Capacity Management)- EN](https://jobright.ai/jobs/info/69437ca1dd382f5f56698d18?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Dec 19 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Sustainability Business Analyst](https://jobright.ai/jobs/info/691013c5988c2b7b4ec5006a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456977d1953b5d11be57fb?utm_campaign=1067&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Dec 19 |
-| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
 | ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456d5463141d188454eb85?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Dec 19 |
+| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/69452fe29516540735374644?utm_campaign=1067&utm_source=git)** | Campbell, CA | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6945041794730b7398783fa8?utm_campaign=1067&utm_source=git)** | Campbell, California | Hybrid | Dec 18 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/6944f3b750bbaf76505709a7?utm_campaign=1067&utm_source=git)** | Dulles, VA | Hybrid | Dec 18 |
@@ -114,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924ef9ec0cefa13343e4650?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | ↳ | **[The Ogilvy Group / 2026 Business Summer Internship](https://jobright.ai/jobs/info/6924e0deec574f4265bb82d2?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Business Analyst (Intermodal Operations)- EN](https://jobright.ai/jobs/info/69425d9050bbaf765054576c?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Dec 16 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/694206ba14ee092a69002361?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
