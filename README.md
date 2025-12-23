@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/694ad39c67a69734cac5fab7?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Dec 23 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Analyst Internship Summer](https://jobright.ai/jobs/info/694aa86e1224705e9001d28b?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Dec 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/6922c1b538cd5478a8d54f99?utm_campaign=1067&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Dec 23 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/692e23a4ef4b48533d13cf64?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 23 |
-| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Business Intern](https://jobright.ai/jobs/info/694a991467a69734cac5c321?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Dec 23 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Dec 23 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a65073019f50a4fe57c04?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Dec 23 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694a0b5963141d188459a887?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Dec 19 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Dec 19 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Sustainability Business Analyst](https://jobright.ai/jobs/info/691013c5988c2b7b4ec5006a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456977d1953b5d11be57fb?utm_campaign=1067&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Dec 19 |
-| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
+| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456977d1953b5d11be57fb?utm_campaign=1067&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Dec 19 |
 | ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456d5463141d188454eb85?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/69452fe29516540735374644?utm_campaign=1067&utm_source=git)** | Campbell, CA | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6945041794730b7398783fa8?utm_campaign=1067&utm_source=git)** | Campbell, California | Hybrid | Dec 18 |
@@ -109,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/69444b1f50bbaf765056468a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Dec 18 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/693e2d0daa598a08c3ee8899?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 18 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, EPMO Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6943760e94730b73987695e5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 17 |
+| ↳ | **[2026 Summer - ECCO, EPMO Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69432b3594730b7398762c70?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
 | **[Ohio Mutual Insurance Group](https://public.omig.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69431e7194730b7398761ef1?utm_campaign=1067&utm_source=git)** | Bucyrus, OH | On Site | Dec 17 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b73f7e1ade4306aa64912b?utm_campaign=1067&utm_source=git)** | Hartford, CT | Hybrid | Dec 17 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, EPMO Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6943400a94730b7398764c67?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
 | **[Velera](https://www.velera.com)** | **[Business Intellignce Intern](https://jobright.ai/jobs/info/694711047d506e3808f27139?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Ohio Mutual Insurance Group](https://public.omig.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6942edc594730b739875ef4f?utm_campaign=1067&utm_source=git)** | US | On Site | Dec 17 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/6943015d50bbaf765054d9d7?utm_campaign=1067&utm_source=git)** | Bucyrus, OH, US | On Site | Dec 17 |
@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/6944c02450bbaf765056d6bc?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Dec 16 |
 | **[The Bennett Companies](www.thebennettcos.com)** | **[Business Intern](https://jobright.ai/jobs/info/69422c5114ee092a69005b69?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 16 |
-| **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Technology Business Analyst Intern](https://jobright.ai/jobs/info/6941fa5f14ee092a69001a78?utm_campaign=1067&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
