@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Physics World](https://physicsworld.com/)** | **[IT Business Systems Analyst Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/694c67d61a572a617ddea2a3?utm_campaign=1067&utm_source=git)** | Livermore, CA | On Site | Dec 24 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/694c5dcd1a572a617dde9ecf?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Month](https://jobright.ai/jobs/info/694c1c8b1a572a617dde6adc?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Dec 24 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Dec 19 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Sustainability Business Analyst](https://jobright.ai/jobs/info/691013c5988c2b7b4ec5006a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456d5463141d188454eb85?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Dec 19 |
-| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
 | ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456977d1953b5d11be57fb?utm_campaign=1067&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Dec 19 |
+| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/69452fe29516540735374644?utm_campaign=1067&utm_source=git)** | Campbell, CA | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6945041794730b7398783fa8?utm_campaign=1067&utm_source=git)** | Campbell, California | Hybrid | Dec 18 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/6944f3b750bbaf76505709a7?utm_campaign=1067&utm_source=git)** | Dulles, VA | Hybrid | Dec 18 |
