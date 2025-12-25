@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6930c459ef4b48533d14ede3?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Dec 25 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68fc9434664c6f162a9527ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Dec 25 |
 | **[Physics World](https://physicsworld.com/)** | **[IT Business Systems Analyst Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/694c67d61a572a617ddea2a3?utm_campaign=1067&utm_source=git)** | Livermore, CA | On Site | Dec 24 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Intern Business Analyst](https://jobright.ai/jobs/info/694c5dcd1a572a617dde9ecf?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Month](https://jobright.ai/jobs/info/694c1c8b1a572a617dde6adc?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
@@ -103,14 +105,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd8878ba1621431e0e49?utm_campaign=1067&utm_source=git)** | Waukegan, IL | On Site | Dec 19 |
 | ↳ | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde38de50091dbfa50c43?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Dec 19 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Sustainability Business Analyst](https://jobright.ai/jobs/info/691013c5988c2b7b4ec5006a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456d5463141d188454eb85?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Dec 19 |
-| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457bef95165407353796d7?utm_campaign=1067&utm_source=git)** | Milpitas, California, United States of America | Hybrid | Dec 19 |
 | ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456977d1953b5d11be57fb?utm_campaign=1067&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Dec 19 |
+| ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69456d5463141d188454eb85?utm_campaign=1067&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/69452fe29516540735374644?utm_campaign=1067&utm_source=git)** | Campbell, CA | Hybrid | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6945041794730b7398783fa8?utm_campaign=1067&utm_source=git)** | Campbell, California | Hybrid | Dec 18 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/6944f3b750bbaf76505709a7?utm_campaign=1067&utm_source=git)** | Dulles, VA | Hybrid | Dec 18 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Business Analyst Intern](https://jobright.ai/jobs/info/6944e36494730b7398781800?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Dec 18 |
 | **[Verve, a Credit Union](https://www.verveacu.com/)** | **[Business Banking Intern (51893)](https://jobright.ai/jobs/info/6944885694730b739877c21b?utm_campaign=1067&utm_source=git)** | Oshkosh, WI | On Site | Dec 18 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Wonder by Deloitte - Summer 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/694480acdd382f5f566aad60?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 18 |
-| ↳ | **[Analyst, Deloitte Technology Canada - Summer 2026 Co-op/Intern (4- 8 months) - Multiple Locations](https://jobright.ai/jobs/info/69447fc494730b739877bc92?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
