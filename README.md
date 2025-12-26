@@ -102,7 +102,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6945898f951654073537a30d?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 19 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69458499d1953b5d11be8403?utm_campaign=1067&utm_source=git)** | Fort Collins Area | On Site | Dec 19 |
 | ↳ | **[HPE Labs - Business Analyst Intern - AI and Data Science](https://jobright.ai/jobs/info/69457f8b63141d1884550d5f?utm_campaign=1067&utm_source=git)** | Milpitas, CA | On Site | Dec 19 |
-| **[Concurrent Technologies Corporation](http://www.ctc.com)** | **[Business Intern](https://jobright.ai/jobs/info/694571b395165407353783f2?utm_campaign=1067&utm_source=git)** | Johnstown, PA | On Site | Dec 19 |
-| **[Microsoft](https://www.microsoft.com)** | **[Business Analytics: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/69455c2063141d188454e08d?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Dec 19 |
-| **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83ede50091dbfa509b8?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
