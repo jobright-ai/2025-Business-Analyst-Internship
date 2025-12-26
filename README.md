@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Dec 20 |
 | **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Dec 20 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6947ca8c63141d18845791d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Dec 20 |
-| **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/693a1ba748a8ce22990e1998?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
