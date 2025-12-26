@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6943ec47dd382f5f566a02f3?utm_campaign=1067&utm_source=git)** | St Cloud, MN | On Site | Dec 26 |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Business Intern](https://jobright.ai/jobs/info/694ead1429655e4dd65846da?utm_campaign=1067&utm_source=git)** | Ashburn, VA | On Site | Dec 26 |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Dec 26 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 26 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 | **[Zscaler](https://www.zscaler.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69324f83764507023d1acf17?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Dec 26 |
@@ -102,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Dec 20 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6947ca8c63141d18845791d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Dec 20 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/693a1ba748a8ce22990e1998?utm_campaign=1067&utm_source=git)** | Baton Rouge, LA | On Site | Dec 19 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analyst Intern](https://jobright.ai/jobs/info/6945d8509516540735380943?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Hybrid | Dec 19 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6945d064951654073537f8ff?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
