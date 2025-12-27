@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/69354be3764507023d1bff1d?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6946decdd1953b5d11c00b97?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Business Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde5dde50091dbfa50c64?utm_campaign=1067&utm_source=git)** | Glenview, IL | On Site | Dec 20 |
-| **[Unum](http://www.unum.com)** | **[IT Intern (Summer 2026) - Hybrid](https://jobright.ai/jobs/info/68b874a207090163b6ba1d52?utm_campaign=1067&utm_source=git)** | Chattanooga, TN | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
