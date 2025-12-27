@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Business Management Intern](https://jobright.ai/jobs/info/694fee0a29655e4dd6594f62?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Dec 27 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Intern](https://jobright.ai/jobs/info/694fe8e4a2668b7f545306e5?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Dec 27 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Dec 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 27 |
+| **[RWE](https://www.rwe.com)** | **[Business Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/6933b2e3a0dde7020e2f0b25?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/694f34d8a2668b7f54526e8a?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Dec 26 |
 | ↳ | **[Intern-Business](https://jobright.ai/jobs/info/694f10aa29655e4dd65895be?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Dec 26 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/68dc640ca125e75c422a05e7?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Dec 26 |
