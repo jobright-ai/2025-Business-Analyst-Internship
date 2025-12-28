@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Business Internships](https://jobright.ai/jobs/info/6951740829655e4dd65a6d3c?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Dec 28 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/69514e1cce13cd1056590369?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Dec 28 |
 | **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 28 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/691ff1303f782d2f1afc1bac?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 28 |
