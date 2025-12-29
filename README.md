@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Business Internships](https://jobright.ai/jobs/info/6951740829655e4dd65a6d3c?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Dec 28 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/69521626a2668b7f5454acb5?utm_campaign=1067&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
+| **[TD](https://www.td.com)** | **[Everyday Savings & Investing (ES&I), Business Insights Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695215d729655e4dd65aeed5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
+| ↳ | **[Distribution & Geospatial Intelligence Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695215d3a2668b7f5454ac9d?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
+| ↳ | **[Business Management Analyst Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695215d029655e4dd65aeed3?utm_campaign=1067&utm_source=git)** | Dieppe, New Brunswick | Hybrid | Dec 28 |
+| ↳ | **[Business Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695215cb29655e4dd65aeecf?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario | On Site | Dec 28 |
+| ↳ | **[Business Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952144ece13cd105659a299?utm_campaign=1067&utm_source=git)** | Markham, Ontario | On Site | Dec 28 |
+| ↳ | **[Business Management Analyst Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521418ce13cd105659a289?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 28 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/691ff1303f782d2f1afc1bac?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 28 |
@@ -70,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 26 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/68dcfa1ea125e75c422a787b?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 | **[Zscaler](https://www.zscaler.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69324f83764507023d1acf17?utm_campaign=1067&utm_source=git)** | San Jose, CA | Hybrid | Dec 26 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[INTERN - BUSINESS (Supply Chain)](https://jobright.ai/jobs/info/69326726a0dde7020e2e68c8?utm_campaign=1067&utm_source=git)** | Duluth, MN | On Site | Dec 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6921844ed1ec2c3565c44ca8?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/693281d7f131d96e4845cba0?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Dec 26 |
 | **[Insight](https://www.insight.com)** | **[Insight Public Sector Business Analyst Intern](https://jobright.ai/jobs/info/69140eede344172248f767a2?utm_campaign=1067&utm_source=git)** | Arizona, United States | Hybrid | Dec 25 |
@@ -103,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[UNICO Group](http://unicogroup.com)** | **[Data & Business Operations Intern](https://jobright.ai/jobs/info/694a10b47d506e3808f543cf?utm_campaign=1067&utm_source=git)** | Lincoln,NE,US | On Site | Dec 22 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[2026 Summer Technical Business Analyst Internship](https://jobright.ai/jobs/info/6949581763141d188458fdc6?utm_campaign=1067&utm_source=git)** | Lititz, PA | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Business Analyst Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694993aed1953b5d11c29538?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
-| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c7b9cc9ee94dc9120847?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 22 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/69354be3764507023d1bff1d?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
