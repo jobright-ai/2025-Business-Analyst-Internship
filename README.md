@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695266ec5bb7de448ef58044?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Business Analyst Intern / Co-Op](https://jobright.ai/jobs/info/6952436c5bb7de448ef56bd7?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Business Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69524355935649778e200efc?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Distribution & Geospatial Intelligence Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695243035bb7de448ef56a0a?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -116,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694a0b5963141d188459a887?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | **[The Cary Company](https://www.thecarycompany.com/)** | **[Business Internship](https://jobright.ai/jobs/info/6949fde7c6f0e2546ceed989?utm_campaign=1067&utm_source=git)** | Addison, IL | On Site | Dec 22 |
 | **[UNICO Group](http://unicogroup.com)** | **[Data & Business Operations Intern](https://jobright.ai/jobs/info/694a09a97d506e3808f531ed?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Dec 22 |
-| **[Indianapolis Colts](http://www.colts.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/694a048863141d188459961c?utm_campaign=1067&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
-| **[UNICO Group](http://unicogroup.com)** | **[Data & Business Operations Intern](https://jobright.ai/jobs/info/694a10b47d506e3808f543cf?utm_campaign=1067&utm_source=git)** | Lincoln,NE,US | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
