@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/692e23a4ef4b48533d13cf64?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 23 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Dec 23 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a65073019f50a4fe57c04?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Dec 23 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/694b99235d73121134702e04?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
