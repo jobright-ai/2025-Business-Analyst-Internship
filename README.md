@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Month](https://jobright.ai/jobs/info/694c1c8b1a572a617dde6adc?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Dec 24 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/692f401cef4b48533d143a76?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 24 |
-| **[Snowflake](https://www.snowflake.com)** | **[Business Analystis Intern - Summer 2026](https://jobright.ai/jobs/info/694b35694b53a1551f94ee36?utm_campaign=1067&utm_source=git)** | Menlo Park, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
