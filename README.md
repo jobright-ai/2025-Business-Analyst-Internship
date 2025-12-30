@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Intern](https://jobright.ai/jobs/info/6953e6485bb7de448ef6e4b1?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Dec 30 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Internships](https://jobright.ai/jobs/info/6953e643aa05c26e7aae6b84?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695376f4f1f8465b79eac34b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f2db5bb7de448ef60dfb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952ead65bb7de448ef60596?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
