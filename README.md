@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Snowflake](https://www.snowflake.com)** | **[Business Analystis Intern - Summer 2026](https://jobright.ai/jobs/info/694b35694b53a1551f94ee36?utm_campaign=1067&utm_source=git)** | Menlo Park, CA | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[Seaman Corporation](http://www.seamancorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/694afcc467a69734cac60fc9?utm_campaign=1067&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/694af08867a69734cac606a1?utm_campaign=1067&utm_source=git)** | Wooster, OH 44691, USA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
