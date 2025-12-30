@@ -116,7 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Seaman Corporation](http://www.seamancorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/694afcc467a69734cac60fc9?utm_campaign=1067&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/694af08867a69734cac606a1?utm_campaign=1067&utm_source=git)** | Wooster, OH 44691, USA | On Site | Dec 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Analyst)](https://jobright.ai/jobs/info/6922c1b538cd5478a8d54f99?utm_campaign=1067&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
-| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0cd67faa4e875e8291af5?utm_campaign=1067&utm_source=git)** | Amarillo, TX | Hybrid | Dec 23 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/692e23a4ef4b48533d13cf64?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Dec 23 |
-| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a1f8fdcc9ee94dc9124258?utm_campaign=1067&utm_source=git)** | Kansas City, KS | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
