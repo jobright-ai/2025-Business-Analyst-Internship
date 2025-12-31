@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Business Transformation & Process Improvement Intern](https://jobright.ai/jobs/info/69547afff1f8465b79ebb0d8?utm_campaign=1067&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695376f4f1f8465b79eac34b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f2db5bb7de448ef60dfb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952ead65bb7de448ef60596?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
