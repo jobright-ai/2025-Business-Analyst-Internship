@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Dec 25 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/69310284fa28370be26b6218?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 25 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Month](https://jobright.ai/jobs/info/694c1c8b1a572a617dde6adc?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
-| **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations](https://jobright.ai/jobs/info/68a0c78183d13d1f5b6d19aa?utm_campaign=1067&utm_source=git)** | Shippensburg, PA | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
