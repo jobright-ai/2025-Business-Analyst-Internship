@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/69444b1f50bbaf765056468a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Dec 31 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Dec 31 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Global Business Insights & Operations](https://jobright.ai/jobs/info/691bdf3ebcdbf3560c9e3779?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Dec 31 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
