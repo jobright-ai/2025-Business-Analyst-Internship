@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Jan 02 |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/6922d0e4c0cefa13343d963d?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Jan 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Business and Competitive Intelligence (BCI), Onsite](https://jobright.ai/jobs/info/6916a2ea6f36db06ef05889f?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Jan 01 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 01 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Jan 01 |
