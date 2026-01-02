@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69583939aa05c26e7ab21ffb?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 02 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/695833d2aa05c26e7ab21261?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Landmark Credit Union](https://landmarkcu.com/)** | **[Intern, Business Services Operations](https://jobright.ai/jobs/info/69583283aa05c26e7ab20f16?utm_campaign=1067&utm_source=git)** | 2775 S Moorland Rd, New Berlin, WI 53151, USA | On Site | Jan 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69581b2e9f1b381eb270fea4?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Jan 02 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69580849aa05c26e7ab1f688?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Jan 02 |
+| **[Landmark Credit Union](https://landmarkcu.com/)** | **[Intern, Business Services Underwriting](https://jobright.ai/jobs/info/69583ccc9f1b381eb27128f6?utm_campaign=1067&utm_source=git)** | 2775 S Moorland Rd, New Berlin, WI 53151, USA | On Site | Jan 02 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, IT Enterprise Platforms](https://jobright.ai/jobs/info/6957ed41f1f8465b79ee8ba5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Jan 02 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/6922d0e4c0cefa13343d963d?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Jan 02 |
