@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69587826f1f8465b79ef18eb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 02 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69589154aa05c26e7ab26c59?utm_campaign=1067&utm_source=git)** | Naperville, IL | On Site | Jan 02 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6958934baa05c26e7ab2717a?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
 | **[MidFirst Bank](https://www.midfirst.com)** | **[Intern](https://jobright.ai/jobs/info/6958730bf1f8465b79ef1552?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Jan 02 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Spring Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69585e0faa05c26e7ab23d04?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6958461a9f1b381eb27133c9?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Jan 02 |
@@ -114,6 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 28 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/691ff1303f782d2f1afc1bac?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 28 |
-| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Dec 27 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
