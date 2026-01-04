@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c4442aa598a08c3ed218e?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3ddaaa598a08c3ed1ec2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/695a1689aa05c26e7ab3b2b1?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Jan 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69587826f1f8465b79ef18eb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 02 |
-| **[MidFirst Bank](https://www.midfirst.com)** | **[Intern](https://jobright.ai/jobs/info/6958730bf1f8465b79ef1552?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Jan 02 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Spring Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69590ec3aa05c26e7ab2e9bc?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6958461a9f1b381eb27133c9?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Jan 02 |
 | ↳ | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69584395aa05c26e7ab230f6?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Jan 02 |
@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 31 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Business Transformation & Process Improvement Intern](https://jobright.ai/jobs/info/69547afff1f8465b79ebb0d8?utm_campaign=1067&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/695a1a8eaa05c26e7ab3b673?utm_campaign=1067&utm_source=git)** | La Crosse, WI | Hybrid | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695376f4f1f8465b79eac34b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f2db5bb7de448ef60dfb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952ead65bb7de448ef60596?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
@@ -108,5 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695215cb29655e4dd65aeecf?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario | On Site | Dec 28 |
 | ↳ | **[Business Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952144ece13cd105659a299?utm_campaign=1067&utm_source=git)** | Markham, Ontario | On Site | Dec 28 |
 | ↳ | **[Business Management Analyst Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521418ce13cd105659a289?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
