@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arvento A](arventoa.us)** | **[Business Internships](https://jobright.ai/jobs/info/69594073aa05c26e7ab30f82?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c4442aa598a08c3ed218e?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3ddaaa598a08c3ed1ec2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69587826f1f8465b79ef18eb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 02 |
