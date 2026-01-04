@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AI Innovation Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c4442aa598a08c3ed218e?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
 | ↳ | **[2026 Summer - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c3ddaaa598a08c3ed1ec2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69587826f1f8465b79ef18eb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 02 |
+| **[MidFirst Bank](https://www.midfirst.com)** | **[Intern](https://jobright.ai/jobs/info/6958730bf1f8465b79ef1552?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Jan 02 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Spring Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69590ec3aa05c26e7ab2e9bc?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6958461a9f1b381eb27133c9?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Jan 02 |
 | ↳ | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69584395aa05c26e7ab230f6?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Jan 02 |
@@ -108,6 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952144ece13cd105659a299?utm_campaign=1067&utm_source=git)** | Markham, Ontario | On Site | Dec 28 |
 | ↳ | **[Business Management Analyst Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521418ce13cd105659a289?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 28 |
-| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/691ff1303f782d2f1afc1bac?utm_campaign=1067&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 28 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
