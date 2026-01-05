@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vyntravo](vyntravo.us)** | **[Business Intern](https://jobright.ai/jobs/info/695b3d3f9f1b381eb2739a9f?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Jan 04 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693de1fbaa598a08c3ee6499?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
 | ↳ | **[2026 Summer - CDO, Data Operations Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693ddfdb50bbaf765050c5dc?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 04 |
