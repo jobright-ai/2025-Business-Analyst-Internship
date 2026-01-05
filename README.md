@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[All Native Group, The Federal Services Division of Ho-Chunk Inc.](http://allnativegroup.com)** | **[Junior Business Development Data Analyst Intern](https://jobright.ai/jobs/info/695c1cbbf1f8465b79f2280f?utm_campaign=1067&utm_source=git)** | US-VA-Fairfax | Hybrid | Jan 05 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Management Analyst - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695bf55222c9dc0d3d53dcba?utm_campaign=1067&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jan 05 |
 | ↳ | **[Technology Business Coordinator - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695bf4ae22c9dc0d3d53d8f6?utm_campaign=1067&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 05 |
 | **[Brother USA](https://brother-usa.com)** | **[Business Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695beed8f1f8465b79f1f06f?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
 | **[Velera](https://www.velera.com)** | **[Delinquency Management Reporting and Data Analysis Intern](https://jobright.ai/jobs/info/695bdffff1f8465b79f1e135?utm_campaign=1067&utm_source=git)** | Remote-USA | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Business Analytics (Corporate Technology)](https://jobright.ai/jobs/info/693fef81aa598a08c3efa8c1?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693fb18249a7695fbd0565ae?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 05 |
-| **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693de1fbaa598a08c3ee6499?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
 | ↳ | **[2026 Summer - CDO, Data Operations Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693ddfdb50bbaf765050c5dc?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 04 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Spring 2026 Business Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/6920b41a00c9ee50eaec7039?utm_campaign=1067&utm_source=git)** | Louisville, KY | Hybrid | Jan 04 |
@@ -94,6 +94,5 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 31 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Business Transformation & Process Improvement Intern](https://jobright.ai/jobs/info/69547afff1f8465b79ebb0d8?utm_campaign=1067&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/695bfc13aa05c26e7ab55295?utm_campaign=1067&utm_source=git)** | La Crosse, WI | Hybrid | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695376f4f1f8465b79eac34b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
