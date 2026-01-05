@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/695bd78cf1f8465b79f1dce0?utm_campaign=1067&utm_source=git)** | La Crosse, WI | Hybrid | Jan 05 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Management Analyst - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695bf55222c9dc0d3d53dcba?utm_campaign=1067&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jan 05 |
+| ↳ | **[Technology Business Coordinator - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695bf4ae22c9dc0d3d53d8f6?utm_campaign=1067&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 05 |
+| **[Brother USA](https://brother-usa.com)** | **[Business Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695beed8f1f8465b79f1f06f?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
+| **[Velera](https://www.velera.com)** | **[Delinquency Management Reporting and Data Analysis Intern](https://jobright.ai/jobs/info/695bdffff1f8465b79f1e135?utm_campaign=1067&utm_source=git)** | Remote-USA | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Business Analytics (Corporate Technology)](https://jobright.ai/jobs/info/693fef81aa598a08c3efa8c1?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693fb18249a7695fbd0565ae?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 05 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 04 |
