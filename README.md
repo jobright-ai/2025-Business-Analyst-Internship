@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Business Analytics (Corporate Technology)](https://jobright.ai/jobs/info/693fef81aa598a08c3efa8c1?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693fb18249a7695fbd0565ae?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 05 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Business Analytics](https://jobright.ai/jobs/info/691fe16d3f782d2f1afc10e3?utm_campaign=1067&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693de1fbaa598a08c3ee6499?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
@@ -89,6 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 31 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Business Transformation & Process Improvement Intern](https://jobright.ai/jobs/info/69547afff1f8465b79ebb0d8?utm_campaign=1067&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695376f4f1f8465b79eac34b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f2db5bb7de448ef60dfb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952ead65bb7de448ef60596?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
