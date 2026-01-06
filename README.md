@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Definity](https://www.definityfinancial.com/)** | **[Business Analyst - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695d21cffbd62a0a6565b70c?utm_campaign=1067&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 06 |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Business Intern](https://jobright.ai/jobs/info/695d1ac0f1f8465b79f348f7?utm_campaign=1067&utm_source=git)** | Boston, MA | Remote | Jan 06 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Associate Intern](https://jobright.ai/jobs/info/695d13caf1f8465b79f343b8?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 06 |
 | **[Seattle Housing Authority](http://seattlehousing.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d0b47f1f8465b79f33e61?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Jan 06 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 06 |
 | **[Corsair](http://www.corsair.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69406ffe49a7695fbd05f12f?utm_campaign=1067&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
@@ -94,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/695a1689aa05c26e7ab3b2b1?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Jan 02 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/695c48c722c9dc0d3d542d7a?utm_campaign=1067&utm_source=git)** | La Crosse WI 2213 S 20th 12, La Crosse, Wisconsin, United States | Hybrid | Jan 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69587826f1f8465b79ef18eb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 02 |
-| **[MidFirst Bank](https://www.midfirst.com)** | **[Intern](https://jobright.ai/jobs/info/6958730bf1f8465b79ef1552?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Jan 02 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Spring Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69590ec3aa05c26e7ab2e9bc?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6958461a9f1b381eb27133c9?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Jan 02 |
 | ↳ | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69584395aa05c26e7ab230f6?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Jan 02 |
@@ -108,7 +110,9 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, IT Enterprise Platforms](https://jobright.ai/jobs/info/6957ed41f1f8465b79ee8ba5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Jan 02 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 01 |
+| **[Armorock Polymer Concrete](https://www.armorock.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6955ca7f9f1b381eb26ef6dc?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 01 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Jan 01 |
+| **[Armorock Polymer Concrete](https://www.armorock.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6955bacfaa05c26e7aaff61b?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Jan 01 |
 | **[Health Care LogisticsⓇ](https://gohcl.com)** | **[Business Exploration Intern](https://jobright.ai/jobs/info/6956491faa05c26e7ab07f2e?utm_campaign=1067&utm_source=git)** | Circleville, OH | On Site | Jan 01 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/69444b1f50bbaf765056468a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Dec 31 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Dec 31 |
