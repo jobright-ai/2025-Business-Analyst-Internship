@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/694206ba14ee092a69002361?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 06 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[Business Technology Solutions Intern](https://jobright.ai/jobs/info/695cca165e4962051b59eadf?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | Hybrid | Jan 06 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/695c9fcb5e4962051b59ceb8?utm_campaign=1067&utm_source=git)** | Fresno, CA | On Site | Jan 05 |
-| **[Ededge Learn](www.ededgelearning.com)** | **[Business   Analyst Training  & Internship Program](https://jobright.ai/jobs/info/695c98285e4962051b59c1ba?utm_campaign=1067&utm_source=git)** | Canada | Remote | Jan 05 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Business Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c8e6b5e4962051b59acba?utm_campaign=1067&utm_source=git)** | Pataskala, OH | On Site | Jan 05 |
 | **[Intact](http://www.intactfc.com)** | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c6c36aa05c26e7ab5d5e9?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business-1](https://jobright.ai/jobs/info/695c66ccaa05c26e7ab5d03e?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Jan 05 |
