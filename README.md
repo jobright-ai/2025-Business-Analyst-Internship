@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Algo8 AI](http://algo8.ai)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d4714f1f8465b79f3748a?utm_campaign=1067&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 06 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d4158fbd62a0a6565c93d?utm_campaign=1067&utm_source=git)** | Colorado Springs, Colorado | On Site | Jan 06 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Business Analyst - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695d21cffbd62a0a6565b70c?utm_campaign=1067&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 06 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Business Intern](https://jobright.ai/jobs/info/695d1ac0f1f8465b79f348f7?utm_campaign=1067&utm_source=git)** | Boston, MA | Remote | Jan 06 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Associate Intern](https://jobright.ai/jobs/info/695d13caf1f8465b79f343b8?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 06 |
 | **[Seattle Housing Authority](http://seattlehousing.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d0b47f1f8465b79f33e61?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Jan 06 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 06 |
 | **[Corsair](http://www.corsair.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69406ffe49a7695fbd05f12f?utm_campaign=1067&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
@@ -119,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Global Business Insights & Operations](https://jobright.ai/jobs/info/691bdf3ebcdbf3560c9e3779?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Dec 31 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 31 |
-| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Business Transformation & Process Improvement Intern](https://jobright.ai/jobs/info/69547afff1f8465b79ebb0d8?utm_campaign=1067&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
