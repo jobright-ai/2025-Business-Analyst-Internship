@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[Business Technology Solutions Intern](https://jobright.ai/jobs/info/695cca165e4962051b59eadf?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | Hybrid | Jan 06 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/695c9fcb5e4962051b59ceb8?utm_campaign=1067&utm_source=git)** | Fresno, CA | On Site | Jan 05 |
 | **[Ededge Learn](www.ededgelearning.com)** | **[Business   Analyst Training  & Internship Program](https://jobright.ai/jobs/info/695c98285e4962051b59c1ba?utm_campaign=1067&utm_source=git)** | Canada | Remote | Jan 05 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Business Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c8e6b5e4962051b59acba?utm_campaign=1067&utm_source=git)** | Pataskala, OH | On Site | Jan 05 |
