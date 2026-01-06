@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intact](http://www.intactfc.com)** | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c6c36aa05c26e7ab5d5e9?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business-1](https://jobright.ai/jobs/info/695c66ccaa05c26e7ab5d03e?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Jan 05 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c5c7622c9dc0d3d54577b?utm_campaign=1067&utm_source=git)** | St-Hyacinthe, Quebec, CAN | On Site | Jan 05 |
 | ↳ | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c5c4eaa05c26e7ab5c73d?utm_campaign=1067&utm_source=git)** | Montréal, Quebec, CAN | On Site | Jan 05 |
 | **[All Native Group, The Federal Services Division of Ho-Chunk Inc.](http://allnativegroup.com)** | **[Junior Business Development Data Analyst Intern](https://jobright.ai/jobs/info/695c494ef1f8465b79f25cc0?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Jan 05 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Delinquency Management Reporting and Data Analysis Intern](https://jobright.ai/jobs/info/695bdffff1f8465b79f1e135?utm_campaign=1067&utm_source=git)** | Remote-USA | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Business Analytics (Corporate Technology)](https://jobright.ai/jobs/info/693fef81aa598a08c3efa8c1?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693fb18249a7695fbd0565ae?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 05 |
+| **[Seattle Housing Authority](http://seattlehousing.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695c80ca5e4962051b599f75?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Jan 04 |
 | **[Snowflake](https://www.snowflake.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c5dae22c9dc0d3d545863?utm_campaign=1067&utm_source=git)** | US-CA-Menlo Park | Remote | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693de1fbaa598a08c3ee6499?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
 | ↳ | **[2026 Summer - CDO, Data Operations Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693ddfdb50bbaf765050c5dc?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 04 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/695a1689aa05c26e7ab3b2b1?utm_campaign=1067&utm_source=git)** | West Bend, WI | On Site | Jan 02 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/695c48c722c9dc0d3d542d7a?utm_campaign=1067&utm_source=git)** | La Crosse WI 2213 S 20th 12, La Crosse, Wisconsin, United States | Hybrid | Jan 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69587826f1f8465b79ef18eb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 02 |
-| **[MidFirst Bank](https://www.midfirst.com)** | **[Intern](https://jobright.ai/jobs/info/6958730bf1f8465b79ef1552?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | Jan 02 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Spring Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69590ec3aa05c26e7ab2e9bc?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/6958461a9f1b381eb27133c9?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Jan 02 |
 | ↳ | **[Business Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69584395aa05c26e7ab230f6?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Jan 02 |
