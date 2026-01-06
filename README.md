@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ededge Learn](www.ededgelearning.com)** | **[Business   Analyst Training  & Internship Program](https://jobright.ai/jobs/info/695c98285e4962051b59c1ba?utm_campaign=1067&utm_source=git)** | Canada | Remote | Jan 05 |
+| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Business Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c8e6b5e4962051b59acba?utm_campaign=1067&utm_source=git)** | Pataskala, OH | On Site | Jan 05 |
 | **[Intact](http://www.intactfc.com)** | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c6c36aa05c26e7ab5d5e9?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Business-1](https://jobright.ai/jobs/info/695c66ccaa05c26e7ab5d03e?utm_campaign=1067&utm_source=git)** | Memphis, TN | On Site | Jan 05 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c5c7622c9dc0d3d54577b?utm_campaign=1067&utm_source=git)** | St-Hyacinthe, Quebec, CAN | On Site | Jan 05 |
