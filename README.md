@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Housing Authority](http://seattlehousing.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d0b47f1f8465b79f33e61?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Jan 06 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 06 |
+| **[Corsair](http://www.corsair.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69406ffe49a7695fbd05f12f?utm_campaign=1067&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/695cfa30f5f3c43f38e1bb5a?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Jan 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/694206ba14ee092a69002361?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 06 |
+| **[AbbVie](https://www.abbvie.com)** | **[Business Technology Solutions Intern](https://jobright.ai/jobs/info/695d0b60fbd62a0a6565a9ff?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 06 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[Business Technology Solutions Intern](https://jobright.ai/jobs/info/695cca165e4962051b59eadf?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | Hybrid | Jan 06 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/695c9fcb5e4962051b59ceb8?utm_campaign=1067&utm_source=git)** | Fresno, CA | On Site | Jan 05 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Business Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c8e6b5e4962051b59acba?utm_campaign=1067&utm_source=git)** | Pataskala, OH | On Site | Jan 05 |
@@ -79,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Delinquency Management Reporting and Data Analysis Intern](https://jobright.ai/jobs/info/695bdffff1f8465b79f1e135?utm_campaign=1067&utm_source=git)** | Remote-USA | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Business Analytics (Corporate Technology)](https://jobright.ai/jobs/info/693fef81aa598a08c3efa8c1?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693fb18249a7695fbd0565ae?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 05 |
-| **[Seattle Housing Authority](http://seattlehousing.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695c80ca5e4962051b599f75?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Jan 04 |
 | **[Snowflake](https://www.snowflake.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c5dae22c9dc0d3d545863?utm_campaign=1067&utm_source=git)** | US-CA-Menlo Park | Remote | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693de1fbaa598a08c3ee6499?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
 | ↳ | **[2026 Summer - CDO, Data Operations Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693ddfdb50bbaf765050c5dc?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 04 |
