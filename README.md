@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Internship](https://jobright.ai/jobs/info/695c230d22c9dc0d3d5402eb?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Jan 05 |
 | **[All Native Group, The Federal Services Division of Ho-Chunk Inc.](http://allnativegroup.com)** | **[Junior Business Development Data Analyst Intern](https://jobright.ai/jobs/info/695c1cbbf1f8465b79f2280f?utm_campaign=1067&utm_source=git)** | US-VA-Fairfax | Hybrid | Jan 05 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Management Analyst - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695bf55222c9dc0d3d53dcba?utm_campaign=1067&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jan 05 |
 | ↳ | **[Technology Business Coordinator - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695bf4ae22c9dc0d3d53d8f6?utm_campaign=1067&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 05 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Services Underwriting](https://jobright.ai/jobs/info/69583ccc9f1b381eb27128f6?utm_campaign=1067&utm_source=git)** | 2775 S Moorland Rd, New Berlin, WI 53151, USA | On Site | Jan 02 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, IT Enterprise Platforms](https://jobright.ai/jobs/info/6957ed41f1f8465b79ee8ba5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Jan 02 |
+| **[Armorock Polymer Concrete](https://www.armorock.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6955ca7f9f1b381eb26ef6dc?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 01 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 01 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Jan 01 |
 | **[Health Care LogisticsⓇ](https://gohcl.com)** | **[Business Exploration Intern](https://jobright.ai/jobs/info/6956491faa05c26e7ab07f2e?utm_campaign=1067&utm_source=git)** | Circleville, OH | On Site | Jan 01 |
@@ -94,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 31 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Business Transformation & Process Improvement Intern](https://jobright.ai/jobs/info/69547afff1f8465b79ebb0d8?utm_campaign=1067&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695376f4f1f8465b79eac34b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
