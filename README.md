@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Reporting](https://jobright.ai/jobs/info/695dfe8a61d5475ac1a0c2f7?utm_campaign=1067&utm_source=git)** | Toronto - 16 York St | Hybrid | Jan 06 |
+| ↳ | **[Intern, Performance and Analytics, Projects](https://jobright.ai/jobs/info/695dfd6832718e2b8ddbf635?utm_campaign=1067&utm_source=git)** | Toronto - 16 York St | Hybrid | Jan 06 |
+| **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695df5f8821f2713684b28f8?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 06 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/695def4362ca9111e7826c67?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 06 |
 | **[Viasat](http://www.viasat.com)** | **[Operations Business Process Intern](https://jobright.ai/jobs/info/695dd7d389be3415c74632ad?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Jan 06 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Woodland Hills CA - R10218257](https://jobright.ai/jobs/info/695dd5ba89be3415c7462fc3?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jan 06 |
@@ -99,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Delinquency Management Reporting and Data Analysis Intern](https://jobright.ai/jobs/info/695bdffff1f8465b79f1e135?utm_campaign=1067&utm_source=git)** | Remote-USA | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Business Analytics (Corporate Technology)](https://jobright.ai/jobs/info/693fef81aa598a08c3efa8c1?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/693fb18249a7695fbd0565ae?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 05 |
+| **[Seattle Housing Authority](http://seattlehousing.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695df4ce62ca9111e7827b7c?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Jan 04 |
 | **[Snowflake](https://www.snowflake.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c5dae22c9dc0d3d545863?utm_campaign=1067&utm_source=git)** | US-CA-Menlo Park | Remote | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693de1fbaa598a08c3ee6499?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
 | ↳ | **[2026 Summer - CDO, Data Operations Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693ddfdb50bbaf765050c5dc?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 04 |
@@ -122,8 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, IT Enterprise Platforms](https://jobright.ai/jobs/info/6957ed41f1f8465b79ee8ba5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 | **[SAIC](http://www.saic.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bf7ea22a2cb4b9bd180a0?utm_campaign=1067&utm_source=git)** | Lincoln, MA | Hybrid | Jan 02 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Business Analyst Intern - Houston, Tx - 12 months](https://jobright.ai/jobs/info/6901231dd5259a1b3cff1d06?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Jan 01 |
-| **[Armorock Polymer Concrete](https://www.armorock.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6955ca7f9f1b381eb26ef6dc?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 01 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Jan 01 |
-| **[Armorock Polymer Concrete](https://www.armorock.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6955bacfaa05c26e7aaff61b?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Jan 01 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/69444b1f50bbaf765056468a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
