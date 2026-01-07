@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Intern, Parts Business Analyst](https://jobright.ai/jobs/info/695dc67afbd62a0a65667d8e?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
 | **[OneAZ Credit Union](https://www.oneazcu.com)** | **[Business Analyst Intern- IT, Enterprise Architecture](https://jobright.ai/jobs/info/695d8327f1f8465b79f3b568?utm_campaign=1067&utm_source=git)** | Phoenix, AZ, US | On Site | Jan 06 |
 | **[Cambria](http://www.cambriausa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d71a5f1f8465b79f39d8b?utm_campaign=1067&utm_source=git)** | Eden Prairie, MN | On Site | Jan 06 |
 | **[Health Care LogisticsⓇ](https://gohcl.com)** | **[Business Exploration Intern](https://jobright.ai/jobs/info/6956491faa05c26e7ab07f2e?utm_campaign=1067&utm_source=git)** | Circleville, OH | On Site | Jan 06 |
@@ -120,7 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Jan 01 |
 | **[Armorock Polymer Concrete](https://www.armorock.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6955bacfaa05c26e7aaff61b?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Jan 01 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/69444b1f50bbaf765056468a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Dec 31 |
-| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Dec 31 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
-| **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68cd286be23def7af55b6246?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
