@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/695def4362ca9111e7826c67?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 06 |
+| **[Viasat](http://www.viasat.com)** | **[Operations Business Process Intern](https://jobright.ai/jobs/info/695dd7d389be3415c74632ad?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Jan 06 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Woodland Hills CA - R10218257](https://jobright.ai/jobs/info/695dd5ba89be3415c7462fc3?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jan 06 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Intern, Parts Business Analyst](https://jobright.ai/jobs/info/695dc67afbd62a0a65667d8e?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
+| **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/695dd9a089be3415c7463560?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 06 |
+| **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695de13589be3415c7464379?utm_campaign=1067&utm_source=git)** | Markham, ON, Canada | Hybrid | Jan 06 |
 | **[OneAZ Credit Union](https://www.oneazcu.com)** | **[Business Analyst Intern- IT, Enterprise Architecture](https://jobright.ai/jobs/info/695d8327f1f8465b79f3b568?utm_campaign=1067&utm_source=git)** | Phoenix, AZ, US | On Site | Jan 06 |
-| **[Cambria](http://www.cambriausa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d71a5f1f8465b79f39d8b?utm_campaign=1067&utm_source=git)** | Eden Prairie, MN | On Site | Jan 06 |
 | **[Health Care LogisticsⓇ](https://gohcl.com)** | **[Business Exploration Intern](https://jobright.ai/jobs/info/6956491faa05c26e7ab07f2e?utm_campaign=1067&utm_source=git)** | Circleville, OH | On Site | Jan 06 |
 | **[Economical Insurance](https://www.economical.com/)** | **[Business Analyst - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695d67d0f5f3c43f38e2306f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms & Technology - Business Systems Analyst](https://jobright.ai/jobs/info/6952b2bf5bb7de448ef5caf6?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | On Site | Jan 06 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d603bf1f8465b79f38ae5?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 06 |
+| **[Cambria](http://www.cambriausa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d57c5f5f3c43f38e221f1?utm_campaign=1067&utm_source=git)** | Eden Prairie, MN | On Site | Jan 06 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - Woodland Hills CA](https://jobright.ai/jobs/info/695d5660f1f8465b79f38514?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Jan 06 |
 | **[Cambria](http://www.cambriausa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d55bef1f8465b79f38490?utm_campaign=1067&utm_source=git)** | Le Sueur, MN | On Site | Jan 06 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d533ffbd62a0a6565e5fe?utm_campaign=1067&utm_source=git)** | Belle Plaine, MN | On Site | Jan 06 |
