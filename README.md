@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/694caf8129655e4dd656cf09?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Jan 07 |
+| **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b73f7e1ade4306aa64912b?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 07 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Reporting](https://jobright.ai/jobs/info/695dfe8a61d5475ac1a0c2f7?utm_campaign=1067&utm_source=git)** | Toronto - 16 York St | Hybrid | Jan 06 |
 | ↳ | **[Intern, Performance and Analytics, Projects](https://jobright.ai/jobs/info/695dfd6832718e2b8ddbf635?utm_campaign=1067&utm_source=git)** | Toronto - 16 York St | Hybrid | Jan 06 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695df5f8821f2713684b28f8?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 06 |
