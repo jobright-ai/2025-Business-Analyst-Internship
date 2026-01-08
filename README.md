@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/695fa5537ebc25398eb58613?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 08 |
+| **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 08 |
+| **[Liquidnet](http://www.liquidnet.com)** | **[Business Management & Analytics Intern, Liquidnet](https://jobright.ai/jobs/info/695c37c8aa05c26e7ab5879c?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 08 |
+| **[Ohio Mutual Insurance Group](https://public.omig.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69431e7194730b7398761ef1?utm_campaign=1067&utm_source=git)** | Bucyrus, OH | On Site | Jan 08 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms & Technology - Business Systems Analyst](https://jobright.ai/jobs/info/695f796fa1bbea1d9a7a39aa?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | On Site | Jan 08 |
 | **[Virtru](https://www.virtru.com)** | **[Operations & Analytics Intern](https://jobright.ai/jobs/info/695f4c69a112b402660e04ab?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Crude Business Dev](https://jobright.ai/jobs/info/695f0e37a1bbea1d9a79de3a?utm_campaign=1067&utm_source=git)** | HOUSTON, Texas, United States | On Site | Jan 07 |
