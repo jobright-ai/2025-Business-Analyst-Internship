@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Definity](https://www.definityfinancial.com/)** | **[Business Intelligence Co-op - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/69602321a1bbea1d9a7af36e?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jan 08 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Corporate Real Estate - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6960195e7ebc25398eb60648?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 08 |
+| **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Research department - Business Outlook Survey Summer Intern](https://jobright.ai/jobs/info/696008eca1bbea1d9a7ad1e0?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/6960221fa1bbea1d9a7af21e?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 08 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Corporate Real Estate - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/695ff3267ebc25398eb5d84f?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Jan 08 |
+| **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69600e4ca112b402660ec0f8?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 08 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/695fea56a112b402660e9083?utm_campaign=1067&utm_source=git)** | Denver, Colorado | On Site | Jan 08 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Research department - Business Outlook Survey Summer Intern](https://jobright.ai/jobs/info/695fd69ba1bbea1d9a7a91c0?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/6959d9279f1b381eb27284ed?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 08 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 08 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Intern](https://jobright.ai/jobs/info/695fcf9ea1bbea1d9a7a8d79?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Jan 08 |
 | **[Liquidnet](http://www.liquidnet.com)** | **[Business Management & Analytics Intern, Liquidnet](https://jobright.ai/jobs/info/695c37c8aa05c26e7ab5879c?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 08 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, EPMO Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6943760e94730b73987695e5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
 | **[Ohio Mutual Insurance Group](https://public.omig.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69431e7194730b7398761ef1?utm_campaign=1067&utm_source=git)** | Bucyrus, OH | On Site | Jan 08 |
