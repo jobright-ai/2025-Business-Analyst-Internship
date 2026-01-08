@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms & Technology - Business Systems Analyst](https://jobright.ai/jobs/info/695f796fa1bbea1d9a7a39aa?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ | On Site | Jan 08 |
 | **[Virtru](https://www.virtru.com)** | **[Operations & Analytics Intern](https://jobright.ai/jobs/info/695f4c69a112b402660e04ab?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Crude Business Dev](https://jobright.ai/jobs/info/695f0e37a1bbea1d9a79de3a?utm_campaign=1067&utm_source=git)** | HOUSTON, Texas, United States | On Site | Jan 07 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern Business Summer 2026](https://jobright.ai/jobs/info/695f05240badca5763af7c6b?utm_campaign=1067&utm_source=git)** | Collierville, TN | On Site | Jan 07 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Performance and Analytics, Reporting](https://jobright.ai/jobs/info/695e641908ab990f2829b7ee?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 07 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/694caf8129655e4dd656cf09?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Jan 07 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/68b73f7e1ade4306aa64912b?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 07 |
+| **[Seattle Housing Authority](http://seattlehousing.org)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695f75efa1bbea1d9a7a318c?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Jan 07 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Reporting](https://jobright.ai/jobs/info/695dfe8a61d5475ac1a0c2f7?utm_campaign=1067&utm_source=git)** | Toronto - 16 York St | Hybrid | Jan 06 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Requirements - Technical Writing Intern](https://jobright.ai/jobs/info/695f5c40a1bbea1d9a7a227e?utm_campaign=1067&utm_source=git)** | Cincinnati Metro | On Site | Jan 06 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Projects](https://jobright.ai/jobs/info/695dfd6832718e2b8ddbf635?utm_campaign=1067&utm_source=git)** | Toronto - 16 York St | Hybrid | Jan 06 |
