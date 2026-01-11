@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6963d735a112b4026611f69e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 11 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6963a7e8a112b4026611c56b?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Jan 11 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Business Internship](https://jobright.ai/jobs/info/6963efeba112b4026611faf2?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | On Site | Jan 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/69455c2063141d188454e08d?utm_campaign=1067&utm_source=git)** | Redmond, WA | On Site | Jan 10 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/69624a5a2cbf4e44756c411a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Jan 10 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6945d064951654073537f8ff?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
@@ -72,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/69616c13e7ed9a5731ba30d7?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Jan 09 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69616ad1a112b402660fecf2?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 09 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Business Technology Analyst](https://jobright.ai/jobs/info/69617352f3f4cd1325066b43?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | Hybrid | Jan 09 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Deloitte Technology Canada - Summer 2026 Co-op/Intern (4- 8 months) - Multiple Locations](https://jobright.ai/jobs/info/69447fc494730b739877bc92?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
-| ↳ | **[Analyst, Wonder by Deloitte - Summer 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/694480acdd382f5f566aad60?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Wonder by Deloitte - Summer 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/694480acdd382f5f566aad60?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
+| ↳ | **[Analyst, Deloitte Technology Canada - Summer 2026 Co-op/Intern (4- 8 months) - Multiple Locations](https://jobright.ai/jobs/info/69447fc494730b739877bc92?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6947ca8c63141d18845791d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6960762f7ebc25398eb66baf?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Jan 08 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/69606eb7a1bbea1d9a7b4751?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 08 |
@@ -140,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Business Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c8e6b5e4962051b59acba?utm_campaign=1067&utm_source=git)** | Pataskala, OH | On Site | Jan 05 |
 | **[OneAZ Credit Union](https://www.oneazcu.com)** | **[Business Analyst Intern- IT, Enterprise Architecture](https://jobright.ai/jobs/info/695d8363f5f3c43f38e2572e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 05 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/695db2f0f1f8465b79f3fa09?utm_campaign=1067&utm_source=git)** | Austin | On Site | Jan 05 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695fd929a112b402660e7d2a?utm_campaign=1067&utm_source=git)** | Montréal, Quebec, CAN | On Site | Jan 05 |
-| ↳ | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695fdfaa7ebc25398eb5b74e?utm_campaign=1067&utm_source=git)** | St-Hyacinthe, Quebec, CAN | On Site | Jan 05 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695fdfaa7ebc25398eb5b74e?utm_campaign=1067&utm_source=git)** | St-Hyacinthe, Quebec, CAN | On Site | Jan 05 |
+| ↳ | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695fd929a112b402660e7d2a?utm_campaign=1067&utm_source=git)** | Montréal, Quebec, CAN | On Site | Jan 05 |
 | **[Velera](https://www.velera.com)** | **[Business Intellignce Intern](https://jobright.ai/jobs/info/694d93f129655e4dd65776e5?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 05 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Business Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c44f222c9dc0d3d5423f8?utm_campaign=1067&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Coordinator - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695c5117f1f8465b79f27140?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 05 |
