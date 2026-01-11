@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dynareon](dynareon.us)** | **[Business Internship](https://jobright.ai/jobs/info/6962860a25e18715077f6761?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | **[Arvento A](arventoa.us)** | **[Business Internship](https://jobright.ai/jobs/info/696274832cbf4e44756c6508?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Jan 10 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/69455c2063141d188454e08d?utm_campaign=1067&utm_source=git)** | Redmond, WA | On Site | Jan 10 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/69624a5a2cbf4e44756c411a?utm_campaign=1067&utm_source=git)** | Northfield, IL | On Site | Jan 10 |
