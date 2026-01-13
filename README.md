@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQVIA](https://www.iqvia.com)** | **[Business Analytics Intern - Spring 2026 Hybrid](https://jobright.ai/jobs/info/696579595ad3a93f8230beeb?utm_campaign=1067&utm_source=git)** | San Mateo, CA | Hybrid | Jan 12 |
 | **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69656c312cbf4e44756ef3dd?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 12 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69656548a112b40266133e8e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jan 12 |
+| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Business Analyst Student](https://jobright.ai/jobs/info/696581f0a112b402661375c5?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 12 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/69655f9ea112b4026613373c?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 12 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69655f1e2cbf4e44756ed4cc?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Jan 12 |
+| **[TD](https://www.td.com)** | **[Business Analyst - Card & Payments Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/696580ff5ad3a93f8230c8e3?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 12 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern (Automotive Business Group)](https://jobright.ai/jobs/info/69655c3f2cbf4e44756ed19e?utm_campaign=1067&utm_source=git)** | Livonia, MI | On Site | Jan 12 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I, OPL - 4 Month Co-Op/Internship (Summer 2026)](https://jobright.ai/jobs/info/69655ba4a112b4026613338f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN | On Site | Jan 12 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/696574592cbf4e44756f03f8?utm_campaign=1067&utm_source=git)** | Naperville, IL | On Site | Jan 12 |
 | **[HTC inc. Your Local Internet Provider](http://www.htcinc.net/)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/69654ef7a112b402661325d2?utm_campaign=1067&utm_source=git)** | *Main Campus (Conway) | On Site | Jan 12 |
 | **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/696536f56d52670c5c3e006b?utm_campaign=1067&utm_source=git)** | Naperville, IL, USA | On Site | Jan 12 |
 | **[Clyvra](clyvra.us)** | **[Business Intern](https://jobright.ai/jobs/info/69653270a112b40266130e94?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Jan 12 |
@@ -85,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/69616c13e7ed9a5731ba30d7?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Jan 09 |
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69616ad1a112b402660fecf2?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 09 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Business Technology Analyst](https://jobright.ai/jobs/info/69617352f3f4cd1325066b43?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | Hybrid | Jan 09 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Deloitte Technology Canada - Summer 2026 Co-op/Intern (4- 8 months) - Multiple Locations](https://jobright.ai/jobs/info/69447fc494730b739877bc92?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
-| ↳ | **[Analyst, Wonder by Deloitte - Summer 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/694480acdd382f5f566aad60?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Wonder by Deloitte - Summer 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/694480acdd382f5f566aad60?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
+| ↳ | **[Analyst, Deloitte Technology Canada - Summer 2026 Co-op/Intern (4- 8 months) - Multiple Locations](https://jobright.ai/jobs/info/69447fc494730b739877bc92?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6947ca8c63141d18845791d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6960762f7ebc25398eb66baf?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Jan 08 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/69606eb7a1bbea1d9a7b4751?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 08 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Cambria](http://www.cambriausa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d71a5f1f8465b79f39d8b?utm_campaign=1067&utm_source=git)** | Eden Prairie, MN | On Site | Jan 06 |
 | **[Health Care LogisticsⓇ](https://gohcl.com)** | **[Business Exploration Intern](https://jobright.ai/jobs/info/6956491faa05c26e7ab07f2e?utm_campaign=1067&utm_source=git)** | Circleville, OH | On Site | Jan 06 |
 | **[Economical Insurance](https://www.economical.com/)** | **[Business Analyst - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695d67d0f5f3c43f38e2306f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
-| **[KBR, Inc.](https://www.kbr.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d603bf1f8465b79f38ae5?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 06 |
 | **[Cambria](http://www.cambriausa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d55bef1f8465b79f38490?utm_campaign=1067&utm_source=git)** | Le Sueur, MN | On Site | Jan 06 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d533ffbd62a0a6565e5fe?utm_campaign=1067&utm_source=git)** | Belle Plaine, MN | On Site | Jan 06 |
 | **[American Chemical Society](https://www.acs.org/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/695d7a84f1f8465b79f3a87f?utm_campaign=1067&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 06 |
