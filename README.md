@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69689b031703f05405aa6fbb?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 14 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst – IT SCM Solutions Intern](https://jobright.ai/jobs/info/6968a392639b452fb57e691e?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Jan 14 |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6968a1f9639b452fb57e67a9?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jan 14 |
+| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69689b031703f05405aa6fbb?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 14 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Jan 14 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/6968871e1703f05405aa4802?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69687065639b452fb57e1790?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 14 |
@@ -84,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/69670098a135876680844552?utm_campaign=1067&utm_source=git)** | Blue Ash Office | On Site | Jan 13 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Strategic Operations Business Analyst](https://jobright.ai/jobs/info/696703a66f782b4e8d52b026?utm_campaign=1067&utm_source=git)** | Albany, NY, US | Hybrid | Jan 13 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6966a67e5ad3a93f8231f59c?utm_campaign=1067&utm_source=git)** | Malta, NY | Remote | Jan 13 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6966c94a7a34f53920555386?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Jan 13 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6966cbb0a112b4026614ce4a?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Jan 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Analyst - Card & Payments Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69676097f25a38006695c325?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 13 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Business Relationship Management Intern - Remote](https://jobright.ai/jobs/info/6966b5ef7a34f53920553539?utm_campaign=1067&utm_source=git)** | Glendale, Arizona | Remote | Jan 13 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/694b99235d73121134702e04?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Jan 13 |
@@ -126,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Deloitte Technology Canada - Summer 2026 Co-op/Intern (4- 8 months) - Multiple Locations](https://jobright.ai/jobs/info/69447fc494730b739877bc92?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6947ca8c63141d18845791d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6960762f7ebc25398eb66baf?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Jan 08 |
-| **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/69606eb7a1bbea1d9a7b4751?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 08 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[HRIS Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/696067c2a112b402660f29b4?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 08 |
 | **[Intact](http://www.intactfc.com)** | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69605742a1bbea1d9a7b3386?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 08 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Business Intelligence Co-op - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/696055e4a1bbea1d9a7b324a?utm_campaign=1067&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 08 |
@@ -139,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Research department - Business Outlook Survey Summer Intern](https://jobright.ai/jobs/info/696008eca1bbea1d9a7ad1e0?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69600e4ca112b402660ec0f8?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 08 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/695fea56a112b402660e9083?utm_campaign=1067&utm_source=git)** | Denver, Colorado | On Site | Jan 08 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Research department - Business Outlook Survey Summer Intern](https://jobright.ai/jobs/info/695fd69ba1bbea1d9a7a91c0?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
