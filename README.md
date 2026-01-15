@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - Summer 2026 candidate](https://jobright.ai/jobs/info/6930bd4cfa28370be26b31c3?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 15 |
+| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6930c459ef4b48533d14ede3?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Jan 15 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/695a2e17aa05c26e7ab3c3c9?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 15 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68fc9434664c6f162a9527ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6968e42c639b452fb57eb2ba?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Jan 15 |
 | **[BCI](https://www.bci.ca/)** | **[Enterprise Solutions, Business Analyst Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/6968dab4639b452fb57ea20a?utm_campaign=1067&utm_source=git)** | Victoria, BC | Hybrid | Jan 15 |
 | ↳ | **[Business Analyst and Facility Security Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/6968e9d01703f05405aac798?utm_campaign=1067&utm_source=git)** | Victoria, BC | Hybrid | Jan 15 |
@@ -77,8 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Business Transformation Internship](https://jobright.ai/jobs/info/696802fd1703f05405a9a147?utm_campaign=1067&utm_source=git)** | Middletown, CT | On Site | Jan 14 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Corporate Real Estate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69680f75639b452fb57d9da1?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/6967f4ce1703f05405a991f1?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jan 14 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Intern](https://jobright.ai/jobs/info/6967e5351703f05405a9898d?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Jan 14 |
-| **[Arvento A](arventoa.us)** | **[Business Internship](https://jobright.ai/jobs/info/69684455f25a38006696adb3?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Remote | Jan 14 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/692f401cef4b48533d143a76?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Jan 14 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 14 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Strategic Operations Business Analyst](https://jobright.ai/jobs/info/69671ede639b452fb57cbf33?utm_campaign=1067&utm_source=git)** | Albany, NY | Hybrid | Jan 13 |
@@ -129,13 +131,10 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Commercial Student](https://jobright.ai/jobs/info/6961bb5ba112b40266104c20?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69616d2cf3f4cd13250663e7?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 09 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/69616c13e7ed9a5731ba30d7?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Jan 09 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Deloitte Technology Canada - Summer 2026 Co-op/Intern (4- 8 months) - Multiple Locations](https://jobright.ai/jobs/info/69447fc494730b739877bc92?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
-| ↳ | **[Analyst, Wonder by Deloitte - Summer 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/694480acdd382f5f566aad60?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
-| **[ITT Inc.](http://www.itt.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6947ca8c63141d18845791d8?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 09 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Wonder by Deloitte - Summer 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/694480acdd382f5f566aad60?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
+| ↳ | **[Analyst, Deloitte Technology Canada - Summer 2026 Co-op/Intern (4- 8 months) - Multiple Locations](https://jobright.ai/jobs/info/69447fc494730b739877bc92?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6960762f7ebc25398eb66baf?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Jan 08 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[HRIS Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/696067c2a112b402660f29b4?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 08 |
 | **[Intact](http://www.intactfc.com)** | **[Business Analyst – 4-month Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69605742a1bbea1d9a7b3386?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 08 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Business Intelligence Co-op - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/696055e4a1bbea1d9a7b324a?utm_campaign=1067&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 08 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[HRIS Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/69603c337ebc25398eb6429e?utm_campaign=1067&utm_source=git)** | HQ - San Diego, CA | On Site | Jan 08 |
-| **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/6960312ca1bbea1d9a7b06b6?utm_campaign=1067&utm_source=git)** | Denver, Colorado | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
