@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jan 15 |
+| ↳ | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696960d9f25a38006697f3c5?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Jan 15 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969480b1703f05405ab207b?utm_campaign=1067&utm_source=git)** | CSBS Corporate, 1300 I Street NW, Washington, District Of Columbia, United States of America | Hybrid | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69693bcc1703f05405ab163f?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Jan 15 |
 | **[PITT OHIO](http://www.pittohio.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/696953ee639b452fb57f1f64?utm_campaign=1067&utm_source=git)** | US-PA-Cheswick | On Site | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6969488f1703f05405ab20fc?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696942231703f05405ab1b4c?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jan 15 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/696937a3639b452fb57f04ca?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 15 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - Summer 2026 candidate](https://jobright.ai/jobs/info/6930bd4cfa28370be26b31c3?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 15 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6930c459ef4b48533d14ede3?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Jan 15 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/695a2e17aa05c26e7ab3c3c9?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 15 |
@@ -76,12 +77,12 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69687065639b452fb57e1790?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 14 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Business Analyst Intern](https://jobright.ai/jobs/info/6944e36494730b7398781800?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jan 14 |
 | **[The Mullings Group](http://mullingsgroup.com)** | **[Business Intern](https://jobright.ai/jobs/info/69682c67639b452fb57dc231?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | On Site | Jan 14 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69683f10f25a38006696a85e?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69683a291703f05405a9ea12?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
 | **[ProAmpac](http://www.proampac.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69682019639b452fb57daf50?utm_campaign=1067&utm_source=git)** | Orlando, FL | Remote | Jan 14 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Corporate Real Estate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6968755d1703f05405aa2cbe?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Jan 14 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Business Transformation Internship](https://jobright.ai/jobs/info/696802fd1703f05405a9a147?utm_campaign=1067&utm_source=git)** | Middletown, CT | On Site | Jan 14 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Corporate Real Estate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69680f75639b452fb57d9da1?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Corporate Real Estate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6967fb0ff25a38006696501e?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/6967f4ce1703f05405a991f1?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jan 14 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/692f401cef4b48533d143a76?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Jan 14 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 14 |
