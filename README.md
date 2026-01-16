@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CARAVAN Wellness](https://caravanwellness.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/696a767b350cf43803116cc4?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 16 |
+| **[Coveo](http://www.coveo.com)** | **[Business Analysis Intern, Summer 2026](https://jobright.ai/jobs/info/696a7d8adb26b618950dab83?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 16 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jan 16 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/6960726a7ebc25398eb66878?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Jan 16 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Jan 16 |
@@ -66,8 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations and Analytics Intern - US Market Commercial](https://jobright.ai/jobs/info/6969be74f25a38006698761e?utm_campaign=1067&utm_source=git)** | Princeton | Hybrid | Jan 15 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6969b8c6639b452fb57fa61b?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2026 - Business Technology Analyst](https://jobright.ai/jobs/info/6969d651639b452fb57fd59d?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Jan 15 |
+| **[Belle Tire](https://www.belletire.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6969d0cef25a380066989a1f?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Jan 15 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/6969a0b31703f05405ab9fb5?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Jan 15 |
-| **[Belle Tire](https://www.belletire.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6969d0cef25a380066989a1f?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Jan 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69698dae639b452fb57f7566?utm_campaign=1067&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6969b0f2639b452fb57fa0e2?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6969b24bf25a3800669868e0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 15 |
@@ -140,7 +140,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6945d064951654073537f8ff?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Month](https://jobright.ai/jobs/info/6964dbde2cbf4e44756e4e14?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business System Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6962063c2cbf4e44756c0118?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Jan 09 |
-| **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Jan 09 |
-| **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6969bce91703f05405abb63f?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 09 |
-| **[Maryland Auto Insurance](https://www.mymarylandauto.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6961b6ece7ed9a5731ba8ae5?utm_campaign=1067&utm_source=git)** | Headquarters - Baltimore, MD 21230 | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
