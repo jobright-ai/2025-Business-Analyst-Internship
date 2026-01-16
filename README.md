@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Jan 16 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/693281d7f131d96e4845cba0?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Jan 16 |
 | **[Genmab](https://www.genmab.com)** | **[Business Operations and Analytics Intern - US Market Commercial](https://jobright.ai/jobs/info/6969f18ef25a38006698b3b1?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Jan 15 |
 | ↳ | **[Business Operations and Analytics Intern - US Market Commercial](https://jobright.ai/jobs/info/6969be74f25a38006698761e?utm_campaign=1067&utm_source=git)** | Princeton | Hybrid | Jan 15 |
@@ -64,9 +65,9 @@ For a complete list, click the following sortable link below:
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2026 - Business Technology Analyst](https://jobright.ai/jobs/info/6969d651639b452fb57fd59d?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Jan 15 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/6969a0b31703f05405ab9fb5?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Jan 15 |
 | **[Belle Tire](https://www.belletire.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6969d0cef25a380066989a1f?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Jan 15 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69699a55639b452fb57f8bd9?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69698dae639b452fb57f7566?utm_campaign=1067&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6969a92f639b452fb57f99f1?utm_campaign=1067&utm_source=git)** | Beaver Falls,PA,US | On Site | Jan 15 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6969b0f2639b452fb57fa0e2?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6969b24bf25a3800669868e0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 15 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jan 15 |
 | ↳ | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696960d9f25a38006697f3c5?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Jan 15 |
@@ -141,6 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Insight](https://www.insight.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6969bce91703f05405abb63f?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 09 |
 | **[Maryland Auto Insurance](https://www.mymarylandauto.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6961b6ece7ed9a5731ba8ae5?utm_campaign=1067&utm_source=git)** | Headquarters - Baltimore, MD 21230 | Hybrid | Jan 09 |
 | **[Hatch](https://www.hatch.com)** | **[Commercial Student](https://jobright.ai/jobs/info/6961bb5ba112b40266104c20?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 09 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69616d2cf3f4cd13250663e7?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 09 |
-| **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/69616c13e7ed9a5731ba30d7?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
