@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/696b5118350cf4380312a850?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Jan 17 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Data Science Business Operations Intern](https://jobright.ai/jobs/info/696aac75db26b618950dda21?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | Jan 16 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696ab506350cf4380311bb6a?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
 | **[Coveo](http://www.coveo.com)** | **[Business Analysis Intern, Summer 2026](https://jobright.ai/jobs/info/696a7d8adb26b618950dab83?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 16 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2026 - Business Technology Analyst](https://jobright.ai/jobs/info/6969d651639b452fb57fd59d?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Jan 15 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/6969a0b31703f05405ab9fb5?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Jan 15 |
 | **[Belle Tire](https://www.belletire.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6969d0cef25a380066989a1f?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Jan 15 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69699a55639b452fb57f8bd9?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69698dae639b452fb57f7566?utm_campaign=1067&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6969b0f2639b452fb57fa0e2?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6969b24bf25a3800669868e0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 15 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jan 15 |
 | ↳ | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696960d9f25a38006697f3c5?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Jan 15 |
@@ -95,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69687065639b452fb57e1790?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 14 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Business Analyst Intern](https://jobright.ai/jobs/info/6944e36494730b7398781800?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jan 14 |
 | **[The Mullings Group](http://mullingsgroup.com)** | **[Business Intern](https://jobright.ai/jobs/info/69682c67639b452fb57dc231?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | On Site | Jan 14 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69683a291703f05405a9ea12?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69683f10f25a38006696a85e?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
 | **[ProAmpac](http://www.proampac.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69682019639b452fb57daf50?utm_campaign=1067&utm_source=git)** | Orlando, FL | Remote | Jan 14 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Corporate Real Estate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6968755d1703f05405aa2cbe?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Jan 14 |
