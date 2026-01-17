@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/696bb1325fc86241853b017e?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Jan 17 |
+| **[Crest Vale](crestvale.us)** | **[Business Intern](https://jobright.ai/jobs/info/696bfb92350cf438031340fb?utm_campaign=1067&utm_source=git)** | Boston, MA | Remote | Jan 17 |
+| **[Lake City Bank](http://lakecitybank.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/696bf374db26b618950f58ae?utm_campaign=1067&utm_source=git)** | Warsaw, IN | On Site | Jan 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 17 |
 | **[RWE](https://www.rwe.com)** | **[Business Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/6933b2e3a0dde7020e2f0b25?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edddf25a380066964600?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
@@ -140,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I, OPL - 4 Month Co-Op/Internship (Summer 2026)](https://jobright.ai/jobs/info/69655ba4a112b4026613338f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN | On Site | Jan 12 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/696574592cbf4e44756f03f8?utm_campaign=1067&utm_source=git)** | Naperville, IL | On Site | Jan 12 |
 | **[HTC inc. Your Local Internet Provider](http://www.htcinc.net/)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/69654ef7a112b402661325d2?utm_campaign=1067&utm_source=git)** | *Main Campus (Conway) | On Site | Jan 12 |
-| **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/696536f56d52670c5c3e006b?utm_campaign=1067&utm_source=git)** | Naperville, IL, USA | On Site | Jan 12 |
+| **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/696537652cbf4e44756eae7f?utm_campaign=1067&utm_source=git)** | Naperville, IL, USA | On Site | Jan 12 |
 | **[TD](https://www.td.com)** | **[Business Analyst - Card & Payments Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/696518d36d52670c5c3dd668?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | On Site | Jan 12 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[2026 Summer Technical Business Analyst Internship](https://jobright.ai/jobs/info/69650b30a112b4026612e271?utm_campaign=1067&utm_source=git)** | Lititz, PA | Hybrid | Jan 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
