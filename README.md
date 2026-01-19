@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/696e1c5b5fc86241853cdd9e?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Jan 19 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
 | **[Commvault](https://www.commvault.com)** | **[Business Technology Intern](https://jobright.ai/jobs/info/6965470a6d52670c5c3e0af4?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 17 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696d5e2edb26b61895106c0d?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 17 |
@@ -103,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69687065639b452fb57e1790?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 14 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Business Analyst Intern](https://jobright.ai/jobs/info/6944e36494730b7398781800?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jan 14 |
 | **[The Mullings Group](http://mullingsgroup.com)** | **[Business Intern](https://jobright.ai/jobs/info/69682c67639b452fb57dc231?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | On Site | Jan 14 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69683a291703f05405a9ea12?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69683f10f25a38006696a85e?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
 | **[ProAmpac](http://www.proampac.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69682019639b452fb57daf50?utm_campaign=1067&utm_source=git)** | Orlando, FL | Remote | Jan 14 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Corporate Real Estate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6968755d1703f05405aa2cbe?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Jan 14 |
@@ -138,6 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/69655f9ea112b4026613373c?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 12 |
 | **[TD](https://www.td.com)** | **[Business Analyst - Card & Payments Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/696580ff5ad3a93f8230c8e3?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 12 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I, OPL - 4 Month Co-Op/Internship (Summer 2026)](https://jobright.ai/jobs/info/69655ba4a112b4026613338f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN | On Site | Jan 12 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/696574592cbf4e44756f03f8?utm_campaign=1067&utm_source=git)** | Naperville, IL | On Site | Jan 12 |
-| **[HTC inc. Your Local Internet Provider](http://www.htcinc.net/)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/69654ef7a112b402661325d2?utm_campaign=1067&utm_source=git)** | *Main Campus (Conway) | On Site | Jan 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
