@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Internship](https://jobright.ai/jobs/info/696e9dbf5fc86241853d61f7?utm_campaign=1067&utm_source=git)** | Sterling, VA | On Site | Jan 19 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Top Secret Clearance Required](https://jobright.ai/jobs/info/696e9d6bdb26b618951185f1?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Jan 19 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/696e9ac9db26b618951180ab?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Jan 19 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/696e9814db26b61895117b34?utm_campaign=1067&utm_source=git)** | Lebanon, VA | Hybrid | Jan 19 |
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696e718c350cf4380315329e?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 | **[TD](https://www.td.com)** | **[Everyday Savings & Investing (ES&I), Business Insights Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695242d9f1f8465b79e9976c?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | ↳ | **[Distribution & Geospatial Intelligence Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695243035bb7de448ef56a0a?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
@@ -126,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/69670098a135876680844552?utm_campaign=1067&utm_source=git)** | Blue Ash Office | On Site | Jan 13 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Strategic Operations Business Analyst](https://jobright.ai/jobs/info/696703a66f782b4e8d52b026?utm_campaign=1067&utm_source=git)** | Albany, NY, US | Hybrid | Jan 13 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6966a67e5ad3a93f8231f59c?utm_campaign=1067&utm_source=git)** | Malta, NY | Remote | Jan 13 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6966c94a7a34f53920555386?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Jan 13 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6966cbb0a112b4026614ce4a?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Jan 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Analyst - Card & Payments Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69676097f25a38006695c325?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 13 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Business Relationship Management Intern - Remote](https://jobright.ai/jobs/info/6966b5ef7a34f53920553539?utm_campaign=1067&utm_source=git)** | Glendale, Arizona | Remote | Jan 13 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/694b99235d73121134702e04?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Jan 13 |
