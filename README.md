@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/696fa0be82817106e976a971?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 20 |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/696f94603ed06875134a847a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
+| **[Waters Corporation](http://www.waters.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 20 |
+| **[TA Instruments](http://www.tainstruments.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f8abe3ed06875134a7f0e?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 20 |
+| **[TD](https://www.td.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f2db5bb7de448ef60dfb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f836b82817106e97697c2?utm_campaign=1067&utm_source=git)** | 01757 | On Site | Jan 20 |
 | **[Knoxville Utilities Board](https://www.kub.org/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/696f3ddd82817106e9766064?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-IT Business Enablement](https://jobright.ai/jobs/info/696f0ff30f4e0f657ea380a1?utm_campaign=1067&utm_source=git)** | East Petersburg, PA | Hybrid | Jan 19 |
@@ -70,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696e718c350cf4380315329e?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 | **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 19 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
-| **[Commvault](https://www.commvault.com)** | **[Business Technology Intern](https://jobright.ai/jobs/info/6965470a6d52670c5c3e0af4?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 17 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696d5e2edb26b61895106c0d?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69227e307795cd460c835cbe?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 17 |
 | **[RWE](https://www.rwe.com)** | **[Business Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/6933b2e3a0dde7020e2f0b25?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 17 |
