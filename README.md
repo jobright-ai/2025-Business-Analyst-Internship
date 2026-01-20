@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TA Instruments](http://www.tainstruments.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f836b82817106e97697c2?utm_campaign=1067&utm_source=git)** | 01757 | On Site | Jan 20 |
 | **[Knoxville Utilities Board](https://www.kub.org/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/696f3ddd82817106e9766064?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-IT Business Enablement](https://jobright.ai/jobs/info/696f0ff30f4e0f657ea380a1?utm_campaign=1067&utm_source=git)** | East Petersburg, PA | Hybrid | Jan 19 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 19 |
@@ -82,12 +83,12 @@ For a complete list, click the following sortable link below:
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/6960726a7ebc25398eb66878?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Jan 16 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Jan 16 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/693281d7f131d96e4845cba0?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Jan 16 |
+| **[Belle Tire](https://www.belletire.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6969d0cef25a380066989a1f?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Jan 16 |
 | **[Genmab](https://www.genmab.com)** | **[Business Operations and Analytics Intern - US Market Commercial](https://jobright.ai/jobs/info/6969f18ef25a38006698b3b1?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Jan 15 |
 | ↳ | **[Business Operations and Analytics Intern - US Market Commercial](https://jobright.ai/jobs/info/6969be74f25a38006698761e?utm_campaign=1067&utm_source=git)** | Princeton | Hybrid | Jan 15 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6969b8c6639b452fb57fa61b?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2026 - Business Technology Analyst](https://jobright.ai/jobs/info/6969d651639b452fb57fd59d?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Jan 15 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/6969a0b31703f05405ab9fb5?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Jan 15 |
-| **[Belle Tire](https://www.belletire.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6969d0cef25a380066989a1f?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Jan 15 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69699a55639b452fb57f8bd9?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69698dae639b452fb57f7566?utm_campaign=1067&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6969b24bf25a3800669868e0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 15 |
@@ -128,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Strategic Operations Business Analyst](https://jobright.ai/jobs/info/69671b85639b452fb57cb86f?utm_campaign=1067&utm_source=git)** | Albany, NY, US | Hybrid | Jan 13 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/69670098a135876680844552?utm_campaign=1067&utm_source=git)** | Blue Ash Office | On Site | Jan 13 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Strategic Operations Business Analyst](https://jobright.ai/jobs/info/696703a66f782b4e8d52b026?utm_campaign=1067&utm_source=git)** | Albany, NY, US | Hybrid | Jan 13 |
-| **[GlobalFoundries](https://gf.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6966a67e5ad3a93f8231f59c?utm_campaign=1067&utm_source=git)** | Malta, NY | Remote | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
