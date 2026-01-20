@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knoxville Utilities Board](https://www.kub.org/)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/696f3ddd82817106e9766064?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-IT Business Enablement](https://jobright.ai/jobs/info/696f0ff30f4e0f657ea380a1?utm_campaign=1067&utm_source=git)** | East Petersburg, PA | Hybrid | Jan 19 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 19 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-IT Business Enablement](https://jobright.ai/jobs/info/696eddfadb26b6189511fbc3?utm_campaign=1067&utm_source=git)** | US-PA-East Petersburg | Hybrid | Jan 19 |
