@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/696fa0be82817106e976a971?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 20 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/696f94603ed06875134a847a?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 20 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f8abe3ed06875134a7f0e?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 20 |
@@ -127,10 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/6967f4ce1703f05405a991f1?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jan 14 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/692f401cef4b48533d143a76?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Jan 14 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 14 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Strategic Operations Business Analyst](https://jobright.ai/jobs/info/69671ede639b452fb57cbf33?utm_campaign=1067&utm_source=git)** | Albany, NY | Hybrid | Jan 13 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/696730ac1703f05405a8e38d?utm_campaign=1067&utm_source=git)** | Ontario, Canada | On Site | Jan 13 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Operations & Digital Systems Intern](https://jobright.ai/jobs/info/696b1c445fc86241853a7f19?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Jan 13 |
-| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Strategic Operations Business Analyst](https://jobright.ai/jobs/info/69671b85639b452fb57cb86f?utm_campaign=1067&utm_source=git)** | Albany, NY, US | Hybrid | Jan 13 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/69670098a135876680844552?utm_campaign=1067&utm_source=git)** | Blue Ash Office | On Site | Jan 13 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Strategic Operations Business Analyst](https://jobright.ai/jobs/info/696703a66f782b4e8d52b026?utm_campaign=1067&utm_source=git)** | Albany, NY, US | Hybrid | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
