@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACCAR](http://www.paccar.com/)** | **[IT Intern Summer 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/696feb320f4e0f657ea43320?utm_campaign=1067&utm_source=git)** | Renton, WA | On Site | Jan 20 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/696fcb3a3ed06875134ab85e?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
 | ↳ | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/696fca6282817106e976d5bd?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 20 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Analyst Intern - Logistics & Transportation](https://jobright.ai/jobs/info/696fc85782817106e976d4c5?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 20 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 20 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f8abe3ed06875134a7f0e?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 20 |
 | **[TD](https://www.td.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f2db5bb7de448ef60dfb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
