@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Resilience](https://jobright.ai/jobs/info/69704e6b51f726477182846d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
+| **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Projects](https://jobright.ai/jobs/info/697097dd333b6343a14d248d?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/696ffac50f4e0f657ea453e1?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 20 |
 | **[PHX Forklift](http://phxforklift.com)** | **[College Business Internship](https://jobright.ai/jobs/info/69706c30587dfa0bb55e13b8?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 20 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
