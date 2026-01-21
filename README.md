@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Projects](https://jobright.ai/jobs/info/695e69d60badca5763aee672?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/696ffac50f4e0f657ea453e1?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 20 |
 | **[Praxis Engineering](http://www.praxiseng.com)** | **[Summer 2026 Business Analysis Associate Internship](https://jobright.ai/jobs/info/69700e1c0f4e0f657ea469c9?utm_campaign=1067&utm_source=git)** | Sterling, VA | On Site | Jan 20 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
