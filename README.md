@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971244c587dfa0bb55ead4f?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 21 |
-| ↳ | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
+| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
+| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
+| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971107c587dfa0bb55ea327?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[BMO](http://www.bmo.com)** | **[Process  Analyst , Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6970fb2351f7264771832b5e?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Jan 21 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6971125751f7264771835017?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 21 |
@@ -75,10 +78,7 @@ For a complete list, click the following sortable link below:
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f8abe3ed06875134a7f0e?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 20 |
 | **[TD](https://www.td.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952f2db5bb7de448ef60dfb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f836b82817106e97697c2?utm_campaign=1067&utm_source=git)** | 01757 | On Site | Jan 20 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-IT Business Enablement](https://jobright.ai/jobs/info/696f0ff30f4e0f657ea380a1?utm_campaign=1067&utm_source=git)** | East Petersburg, PA | Hybrid | Jan 19 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 19 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-IT Business Enablement](https://jobright.ai/jobs/info/696eddfadb26b6189511fbc3?utm_campaign=1067&utm_source=git)** | US-PA-East Petersburg | Hybrid | Jan 19 |
-| ↳ | **[Intern-IT Business Enablement](https://jobright.ai/jobs/info/696ed900350cf4380315d214?utm_campaign=1067&utm_source=git)** | ASC - East Petersburg | Hybrid | Jan 19 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Internship](https://jobright.ai/jobs/info/696e9dbf5fc86241853d61f7?utm_campaign=1067&utm_source=git)** | Sterling, VA | On Site | Jan 19 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Top Secret Clearance Required](https://jobright.ai/jobs/info/696e9d6bdb26b618951185f1?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Jan 19 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/696e9ac9db26b618951180ab?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Jan 19 |
@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/68fc9434664c6f162a9527ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[BCI](https://www.bci.ca/)** | **[Enterprise Solutions, Business Analyst Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/6968dab4639b452fb57ea20a?utm_campaign=1067&utm_source=git)** | Victoria, BC | Hybrid | Jan 15 |
 | ↳ | **[Business Analyst and Facility Security Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/6968e9d01703f05405aac798?utm_campaign=1067&utm_source=git)** | Victoria, BC | Hybrid | Jan 15 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst – IT SCM Solutions Intern](https://jobright.ai/jobs/info/6968a392639b452fb57e691e?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
