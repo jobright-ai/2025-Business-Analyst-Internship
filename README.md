@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/696ffac50f4e0f657ea453e1?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 20 |
+| **[Praxis Engineering](http://www.praxiseng.com)** | **[Summer 2026 Business Analysis Associate Internship](https://jobright.ai/jobs/info/69700e1c0f4e0f657ea469c9?utm_campaign=1067&utm_source=git)** | Sterling, VA | On Site | Jan 20 |
+| **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Intern Summer 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/696feb320f4e0f657ea43320?utm_campaign=1067&utm_source=git)** | Renton, WA | On Site | Jan 20 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/696fcb3a3ed06875134ab85e?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
 | ↳ | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/696fca6282817106e976d5bd?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 20 |
@@ -99,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6969b24bf25a3800669868e0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 15 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jan 15 |
 | ↳ | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696960d9f25a38006697f3c5?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Jan 15 |
-| **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jan 15 |
 | **[Vicki's Amish Traditions](https://vickisamishtraditions.com/)** | **[Business Management Intern/Apprentice](https://jobright.ai/jobs/info/696b29f7350cf43803127f0d?utm_campaign=1067&utm_source=git)** | Vestavia Hills, AL | On Site | Jan 15 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969480b1703f05405ab207b?utm_campaign=1067&utm_source=git)** | CSBS Corporate, 1300 I Street NW, Washington, District Of Columbia, United States of America | Hybrid | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69693bcc1703f05405ab163f?utm_campaign=1067&utm_source=git)** | McLean, VA | Hybrid | Jan 15 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst – IT SCM Solutions Intern](https://jobright.ai/jobs/info/6968a392639b452fb57e691e?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Jan 14 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Jan 14 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/6968871e1703f05405aa4802?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69687065639b452fb57e1790?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 14 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Business Analyst Intern](https://jobright.ai/jobs/info/6944e36494730b7398781800?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Jan 14 |
 | **[The Mullings Group](http://mullingsgroup.com)** | **[Business Intern](https://jobright.ai/jobs/info/69682c67639b452fb57dc231?utm_campaign=1067&utm_source=git)** | Delray Beach, FL | On Site | Jan 14 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69683f10f25a38006696a85e?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
