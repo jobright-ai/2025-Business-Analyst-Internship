@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6970e662333b6343a14d5b2d?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Jan 21 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 21 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Resilience](https://jobright.ai/jobs/info/69704e6b51f726477182846d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
