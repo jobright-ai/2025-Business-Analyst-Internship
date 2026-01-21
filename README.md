@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Projects](https://jobright.ai/jobs/info/695e69d60badca5763aee672?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/696ffac50f4e0f657ea453e1?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 20 |
-| **[Praxis Engineering](http://www.praxiseng.com)** | **[Summer 2026 Business Analysis Associate Internship](https://jobright.ai/jobs/info/69700e1c0f4e0f657ea469c9?utm_campaign=1067&utm_source=git)** | Sterling, VA | On Site | Jan 20 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Intern Summer 2026 - Business Analyst Intern](https://jobright.ai/jobs/info/696feb320f4e0f657ea43320?utm_campaign=1067&utm_source=git)** | Renton, WA | On Site | Jan 20 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/696fcb3a3ed06875134ab85e?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
@@ -129,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Corporate Real Estate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6967fb0ff25a38006696501e?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 14 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/6967f4ce1703f05405a991f1?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jan 14 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/692f401cef4b48533d143a76?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Jan 14 |
-| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
