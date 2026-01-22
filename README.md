@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orbient 24](orbient24.us)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/697265ac4ccbf64f8df25e99?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Jan 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6966a67e5ad3a93f8231f59c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst Intern (Sourcing Team，深圳，2026实习)](https://jobright.ai/jobs/info/69723d64584a1c1ef6fd3900?utm_campaign=1067&utm_source=git)** | Baltimore City County, MD | On Site | Jan 22 |
 | **[Horizon Lane](horizonlane.us)** | **[Business Internship](https://jobright.ai/jobs/info/69723d4d9b83b424830e2cf5?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | On Site | Jan 22 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/69715bd751f726477183a835?utm_campaign=1067&utm_source=git)** | McKinney, Texas | On Site | Jan 21 |
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[IT Business Operations Assistant](https://jobright.ai/jobs/info/69716ca2333b6343a14df488?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971244c587dfa0bb55ead4f?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
+| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
+| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971107c587dfa0bb55ea327?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
@@ -118,5 +119,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations and Analytics Intern - US Market Commercial](https://jobright.ai/jobs/info/6969be74f25a38006698761e?utm_campaign=1067&utm_source=git)** | Princeton | Hybrid | Jan 15 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6969b8c6639b452fb57fa61b?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2026 - Business Technology Analyst](https://jobright.ai/jobs/info/6969d651639b452fb57fd59d?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Jan 15 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/6969a0b31703f05405ab9fb5?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
