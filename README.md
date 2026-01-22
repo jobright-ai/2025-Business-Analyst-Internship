@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Orbient 24](orbient24.us)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/697265ac4ccbf64f8df25e99?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Jan 22 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69728b07584a1c1ef6fd86af?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Jan 22 |
+| **[PADNOS](http://padnos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6972835a9b83b424830e7370?utm_campaign=1067&utm_source=git)** | Auto Division - Livonia, 12600 Stark Rd., Livonia, Michigan, United States of America | On Site | Jan 22 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6966a67e5ad3a93f8231f59c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst Intern (Sourcing Team，深圳，2026实习)](https://jobright.ai/jobs/info/69723d64584a1c1ef6fd3900?utm_campaign=1067&utm_source=git)** | Baltimore City County, MD | On Site | Jan 22 |
@@ -116,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Intuitive](https://www.intuitive.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/693281d7f131d96e4845cba0?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Jan 16 |
 | **[Belle Tire](https://www.belletire.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6969d0cef25a380066989a1f?utm_campaign=1067&utm_source=git)** | Southfield, MI | On Site | Jan 16 |
 | **[Genmab](https://www.genmab.com)** | **[Business Operations and Analytics Intern - US Market Commercial](https://jobright.ai/jobs/info/6969f18ef25a38006698b3b1?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Jan 15 |
-| ↳ | **[Business Operations and Analytics Intern - US Market Commercial](https://jobright.ai/jobs/info/6969be74f25a38006698761e?utm_campaign=1067&utm_source=git)** | Princeton | Hybrid | Jan 15 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6969b8c6639b452fb57fa61b?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
