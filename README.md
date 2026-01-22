@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern - Logistics & Transportation](https://jobright.ai/jobs/info/6971aa6a51f7264771841928?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 21 |
+| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/6971a12f51f726477183f955?utm_campaign=1067&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
+| **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69719e3b51f726477183f7ae?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/69717ce751f726477183d92f?utm_campaign=1067&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Business Process, Global Business Growth and Automation](https://jobright.ai/jobs/info/6971792f587dfa0bb55f2aea?utm_campaign=1067&utm_source=git)** | New York - New York | On Site | Jan 21 |
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971779c587dfa0bb55f29df?utm_campaign=1067&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
@@ -67,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[IT Business Operations Assistant](https://jobright.ai/jobs/info/69716ca2333b6343a14df488?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971244c587dfa0bb55ead4f?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 21 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
+| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971107c587dfa0bb55ea327?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[BMO](http://www.bmo.com)** | **[Process  Analyst , Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6970fb2351f7264771832b5e?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Jan 21 |
@@ -124,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Permanent School Fund Corporation](https://texaspsf.org)** | **[Corporate Research Intern](https://jobright.ai/jobs/info/696fc9d20f4e0f657ea415a6?utm_campaign=1067&utm_source=git)** | Innovation Tower | On Site | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6969488f1703f05405ab20fc?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 15 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696942231703f05405ab1b4c?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Jan 15 |
-| **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - Summer 2026 candidate](https://jobright.ai/jobs/info/6930bd4cfa28370be26b31c3?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
