@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973c461206da320f49dbc22?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 23 |
+| **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973d37e37785856350da62a?utm_campaign=1067&utm_source=git)** | 01757 | On Site | Jan 23 |
+| ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973d215bc8e722e7b18a1aa?utm_campaign=1067&utm_source=git)** | Milford, MA, US | On Site | Jan 23 |
+| ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973c461206da320f49dbc22?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 23 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6973be24206da320f49db9d5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6973bb93206da320f49db810?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Jan 23 |
-| **[Horizon Lane](horizonlane.us)** | **[Business Intern](https://jobright.ai/jobs/info/69739834206da320f49d8daa?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Jan 23 |
 | **[Dynareon](dynareon.us)** | **[Business Internship](https://jobright.ai/jobs/info/6973b138bc8e722e7b1888b6?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Remote | Jan 23 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Summer 2026)](https://jobright.ai/jobs/info/69735bf137785856350d329e?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6973168f694e99351d1470b1?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 22 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972d47e0488fd59f7d5cd3c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | ↳ | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972ae279b83b424830eb682?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/6972bed3584a1c1ef6fdd096?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 22 |
+| **[Toshiba America Electronic Components, Inc.](https://toshiba.semicon-storage.com)** | **[5036 Business Analyst Intern](https://jobright.ai/jobs/info/6973d0eb37785856350da385?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69728b07584a1c1ef6fd86af?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Jan 22 |
 | **[PADNOS](http://padnos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6972e59b1d55d64a2053492b?utm_campaign=1067&utm_source=git)** | Auto Division - Livonia, 12600 Stark Rd., Livonia, Michigan, United States of America | On Site | Jan 22 |
