@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6973ec52bc8e722e7b18cd61?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Jan 23 |
+| **[Reviora](reviora.us)** | **[Business Analyst Intern - Logistics & Transportation](https://jobright.ai/jobs/info/6973ec0ebc8e722e7b18cc9c?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 23 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Business Systems Intern – May 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6973e3af37785856350db474?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario - Canada | Hybrid | Jan 23 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973d37e37785856350da62a?utm_campaign=1067&utm_source=git)** | 01757 | On Site | Jan 23 |
 | ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973d215bc8e722e7b18a1aa?utm_campaign=1067&utm_source=git)** | Milford, MA, US | On Site | Jan 23 |
 | ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973c461206da320f49dbc22?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 23 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6973be24206da320f49db9d5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6973bb93206da320f49db810?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Jan 23 |
 | **[Dynareon](dynareon.us)** | **[Business Internship](https://jobright.ai/jobs/info/6973b138bc8e722e7b1888b6?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Remote | Jan 23 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Summer 2026)](https://jobright.ai/jobs/info/69735bf137785856350d329e?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6973168f694e99351d1470b1?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 22 |
@@ -86,11 +88,11 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971779c587dfa0bb55f29df?utm_campaign=1067&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/6972233747b64f4e963e6763?utm_campaign=1067&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
 | **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69715ca9587dfa0bb55efe60?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
-| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/69715bd751f726477183a835?utm_campaign=1067&utm_source=git)** | McKinney, Texas | On Site | Jan 21 |
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[IT Business Operations Assistant](https://jobright.ai/jobs/info/69716ca2333b6343a14df488?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/69715e3b333b6343a14de989?utm_campaign=1067&utm_source=git)** | McKinney, Texas | On Site | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971244c587dfa0bb55ead4f?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
+| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
+| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971107c587dfa0bb55ea327?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
