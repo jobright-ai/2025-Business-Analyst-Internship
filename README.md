@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69715ca9587dfa0bb55efe60?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/69715bd751f726477183a835?utm_campaign=1067&utm_source=git)** | McKinney, Texas | On Site | Jan 21 |
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[IT Business Operations Assistant](https://jobright.ai/jobs/info/69716ca2333b6343a14df488?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6972f379206da320f49ce7a8?utm_campaign=1067&utm_source=git)** | Chicago, IL United States of America | Hybrid | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971244c587dfa0bb55ead4f?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 21 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
@@ -108,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696e718c350cf4380315329e?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 | **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 19 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6972f2aa1790715e866bdb8a?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 17 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696d5e2edb26b61895106c0d?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edddf25a380066964600?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Data Science Business Operations Intern](https://jobright.ai/jobs/info/696b7cb8350cf4380312c9b5?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Jan 17 |
@@ -116,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Coveo](http://www.coveo.com)** | **[Business Analysis Intern, Summer 2026](https://jobright.ai/jobs/info/696a7d8adb26b618950dab83?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 16 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jan 16 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/6960726a7ebc25398eb66878?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Jan 16 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
