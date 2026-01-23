@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6973168f694e99351d1470b1?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6972e63298522904c697b9b8?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6972e2560488fd59f7d5def2?utm_campaign=1067&utm_source=git)** | New Brunswick, NJ | On Site | Jan 22 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972d47e0488fd59f7d5cd3c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
@@ -113,6 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Data Science Business Operations Intern](https://jobright.ai/jobs/info/696aac75db26b618950dda21?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | Jan 16 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[IT Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696ab506350cf4380311bb6a?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
 | **[Coveo](http://www.coveo.com)** | **[Business Analysis Intern, Summer 2026](https://jobright.ai/jobs/info/696a7d8adb26b618950dab83?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 16 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jan 16 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/6960726a7ebc25398eb66878?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
