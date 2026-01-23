@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972ae279b83b424830eb682?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69728b07584a1c1ef6fd86af?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Jan 22 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 22 |
@@ -76,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/69715bd751f726477183a835?utm_campaign=1067&utm_source=git)** | McKinney, Texas | On Site | Jan 21 |
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[IT Business Operations Assistant](https://jobright.ai/jobs/info/69716ca2333b6343a14df488?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971244c587dfa0bb55ead4f?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
+| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
+| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971107c587dfa0bb55ea327?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[BMO](http://www.bmo.com)** | **[Process  Analyst , Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6970fb2351f7264771832b5e?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Jan 21 |
