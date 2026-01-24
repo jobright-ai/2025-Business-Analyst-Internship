@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer-Fall 2026 Co-op Intern - Business Analyst, Global Business Growth and Automation](https://jobright.ai/jobs/info/69745d2a206da320f49e9c99?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr Business Analyst Intern - MBA](https://jobright.ai/jobs/info/69745ae8bc8e722e7b196f28?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Jan 23 |
+| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Business Analyst Student](https://jobright.ai/jobs/info/69745eebbc8e722e7b1971fb?utm_campaign=1067&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Jan 23 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Business Analyst Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/6974135837785856350df773?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer-Fall 2026 Co-op Intern - Business Analyst, Global Business Growth and Automation](https://jobright.ai/jobs/info/6974366f206da320f49e565b?utm_campaign=1067&utm_source=git)** | Indiana - Indianapolis | On Site | Jan 23 |
 | **[AXA XL](https://axaxl.com)** | **[Energy Underwriting Intern, Large Commercial](https://jobright.ai/jobs/info/6974357ebc8e722e7b192a67?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 23 |
