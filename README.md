@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/6974150e206da320f49e206e?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Jan 23 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Business Analyst Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/6974135837785856350df773?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/6974130a37785856350df730?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Jan 23 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6973ec52bc8e722e7b18cd61?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Jan 23 |
