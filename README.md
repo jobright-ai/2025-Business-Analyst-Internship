@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Internship](https://jobright.ai/jobs/info/696e9dbf5fc86241853d61f7?utm_campaign=1067&utm_source=git)** | Sterling, VA | On Site | Jan 19 |
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696e718c350cf4380315329e?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 | **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 19 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
