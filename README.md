@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Business Analyst Intern - Logistics & Transportation](https://jobright.ai/jobs/info/6976f92b88e2b47213bae138?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 25 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69772422fdeb8243a279f399?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Jan 26 |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - CPX System](https://jobright.ai/jobs/info/697723b852f3c27ec64321ca?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 26 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Analyst Intern - Logistics & Transportation](https://jobright.ai/jobs/info/697722cd52f3c27ec6432198?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 26 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Intern](https://jobright.ai/jobs/info/6976f3fe88e2b47213bac09f?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/6976405c37785856350feca8?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Jan 25 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Business Process Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/697624a2bc8e722e7b1adc40?utm_campaign=1067&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 25 |
@@ -98,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971779c587dfa0bb55f29df?utm_campaign=1067&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
 | **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69715ca9587dfa0bb55efe60?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[IT Business Operations Assistant](https://jobright.ai/jobs/info/69716ca2333b6343a14df488?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
+| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
+| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971107c587dfa0bb55ea327?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
@@ -117,5 +119,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f836b82817106e97697c2?utm_campaign=1067&utm_source=git)** | 01757 | On Site | Jan 20 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 19 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Internship](https://jobright.ai/jobs/info/696e9dbf5fc86241853d61f7?utm_campaign=1067&utm_source=git)** | Sterling, VA | On Site | Jan 19 |
-| **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696e718c350cf4380315329e?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
