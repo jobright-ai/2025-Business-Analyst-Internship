@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Business Analyst Intern - Logistics & Transportation](https://jobright.ai/jobs/info/6976f92b88e2b47213bae138?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 25 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Intern](https://jobright.ai/jobs/info/6976f3fe88e2b47213bac09f?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/6976405c37785856350feca8?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Jan 25 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Business Process Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/697624a2bc8e722e7b1adc40?utm_campaign=1067&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 25 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916a3ce9c388539cbdfd740?utm_campaign=1067&utm_source=git)** | Santa Barbara, CA | On Site | Jan 24 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Waters Corporation](http://www.waters.com)** | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 23 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Summer 2026)](https://jobright.ai/jobs/info/69735bf137785856350d329e?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6973168f694e99351d1470b1?utm_campaign=1067&utm_source=git)** | Colorado Springs, CO | On Site | Jan 22 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6976fce3fdeb8243a279dd55?utm_campaign=1067&utm_source=git)** | New Brunswick, NJ | Hybrid | Jan 22 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972d47e0488fd59f7d5cd3c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | ↳ | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972ae279b83b424830eb682?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Business Analyst (Internship)](https://jobright.ai/jobs/info/6972bed3584a1c1ef6fdd096?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 22 |
@@ -113,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/696fca6282817106e976d5bd?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 20 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f8abe3ed06875134a7f0e?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 20 |
 | ↳ | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f836b82817106e97697c2?utm_campaign=1067&utm_source=git)** | 01757 | On Site | Jan 20 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Top Secret Clearance Required](https://jobright.ai/jobs/info/6976fc51fdeb8243a279dc2c?utm_campaign=1067&utm_source=git)** | Fairfax, VA | Hybrid | Jan 19 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 19 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Internship](https://jobright.ai/jobs/info/696e9dbf5fc86241853d61f7?utm_campaign=1067&utm_source=git)** | Sterling, VA | On Site | Jan 19 |
 | **[Hatch](https://www.hatch.com)** | **[Advisory Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696e718c350cf4380315329e?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
-| **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
