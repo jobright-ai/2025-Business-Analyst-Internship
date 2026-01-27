@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MEMIC](https://www.memic.com/)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/6978d2ac39f7f96cc6d130fe?utm_campaign=1067&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Operations Analyst Internship](https://jobright.ai/jobs/info/6978c47952f3c27ec64510ee?utm_campaign=1067&utm_source=git)** | Ashburn, VA | On Site | Jan 27 |
 | **[AbbVie](https://www.abbvie.com)** | **[Business Technology Solutions Intern](https://jobright.ai/jobs/info/6976f38152f3c27ec642ea7b?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 27 |
@@ -65,13 +66,10 @@ For a complete list, click the following sortable link below:
 | **[Novelis](http://novelis.com)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/69784c6c52f3c27ec6449a28?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Jan 26 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst Intern/Co-op](https://jobright.ai/jobs/info/69784d3452f3c27ec6449d53?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Business Analyst Student](https://jobright.ai/jobs/info/69745eebbc8e722e7b1971fb?utm_campaign=1067&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Jan 26 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/697827d352f3c27ec6445538?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Jan 26 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Jan 26 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/6978430a52f3c27ec6448061?utm_campaign=1067&utm_source=git)** | Stevens Point, WI | Hybrid | Jan 26 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst Intern/Co-op](https://jobright.ai/jobs/info/697803cc88e2b47213bc0e00?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 26 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/6977fd5052f3c27ec64436ee?utm_campaign=1067&utm_source=git)** | Madison, WI | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fcaa52f3c27ec6443685?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/6977fc1a88e2b47213bc0905?utm_campaign=1067&utm_source=git)** | Stevens Point, WI | Hybrid | Jan 26 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978132752f3c27ec6444108?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/6977d58a88e2b47213bbcda6?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
@@ -118,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971779c587dfa0bb55f29df?utm_campaign=1067&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
 | **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69715ca9587dfa0bb55efe60?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[IT Business Operations Assistant](https://jobright.ai/jobs/info/69716ca2333b6343a14df488?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[IT Business Systems Intern - 2026 Summer](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | Remote | Jan 21 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
+| **[Amynta Group](https://www.amyntagroup.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
 | ↳ | **[IT Business Systems Intern - 2026 Summer](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
+| ↳ | **[IT Business Systems Intern - 2026 Summer](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | Remote | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971107c587dfa0bb55ea327?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
