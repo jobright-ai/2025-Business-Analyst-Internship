@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AbbVie](https://www.abbvie.com)** | **[Business Technology Solutions Intern](https://jobright.ai/jobs/info/6976f38152f3c27ec642ea7b?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 27 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Business Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695beed8f1f8465b79f1f06f?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69789b6388e2b47213bcc3fd?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Jan 27 |
 | **[Novelis](http://novelis.com)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/69784c6c52f3c27ec6449a28?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Jan 26 |
@@ -116,13 +118,12 @@ For a complete list, click the following sortable link below:
 | **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69715ca9587dfa0bb55efe60?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[IT Business Operations Assistant](https://jobright.ai/jobs/info/69716ca2333b6343a14df488?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[IT Business Systems Intern - 2026 Summer](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | Remote | Jan 21 |
-| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
 | ↳ | **[IT Business Systems Intern - 2026 Summer](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
+| ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971107c587dfa0bb55ea327?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Corporate Sustainability](https://jobright.ai/jobs/info/691c907d22a2cb4b9bd1b5a4?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 21 |
 | **[Okta for Developers](https://developer.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971b3c5333b6343a14e6a0e?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Resilience](https://jobright.ai/jobs/info/69704e6b51f726477182846d?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
-| **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/696ffac50f4e0f657ea453e1?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
