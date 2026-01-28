@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[College Works Painting](https://www.collegeworks.com/)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6979a580ca92cf0d6a82f3c0?utm_campaign=1067&utm_source=git)** | Prairie Village, KS | On Site | Jan 27 |
+| **[Yes Energy](https://www.yesenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69799dc8d7df290257fc0e85?utm_campaign=1067&utm_source=git)** | Boulder, Colorado | Hybrid | Jan 27 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69796ac352f3c27ec645e11a?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Taylor Corporation](http://www.taylorcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979669e52f3c27ec645dcda?utm_campaign=1067&utm_source=git)** | Byron, MN | On Site | Jan 27 |
 | **[Vyntravo](vyntravo.us)** | **[Business Intern](https://jobright.ai/jobs/info/6979647c88e2b47213bdadda?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Jan 27 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/69793d5b88e2b47213bd6aa1?utm_campaign=1067&utm_source=git)** | Texas-Irving | On Site | Jan 27 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69794ce539f7f96cc6d1c4d8?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 27 |
 | **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69719e3b51f726477183f7ae?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69793ade88e2b47213bd64ef?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Jan 27 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - Business Operations](https://jobright.ai/jobs/info/6979172539f7f96cc6d17372?utm_campaign=1067&utm_source=git)** | Auburn Hills, Michigan, United States | On Site | Jan 27 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69793a8388e2b47213bd6408?utm_campaign=1067&utm_source=git)** | Mississauga | On Site | Jan 27 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Business Support Intern C (Communications) (Remote)](https://jobright.ai/jobs/info/69790a7639f7f96cc6d16430?utm_campaign=1067&utm_source=git)** | Huntsville, AL | Remote | Jan 27 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[MEMIC](https://www.memic.com/)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/6978e9e152f3c27ec64525fe?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 27 |
 | **[Smart Data Solutions](https://sdata.us/)** | **[Business Process and Systems Analyst, Intern](https://jobright.ai/jobs/info/6979068a88e2b47213bd192b?utm_campaign=1067&utm_source=git)** | Plano, TX, US | On Site | Jan 27 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Management Analyst Intern/Co-op](https://jobright.ai/jobs/info/6978fec552f3c27ec6454b6b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/6978f77139f7f96cc6d14b26?utm_campaign=1067&utm_source=git)** | Remote-MO | Remote | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/6978d2ac39f7f96cc6d130fe?utm_campaign=1067&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6978ddbf52f3c27ec6451fee?utm_campaign=1067&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | **[AbbVie](https://www.abbvie.com)** | **[Business Technology Solutions Intern](https://jobright.ai/jobs/info/6976f38152f3c27ec642ea7b?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 27 |
@@ -136,9 +136,9 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971779c587dfa0bb55f29df?utm_campaign=1067&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
 | **[Tolleson Wealth Management](https://www.tollesonwealth.com/)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69715ca9587dfa0bb55efe60?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[IT Business Operations Assistant](https://jobright.ai/jobs/info/69716ca2333b6343a14df488?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[IT Business Systems Intern - 2026 Summer](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
-| ↳ | **[IT Business Systems Intern - 2026 Summer](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | Remote | Jan 21 |
+| **[Amynta Group](https://www.amyntagroup.com)** | **[IT Business Systems Intern - 2026 Summer](https://jobright.ai/jobs/info/69714abd51f7264771838f5e?utm_campaign=1067&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | Remote | Jan 21 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697143ff587dfa0bb55ed333?utm_campaign=1067&utm_source=git)** | DFW | On Site | Jan 21 |
+| ↳ | **[IT Business Systems Intern - 2026 Summer](https://jobright.ai/jobs/info/69714850333b6343a14dc67e?utm_campaign=1067&utm_source=git)** | NC - Remote | Remote | Jan 21 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69711c3f51f726477183555d?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971107c587dfa0bb55ea327?utm_campaign=1067&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
