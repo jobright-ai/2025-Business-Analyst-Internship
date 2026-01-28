@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a81079d60e431a16c01a0?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Jan 28 |
+| ↳ | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Jan 28 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - Woodland Hills CA](https://jobright.ai/jobs/info/697a5400b4589b4ee87c9ea5?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Jan 28 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697a47e1b4589b4ee87c93df?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 28 |
-| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/697a4a89b4589b4ee87c9876?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 28 |
+| **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a6b60f6fc293b0a2c3b76?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Jan 28 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697a4a89b4589b4ee87c9876?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a47f1a5b9804527e018ec?utm_campaign=1067&utm_source=git)** | Corporate - Atlanta | On Site | Jan 28 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Jan 28 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695df5f8821f2713684b28f8?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 28 |
@@ -134,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6966a67e5ad3a93f8231f59c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Jan 22 |
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971c51551f72647718438df?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jan 21 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Business Process, Global Business Growth and Automation](https://jobright.ai/jobs/info/6971b6d4587dfa0bb55f8247?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Operations & Digital Systems Intern](https://jobright.ai/jobs/info/6974575637785856350e6bb9?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
