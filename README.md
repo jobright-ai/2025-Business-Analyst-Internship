@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - Woodland Hills CA](https://jobright.ai/jobs/info/697a5400b4589b4ee87c9ea5?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Jan 28 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697a47e1b4589b4ee87c93df?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 28 |
+| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/697a4a89b4589b4ee87c9876?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a47f1a5b9804527e018ec?utm_campaign=1067&utm_source=git)** | Corporate - Atlanta | On Site | Jan 28 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Jan 28 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695df5f8821f2713684b28f8?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 28 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - Business Operations](https://jobright.ai/jobs/info/6979503a88e2b47213bd88ad?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Jan 26 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst Intern/Co-op](https://jobright.ai/jobs/info/697803cc88e2b47213bc0e00?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fcaa52f3c27ec6443685?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/697a45d1b4589b4ee87c8d35?utm_campaign=1067&utm_source=git)** | Stevens Point, WI | Hybrid | Jan 26 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978132752f3c27ec6444108?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/6977d58a88e2b47213bbcda6?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
