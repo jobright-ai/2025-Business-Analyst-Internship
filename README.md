@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697a47e1b4589b4ee87c93df?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 28 |
+| **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a47f1a5b9804527e018ec?utm_campaign=1067&utm_source=git)** | Corporate - Atlanta | On Site | Jan 28 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Jan 28 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695df5f8821f2713684b28f8?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 28 |
 | **[Yes Energy](https://www.yesenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979d641a5b9804527df975f?utm_campaign=1067&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - Business Operations](https://jobright.ai/jobs/info/6979503a88e2b47213bd88ad?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Jan 26 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst Intern/Co-op](https://jobright.ai/jobs/info/697803cc88e2b47213bc0e00?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fcaa52f3c27ec6443685?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
+| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Business Analytics Internship Summer 2026](https://jobright.ai/jobs/info/697a45d1b4589b4ee87c8d35?utm_campaign=1067&utm_source=git)** | Stevens Point, WI | Hybrid | Jan 26 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978132752f3c27ec6444108?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/6977d58a88e2b47213bbcda6?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
@@ -103,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/6977b76ffdeb8243a27aa2d4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 26 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Enterprise Operations Business Analyst](https://jobright.ai/jobs/info/6977d2cffdeb8243a27ac14c?utm_campaign=1067&utm_source=git)** | Midvale, Utah, United States | On Site | Jan 26 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6977cac252f3c27ec643ec68?utm_campaign=1067&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
-| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Business Analytics (Corporate Technology)](https://jobright.ai/jobs/info/693fef81aa598a08c3efa8c1?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - CPX System](https://jobright.ai/jobs/info/697723b852f3c27ec64321ca?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/6976405c37785856350feca8?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Jan 25 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Business Process Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/697624a2bc8e722e7b1adc40?utm_campaign=1067&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 25 |
@@ -133,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971c51551f72647718438df?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jan 21 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Business Process, Global Business Growth and Automation](https://jobright.ai/jobs/info/6971b6d4587dfa0bb55f8247?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Operations & Digital Systems Intern](https://jobright.ai/jobs/info/6974575637785856350e6bb9?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jan 21 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Business Process, Global Business Growth and Automation](https://jobright.ai/jobs/info/6971792f587dfa0bb55f2aea?utm_campaign=1067&utm_source=git)** | New York - New York | On Site | Jan 21 |
-| **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971779c587dfa0bb55f29df?utm_campaign=1067&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
