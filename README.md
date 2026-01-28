@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Jan 28 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695df5f8821f2713684b28f8?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 28 |
 | **[Yes Energy](https://www.yesenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979d641a5b9804527df975f?utm_campaign=1067&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Jan 28 |
@@ -64,10 +65,10 @@ For a complete list, click the following sortable link below:
 | **[College Works Painting](https://www.collegeworks.com/)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6979a580ca92cf0d6a82f3c0?utm_campaign=1067&utm_source=git)** | Prairie Village, KS | On Site | Jan 27 |
 | **[Yes Energy](https://www.yesenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69799dc8d7df290257fc0e85?utm_campaign=1067&utm_source=git)** | Boulder, Colorado | Hybrid | Jan 27 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69796ac352f3c27ec645e11a?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
-| **[Taylor Corporation](https://www.taylor.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979669e52f3c27ec645dcda?utm_campaign=1067&utm_source=git)** | Byron, MN | On Site | Jan 27 |
+| **[Taylor Corporation](https://taylor.taylor.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979669e52f3c27ec645dcda?utm_campaign=1067&utm_source=git)** | Byron, MN | On Site | Jan 27 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[AI Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/69795f8152f3c27ec645d758?utm_campaign=1067&utm_source=git)** | Elkhart, IN | On Site | Jan 27 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Business Analyst Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/6974135837785856350df773?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
-| **[Taylor Corporation](https://www.taylor.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979539e52f3c27ec645b612?utm_campaign=1067&utm_source=git)** | Byron, MN - Taylor Print & Visual Impressions Inc. | On Site | Jan 27 |
+| **[Taylor Corporation](https://taylor.taylor.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979539e52f3c27ec645b612?utm_campaign=1067&utm_source=git)** | Byron, MN - Taylor Print & Visual Impressions Inc. | On Site | Jan 27 |
 | **[Smart Data Solutions](https://sdata.us/)** | **[Business Process and Systems Analyst, Intern](https://jobright.ai/jobs/info/697942c188e2b47213bd77af?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Jan 27 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697933fe88e2b47213bd54c3?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/6979318f39f7f96cc6d19553?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Jan 27 |
@@ -124,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Summer 2026)](https://jobright.ai/jobs/info/69735bf137785856350d329e?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972d47e0488fd59f7d5cd3c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | ↳ | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972ae279b83b424830eb682?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
-| **[Toshiba America Electronic Components, Inc.](https://toshiba.semicon-storage.com/eu/company/tee.html)** | **[5036 Business Analyst Intern](https://jobright.ai/jobs/info/6973d0eb37785856350da385?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
+| **[Toshiba America Electronic Components, Inc.](https://toshiba.semicon-storage.com)** | **[5036 Business Analyst Intern](https://jobright.ai/jobs/info/6973d0eb37785856350da385?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[PADNOS](http://padnos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6972e59b1d55d64a2053492b?utm_campaign=1067&utm_source=git)** | Auto Division - Livonia, 12600 Stark Rd., Livonia, Michigan, United States of America | On Site | Jan 22 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6966a67e5ad3a93f8231f59c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 22 |
