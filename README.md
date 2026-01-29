@@ -59,11 +59,14 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a81079d60e431a16c01a0?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Jan 28 |
 | ↳ | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Jan 28 |
+| **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/697a97839d60e431a16c2d90?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
+| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/697a8e1b8dbbf73badc7bda0?utm_campaign=1067&utm_source=git)** | Denver, CO, US | On Site | Jan 28 |
+| ↳ | **[Transit Business Analyst Intern (Summer 2026](https://jobright.ai/jobs/info/697a94888dbbf73badc7cb74?utm_campaign=1067&utm_source=git)** | Ambler, PA, US | On Site | Jan 28 |
+| **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/697a8c4ef6fc293b0a2c668d?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 28 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - Woodland Hills CA](https://jobright.ai/jobs/info/697a5400b4589b4ee87c9ea5?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Jan 28 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697a47e1b4589b4ee87c93df?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a6b60f6fc293b0a2c3b76?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Jan 28 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697a4a89b4589b4ee87c9876?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 28 |
-| **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a47f1a5b9804527e018ec?utm_campaign=1067&utm_source=git)** | Corporate - Atlanta | On Site | Jan 28 |
+| ↳ | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a47f1a5b9804527e018ec?utm_campaign=1067&utm_source=git)** | Corporate - Atlanta | On Site | Jan 28 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Jan 28 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695df5f8821f2713684b28f8?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 28 |
 | **[Yes Energy](https://www.yesenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979d641a5b9804527df975f?utm_campaign=1067&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
